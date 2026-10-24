@@ -1,0 +1,21 @@
+{
+  "scope": "Read-only management-connection identity check and read-only Admin CMS status RPC; no data mutation attempted.",
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "databaseRole": "postgres",
+  "hasAppIdentity": false,
+  "activeAppAdmin": false,
+  "readOnlyAdminCmsProbe": {
+    "sql": "select public.admin_cms_status();",
+    "sqlstate": "42501",
+    "message": "Administrator session required",
+    "outcome": "DENIED by the existing application guard"
+  },
+  "guardRequirements": [
+    "A non-null authenticated application user ID",
+    "Existing authoritative Admin membership for that user",
+    "A matching unexpired Supabase Auth session",
+    "Server-derived reviewer/approver attribution"
+  ],
+  "authorization": "Owner approval already provided; no renewed approval is required.",
+  "hostedWrites": 0
+}

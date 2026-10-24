@@ -1,0 +1,22 @@
+{
+  "scope": "Real local browser reloads and actual MapLibre. Synthetic public/Auth responses and simulated browser GPS permission, no hosted writes.",
+  "passed": 4,
+  "results": [
+    {
+      "name": "public query, selected marker, zoom and language survive a real document reload",
+      "status": "passed"
+    },
+    {
+      "name": "GPS-derived map cameras and private session data are never saved as public view preferences",
+      "status": "passed"
+    },
+    {
+      "name": "new publishing workspace has accessible bilingual controls (en), without executing it",
+      "status": "passed"
+    },
+    {
+      "name": "new publishing workspace has accessible bilingual controls (ar-JO), without executing it",
+      "status": "passed"
+    }
+  ]
+}

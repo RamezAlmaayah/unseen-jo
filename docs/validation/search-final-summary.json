@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-21",
+  "browserAndTargetedSuites": [
+    {
+      "file": "search-browser-4184-public.json",
+      "cases": 8,
+      "errors": 0
+    },
+    {
+      "file": "search-browser-4184-admin.json",
+      "cases": 6,
+      "errors": 0
+    },
+    {
+      "file": "search-browser-4190.json",
+      "cases": 14,
+      "errors": 0
+    },
+    {
+      "file": "search-map.json",
+      "cases": 8,
+      "errors": 0
+    },
+    {
+      "file": "search-hosted.json",
+      "cases": 39,
+      "errors": 0
+    },
+    {
+      "file": "search-unit.json",
+      "cases": 6,
+      "errors": 0
+    }
+  ],
+  "otherPassedCommands": [
+    "test:discoveries",
+    "test:accounts",
+    "test:admin",
+    "test:database",
+    "test:localization:database",
+    "test:map",
+    "test:recommendations",
+    "test:tourism",
+    "test:localization",
+    "test:discoveries:browser (production fixtures)",
+    "lint",
+    "validate:assets",
+    "build"
+  ],
+  "historicalRegressionRunner": [
+    {
+      "name": "check-phase01a",
+      "exitCode": 1
+    },
+    {
+      "name": "check-phase01b",
+      "exitCode": 1
+    },
+    {
+      "name": "check-phase01c",
+      "exitCode": 1
+    },
+    {
+      "name": "check-landing-refinement",
+      "exitCode": 1
+    },
+    {
+      "name": "check-global-ui-scale",
+      "exitCode": 1
+    }
+  ],
+  "genuineAdminSessionAcceptance": "unverified - no connected session",
+  "hostedMutations": 0
+}

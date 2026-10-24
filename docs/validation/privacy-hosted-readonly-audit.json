@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-23",
+  "project": "dkhwwvoplhfjccvjegty",
+  "mode": "metadata and aggregate SELECT only",
+  "adminCount": 2,
+  "authSummary": {
+    "withStoredPassword": 3,
+    "withoutStoredPassword": 1,
+    "anonymous": 0,
+    "emailIdentities": 4
+  },
+  "privacyTableInstalled": false,
+  "branches": [],
+  "separateProjectInventory": {
+    "status": "BLOCKED",
+    "targetAccountProjectCount": 1,
+    "otherConnectedAccountProjectCount": 2,
+    "suitableStagingFound": false,
+    "notes": "Connector inventories succeeded after CLI authentication failure. Other projects are unrelated; no credentials or personal project names stored."
+  },
+  "roleTriggers": [
+    "unseen_jo_audit"
+  ],
+  "localHardeningDeployed": false,
+  "edgeFunctions": [],
+  "finalRecheck": {
+    "adminCount": 2,
+    "privacyTableInstalled": false
+  }
+}

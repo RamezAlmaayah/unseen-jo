@@ -1,0 +1,53 @@
+{
+  "scope": "Pure expiry/security tests against actual revalidation metadata; no hosted writes or approvals",
+  "results": [
+    {
+      "name": "historical fixture is fresh at its recorded checks, expires after 24 hours; Aqaba blocker remains",
+      "status": "passed"
+    },
+    {
+      "name": "rebuilding preparedAt cannot refresh stale source",
+      "status": "passed"
+    },
+    {
+      "name": "rebuilding preparedAt cannot refresh stale licence",
+      "status": "passed"
+    },
+    {
+      "name": "future verification cannot count as fresh",
+      "status": "passed"
+    },
+    {
+      "name": "failed source remains blocked",
+      "status": "passed"
+    },
+    {
+      "name": "missing source proof remains blocked",
+      "status": "passed"
+    },
+    {
+      "name": "changed content needs its own source check",
+      "status": "passed"
+    },
+    {
+      "name": "changed original cannot inherit another file licence check",
+      "status": "passed"
+    },
+    {
+      "name": "failed live licence check remains blocked",
+      "status": "passed"
+    },
+    {
+      "name": "missing licence response fingerprint remains blocked",
+      "status": "passed"
+    },
+    {
+      "name": "missing revalidation cannot be replaced by a new build date",
+      "status": "passed"
+    },
+    {
+      "name": "24-hour boundary, invalid time and future time fail exactly",
+      "status": "passed"
+    }
+  ]
+}

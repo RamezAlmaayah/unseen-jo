@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "scope": "Genuine anonymous hosted reads",
+      "base": "http://127.0.0.1:4184",
+      "home": "Wadi Mujib is outside the current first-three featured selection; hero artwork is independent",
+      "explore": "Current stored cover rendered",
+      "details": "Same current cover rendered using responsive signing",
+      "responses": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/d29713d8-0ff2-43da-b21a-e7bf110fea2d.jpg",
+          "status": 200
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/d29713d8-0ff2-43da-b21a-e7bf110fea2d.jpg",
+          "status": 200
+        }
+      ],
+      "status": "passed"
+    },
+    {
+      "scope": "Genuine anonymous hosted reads",
+      "base": "http://127.0.0.1:4190",
+      "home": "Wadi Mujib is outside the current first-three featured selection; hero artwork is independent",
+      "explore": "Current stored cover rendered",
+      "details": "Same current cover rendered using responsive signing",
+      "responses": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/d29713d8-0ff2-43da-b21a-e7bf110fea2d.jpg",
+          "status": 200
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/d29713d8-0ff2-43da-b21a-e7bf110fea2d.jpg",
+          "status": 200
+        }
+      ],
+      "status": "passed"
+    },
+    {
+      "scope": "Intercepted Admin and public rendering fixtures, not hosted writes",
+      "language": "en",
+      "citationChangeUploads": 0,
+      "replacementUploads": 1,
+      "replacementRPCs": 1,
+      "newCoverPending": true,
+      "homeCrossTabInvalidation": true,
+      "explore": true,
+      "details": true,
+      "status": "passed"
+    },
+    {
+      "scope": "Intercepted Admin and public rendering fixtures, not hosted writes",
+      "language": "ar-JO",
+      "citationChangeUploads": 0,
+      "replacementUploads": 1,
+      "replacementRPCs": 1,
+      "newCoverPending": true,
+      "homeCrossTabInvalidation": true,
+      "explore": true,
+      "details": true,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

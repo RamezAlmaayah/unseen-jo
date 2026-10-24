@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-24T17:43:51.310Z",
+  "scope": "Fresh anonymous read/signing and catalog comparison, not a new image-byte/browser audit",
+  "published": 24,
+  "eligible": 8,
+  "excluded": 16,
+  "eligibleSlugs": [
+    "ajloun-forest",
+    "aqaba-marine-reserve",
+    "dana-reserve",
+    "iraq-al-amir",
+    "salt-historic",
+    "umm-al-jimal",
+    "umm-qais",
+    "wadi-mujib"
+  ],
+  "excludedSlugs": [
+    "al-maghtas-baptism-site",
+    "amman-citadel",
+    "amman-roman-theatre",
+    "azraq-wetland-reserve",
+    "jerash-archaeological-city",
+    "karak-castle",
+    "little-petra-siq-al-barid",
+    "madaba-st-georges-church",
+    "mount-nebo",
+    "pella-tabaqat-fahl",
+    "petra",
+    "quseir-amra",
+    "shaumari-wildlife-reserve",
+    "shobak-castle",
+    "um-er-rasas",
+    "wadi-rum"
+  ],
+  "unchangedEligibleIds": true,
+  "hostedWrites": 0
+}

@@ -1,0 +1,2046 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "mode": "dry-run only",
+  "backup": {
+    "projectRef": "dkhwwvoplhfjccvjegty",
+    "file": "Private ignored artifacts/content-sync/pre-sync-records.json",
+    "sha256": "aff8f248e515872aaec6738f580e597ca3cda1260d204f7c0569e71175d23e2e",
+    "bytes": 441793,
+    "counts": {
+      "places": 24,
+      "translations": 24,
+      "images": 45,
+      "relationships": 48,
+      "reviews": 24,
+      "storageObjects": 211
+    },
+    "containsAuthTokens": false,
+    "storageBytes": "Not a whole-bucket byte backup. Existing objects will not be overwritten or removed. Matching selected original/upload and rendition bytes exist locally and pass hashes."
+  },
+  "historicalAuditConflicts": [],
+  "translations": [
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:48:16.732492+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:48:16.732492+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:48:16.732492+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:47:23.48107+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:47:23.48107+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:47:23.48107+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:47:40.977004+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:47:40.977004+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:47:40.977004+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "slug": "aqaba-marine-reserve",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:51.002576+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:51.002576+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:51.002576+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:32.848251+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:32.848251+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:32.848251+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:46:46.405003+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:46:46.405003+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "description"
+      ],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:46:46.405003+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:48:46.016221+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:48:46.016221+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:48:46.016221+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:49.465394+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:49.465394+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "description"
+      ],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:49.465394+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:47:59.392182+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:47:59.392182+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:47:59.392182+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:48:01.264408+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:48:01.264408+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:48:01.264408+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:45.904957+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:45.904957+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "description"
+      ],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:45.904957+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:45:53.071783+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:45:53.071783+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "description"
+      ],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:45:53.071783+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:49:27.300161+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:49:27.300161+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:49:27.300161+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:44.343039+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:44.343039+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "description"
+      ],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:44.343039+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:49:07.543597+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:49:07.543597+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:49:07.543597+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:03.357258+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:03.357258+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:03.357258+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:50:47.448166+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:50:47.448166+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:50:47.448166+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-19T19:24:18.983976+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-19T19:23:51.456762+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [
+        "address",
+        "description",
+        "best_time_to_visit",
+        "transportation_notes",
+        "visitor_guidance"
+      ],
+      "currentReview": "reviewed",
+      "currentSourceVersion": "2026-10-19T19:22:47.058963+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "locale": "ar-JO",
+      "expectedEnglishUpdatedAt": "2026-10-21T18:46:22.545957+00:00",
+      "expectedTranslationUpdatedAt": "2026-10-21T18:46:22.545957+00:00",
+      "sameEnglishVersion": true,
+      "sameArabicVersion": true,
+      "changedTextFields": [],
+      "currentReview": "pending",
+      "currentSourceVersion": "2026-10-21T18:46:22.545957+00:00",
+      "proposedReview": "reviewed (owner approved; still requires existing server-authorized Admin identity)",
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    }
+  ],
+  "images": [
+    {
+      "photoId": "petra-1",
+      "placeId": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "imageId": "ab97c12b-9665-4857-b6c1-84bfd8958c4a",
+      "storagePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-5dff4735b58492b8d2ca03265370cf53c938138416b9a71e4247520d27caba15.jpg",
+      "expectedUpdatedAt": "2026-10-22T17:24:44.37388+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Khazneh_2,_Petra,_Jordan.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.851Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/petra-1-320.webp",
+          "sha256": "8b0610cfa180531a331eb61e86235a29b6de91173c45290132027c3e7c930683",
+          "bytes": 28288,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-8b0610cfa180531a331eb61e86235a29b6de91173c45290132027c3e7c930683-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/petra-1-640.webp",
+          "sha256": "28710735a297abaf64c12bb285d871a2e5302f80559894f483245e6ae52af29f",
+          "bytes": 98168,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-28710735a297abaf64c12bb285d871a2e5302f80559894f483245e6ae52af29f-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/petra-1-1280.webp",
+          "sha256": "1e09b3cdf6de83a2706aa3b3e73ea7e14c8e4d0379da32510da0a2df8a005922",
+          "bytes": 336538,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-1e09b3cdf6de83a2706aa3b3e73ea7e14c8e4d0379da32510da0a2df8a005922-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/petra-1-2400.webp",
+          "sha256": "6d8cf0c482ee15ac6e48058f9e6bd8cfd0b36e2b7b072092bd2f193a180d7504",
+          "bytes": 948538,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-6d8cf0c482ee15ac6e48058f9e6bd8cfd0b36e2b7b072092bd2f193a180d7504-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "petra-2",
+      "placeId": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "imageId": "96cc66d2-ac89-4ad0-bbcb-10bb9b3a3bc1",
+      "storagePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-b06d72218629ece42208255dbe10f56df4bb838a14794b6a8fac2e5d713ec8cb.jpg",
+      "expectedUpdatedAt": "2026-10-22T17:24:44.37388+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Al_Khazneh_02.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.859Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/petra-2-320.webp",
+          "sha256": "246cb8cc8fcf542167f5a90c7da9580857c7cd726f6e75e4decbd39d15ca64a4",
+          "bytes": 31410,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-246cb8cc8fcf542167f5a90c7da9580857c7cd726f6e75e4decbd39d15ca64a4-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/petra-2-640.webp",
+          "sha256": "08a584491cd54e7695145cafd0e5ae9fe66c3fa550115d95ed33b138bc7af68b",
+          "bytes": 115770,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-08a584491cd54e7695145cafd0e5ae9fe66c3fa550115d95ed33b138bc7af68b-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/petra-2-1280.webp",
+          "sha256": "564acec7dcd0ec7cd29d3ffae58dfe920ef2ed049def9d702c98fa68dea90b4b",
+          "bytes": 435620,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-564acec7dcd0ec7cd29d3ffae58dfe920ef2ed049def9d702c98fa68dea90b4b-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/petra-2-2400.webp",
+          "sha256": "70e73b5ce1cfe6cc09cb96e4ca22dcc41e9399c75e7dbbe5ece8b3d8b81e4a07",
+          "bytes": 1161118,
+          "existingStoragePath": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/prototype-70e73b5ce1cfe6cc09cb96e4ca22dcc41e9399c75e7dbbe5ece8b3d8b81e4a07-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "wadi-rum-1",
+      "placeId": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "imageId": "f956fe14-bd27-4889-b84d-b09b5d9d6730",
+      "storagePath": "d278185d-b952-406d-8371-5569816e30e6/phase08-05dd5870b738cb6ddbb121c360767adfc849e7093c1bf0f66f1c1fb07c06741a.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:46:33.771509+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Infinite_Spaces.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.886Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-1-320.webp",
+          "sha256": "1002f5cec1b78d89b2ef76e4362a93f874fd648cc1bb94fbae5bbe275f0bfd06",
+          "bytes": 10744,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-1002f5cec1b78d89b2ef76e4362a93f874fd648cc1bb94fbae5bbe275f0bfd06-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-1-640.webp",
+          "sha256": "82bcaec6a5ea0ffc84d9cbb5ab8f41fec785100e1f2858d593a989f55f19ffec",
+          "bytes": 45656,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-82bcaec6a5ea0ffc84d9cbb5ab8f41fec785100e1f2858d593a989f55f19ffec-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-1-1280.webp",
+          "sha256": "232c65fb1cf46b29d152483f45bbe6528501ffbaf02af831e853a40270272d1d",
+          "bytes": 214050,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-232c65fb1cf46b29d152483f45bbe6528501ffbaf02af831e853a40270272d1d-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-1-2400.webp",
+          "sha256": "d4d8811762d7f5a733f71fd3350b78743907a5f2b74b9346025713709142d58f",
+          "bytes": 750330,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-d4d8811762d7f5a733f71fd3350b78743907a5f2b74b9346025713709142d58f-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "wadi-rum-2",
+      "placeId": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "imageId": "a30fef57-6b27-42ca-b7e3-ec074fa798f6",
+      "storagePath": "d278185d-b952-406d-8371-5569816e30e6/phase08-0fb12913d31ed5ce732eb2da1699af83da5c2988447a4c510f7781dcd2a07509.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:46:45.428852+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Khor_al_Ajram_2.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.897Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-2-320.webp",
+          "sha256": "b12516353030afd02f0c7f2a51313a5d3eced37af1bc3ab41f11ea40f7fb5970",
+          "bytes": 24128,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-b12516353030afd02f0c7f2a51313a5d3eced37af1bc3ab41f11ea40f7fb5970-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-2-640.webp",
+          "sha256": "ed6dd7dc9e7185070003cf8b24064e135db30be76de3a0c630fa275fe1803def",
+          "bytes": 86844,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-ed6dd7dc9e7185070003cf8b24064e135db30be76de3a0c630fa275fe1803def-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-2-1280.webp",
+          "sha256": "bd94d05b5eb55e64dff6bf6be89f6af0da13bd1dabb3ca1999cfbbd6b281fabf",
+          "bytes": 302432,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-bd94d05b5eb55e64dff6bf6be89f6af0da13bd1dabb3ca1999cfbbd6b281fabf-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/wadi-rum-2-2400.webp",
+          "sha256": "57241db3e0720fc7e8c1eb4f2f892a0149e7d5f1e582604eb990512c1f00c548",
+          "bytes": 885582,
+          "existingStoragePath": "d278185d-b952-406d-8371-5569816e30e6/prototype-57241db3e0720fc7e8c1eb4f2f892a0149e7d5f1e582604eb990512c1f00c548-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "jerash-archaeological-city-1",
+      "placeId": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "imageId": "052b9fdc-4bf2-43ff-a0a7-d7c89c5f9c5d",
+      "storagePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-aaf02f12fb02671c775938cb869241fce860e5f86ea0b6a49fa81c9c5956691c.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:46:53.702453+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_003.JPG",
+      "author": "لا روسا",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.918Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-1-320.webp",
+          "sha256": "37d41b5ee306528ce2e8d0124c7d5b608ee0f020a9f4b65244868c470c6f1232",
+          "bytes": 24836,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-37d41b5ee306528ce2e8d0124c7d5b608ee0f020a9f4b65244868c470c6f1232-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-1-640.webp",
+          "sha256": "eca3a53de0b081e4c3b981d8c10c2c64ff73ca29dd885a8d3f489fcafb11af26",
+          "bytes": 93252,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-eca3a53de0b081e4c3b981d8c10c2c64ff73ca29dd885a8d3f489fcafb11af26-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-1-1280.webp",
+          "sha256": "a46b034ec5984168fe6d747735cc601c50269957ed654bea0a6e265e43873ac3",
+          "bytes": 313138,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-a46b034ec5984168fe6d747735cc601c50269957ed654bea0a6e265e43873ac3-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-1-2400.webp",
+          "sha256": "32772e03043667d6ea0aca955cb0bb955129ad74fc4119486a87f32cd0397f1b",
+          "bytes": 720428,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-32772e03043667d6ea0aca955cb0bb955129ad74fc4119486a87f32cd0397f1b-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "jerash-archaeological-city-2",
+      "placeId": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "imageId": "2b011d9c-21e5-4015-9686-745c9bf6c4fb",
+      "storagePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-4bdb19cd9c22a5024a2412731976a1cb498ebd8cca43ff8b4c09f926ea8c5dc8.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:47:19.697622+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_020.jpg",
+      "author": "Freedom's Falcon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.925Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-2-320.webp",
+          "sha256": "7e8ab612668be6247fa57e3cbc1c54cc3a0caa5051f1acb6ad6613c39dd9f680",
+          "bytes": 24566,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-7e8ab612668be6247fa57e3cbc1c54cc3a0caa5051f1acb6ad6613c39dd9f680-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-2-640.webp",
+          "sha256": "955a14e50378de8a45513e9c1149fc3bb5aacd4eb3a104c9fbbecbbffa3e1473",
+          "bytes": 92886,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-955a14e50378de8a45513e9c1149fc3bb5aacd4eb3a104c9fbbecbbffa3e1473-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-2-1280.webp",
+          "sha256": "066cecb95a5ee01a61c35d415e4954ed5e2b090571298e1a2473572b0a30eb8f",
+          "bytes": 326650,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-066cecb95a5ee01a61c35d415e4954ed5e2b090571298e1a2473572b0a30eb8f-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/jerash-archaeological-city-2-2400.webp",
+          "sha256": "d2e3f4ec38b46a2d6a72f58407e5da307091a1069a43d0a54a78e008306740ab",
+          "bytes": 1066804,
+          "existingStoragePath": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/prototype-d2e3f4ec38b46a2d6a72f58407e5da307091a1069a43d0a54a78e008306740ab-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "amman-citadel-1",
+      "placeId": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "imageId": "fa1f2d0b-ef60-4cfa-9374-30d6b5572d1d",
+      "storagePath": "af3f7f7c-eba4-455b-b334-5009734da5b1/phase08-ca6d981ab0e4d8568f9287fac9f05ab88e2d834577b0db1dff015785950b099a.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:47:40.143112+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules_-_Amman_citadel.jpg",
+      "author": "AliAbuRas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.942Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/amman-citadel-1-320.webp",
+          "sha256": "837859ecc7b6fe43e035ed00993f7bc603d5aa17205f799d770ffc1a1a1f98c9",
+          "bytes": 24342,
+          "existingStoragePath": "af3f7f7c-eba4-455b-b334-5009734da5b1/prototype-837859ecc7b6fe43e035ed00993f7bc603d5aa17205f799d770ffc1a1a1f98c9-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/amman-citadel-1-640.webp",
+          "sha256": "79f3a65bed46cf70db5e95f167afc9f380512e820dd1323c9b55e95e161fe9b3",
+          "bytes": 75346,
+          "existingStoragePath": "af3f7f7c-eba4-455b-b334-5009734da5b1/prototype-79f3a65bed46cf70db5e95f167afc9f380512e820dd1323c9b55e95e161fe9b3-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/amman-citadel-1-1280.webp",
+          "sha256": "f002eaee3f84ddf67c5b507b66aabba6375542a9001f6faa5c602e0ed65f449f",
+          "bytes": 234330,
+          "existingStoragePath": "af3f7f7c-eba4-455b-b334-5009734da5b1/prototype-f002eaee3f84ddf67c5b507b66aabba6375542a9001f6faa5c602e0ed65f449f-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1772,
+          "localPath": "docs/evidence/phase08/responsive/amman-citadel-1-1772.webp",
+          "sha256": "7743d7e02fa733feaf81d205eaecb470f024f03fcfb07d65b8d9a795306b2194",
+          "bytes": 418136,
+          "existingStoragePath": "af3f7f7c-eba4-455b-b334-5009734da5b1/prototype-7743d7e02fa733feaf81d205eaecb470f024f03fcfb07d65b8d9a795306b2194-1772.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "amman-roman-theatre-1",
+      "placeId": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "imageId": "8f3a133e-f43d-4ed4-96a3-946aa3fd61ba",
+      "storagePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-09ef9c566121319f0984091c730bdadfe7ddd9bbaf0e3dbea2c04ec21c5ec701.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:47:51.967093+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Roman_theater_of_Amman_01.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:14.965Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-1-320.webp",
+          "sha256": "ab6b4eaaeb40b42f7f81055998905c163355cd38cd71381d3dce7138b3635f9c",
+          "bytes": 37408,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-ab6b4eaaeb40b42f7f81055998905c163355cd38cd71381d3dce7138b3635f9c-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-1-640.webp",
+          "sha256": "38b87a8c45430d66f99208e1bb5449a38f99dd93cf461e12205cbcf0e80ebcc4",
+          "bytes": 136612,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-38b87a8c45430d66f99208e1bb5449a38f99dd93cf461e12205cbcf0e80ebcc4-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-1-1280.webp",
+          "sha256": "8038175f7541d1e7ab1140ac36c5c9175d5419fcfd45afa9af0dafb727a55e4c",
+          "bytes": 463668,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-8038175f7541d1e7ab1140ac36c5c9175d5419fcfd45afa9af0dafb727a55e4c-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-1-2400.webp",
+          "sha256": "c088483a38364aaa7cbacf92fb475622b12a4b5eb992c40d07d6f0ee739ce31d",
+          "bytes": 1217556,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-c088483a38364aaa7cbacf92fb475622b12a4b5eb992c40d07d6f0ee739ce31d-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "amman-roman-theatre-2",
+      "placeId": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "imageId": "2f97b032-117d-4a88-b3b5-d1cbb77dfb24",
+      "storagePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-7b04f213487538f66f84fc6674b1a60e186a3c1a50e7ab6965b7a0b38abf4d95.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:47:58.658486+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Amman_Amphitheater_18.JPG",
+      "author": "Zairon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.064Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-2-320.webp",
+          "sha256": "67caa312bfa233b354ea2ca718e4d67a380f0f0ccfe04138ea3155894570162f",
+          "bytes": 30074,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-67caa312bfa233b354ea2ca718e4d67a380f0f0ccfe04138ea3155894570162f-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-2-640.webp",
+          "sha256": "92d247bcfaac3a2bf23ad950ac3716e1ec3f25989f7e4a6ea0bec326019c591d",
+          "bytes": 110752,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-92d247bcfaac3a2bf23ad950ac3716e1ec3f25989f7e4a6ea0bec326019c591d-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-2-1280.webp",
+          "sha256": "b2f23a3a83d2ca246ccb031eb22d927854a4c89eb77bbb6aff13f06f12c5a142",
+          "bytes": 385032,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-b2f23a3a83d2ca246ccb031eb22d927854a4c89eb77bbb6aff13f06f12c5a142-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/amman-roman-theatre-2-2400.webp",
+          "sha256": "13d2942a99f0813a997d7da7aaa8412ca095dc5e6b0d67e4f38926686f17a916",
+          "bytes": 1147154,
+          "existingStoragePath": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/prototype-13d2942a99f0813a997d7da7aaa8412ca095dc5e6b0d67e4f38926686f17a916-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "madaba-st-georges-church-2",
+      "placeId": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "imageId": "8da4f448-0400-4f84-932a-e583c8ece46f",
+      "storagePath": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/phase08-fc85ca4ada0994e92d9b558d6e305c0979e5b7456704645ae015ba8e8e34bc43.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:49:27.402656+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Madaba_Map,_part_of_a_floor_mosaic_in_the_early_Byzantine_church_of_Saint_George_depicting_the_Holy_Land_in_the_6th_century_AD,_Madaba,_Jordan_(33798342833).jpg",
+      "author": "Carole Raddato from FRANKFURT, Germany",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.117Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/madaba-st-georges-church-2-320.webp",
+          "sha256": "aeae9f56604cb6d0626684a728e1da7380d9bf0ea98638a07159307c92758888",
+          "bytes": 37992,
+          "existingStoragePath": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/prototype-aeae9f56604cb6d0626684a728e1da7380d9bf0ea98638a07159307c92758888-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/madaba-st-georges-church-2-640.webp",
+          "sha256": "d8aca29dc1f519198aec00aae57849b42053f036148d22c9bf0ec115e5738c93",
+          "bytes": 133122,
+          "existingStoragePath": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/prototype-d8aca29dc1f519198aec00aae57849b42053f036148d22c9bf0ec115e5738c93-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/madaba-st-georges-church-2-1280.webp",
+          "sha256": "255a9da26543f006946a93fa13a8859bf7036f4e51d6925060c41a904d0750bf",
+          "bytes": 403390,
+          "existingStoragePath": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/prototype-255a9da26543f006946a93fa13a8859bf7036f4e51d6925060c41a904d0750bf-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/madaba-st-georges-church-2-2400.webp",
+          "sha256": "ea0f51a94d79759959dae59b0019cd133f73d09543275e85bffc1fc1632c62f3",
+          "bytes": 1221830,
+          "existingStoragePath": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/prototype-ea0f51a94d79759959dae59b0019cd133f73d09543275e85bffc1fc1632c62f3-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "mount-nebo-1",
+      "placeId": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "imageId": "a02b4a29-4e63-40f1-9b05-62f68ea899b6",
+      "storagePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-fefe7f78aae3183ca2e5a01fc271cad44d8d171ae7af73914c6292b3a16335ac.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:48:16.113034+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(26804136468).jpg",
+      "author": "Carole Raddato from Frankfurt, Germany",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.153Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-1-320.webp",
+          "sha256": "8e45088b0a88fbedc25b1d95d7975ff279d5c929c90e13fd3b66e9f9e17187b2",
+          "bytes": 23976,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-8e45088b0a88fbedc25b1d95d7975ff279d5c929c90e13fd3b66e9f9e17187b2-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-1-640.webp",
+          "sha256": "78146fff50fd3b171dc001df8e18affe607de98d666d2d3e77ed33b4fa48b7d9",
+          "bytes": 85420,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-78146fff50fd3b171dc001df8e18affe607de98d666d2d3e77ed33b4fa48b7d9-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-1-1280.webp",
+          "sha256": "8b573643eff0e6916de59a91ff7d99d44dd380d32d4152f7076ed21caaedc9bc",
+          "bytes": 266958,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-8b573643eff0e6916de59a91ff7d99d44dd380d32d4152f7076ed21caaedc9bc-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-1-2400.webp",
+          "sha256": "319929f8b1afc766bea4db304c7bcf438789295b7d6888953744673f88054599",
+          "bytes": 728170,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-319929f8b1afc766bea4db304c7bcf438789295b7d6888953744673f88054599-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "mount-nebo-2",
+      "placeId": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "imageId": "9934bb15-68ab-44eb-bcc3-058f55283e08",
+      "storagePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-efd450725e5a31b6dce7a8abb164c0d2b2c403d0ebfe0cbcc998afb23a0eee0f.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:49:36.560032+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Basilica,_the_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+      "author": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.192Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-2-320.webp",
+          "sha256": "3694efa5eb4ba0e3b40af7251fbd612a468a2fabdc59c435267b24eea823fb82",
+          "bytes": 25946,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-3694efa5eb4ba0e3b40af7251fbd612a468a2fabdc59c435267b24eea823fb82-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-2-640.webp",
+          "sha256": "2a927a28916731c2e60a635715be94fbafae914e25fd3b46fc0b485d588986b5",
+          "bytes": 84072,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-2a927a28916731c2e60a635715be94fbafae914e25fd3b46fc0b485d588986b5-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-2-1280.webp",
+          "sha256": "1f816846166d0ba10a05a5132ab964ae76da2f83aa09bcaf8f28c3940de3f9e4",
+          "bytes": 272636,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-1f816846166d0ba10a05a5132ab964ae76da2f83aa09bcaf8f28c3940de3f9e4-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/mount-nebo-2-2400.webp",
+          "sha256": "d0bf27175a29fa739ecbdfe688f27b969c672525e8324221e79ad9b9e58290ca",
+          "bytes": 710052,
+          "existingStoragePath": "73ed5471-2ea1-44b8-82df-44c55a62296d/prototype-d0bf27175a29fa739ecbdfe688f27b969c672525e8324221e79ad9b9e58290ca-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "al-maghtas-baptism-site-1",
+      "placeId": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "imageId": "4cfdadcc-312f-42b6-b8c4-71fccac403ea",
+      "storagePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-8c45fb3b6a3a5b5e296eaaa1f61cf0feb193db00c4167f0307806e48768ec912.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:48:31.235522+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Bethany_(5).JPG",
+      "author": "Producer (talk)",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.222Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-1-320.webp",
+          "sha256": "f5c98f5151d0cd69dc5957fb5dc9564d948bf4155688002587936cc24ba3ad1c",
+          "bytes": 26702,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-f5c98f5151d0cd69dc5957fb5dc9564d948bf4155688002587936cc24ba3ad1c-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-1-640.webp",
+          "sha256": "d3fda96668c7c0c62230e2a2195157a75e394e4f326427c47fd45241b833e626",
+          "bytes": 108016,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-d3fda96668c7c0c62230e2a2195157a75e394e4f326427c47fd45241b833e626-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-1-1280.webp",
+          "sha256": "09d0393646d72296ff92edde77b476398d3df353db9ad4783c6964c78b0776fb",
+          "bytes": 415164,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-09d0393646d72296ff92edde77b476398d3df353db9ad4783c6964c78b0776fb-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-1-2400.webp",
+          "sha256": "3b11429aea7638d84e9efa586da5c6eb6e63cbb80b1875325b46fb3beedcea91",
+          "bytes": 1224496,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-3b11429aea7638d84e9efa586da5c6eb6e63cbb80b1875325b46fb3beedcea91-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "al-maghtas-baptism-site-2",
+      "placeId": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "imageId": "490225b4-808d-4df9-a57e-770f86a6587b",
+      "storagePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-cb905e133489a0878fd464630de18cefa53875a2e884219e535f969912f05cf3.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:48:44.953765+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_3.JPG",
+      "author": "Berthold Werner",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.232Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-2-320.webp",
+          "sha256": "4d5c1a343f5e6ac5c8462c4d0947fbfac784bd47292201296ac187d80a2509c3",
+          "bytes": 18484,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-4d5c1a343f5e6ac5c8462c4d0947fbfac784bd47292201296ac187d80a2509c3-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-2-640.webp",
+          "sha256": "bbaf66a438f90743d44efb655b6f4cca969eb2fe8939adc26aee4819c65c19a9",
+          "bytes": 67468,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-bbaf66a438f90743d44efb655b6f4cca969eb2fe8939adc26aee4819c65c19a9-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-2-1280.webp",
+          "sha256": "02ad38b750b2edcc1316332dc46cdeb90f60428b29d15faf1e07254aa6c6b0ef",
+          "bytes": 253688,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-02ad38b750b2edcc1316332dc46cdeb90f60428b29d15faf1e07254aa6c6b0ef-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/al-maghtas-baptism-site-2-2400.webp",
+          "sha256": "5da2082b9641791d7fe469f9fba503460c39363d0048d7800995d93fe0773762",
+          "bytes": 795712,
+          "existingStoragePath": "240eb332-8372-4da5-a08e-8e7fb05bf75c/prototype-5da2082b9641791d7fe469f9fba503460c39363d0048d7800995d93fe0773762-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "karak-castle-1",
+      "placeId": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "imageId": "99c4523c-cd4d-492a-b142-031593ca82b7",
+      "storagePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-86455f11d2ac2b850ef12b674ea5e65978fbf14b4d3380c06fa3a1c45b4e12d2.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:48:59.085155+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Kerak_BW_1.JPG",
+      "author": "Berthold Werner",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.267Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-1-320.webp",
+          "sha256": "526a406feb6bc1628875f163bbd490edebaa7e47b9f88b8a337960413991416a",
+          "bytes": 17874,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-526a406feb6bc1628875f163bbd490edebaa7e47b9f88b8a337960413991416a-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-1-640.webp",
+          "sha256": "c439f2ad3a022ca1f87c07e845bcea0719a1c75cf7e6069f75791ca46ff12a99",
+          "bytes": 64788,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-c439f2ad3a022ca1f87c07e845bcea0719a1c75cf7e6069f75791ca46ff12a99-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-1-1280.webp",
+          "sha256": "af34fbb463842ac4ed95c6e6bc9bce2419921c845a60c865838e45fd19c370b1",
+          "bytes": 233364,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-af34fbb463842ac4ed95c6e6bc9bce2419921c845a60c865838e45fd19c370b1-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-1-2400.webp",
+          "sha256": "015313d040e6c4ed6001b4c6fdad42f1b50151b2eb2701a5b33d9c544fb59fce",
+          "bytes": 645436,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-015313d040e6c4ed6001b4c6fdad42f1b50151b2eb2701a5b33d9c544fb59fce-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "karak-castle-2",
+      "placeId": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "imageId": "7362b951-af9e-4c92-856c-5cf36a1da1c5",
+      "storagePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-cc2b507a181aa92a72c0078b1efcfaa816375d1767e58d141dfd3c44b93a9e0e.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:49:06.742895+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Karak_Castle_2.jpg",
+      "author": "JoTB",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.413Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-2-320.webp",
+          "sha256": "e6a7fe07ba8e8ec9144763b75719c4f6bfe4f8998ec238e4950a677291528c98",
+          "bytes": 21900,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-e6a7fe07ba8e8ec9144763b75719c4f6bfe4f8998ec238e4950a677291528c98-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-2-640.webp",
+          "sha256": "4583a5ea1ba42d8535b4b7d0153bba0d6171bb4800ffe7e7c211b0f633a83ad6",
+          "bytes": 87836,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-4583a5ea1ba42d8535b4b7d0153bba0d6171bb4800ffe7e7c211b0f633a83ad6-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-2-1280.webp",
+          "sha256": "e3f537dff8bd64f629be15ff4b2fb6f8eb806896f3cb30f6571fb57a1a89ea34",
+          "bytes": 380154,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-e3f537dff8bd64f629be15ff4b2fb6f8eb806896f3cb30f6571fb57a1a89ea34-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2008,
+          "localPath": "docs/evidence/phase08/responsive/karak-castle-2-2008.webp",
+          "sha256": "4aab1c26f59e79c52c20ae3864117398eb844ca10db0e44c65eb10eed8a0c71f",
+          "bytes": 890886,
+          "existingStoragePath": "9f3588e1-5674-4bc9-b799-d89b8526b722/prototype-4aab1c26f59e79c52c20ae3864117398eb844ca10db0e44c65eb10eed8a0c71f-2008.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "shobak-castle-1",
+      "placeId": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "imageId": "7a3de2ac-1fd5-4e8c-aa0a-ad77a4347fa6",
+      "storagePath": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-eea9b02bd25208fc1d114e1973f35fd9465ea5290d168b0150dfa23b3d4929b0.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:49:17.39737+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Montreal_Castle_04.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.437Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-1-320.webp",
+          "sha256": "31451f29cafa6299b2e008aa43cc1236ccaabc2c7080c909291696b692ba2b57",
+          "bytes": 21812,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-31451f29cafa6299b2e008aa43cc1236ccaabc2c7080c909291696b692ba2b57-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-1-640.webp",
+          "sha256": "433cca69afee4eeb5a362fb58403934949d6ec3aa2f455e09746e5c10581ae20",
+          "bytes": 83684,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-433cca69afee4eeb5a362fb58403934949d6ec3aa2f455e09746e5c10581ae20-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-1-1280.webp",
+          "sha256": "d947b3c0a8c1abbb8465242f6543a99c8bdac283ca64554370fe61e228676881",
+          "bytes": 330602,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-d947b3c0a8c1abbb8465242f6543a99c8bdac283ca64554370fe61e228676881-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-1-2400.webp",
+          "sha256": "dc7e0fc668b9a6bb7578a9feeffb2c9f4697fb0e4ce44ed55df2a673b43f8d59",
+          "bytes": 1027484,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-dc7e0fc668b9a6bb7578a9feeffb2c9f4697fb0e4ce44ed55df2a673b43f8d59-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "shobak-castle-2",
+      "placeId": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "imageId": "6e0e0fb9-b790-4a67-a58c-d6f603796f64",
+      "storagePath": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-8b84cc4c64bbfeff5fc674ae752bad2f7acc9b4a0c401059c171b42bb05f20f9.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:49:26.500291+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Montreal_Castle_05.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.445Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-2-320.webp",
+          "sha256": "5d06f1a66a29e41239bef62abb6656344627881757db18016081db62bea00de0",
+          "bytes": 27826,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-5d06f1a66a29e41239bef62abb6656344627881757db18016081db62bea00de0-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-2-640.webp",
+          "sha256": "8271f55ff23275dd60de43877c2d4b705e26df30aa5bd27560dd8687ab08b434",
+          "bytes": 104440,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-8271f55ff23275dd60de43877c2d4b705e26df30aa5bd27560dd8687ab08b434-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-2-1280.webp",
+          "sha256": "d6d62790ebb86effbfe1772bcee26e19540edcd144e62ccbc3184adafdabedf3",
+          "bytes": 377218,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-d6d62790ebb86effbfe1772bcee26e19540edcd144e62ccbc3184adafdabedf3-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/shobak-castle-2-2400.webp",
+          "sha256": "8af6439c83e70a8943e24e26563770561afa0a5fa40de00447646c640d696f8a",
+          "bytes": 1102032,
+          "existingStoragePath": "27ef186e-0a77-45e2-a917-d6693b20af62/prototype-8af6439c83e70a8943e24e26563770561afa0a5fa40de00447646c640d696f8a-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "quseir-amra-1",
+      "placeId": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "imageId": "1eef8ff9-ac54-4d22-81f1-b1b229106605",
+      "storagePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-86d4a252c6e25afd909813da5a0330a848b8fb87ce9a26f837a1f80670aaa4eb.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:49:40.686616+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_18.jpg",
+      "author": "Mohammad hajeer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.474Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-1-320.webp",
+          "sha256": "beda42185ca6b63f8ac311d290415675d3faf7bb0b4d68cbb3ebb7c17d24bd02",
+          "bytes": 17566,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-beda42185ca6b63f8ac311d290415675d3faf7bb0b4d68cbb3ebb7c17d24bd02-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-1-640.webp",
+          "sha256": "8a69edcc3e18433e7a6b3c52c8fbcf4e880e40d696c1d7f74e31f71a7cee0dfe",
+          "bytes": 57470,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-8a69edcc3e18433e7a6b3c52c8fbcf4e880e40d696c1d7f74e31f71a7cee0dfe-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-1-1280.webp",
+          "sha256": "8df3aee3195a305a4def2cb078493c58af7905a71011004d5b6a1b1e6646d5a3",
+          "bytes": 197192,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-8df3aee3195a305a4def2cb078493c58af7905a71011004d5b6a1b1e6646d5a3-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-1-2400.webp",
+          "sha256": "63cb72a9f374dc308e829830a8dd4be868f7c41c313832d038fc161c65f0cd29",
+          "bytes": 631530,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-63cb72a9f374dc308e829830a8dd4be868f7c41c313832d038fc161c65f0cd29-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "quseir-amra-2",
+      "placeId": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "imageId": "5c1e529b-106e-452f-9646-cb525b204bb2",
+      "storagePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-b5e2e9981015c872ab2ecb6039e213289b1328addb84df8a6d99466b6a2b65b0.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:50:01.028131+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_20.jpg",
+      "author": "Mohammad hajeer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.487Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-2-320.webp",
+          "sha256": "de5b66d46999c65b1f32bfc1fd395ab5cde4ca989563bd25d085bd8006ba2a9a",
+          "bytes": 25684,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-de5b66d46999c65b1f32bfc1fd395ab5cde4ca989563bd25d085bd8006ba2a9a-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-2-640.webp",
+          "sha256": "415c40bb280f9fa6c95dcdd53776cdb59690363b2eff22b09ba78a2dabcef1a3",
+          "bytes": 87456,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-415c40bb280f9fa6c95dcdd53776cdb59690363b2eff22b09ba78a2dabcef1a3-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-2-1280.webp",
+          "sha256": "99f4d14246c947b36e620156adc1805916bc3228ee153b15c8e58f3316e5641f",
+          "bytes": 303538,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-99f4d14246c947b36e620156adc1805916bc3228ee153b15c8e58f3316e5641f-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/quseir-amra-2-2400.webp",
+          "sha256": "d6ef10c11d0332fb2cf1efbac6ad5383da08d6743013a5a9b3a932c47249c159",
+          "bytes": 1089012,
+          "existingStoragePath": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/prototype-d6ef10c11d0332fb2cf1efbac6ad5383da08d6743013a5a9b3a932c47249c159-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "um-er-rasas-1",
+      "placeId": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "imageId": "d29d75f0-9c76-4d79-ac8a-2e038b3ca4f8",
+      "storagePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-595fd53a4c7cd8241b9333f3548345f86d6fd2bd24c7b88b598ce0256644044d.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:50:24.398122+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_ar-Rasas_Arcs.jpg",
+      "author": "Bashar Tabbah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.509Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-1-320.webp",
+          "sha256": "d92f367748389a8c1781669780dd3769bc5cf49e78f2bb8cb4dfc0507f7b910d",
+          "bytes": 20990,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-d92f367748389a8c1781669780dd3769bc5cf49e78f2bb8cb4dfc0507f7b910d-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-1-640.webp",
+          "sha256": "5aee038526f16fc149e100b5b10144d0f19580586f7f5440e406b8bfd8333a7b",
+          "bytes": 79368,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-5aee038526f16fc149e100b5b10144d0f19580586f7f5440e406b8bfd8333a7b-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-1-1280.webp",
+          "sha256": "d277063e62ebb29e50b4d7a8f8e603ca6e84d5eb794bb26eceed9de4ba7652be",
+          "bytes": 295752,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-d277063e62ebb29e50b4d7a8f8e603ca6e84d5eb794bb26eceed9de4ba7652be-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-1-2400.webp",
+          "sha256": "92efb466edcabf398c378f9442d211307a38116e5e559b72b2a56b303b4f22c0",
+          "bytes": 914128,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-92efb466edcabf398c378f9442d211307a38116e5e559b72b2a56b303b4f22c0-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "um-er-rasas-2",
+      "placeId": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "imageId": "933f3cba-2cf9-4400-b179-663e03e10a28",
+      "storagePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-a69f6101159120ecff0cb410bf3e1d1794792c3da4e8634b99c3c6e74bfe5cde.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:50:32.362318+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_ar-Rasas.jpg",
+      "author": "Bashar Tabbah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.514Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-2-320.webp",
+          "sha256": "29836e39f1704621c9aaffac3ed882ae4b84478559aaa264dffd446916fc4c53",
+          "bytes": 21644,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-29836e39f1704621c9aaffac3ed882ae4b84478559aaa264dffd446916fc4c53-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-2-640.webp",
+          "sha256": "1fe3b481c46aff5b37cca7104778c4ef80561a9234395b82d317bb8fe8debad0",
+          "bytes": 76372,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-1fe3b481c46aff5b37cca7104778c4ef80561a9234395b82d317bb8fe8debad0-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-2-1280.webp",
+          "sha256": "1c0af13dcd6938f7003b4f59cee9a2d14da93597bb1b744a811b7e67946658e7",
+          "bytes": 274498,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-1c0af13dcd6938f7003b4f59cee9a2d14da93597bb1b744a811b7e67946658e7-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/um-er-rasas-2-2400.webp",
+          "sha256": "35e5bb2bf4ea12745680a329d578e403551a671a2ec7f201c2f78e12f4e34339",
+          "bytes": 821270,
+          "existingStoragePath": "8babd902-5fd7-4398-bc3e-eca4374deafe/prototype-35e5bb2bf4ea12745680a329d578e403551a671a2ec7f201c2f78e12f4e34339-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "azraq-wetland-reserve-1",
+      "placeId": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "imageId": "a0b99509-1ee2-4439-a67e-32ef376d37fc",
+      "storagePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-214cc801dec0276d7dc368f7bdd8ea5d39978d83d0ba59f9b68bb468213c5b3e.jpg",
+      "expectedUpdatedAt": "2026-10-21T18:50:43.595885+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve,_May_2017.jpg",
+      "author": "Joe Roe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.533Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-1-320.webp",
+          "sha256": "76a3dadf6cb056422c6feacf27d7c55d796b8f63ab4ec2a9f548e5980e938db7",
+          "bytes": 10976,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-76a3dadf6cb056422c6feacf27d7c55d796b8f63ab4ec2a9f548e5980e938db7-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-1-640.webp",
+          "sha256": "c3743ab7cb2205ff6a6550bf2a683f62a991d3796fe652e67eae1f5061a9903c",
+          "bytes": 40922,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-c3743ab7cb2205ff6a6550bf2a683f62a991d3796fe652e67eae1f5061a9903c-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-1-1280.webp",
+          "sha256": "b220c0acfa22ed36704aee4e187a5703f23e96dda8f098de2b2f26a0e3eb010e",
+          "bytes": 167490,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-b220c0acfa22ed36704aee4e187a5703f23e96dda8f098de2b2f26a0e3eb010e-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-1-2400.webp",
+          "sha256": "8b40583f0efd9997eced47b686a179135833073a2e2ded8d96505ca8b0cc4eb4",
+          "bytes": 578808,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-8b40583f0efd9997eced47b686a179135833073a2e2ded8d96505ca8b0cc4eb4-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "azraq-wetland-reserve-2",
+      "placeId": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "imageId": "ff0de68b-36e7-4879-ba4d-1781761ea7c8",
+      "storagePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-f2586a414ec9a58265fd8cbba1f48a3118ec9d8dfcf811145c42cbffd05eb2f6.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:49:52.553495+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_36.jpg",
+      "author": "Mohammad hajeer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.630Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-2-320.webp",
+          "sha256": "59f2598eb71e9060fa635aae3e080b1a3a15d6b90d98962f989e4b6c68d85b1e",
+          "bytes": 17378,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-59f2598eb71e9060fa635aae3e080b1a3a15d6b90d98962f989e4b6c68d85b1e-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-2-640.webp",
+          "sha256": "dec4a931d4d533f7c7a882c615878298c506045fe8dd29aa13d053a27cd60885",
+          "bytes": 71692,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-dec4a931d4d533f7c7a882c615878298c506045fe8dd29aa13d053a27cd60885-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-2-1280.webp",
+          "sha256": "7c25176664476364c390f083f9595d3480b91a344bf6758c61f13ce7e33bdf1f",
+          "bytes": 231010,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-7c25176664476364c390f083f9595d3480b91a344bf6758c61f13ce7e33bdf1f-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/azraq-wetland-reserve-2-2400.webp",
+          "sha256": "56fa2b0eeb0ee7f69b666f59fd64a8d4435e3ecca0b0343005dc3e03ae2ee1d6",
+          "bytes": 488496,
+          "existingStoragePath": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/prototype-56fa2b0eeb0ee7f69b666f59fd64a8d4435e3ecca0b0343005dc3e03ae2ee1d6-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "shaumari-wildlife-reserve-1",
+      "placeId": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "imageId": "77d56dd0-836c-473b-80bd-30468dd7a94d",
+      "storagePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c5c402c2e4d9e1bccd7482422d1db5d46a0d1b7e9761cf255731efcb3715f3f0.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:50:00.783182+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_43.jpg",
+      "author": "Mohammad hajeer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.655Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-1-320.webp",
+          "sha256": "2893de6760a079ed3ed4b9aef612dbee6aab1375f750704881509fb11d745035",
+          "bytes": 27944,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-2893de6760a079ed3ed4b9aef612dbee6aab1375f750704881509fb11d745035-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-1-640.webp",
+          "sha256": "c95829418ee11d0bbc1d615b6d449366881c587e5c24ca2ed7466755aa6145c5",
+          "bytes": 118610,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-c95829418ee11d0bbc1d615b6d449366881c587e5c24ca2ed7466755aa6145c5-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-1-1280.webp",
+          "sha256": "30edd5985f55983c9511e365d6779123ac180915d7a57335e92c00fc4f770343",
+          "bytes": 410292,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-30edd5985f55983c9511e365d6779123ac180915d7a57335e92c00fc4f770343-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-1-2400.webp",
+          "sha256": "cba7c993aed362594f90a45c32e09336854f90d4f5d629ebc1d5533c23630aeb",
+          "bytes": 834128,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-cba7c993aed362594f90a45c32e09336854f90d4f5d629ebc1d5533c23630aeb-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "shaumari-wildlife-reserve-2",
+      "placeId": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "imageId": "7be6f66e-2bfb-4e93-b1aa-7d0057708a7a",
+      "storagePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c3638fe09425a0bfa5d607011c55719820bfc844067a1459f5fbb24c4194697e.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:50:08.529527+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_55.jpg",
+      "author": "Mohammad hajeer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.663Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-2-320.webp",
+          "sha256": "37b60c335a522f876aef5a64ad6beaf7735f1e5a37ebb9ed6b1da8d68a459f10",
+          "bytes": 19480,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-37b60c335a522f876aef5a64ad6beaf7735f1e5a37ebb9ed6b1da8d68a459f10-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-2-640.webp",
+          "sha256": "8ad7781f8312aeedc3c6281513ab5b9d386fb9fb140f940a33e3099153efef34",
+          "bytes": 79442,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-8ad7781f8312aeedc3c6281513ab5b9d386fb9fb140f940a33e3099153efef34-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-2-1280.webp",
+          "sha256": "d3c14a2722bb909ff3d718dacdd4fd40050a4274ba00297e19883295824f8583",
+          "bytes": 330644,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-d3c14a2722bb909ff3d718dacdd4fd40050a4274ba00297e19883295824f8583-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/shaumari-wildlife-reserve-2-2400.webp",
+          "sha256": "16a95f4f6a35fb05bcaf27387f41090cf7cfcb669d442aac6e35d33b0749e6ab",
+          "bytes": 932270,
+          "existingStoragePath": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/prototype-16a95f4f6a35fb05bcaf27387f41090cf7cfcb669d442aac6e35d33b0749e6ab-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "pella-tabaqat-fahl-1",
+      "placeId": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "imageId": "43cc8ed9-28cc-422c-8a69-b1493f3f1d32",
+      "storagePath": "16997697-cb9e-4126-b359-b83f1bde762c/phase08-d54bfefb491b2e2d59bba6bd62e53af819c828f33b54cd938e4845a30bb1bea3.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:50:15.319218+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Pella,_Jordan_(33383216993).jpg",
+      "author": "Carole Raddato from FRANKFURT, Germany",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.685Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/pella-tabaqat-fahl-1-320.webp",
+          "sha256": "6832c32b05316afe40d5ad59870c61dbd0dd9c353608b64ace7fd34a348a8494",
+          "bytes": 22200,
+          "existingStoragePath": "16997697-cb9e-4126-b359-b83f1bde762c/prototype-6832c32b05316afe40d5ad59870c61dbd0dd9c353608b64ace7fd34a348a8494-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/pella-tabaqat-fahl-1-640.webp",
+          "sha256": "863857dd0fc3e9971261e622651bfe98303aa6ec9de8bb32fe15e741cc2d7fa5",
+          "bytes": 84144,
+          "existingStoragePath": "16997697-cb9e-4126-b359-b83f1bde762c/prototype-863857dd0fc3e9971261e622651bfe98303aa6ec9de8bb32fe15e741cc2d7fa5-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/pella-tabaqat-fahl-1-1280.webp",
+          "sha256": "06885a8714b49da79871430eeff6bc90bcc9eb4e0e60ffa78caae29b059e5085",
+          "bytes": 322882,
+          "existingStoragePath": "16997697-cb9e-4126-b359-b83f1bde762c/prototype-06885a8714b49da79871430eeff6bc90bcc9eb4e0e60ffa78caae29b059e5085-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2009,
+          "localPath": "docs/evidence/phase08/responsive/pella-tabaqat-fahl-1-2009.webp",
+          "sha256": "b2a3828faf007e89c01cefb6acb6979569455610d602903720acb94d5a835167",
+          "bytes": 768692,
+          "existingStoragePath": "16997697-cb9e-4126-b359-b83f1bde762c/prototype-b2a3828faf007e89c01cefb6acb6979569455610d602903720acb94d5a835167-2009.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "umm-al-jimal-3",
+      "placeId": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "imageId": "2f58e2eb-5bd4-43ae-886c-c08ab54c926d",
+      "storagePath": "15e5f707-72e2-49a7-a908-07c1bbe703c8/phase08-9f7a1ccfcd479e72de5f35ede058f798ba3f50a2d836103d8aaa7b59b31bd5fc.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:50:21.425507+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_el-Jimal.jpg",
+      "author": "Bashar Tabbah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.731Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/umm-al-jimal-3-320.webp",
+          "sha256": "3e15ab462da867532e5d9ece95540482ca410894598b5237f43ee74d0e494a0f",
+          "bytes": 29288,
+          "existingStoragePath": "15e5f707-72e2-49a7-a908-07c1bbe703c8/prototype-3e15ab462da867532e5d9ece95540482ca410894598b5237f43ee74d0e494a0f-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/umm-al-jimal-3-640.webp",
+          "sha256": "ccc267f974760ad3ba7ed018f04d449d059656a3754e1dff00deca490ccaebcb",
+          "bytes": 103240,
+          "existingStoragePath": "15e5f707-72e2-49a7-a908-07c1bbe703c8/prototype-ccc267f974760ad3ba7ed018f04d449d059656a3754e1dff00deca490ccaebcb-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/umm-al-jimal-3-1280.webp",
+          "sha256": "be0f949e4068bbc69f547a0892e7ec255f9e0ab2ef3c52f01e53fefa563f3a75",
+          "bytes": 371994,
+          "existingStoragePath": "15e5f707-72e2-49a7-a908-07c1bbe703c8/prototype-be0f949e4068bbc69f547a0892e7ec255f9e0ab2ef3c52f01e53fefa563f3a75-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/umm-al-jimal-3-2400.webp",
+          "sha256": "3a5f177aa6343afbdd21c01c2946355a5ebb17811026caffff09658dde576a91",
+          "bytes": 1200678,
+          "existingStoragePath": "15e5f707-72e2-49a7-a908-07c1bbe703c8/prototype-3a5f177aa6343afbdd21c01c2946355a5ebb17811026caffff09658dde576a91-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "little-petra-siq-al-barid-1",
+      "placeId": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "imageId": "5d45a2ce-ed41-4f62-b321-f227f1b7f17e",
+      "storagePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-37cf674a5d59e82a4b50520926991c28b112b819afc95243795ea6a7d35dcfba.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:56:42.036312+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Columned_Chamber_Siq_al-Barid_Jordan1502.jpg",
+      "author": "Michael Gunther",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.765Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-1-320.webp",
+          "sha256": "638f2459e0f7a47cf4b91d0524639fa1bbb8f77cebfbba96f6d2b1c1e97869c6",
+          "bytes": 31626,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-638f2459e0f7a47cf4b91d0524639fa1bbb8f77cebfbba96f6d2b1c1e97869c6-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-1-640.webp",
+          "sha256": "012f80855711f9b7eb2cc09eed31ecc8ee24eea8184302f4b6327dbde1cb9405",
+          "bytes": 117910,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-012f80855711f9b7eb2cc09eed31ecc8ee24eea8184302f4b6327dbde1cb9405-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-1-1280.webp",
+          "sha256": "fa8e10d663520fadd3a00c6a270848b233f76e28a61a03a559712a85ff3ffca0",
+          "bytes": 478172,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-fa8e10d663520fadd3a00c6a270848b233f76e28a61a03a559712a85ff3ffca0-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-1-2400.webp",
+          "sha256": "518a63d00400a2674a7d37f39184bec392f08dbcff013e82aeb2a5411e663b67",
+          "bytes": 1327224,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-518a63d00400a2674a7d37f39184bec392f08dbcff013e82aeb2a5411e663b67-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    },
+    {
+      "photoId": "little-petra-siq-al-barid-2",
+      "placeId": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "imageId": "a8dc24e1-47da-46e0-b038-8ea162a3c60d",
+      "storagePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-ddf926fe2699b775be9f00d47c8460cb1119d0f5b349da676dd7a7b9b1ce5cc4.jpg",
+      "expectedUpdatedAt": "2026-10-22T15:56:42.036312+00:00",
+      "source": "https://commons.wikimedia.org/wiki/File:Little_Petra,_Jordan_-_49785122391.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "originalLocalSha256Verified": true,
+      "rightsMetadataCheck": "2026-10-23T18:32:15.875Z",
+      "rightsEvidenceStatus": "MATCH; selected identity/underlying-rights exclusions remain separate",
+      "metadataChanges": [],
+      "renditions": [
+        {
+          "width": 320,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-2-320.webp",
+          "sha256": "855514f47e9e345c238bfb8d825ef327dcd859a84455111b50d095421ff60e00",
+          "bytes": 26946,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-855514f47e9e345c238bfb8d825ef327dcd859a84455111b50d095421ff60e00-320.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 640,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-2-640.webp",
+          "sha256": "310a62bcb16747a9539cdbd06eb4d003ad5cf6e34c587f8407da251fb98254e8",
+          "bytes": 98492,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-310a62bcb16747a9539cdbd06eb4d003ad5cf6e34c587f8407da251fb98254e8-640.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 1280,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-2-1280.webp",
+          "sha256": "15f88284cf3129a525f73f7548946b76befc06149e88b60d45bc040951d3c16d",
+          "bytes": 342838,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-15f88284cf3129a525f73f7548946b76befc06149e88b60d45bc040951d3c16d-1280.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        },
+        {
+          "width": 2400,
+          "localPath": "docs/evidence/phase08/responsive/little-petra-siq-al-barid-2-2400.webp",
+          "sha256": "f112f127a5b903b9a1bf80378d36cec1a5600afb5e3495dc043ff6f73a8bf9f3",
+          "bytes": 938298,
+          "existingStoragePath": "16ebeb33-af96-4da0-854e-b5bea53eebb5/prototype-f112f127a5b903b9a1bf80378d36cec1a5600afb5e3495dc043ff6f73a8bf9f3-2400.webp",
+          "uploadNeeded": false,
+          "hostedBytesIndependentlyDownloaded": false
+        }
+      ],
+      "status": "BLOCKED_NO_ACTIVE_APP_ADMIN",
+      "applied": false
+    }
+  ],
+  "excluded": [
+    {
+      "id": "madaba-st-georges-church-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Madaba._(Mosaic_map_photo_at_Greek_Orthodox_Church_of_Saint_George)_DSCN0901.jpg",
+      "reason": "See docs/evidence/phase08/visual-review.json; underlying-work rights or exact destination identity unresolved. Do not use."
+    },
+    {
+      "id": "umm-al-jimal-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_10.jpg",
+      "reason": "See docs/evidence/phase08/visual-review.json; underlying-work rights or exact destination identity unresolved. Do not use."
+    },
+    {
+      "id": "umm-al-jimal-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_05.jpg",
+      "reason": "See docs/evidence/phase08/visual-review.json; underlying-work rights or exact destination identity unresolved. Do not use."
+    },
+    {
+      "id": "aqaba-marine-reserve-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Aqaba_Marine_Park,_Jordan.jpg",
+      "reason": "See docs/evidence/phase08/visual-review.json; underlying-work rights or exact destination identity unresolved. Do not use."
+    }
+  ],
+  "summary": {
+    "destinations": 24,
+    "translations": 19,
+    "translationTextEdits": 6,
+    "reviewOnlyTranslations": 13,
+    "selectedImages": 30,
+    "renditions": 120,
+    "existingRenditions": 120,
+    "uploadsNeeded": 0,
+    "metadataDifferences": 0,
+    "conflicts": 0,
+    "hostedMutations": 0
+  },
+  "writeGate": {
+    "activeAppAdmin": false,
+    "safeToExecute": false,
+    "reason": "Management SQL has no auth.uid() or active app Admin identity. Existing prepare_place_translation/admin image/quick-edit guards require it. Computer Use stopped because the current browser URL could not be verified. No impersonation, trigger/policy change or partial write attempted."
+  }
+}

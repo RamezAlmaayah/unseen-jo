@@ -1,0 +1,275 @@
+{
+  "scope": "Actual anonymous Data API/Storage reads against hosted project; image signing is read access. No Auth session, account or content mutation. No signed URLs or key values persisted.",
+  "destinations": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "status": "published",
+      "arabicVisible": 1,
+      "images": 2
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "slug": "aqaba-marine-reserve",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 1
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "status": "published",
+      "arabicVisible": 1,
+      "images": 3
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "status": "published",
+      "arabicVisible": 1,
+      "images": 1
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "status": "published",
+      "arabicVisible": 1,
+      "images": 3
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "status": "published",
+      "arabicVisible": 1,
+      "images": 1
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 2
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "status": "published",
+      "arabicVisible": 0,
+      "images": 0
+    }
+  ],
+  "summary": {
+    "publicDestinations": 24,
+    "currentPublicArabic": 5,
+    "approvedImagesRead": 13,
+    "brokenUrls": 0,
+    "duplicatePlaceIds": 0,
+    "publicUnapprovedImages": 0,
+    "hostedMutations": 0
+  },
+  "imageReads": [
+    {
+      "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 699080,
+      "status": "PASS"
+    },
+    {
+      "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 5161429,
+      "status": "PASS"
+    },
+    {
+      "path": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7/0ce14c66-eb7a-4022-922b-5ed08e59ad62.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 42804,
+      "status": "PASS"
+    },
+    {
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 1081114,
+      "status": "PASS"
+    },
+    {
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 2227478,
+      "status": "PASS"
+    },
+    {
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 2242965,
+      "status": "PASS"
+    },
+    {
+      "path": "4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 1496722,
+      "status": "PASS"
+    },
+    {
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 324462,
+      "status": "PASS"
+    },
+    {
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 455563,
+      "status": "PASS"
+    },
+    {
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 397279,
+      "status": "PASS"
+    },
+    {
+      "path": "066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 936292,
+      "status": "PASS"
+    },
+    {
+      "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 56888,
+      "status": "PASS"
+    },
+    {
+      "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 561494,
+      "status": "PASS"
+    }
+  ]
+}

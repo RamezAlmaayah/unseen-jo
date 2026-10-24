@@ -1,0 +1,49 @@
+{
+  "base": "http://127.0.0.1:4184",
+  "scopes": "Public cases use actual anonymous hosted data; Admin/account cases are isolated Auth/REST fixtures. No genuine signed-in acceptance claimed.",
+  "results": [
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab en 1366",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab en 390",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab ar-JO 1366",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab ar-JO 390",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search guest en",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search guest ar-JO",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search account en",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search account ar-JO",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search en 1366",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search en 390",
+      "status": "passed"
+    }
+  ],
+  "errors": [
+    "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n0 !== 1\n\n    at count (file:///C:/Users/Magic%20Systems/Desktop/Unseen%20Jo%20Project/scripts/check-global-search-browser.mjs:12:171)\n    at async file:///C:/Users/Magic%20Systems/Desktop/Unseen%20Jo%20Project/scripts/check-global-search-browser.mjs:48:299\n    at async check (file:///C:/Users/Magic%20Systems/Desktop/Unseen%20Jo%20Project/scripts/check-global-search-browser.mjs:13:31)\n    at async file:///C:/Users/Magic%20Systems/Desktop/Unseen%20Jo%20Project/scripts/check-global-search-browser.mjs:39:103"
+  ]
+}

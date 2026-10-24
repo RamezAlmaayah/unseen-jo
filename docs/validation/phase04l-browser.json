@@ -1,0 +1,497 @@
+{
+  "scope": "Rendered local React UI, prepared researched bilingual text and real MapLibre; fixture Auth/HTTP, never remote writes or actual publication.",
+  "passed": 116,
+  "results": [
+    {
+      "name": "en-home-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-explore-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-map-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-place-details-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-preferences-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-surprise-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-discoveries-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-login-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-register-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-recovery-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-profile-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en switch persists without navigation reload",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-overview-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-places-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-edit-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-categories-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-media-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-audit-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-acceptance-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-content-completion-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-home-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-map-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-place-details-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-preferences-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-surprise-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-discoveries-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-login-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-register-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-recovery-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-profile-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO switch persists without navigation reload",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-overview-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-places-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-edit-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-categories-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-media-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-audit-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-acceptance-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-content-completion-1440",
+      "status": "passed"
+    },
+    {
+      "name": "en-home-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-explore-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-map-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-place-details-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-preferences-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-surprise-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-discoveries-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-login-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-register-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-recovery-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-profile-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-overview-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-places-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-edit-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-categories-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-media-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-audit-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-acceptance-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-content-completion-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-home-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-map-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-place-details-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-preferences-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-surprise-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-discoveries-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-login-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-register-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-recovery-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-profile-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-overview-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-places-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-edit-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-categories-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-media-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-audit-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-acceptance-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-content-completion-820",
+      "status": "passed"
+    },
+    {
+      "name": "en-home-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-explore-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-map-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-place-details-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-preferences-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-surprise-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-discoveries-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-login-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-register-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-recovery-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-profile-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-overview-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-places-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-edit-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-categories-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-media-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-audit-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-acceptance-390",
+      "status": "passed"
+    },
+    {
+      "name": "en-admin-content-completion-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-home-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-map-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-place-details-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-preferences-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-surprise-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-discoveries-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-login-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-register-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-recovery-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-profile-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-overview-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-places-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-edit-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-categories-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-media-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-audit-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-acceptance-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-admin-content-completion-390",
+      "status": "passed"
+    }
+  ],
+  "untranslatedCandidates": [
+    "Unseen Jo",
+    "ajloun-forest",
+    "dana-reserve",
+    "explorer@example.invalid",
+    "iraq-al-amir",
+    "reviewer@example.test",
+    "salt-historic",
+    "umm-qais",
+    "wadi-mujib"
+  ],
+  "errors": [],
+  "fixtureWrites": [],
+  "accessibility": [
+    {
+      "name": "admin-overview",
+      "violations": []
+    },
+    {
+      "name": "admin-edit",
+      "violations": []
+    },
+    {
+      "name": "admin-content-completion",
+      "violations": []
+    }
+  ]
+}

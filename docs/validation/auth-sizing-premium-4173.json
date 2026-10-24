@@ -1,0 +1,10 @@
+{
+  "base": "http://127.0.0.1:4173",
+  "stage": "premium",
+  "status": "failed",
+  "scope": "Real Chromium layout/Motion/router; Auth settings fixture, empty sessions, reset visual state fixture; no account operations or hosted writes.",
+  "results": [],
+  "errors": [
+    "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.auth-shell,.account-callback') to be visible\u001b[22m\n"
+  ]
+}

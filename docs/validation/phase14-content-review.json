@@ -1,0 +1,201 @@
+{
+  "role_triggers": [
+    "unseen_jo_audit"
+  ],
+  "admin_profiles": 2,
+  "content_review": [
+    {
+      "slug": "ajloun-forest",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "dana-reserve",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "iraq-al-amir",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "salt-historic",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "umm-qais",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "wadi-mujib",
+      "verified": true,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": true,
+      "location_reviewed": true
+    },
+    {
+      "slug": "petra",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": "Site and visitor centre: 06:30–17:00, 2 October 2026–1 March 2027. Published summer schedule: 06:00–18:00, 2 March–1 October 2026. Confirm closures and trail-specific access before travel.",
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "wadi-rum",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "jerash-archaeological-city",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "amman-citadel",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "amman-roman-theatre",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "madaba-st-georges-church",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "al-maghtas-baptism-site",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": "Operator homepage: entry from 08:00; last entry 16:00 November–March and 17:00 April–October. Its contact page gives a generic 16:00 last entry; confirm the seasonal cut-off directly.",
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "karak-castle",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "mount-nebo",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": "Operator-published seasonal hours: winter 08:00–16:30; summer 08:00–18:00. Seasonal changeover dates are not specified; confirm the applicable schedule.",
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "pella-tabaqat-fahl",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "aqaba-marine-reserve",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "shobak-castle",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "um-er-rasas",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "azraq-wetland-reserve",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "shaumari-wildlife-reserve",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "quseir-amra",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "umm-al-jimal",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": null,
+      "claims_reviewed": false,
+      "location_reviewed": false
+    },
+    {
+      "slug": "little-petra-siq-al-barid",
+      "verified": false,
+      "location_kind": "approximate_center",
+      "opening_hours": "Published schedules distinguish a general site listing of 06:30–17:00 from the Little Petra ticket office’s winter 07:00–14:00 (2 October 2026–1 March 2027). They are not interchangeable; confirm both access and ticket services with PDTRA.",
+      "claims_reviewed": false,
+      "location_reviewed": false
+    }
+  ],
+  "active_admin_auth": 2
+}

@@ -1,0 +1,29 @@
+{
+  "scope": "Pure model tests and real disposable PostgreSQL regex evaluation; no hosted writes",
+  "results": [
+    {
+      "name": "Unicode Arabic folding, diacritics, tatweel, whitespace and case normalize consistently",
+      "status": "passed"
+    },
+    {
+      "name": "public and saved searches retain bilingual source names across display-language changes",
+      "status": "passed"
+    },
+    {
+      "name": "category/city/region/partial matching composes with filters and never expands the saved subset",
+      "status": "passed"
+    },
+    {
+      "name": "unreviewed/stale translation fields never become a public search index",
+      "status": "passed"
+    },
+    {
+      "name": "literal hostile punctuation has no wildcard/regex meaning; empty and no-result states are deterministic",
+      "status": "passed"
+    },
+    {
+      "name": "generated Arabic server patterns execute in real PostgreSQL without unsafe interpolation",
+      "status": "passed"
+    }
+  ]
+}

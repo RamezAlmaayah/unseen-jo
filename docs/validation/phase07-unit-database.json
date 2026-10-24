@@ -1,0 +1,45 @@
+{
+  "scope": "Disposable PostgreSQL/PostGIS and pure functions; no hosted users or records modified.",
+  "results": [
+    {
+      "name": "complete additive migration replay and existing ordinary role creation",
+      "status": "passed"
+    },
+    {
+      "name": "guest cannot read or write private visit/history tables",
+      "status": "passed"
+    },
+    {
+      "name": "visits are owner-only, unique and independent from saves and feedback",
+      "status": "passed"
+    },
+    {
+      "name": "optional date constraints and immutable visit ownership prevent forgery",
+      "status": "passed"
+    },
+    {
+      "name": "history idempotency, published-only insert and server timestamp integrity",
+      "status": "passed"
+    },
+    {
+      "name": "keyset pagination remains deterministic at identical timestamps",
+      "status": "passed"
+    },
+    {
+      "name": "history clear affects only its owner and preserves visits, roles, preferences and content",
+      "status": "passed"
+    },
+    {
+      "name": "date validation handles invalid calendar values, optional dates and future dates",
+      "status": "passed"
+    },
+    {
+      "name": "saved search, multiple categories and timestamp/name sorting use real field shapes",
+      "status": "passed"
+    },
+    {
+      "name": "new Arabic labels retain Unicode text, parity and no encoding replacement sequences",
+      "status": "passed"
+    }
+  ]
+}

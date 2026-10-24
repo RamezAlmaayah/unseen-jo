@@ -1,0 +1,40 @@
+{
+  "scope": "Actual researched content and local photographs rendered with fixture Auth and protected API reads; real MapLibre layers. No hosted writes or genuine signed-in session.",
+  "passed": 8,
+  "results": [
+    {
+      "name": "ajloun-forest: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "salt-historic: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "wadi-mujib: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "dana-reserve: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "iraq-al-amir: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "umm-qais: field values, real map marker and private preview with actual researched text",
+      "status": "passed"
+    },
+    {
+      "name": "local research package renders all inspected photographs and source/licence links under admin guard",
+      "status": "passed"
+    },
+    {
+      "name": "local import evidence review page automated WCAG scan",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "unexpectedOperations": []
+}

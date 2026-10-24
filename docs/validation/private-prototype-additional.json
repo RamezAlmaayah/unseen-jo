@@ -1,0 +1,28 @@
+{
+  "scope": "Isolated Admin browser fixture, actual original files/derivatives and current React UI; no genuine account writes",
+  "results": [
+    {
+      "name": "Responsive private gallery and full-resolution original viewer/previous/Escape work",
+      "status": "passed"
+    },
+    {
+      "name": "Long-open private gallery renews an expired original signature through the Storage SDK",
+      "status": "passed",
+      "scope": "Simulated five-minute browser clock advancement; isolated API responses"
+    },
+    {
+      "name": "Aqaba viewer explicitly identifies the original illustration, not destination photography",
+      "status": "passed"
+    },
+    {
+      "name": "Partial network-safe batch remains browsable, resumes to 24 without MapLibre remount, and adds no blank document overflow",
+      "status": "passed",
+      "geometry": {
+        "documentHeight": 1155,
+        "bodyHeight": 1154.5,
+        "listViewport": 418,
+        "listScroll": 3360
+      }
+    }
+  ]
+}

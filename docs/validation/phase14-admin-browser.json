@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "status": "PASS",
+      "scope": "Authenticated Admin fixture; dashboard metrics/charts, responsive and axe; no hosted mutation"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "status": "PASS",
+      "scope": "Authenticated Admin fixture; dashboard metrics/charts, responsive and axe; no hosted mutation"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "status": "PASS",
+      "scope": "Authenticated Admin fixture; dashboard metrics/charts, responsive and axe; no hosted mutation"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "status": "PASS",
+      "scope": "Authenticated Admin fixture; dashboard metrics/charts, responsive and axe; no hosted mutation"
+    }
+  ],
+  "errors": []
+}

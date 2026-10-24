@@ -1,0 +1,681 @@
+{
+  "scope": "Generated output paths written during this Phase 14.1 run in the explicitly named QA/build output directories. Application, script and content-source changes are listed in the main report. Filesystem-time inventory, not a Git diff; no credentials or file contents collected.",
+  "outputs": [
+    {
+      "path": "artifacts/destination-status/places-ar-JO-390.png",
+      "bytes": 141079
+    },
+    {
+      "path": "artifacts/destination-status/places-en-1440.png",
+      "bytes": 481056
+    },
+    {
+      "path": "artifacts/local-privacy/check-account-privacy.log",
+      "bytes": 735
+    },
+    {
+      "path": "artifacts/local-privacy/check-global-search.log",
+      "bytes": 565
+    },
+    {
+      "path": "artifacts/local-privacy/check-localization-database.log",
+      "bytes": 1219
+    },
+    {
+      "path": "artifacts/local-privacy/check-localization.log",
+      "bytes": 519
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase02a.log",
+      "bytes": 3508
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase02b.log",
+      "bytes": 1176
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase03.log",
+      "bytes": 737
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase04.log",
+      "bytes": 883
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase05.log",
+      "bytes": 1216
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase06.log",
+      "bytes": 862
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase07.log",
+      "bytes": 795
+    },
+    {
+      "path": "artifacts/local-privacy/check-phase08.log",
+      "bytes": 973
+    },
+    {
+      "path": "artifacts/local-privacy/check-seo.log",
+      "bytes": 548
+    },
+    {
+      "path": "artifacts/phase05/failure.png",
+      "bytes": 121126
+    },
+    {
+      "path": "artifacts/phase05/live-result-ar-JO-1440.png",
+      "bytes": 80008
+    },
+    {
+      "path": "artifacts/phase05/live-result-ar-JO-390.png",
+      "bytes": 74623
+    },
+    {
+      "path": "artifacts/phase05/live-result-ar-JO-820.png",
+      "bytes": 77511
+    },
+    {
+      "path": "artifacts/phase05/live-result-en-1440.png",
+      "bytes": 121126
+    },
+    {
+      "path": "artifacts/phase05/live-result-en-390.png",
+      "bytes": 113388
+    },
+    {
+      "path": "artifacts/phase05/live-result-en-820.png",
+      "bytes": 117825
+    },
+    {
+      "path": "dist/assets/Acceptance-CPS7_-7t.js",
+      "bytes": 9077
+    },
+    {
+      "path": "dist/assets/AdminApp-Bbq4cnKZ.css",
+      "bytes": 27507
+    },
+    {
+      "path": "dist/assets/AdminApp-CsVsapOM.js",
+      "bytes": 50126
+    },
+    {
+      "path": "dist/assets/alkatra-bengali-wght-normal-DNctw3l_.woff2",
+      "bytes": 90276
+    },
+    {
+      "path": "dist/assets/alkatra-devanagari-wght-normal-BDDv1DRs.woff2",
+      "bytes": 90764
+    },
+    {
+      "path": "dist/assets/alkatra-latin-ext-wght-normal-Bo1FTDjY.woff2",
+      "bytes": 18664
+    },
+    {
+      "path": "dist/assets/alkatra-latin-wght-normal-YuI9t3pW.woff2",
+      "bytes": 29204
+    },
+    {
+      "path": "dist/assets/alkatra-oriya-wght-normal-CHKh-lwy.woff2",
+      "bytes": 53744
+    },
+    {
+      "path": "dist/assets/AuthCallbackPage-C5hW2zjB.js",
+      "bytes": 4339
+    },
+    {
+      "path": "dist/assets/AuthPage-IAn2U2xe.js",
+      "bytes": 11423
+    },
+    {
+      "path": "dist/assets/AuthPresentation-DAB1GRri.js",
+      "bytes": 3675
+    },
+    {
+      "path": "dist/assets/AuthPresentation-DRUYso0E.css",
+      "bytes": 8140
+    },
+    {
+      "path": "dist/assets/AutomatedPublishing-TdiAlmUx.js",
+      "bytes": 7167
+    },
+    {
+      "path": "dist/assets/batch-Dftfe6pv.js",
+      "bytes": 19774
+    },
+    {
+      "path": "dist/assets/bookmark-H1NFOj7R.js",
+      "bytes": 270
+    },
+    {
+      "path": "dist/assets/check-DH_O-V6O.js",
+      "bytes": 164
+    },
+    {
+      "path": "dist/assets/client-DDe5qVZ7.js",
+      "bytes": 502
+    },
+    {
+      "path": "dist/assets/ContentCompletion-BIRMo7j3.js",
+      "bytes": 721
+    },
+    {
+      "path": "dist/assets/contentMediaImport-Q9dHlqUZ.js",
+      "bytes": 358
+    },
+    {
+      "path": "dist/assets/CoordinatePicker-45ev6KX_.js",
+      "bytes": 3588
+    },
+    {
+      "path": "dist/assets/createLucideIcon-e26lGcqL.js",
+      "bytes": 352259
+    },
+    {
+      "path": "dist/assets/DeferredSection-DSxl2RTW.js",
+      "bytes": 1033
+    },
+    {
+      "path": "dist/assets/dist-DHBxcQR0.js",
+      "bytes": 215130
+    },
+    {
+      "path": "dist/assets/DraftPreview-DxyJnSPE.js",
+      "bytes": 4845
+    },
+    {
+      "path": "dist/assets/file-text-Bd6YSODG.js",
+      "bytes": 425
+    },
+    {
+      "path": "dist/assets/FormField-D9pgPRK6.js",
+      "bytes": 1745
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-400-normal-CyU-ddYS.woff2",
+      "bytes": 42848
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-400-normal-EA1o-u_Q.woff",
+      "bytes": 44136
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-500-normal-C4MQITzh.woff2",
+      "bytes": 45296
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-500-normal-DPXcppbm.woff",
+      "bytes": 46924
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-600-normal-0pRdybE_.woff2",
+      "bytes": 45688
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-600-normal-MJZ0liF5.woff",
+      "bytes": 46780
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-700-normal-9rXc6cUL.woff",
+      "bytes": 44364
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-arabic-700-normal-DrtBj6UE.woff2",
+      "bytes": 44280
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-400-normal-Bo5KPYvw.woff2",
+      "bytes": 19164
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-400-normal-CFZh1unN.woff",
+      "bytes": 17512
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-500-normal-BletK1Hp.woff",
+      "bytes": 18640
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-500-normal-Cd6jVIg7.woff2",
+      "bytes": 20088
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-600-normal-Dk5eISD_.woff",
+      "bytes": 18880
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-600-normal-KrqB56Mw.woff2",
+      "bytes": 20500
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-700-normal-BzSf6GNr.woff2",
+      "bytes": 19504
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-700-normal-Cl4F7CZR.woff",
+      "bytes": 17780
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-400-normal-BeVLg08x.woff",
+      "bytes": 5100
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-400-normal-BpLfq-63.woff2",
+      "bytes": 6656
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-500-normal-Ck_W4G78.woff2",
+      "bytes": 6540
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-500-normal-eJxPnL1P.woff",
+      "bytes": 5116
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-600-normal-DjDAeNQD.woff2",
+      "bytes": 6680
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-600-normal-DT29Q8HW.woff",
+      "bytes": 5124
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-700-normal-BSbyEp0V.woff2",
+      "bytes": 6564
+    },
+    {
+      "path": "dist/assets/ibm-plex-sans-arabic-latin-ext-700-normal-C7GcWn11.woff",
+      "bytes": 5084
+    },
+    {
+      "path": "dist/assets/index-Bb2SGDoi.js",
+      "bytes": 556692
+    },
+    {
+      "path": "dist/assets/index-C4W5rv4z.css",
+      "bytes": 181747
+    },
+    {
+      "path": "dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
+      "bytes": 25960
+    },
+    {
+      "path": "dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2",
+      "bytes": 18748
+    },
+    {
+      "path": "dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2",
+      "bytes": 11232
+    },
+    {
+      "path": "dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2",
+      "bytes": 18996
+    },
+    {
+      "path": "dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
+      "bytes": 85068
+    },
+    {
+      "path": "dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2",
+      "bytes": 48256
+    },
+    {
+      "path": "dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
+      "bytes": 10252
+    },
+    {
+      "path": "dist/assets/irish-grover-latin-400-normal-BDMD-_CK.woff",
+      "bytes": 27032
+    },
+    {
+      "path": "dist/assets/irish-grover-latin-400-normal-CYB6e-Fj.woff2",
+      "bytes": 23624
+    },
+    {
+      "path": "dist/assets/lib-BfiCutuR.js",
+      "bytes": 37426
+    },
+    {
+      "path": "dist/assets/log-out-CbENvkeP.js",
+      "bytes": 270
+    },
+    {
+      "path": "dist/assets/Management-DO7ngAUD.js",
+      "bytes": 11496
+    },
+    {
+      "path": "dist/assets/MapCanvas-BvXXF2H8.js",
+      "bytes": 22325
+    },
+    {
+      "path": "dist/assets/maplibre-gl-DBE96hFo.css",
+      "bytes": 82935
+    },
+    {
+      "path": "dist/assets/maplibre-gl-DdcfF0ph.js",
+      "bytes": 1090061
+    },
+    {
+      "path": "dist/assets/maplibre-gl-worker-CV6NbyPW.js",
+      "bytes": 507714
+    },
+    {
+      "path": "dist/assets/MyDiscoveriesPage-gdlwS9I6.js",
+      "bytes": 13994
+    },
+    {
+      "path": "dist/assets/Overview-Zq61tnOZ.js",
+      "bytes": 6308
+    },
+    {
+      "path": "dist/assets/OverviewCharts-_YYNEqvB.js",
+      "bytes": 358371
+    },
+    {
+      "path": "dist/assets/PlaceEditor-zyUBsLHh.js",
+      "bytes": 20445
+    },
+    {
+      "path": "dist/assets/PlaceStatusControl-C5tYDPiL.js",
+      "bytes": 1627
+    },
+    {
+      "path": "dist/assets/plus-CVwc-o2M.js",
+      "bytes": 193
+    },
+    {
+      "path": "dist/assets/preload-helper-BLdHbfdN.js",
+      "bytes": 1519
+    },
+    {
+      "path": "dist/assets/ProfilePage-CUYvtBcy.js",
+      "bytes": 18112
+    },
+    {
+      "path": "dist/assets/ProfilePage-rAjdAejq.css",
+      "bytes": 1124
+    },
+    {
+      "path": "dist/assets/QuickPlaceEditor-ykLKCCyx.js",
+      "bytes": 19992
+    },
+    {
+      "path": "dist/assets/rolldown-runtime-XKyaHtl9.js",
+      "bytes": 726
+    },
+    {
+      "path": "dist/assets/save-DM5XSO4U.js",
+      "bytes": 367
+    },
+    {
+      "path": "dist/assets/shim-DG0W1xan.js",
+      "bytes": 875
+    },
+    {
+      "path": "dist/assets/TranslationReview-B5qoDAY8.css",
+      "bytes": 5627
+    },
+    {
+      "path": "dist/assets/TranslationReview-DUpZQrHu.js",
+      "bytes": 32565
+    },
+    {
+      "path": "dist/assets/translationReviewModel-BaS3HzJX.js",
+      "bytes": 2368
+    },
+    {
+      "path": "dist/assets/trash-BK5l5ONb.js",
+      "bytes": 386
+    },
+    {
+      "path": "dist/assets/upload-BlAj1u88.js",
+      "bytes": 270
+    },
+    {
+      "path": "dist/assets/useEmailCooldown-BkZTwnDf.js",
+      "bytes": 855
+    },
+    {
+      "path": "dist/assets/useTranslation-VHhB6_vJ.js",
+      "bytes": 4528
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 2417
+    },
+    {
+      "path": "docs/evidence/phase14-1/commons-0.json",
+      "bytes": 30609
+    },
+    {
+      "path": "docs/evidence/phase14-1/commons-16.json",
+      "bytes": 39803
+    },
+    {
+      "path": "docs/evidence/phase14-1/commons-24.json",
+      "bytes": 32069
+    },
+    {
+      "path": "docs/evidence/phase14-1/commons-32.json",
+      "bytes": 11379
+    },
+    {
+      "path": "docs/evidence/phase14-1/commons-8.json",
+      "bytes": 27148
+    },
+    {
+      "path": "docs/screenshots/phase04-final/add-place-1440.png",
+      "bytes": 410941
+    },
+    {
+      "path": "docs/screenshots/phase04-final/dashboard-1440.png",
+      "bytes": 224220
+    },
+    {
+      "path": "docs/screenshots/phase04-final/dashboard-390.png",
+      "bytes": 193511
+    },
+    {
+      "path": "docs/screenshots/phase04-final/dashboard-834.png",
+      "bytes": 197589
+    },
+    {
+      "path": "docs/screenshots/phase04-final/draft-preview-1440.png",
+      "bytes": 156062
+    },
+    {
+      "path": "docs/screenshots/phase04-final/draft-preview-390.png",
+      "bytes": 51601
+    },
+    {
+      "path": "docs/screenshots/phase04-final/edit-place-1440.png",
+      "bytes": 286241
+    },
+    {
+      "path": "docs/screenshots/phase04-final/edit-place-390.png",
+      "bytes": 338038
+    },
+    {
+      "path": "docs/screenshots/phase04-final/map-picker-1440.png",
+      "bytes": 414583
+    },
+    {
+      "path": "docs/screenshots/phase04-final/places-1440.png",
+      "bytes": 85512
+    },
+    {
+      "path": "docs/screenshots/phase14-1/ajloun-forest-ar-JO.png",
+      "bytes": 201707
+    },
+    {
+      "path": "docs/screenshots/phase14-1/ajloun-forest-en.png",
+      "bytes": 626695
+    },
+    {
+      "path": "docs/screenshots/phase14-1/local-review-1366.png",
+      "bytes": 77309
+    },
+    {
+      "path": "docs/screenshots/phase14-1/local-review-390.png",
+      "bytes": 40995
+    },
+    {
+      "path": "docs/screenshots/phase14-1/petra-ar-JO.png",
+      "bytes": 31353
+    },
+    {
+      "path": "docs/screenshots/phase14-1/petra-en.png",
+      "bytes": 52150
+    },
+    {
+      "path": "docs/screenshots/phase14-1/wadi-mujib-ar-JO.png",
+      "bytes": 230057
+    },
+    {
+      "path": "docs/screenshots/phase14-1/wadi-mujib-en.png",
+      "bytes": 492005
+    },
+    {
+      "path": "docs/screenshots/phase14/admin-ar-JO-1366.png",
+      "bytes": 70405
+    },
+    {
+      "path": "docs/screenshots/phase14/admin-ar-JO-390.png",
+      "bytes": 25237
+    },
+    {
+      "path": "docs/screenshots/phase14/admin-en-1366.png",
+      "bytes": 103834
+    },
+    {
+      "path": "docs/screenshots/phase14/admin-en-390.png",
+      "bytes": 38438
+    },
+    {
+      "path": "docs/validation/account-privacy-security.json",
+      "bytes": 872
+    },
+    {
+      "path": "docs/validation/auth-premium-browser.json",
+      "bytes": 1398
+    },
+    {
+      "path": "docs/validation/destination-status-browser.json",
+      "bytes": 705
+    },
+    {
+      "path": "docs/validation/destination-status-database.json",
+      "bytes": 1283
+    },
+    {
+      "path": "docs/validation/local-privacy-offline-regressions.json",
+      "bytes": 4918
+    },
+    {
+      "path": "docs/validation/phase04-accessibility.json",
+      "bytes": 106
+    },
+    {
+      "path": "docs/validation/phase04-database-tests.json",
+      "bytes": 1620
+    },
+    {
+      "path": "docs/validation/phase04-editor-accessibility.json",
+      "bytes": 22
+    },
+    {
+      "path": "docs/validation/phase04-preview-accessibility.json",
+      "bytes": 22
+    },
+    {
+      "path": "docs/validation/phase04-refinement-browser.json",
+      "bytes": 1821
+    },
+    {
+      "path": "docs/validation/phase04l-database-tests.json",
+      "bytes": 2156
+    },
+    {
+      "path": "docs/validation/phase04l-resource-audit.json",
+      "bytes": 767
+    },
+    {
+      "path": "docs/validation/phase04l-unit-tests.json",
+      "bytes": 962
+    },
+    {
+      "path": "docs/validation/phase05-browser.json",
+      "bytes": 3487
+    },
+    {
+      "path": "docs/validation/phase05-model.json",
+      "bytes": 2028
+    },
+    {
+      "path": "docs/validation/phase06-browser-4195.json",
+      "bytes": 2864
+    },
+    {
+      "path": "docs/validation/phase06-unit-database.json",
+      "bytes": 1480
+    },
+    {
+      "path": "docs/validation/phase07-unit-database.json",
+      "bytes": 1418
+    },
+    {
+      "path": "docs/validation/phase08-freshness.json",
+      "bytes": 1416
+    },
+    {
+      "path": "docs/validation/phase08-media.json",
+      "bytes": 5359
+    },
+    {
+      "path": "docs/validation/phase08-unit-database.json",
+      "bytes": 1653
+    },
+    {
+      "path": "docs/validation/phase14-1-browser.json",
+      "bytes": 11647
+    },
+    {
+      "path": "docs/validation/phase14-1-content-baseline.json",
+      "bytes": 241824
+    },
+    {
+      "path": "docs/validation/phase14-1-content-tests.json",
+      "bytes": 815
+    },
+    {
+      "path": "docs/validation/phase14-1-hosted-preservation.json",
+      "bytes": 552
+    },
+    {
+      "path": "docs/validation/phase14-1-local-preview.json",
+      "bytes": 217
+    },
+    {
+      "path": "docs/validation/phase14-1-media-origin.json",
+      "bytes": 20827
+    },
+    {
+      "path": "docs/validation/phase14-1-preparation.json",
+      "bytes": 65492
+    },
+    {
+      "path": "docs/validation/phase14-admin-browser.json",
+      "bytes": 813
+    },
+    {
+      "path": "docs/validation/search-unit.json",
+      "bytes": 984
+    },
+    {
+      "path": "docs/validation/seo-tests.json",
+      "bytes": 1043
+    }
+  ]
+}

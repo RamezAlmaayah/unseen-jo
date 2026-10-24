@@ -1,0 +1,31 @@
+{
+  "base": "http://127.0.0.1:4184",
+  "scopes": "Public cases use actual anonymous hosted data; Admin/account cases are isolated Auth/REST fixtures. No genuine signed-in acceptance claimed.",
+  "results": [
+    {
+      "name": "Admin full-dataset Places and Translation search en 1366",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search en 390",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search ar-JO 1366",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search ar-JO 390",
+      "status": "passed"
+    },
+    {
+      "name": "Admin search errors retain controls, recover and preserve unsaved translation text",
+      "status": "passed"
+    },
+    {
+      "name": "Admin ordinary-user denial prevents any search data query",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

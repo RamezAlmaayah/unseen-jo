@@ -1,0 +1,82 @@
+{
+  "scope": "Synthetic authenticated fixtures, real Chromium/axe responsive checks; separate controlled observer for keyboard fallback",
+  "results": [
+    {
+      "language": "en",
+      "width": 820,
+      "section": "overview",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "section": "places",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "section": "media",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "section": "overview",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "section": "places",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "section": "media",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "section": "overview",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "section": "places",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "section": "media",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "section": "overview",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "section": "places",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "section": "media",
+      "status": "passed"
+    },
+    {
+      "kind": "keyboard activation independent of observer, preserves focus",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

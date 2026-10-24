@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-21",
+  "scope": "Genuine hosted read-only whole-row checks after migration and browser verification.",
+  "final_preservation": {
+    "published": 6,
+    "images": 13,
+    "roles": 3,
+    "admin_roles": 1,
+    "storage_objects": 15,
+    "new_private_rows": {
+      "visits": 0,
+      "history": 0
+    },
+    "fingerprints": {
+      "places": "9ae1d6df0e88a9221c75ca516ff6139a",
+      "images": "9af8b1b68f01543006c931bd4d630eda",
+      "roles": "c9a300d005f84b7e10b5f96dafc11c87",
+      "storage": "02811d0d707fc921a85827ddc7f77b9d",
+      "translations": "9a20c9038b83dcaa673e95826ae15989"
+    }
+  }
+}

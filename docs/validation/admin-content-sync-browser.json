@@ -1,0 +1,43 @@
+{
+  "scope": "Playwright and axe; all Supabase requests intercepted with synthetic sessions/records",
+  "at": "2026-10-23T19:20:47.864Z",
+  "results": [
+    {
+      "name": "en 1366px: full preview, evidence, accessible layout, explicit confirmation and verified batch",
+      "status": "PASS"
+    },
+    {
+      "name": "en 390px: full preview, evidence, accessible layout, explicit confirmation and verified batch",
+      "status": "PASS"
+    },
+    {
+      "name": "ar-JO 1366px: full preview, evidence, accessible layout, explicit confirmation and verified batch",
+      "status": "PASS"
+    },
+    {
+      "name": "ar-JO 390px: full preview, evidence, accessible layout, explicit confirmation and verified batch",
+      "status": "PASS"
+    },
+    {
+      "name": "batch size three and repeated confirmation clicks do not repeat writes",
+      "status": "PASS"
+    },
+    {
+      "name": "changed translation cannot be selected; partial review failure stops remainder",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin route denies guest with no content mutation",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin route denies ordinary account with no content mutation",
+      "status": "PASS"
+    },
+    {
+      "name": "production build hides execution and does not fetch the prepared package",
+      "status": "PASS"
+    }
+  ],
+  "pageErrors": []
+}

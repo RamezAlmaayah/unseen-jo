@@ -1,0 +1,137 @@
+{
+  "scope": "Local React and real browser rendering; synthetic Auth and isolated API state; zero hosted writes or approvals",
+  "passed": 12,
+  "results": [
+    {
+      "name": "en review queue, side-by-side source pairs, RTL and accessibility at 1440px",
+      "status": "passed"
+    },
+    {
+      "name": "en review queue, side-by-side source pairs, RTL and accessibility at 820px",
+      "status": "passed"
+    },
+    {
+      "name": "en review queue, side-by-side source pairs, RTL and accessibility at 390px",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO review queue, side-by-side source pairs, RTL and accessibility at 1440px",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO review queue, side-by-side source pairs, RTL and accessibility at 820px",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO review queue, side-by-side source pairs, RTL and accessibility at 390px",
+      "status": "passed"
+    },
+    {
+      "name": "all six exact Arabic and English descriptions, location facts, source links and verification cautions render",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic edits survive dashboard language switching and dirty destination navigation can be cancelled",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic save updates only translation allowlisted fields with version protection",
+      "status": "passed"
+    },
+    {
+      "name": "Needs Changes saves feedback, survives reload, and can return to Pending without approval",
+      "status": "passed"
+    },
+    {
+      "name": "approval requires deliberate confirmation and cancelling makes no write",
+      "status": "passed"
+    },
+    {
+      "name": "save conflict is visible and preserves unsaved Arabic",
+      "status": "passed"
+    }
+  ],
+  "scans": [
+    {
+      "lang": "en",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "lang": "en",
+      "width": 820,
+      "violations": []
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "lang": "ar-JO",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "lang": "ar-JO",
+      "width": 820,
+      "violations": []
+    },
+    {
+      "lang": "ar-JO",
+      "width": 390,
+      "violations": []
+    }
+  ],
+  "requests": [
+    {
+      "method": "PATCH",
+      "path": "/rest/v1/place_translations",
+      "body": {
+        "name": "اسم عربي غير محفوظ",
+        "description": "في أم قيس، تتربع بقايا جدارا القديمة على قمة تطل على وادي الأردن. وتعرّف الشوارع ذات الأعمدة وبقايا المسارح والعمارة البازلتية الداكنة الزوار بمدينة مرتبطة بالديكابوليس. وتشغل القرية التي تعود إلى العهد العثماني جزءًا من الموقع القديم، مضيفة طبقة أخرى إلى المشهد.\n\nيقع المتحف في مبنى من الفترة العثمانية ويعرض مكتشفات أثرية من المنطقة، منها الفخار والمنحوتات. ويمكن للزيارة التعريفية أن تجمع الآثار والقرية والمتحف، بدلًا من اعتبار البلدة الحديثة نفسها المعلم المقصود. نقترح تحريريًا ساعتين إلى ثلاث ساعات، بحسب الأجزاء المفتوحة يوم الزيارة. تحقق من ساعات العمل الحالية وأهلية التذاكر ودخول المتحف قبل السفر؛ فالصفحات الرسمية لا تقدم جدول تشغيل متسقًا بالكامل. النقطة المحفوظة مرجع لمنطقة الموقع تشترك فيه روابط سياحية رسمية وليست مدخلًا مؤكدًا. تتطلب المسارات الخالية من الدرج ومرافق الزوار الحالية تأكيدًا محليًا.",
+        "city": "أم قيس",
+        "address": "موقع أم قيس الأثري والقرية العثمانية، شمال الأردن؛ مرجع رسمي لمنطقة الموقع وليس مدخل زوار محددًا بالمسح.",
+        "best_time_to_visit": null,
+        "transportation_notes": "استخدم مرجع الموقع الأثري وأكد نقطة وصول الزوار محليًا. تختلف الساعات الموسمية الرسمية عن ملخصات المعالم، لذا تحقق من فتح الموقع والمتحف قبل المغادرة. لا تُضمن مدة قيادة أو خدمة حافلات أو مسار خالٍ من الدرج.",
+        "visitor_guidance": "رسم الموقع في جدول الوزارة: ٠٫٢٥ دينار للأردني و٥ دنانير للأجنبي، شامل المتحف؛ ولا يعني صف المتحف المنفصل رسمًا إضافيًا على الجميع. تاريخ السريان غير محدد. تختلف ساعات Jordan Pass الموسمية عن الساعات في ملخص المعلم، لذا لم تُحفظ ساعات ثابتة. المدة توصية تحريرية. صورة الاختبار um.jfif تظل غير معتمدة ولا يجوز عرضها كصورة مجازة للاستخدام.\nتستخدم روابط الهيئة والوزارة للموقع والمتحف النقطة المرجعية نفسها. يختلف مركز عرض الخريطة عنها، ولا يثبت أي من المصدرين دقة مدخل مهيأ للزوار. لا تُستبدل بها قيم UTM قديمة دون معرفة مرجعها الجيوديسي.",
+        "source_updated_at": "2026-10-19T11:20:48.274507Z",
+        "editorial_status": "pending"
+      },
+      "version": "eq.2026-10-19T11:20:48.274507Z"
+    },
+    {
+      "method": "PATCH",
+      "path": "/rest/v1/place_translations",
+      "body": {
+        "editorial_status": "needs_changes",
+        "review_notes": "Compare the visitor cautions with the dated source."
+      },
+      "version": "eq.2026-10-19T19:06:35.646Z"
+    },
+    {
+      "method": "PATCH",
+      "path": "/rest/v1/place_translations",
+      "body": {
+        "editorial_status": "pending"
+      },
+      "version": "eq.2026-10-19T19:06:35.725Z"
+    },
+    {
+      "method": "PATCH",
+      "path": "/rest/v1/place_translations",
+      "body": {
+        "name": "تعديل متعارض",
+        "description": "في أم قيس، تتربع بقايا جدارا القديمة على قمة تطل على وادي الأردن. وتعرّف الشوارع ذات الأعمدة وبقايا المسارح والعمارة البازلتية الداكنة الزوار بمدينة مرتبطة بالديكابوليس. وتشغل القرية التي تعود إلى العهد العثماني جزءًا من الموقع القديم، مضيفة طبقة أخرى إلى المشهد.\n\nيقع المتحف في مبنى من الفترة العثمانية ويعرض مكتشفات أثرية من المنطقة، منها الفخار والمنحوتات. ويمكن للزيارة التعريفية أن تجمع الآثار والقرية والمتحف، بدلًا من اعتبار البلدة الحديثة نفسها المعلم المقصود. نقترح تحريريًا ساعتين إلى ثلاث ساعات، بحسب الأجزاء المفتوحة يوم الزيارة. تحقق من ساعات العمل الحالية وأهلية التذاكر ودخول المتحف قبل السفر؛ فالصفحات الرسمية لا تقدم جدول تشغيل متسقًا بالكامل. النقطة المحفوظة مرجع لمنطقة الموقع تشترك فيه روابط سياحية رسمية وليست مدخلًا مؤكدًا. تتطلب المسارات الخالية من الدرج ومرافق الزوار الحالية تأكيدًا محليًا.",
+        "city": "أم قيس",
+        "address": "موقع أم قيس الأثري والقرية العثمانية، شمال الأردن؛ مرجع رسمي لمنطقة الموقع وليس مدخل زوار محددًا بالمسح.",
+        "best_time_to_visit": null,
+        "transportation_notes": "استخدم مرجع الموقع الأثري وأكد نقطة وصول الزوار محليًا. تختلف الساعات الموسمية الرسمية عن ملخصات المعالم، لذا تحقق من فتح الموقع والمتحف قبل المغادرة. لا تُضمن مدة قيادة أو خدمة حافلات أو مسار خالٍ من الدرج.",
+        "visitor_guidance": "رسم الموقع في جدول الوزارة: ٠٫٢٥ دينار للأردني و٥ دنانير للأجنبي، شامل المتحف؛ ولا يعني صف المتحف المنفصل رسمًا إضافيًا على الجميع. تاريخ السريان غير محدد. تختلف ساعات Jordan Pass الموسمية عن الساعات في ملخص المعلم، لذا لم تُحفظ ساعات ثابتة. المدة توصية تحريرية. صورة الاختبار um.jfif تظل غير معتمدة ولا يجوز عرضها كصورة مجازة للاستخدام.\nتستخدم روابط الهيئة والوزارة للموقع والمتحف النقطة المرجعية نفسها. يختلف مركز عرض الخريطة عنها، ولا يثبت أي من المصدرين دقة مدخل مهيأ للزوار. لا تُستبدل بها قيم UTM قديمة دون معرفة مرجعها الجيوديسي.",
+        "source_updated_at": "2026-10-19T11:20:48.274507Z",
+        "editorial_status": "pending"
+      },
+      "version": "eq.2026-10-19T19:06:36.833Z"
+    }
+  ]
+}

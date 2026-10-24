@@ -1,0 +1,42 @@
+{
+  "scope": "Unit tests and disposable PostgreSQL/PostGIS. Auth sessions and Storage simulated; no hosted users/content modified.",
+  "passed": 9,
+  "results": [
+    {
+      "name": "all migrations replay; signup trigger creates an ordinary profile without trusting role metadata",
+      "status": "passed"
+    },
+    {
+      "name": "owner profile policies, column grants and avatar paths prevent cross-user access and privilege escalation",
+      "status": "passed"
+    },
+    {
+      "name": "preference save is atomic, owner-scoped, normalized and version checked",
+      "status": "passed"
+    },
+    {
+      "name": "invalid preferences cannot forge fields, active categories, bounds or booleans",
+      "status": "passed"
+    },
+    {
+      "name": "saved places enforce owner, unique identity and published-only insertion",
+      "status": "passed"
+    },
+    {
+      "name": "private avatar Storage remains owner-only; ordinary users cannot enter Admin RPCs",
+      "status": "passed"
+    },
+    {
+      "name": "redirects, credentials validation, guest storage corruption and legacy preferences are handled safely",
+      "status": "passed"
+    },
+    {
+      "name": "callbacks scrub tokens before verification, are idempotent and accept a later distinct callback",
+      "status": "passed"
+    },
+    {
+      "name": "callback distinguishes absent PKCE storage, missing details, supported token types and optional flow selector",
+      "status": "passed"
+    }
+  ]
+}

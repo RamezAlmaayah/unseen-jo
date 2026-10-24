@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-20",
+  "timezone": "Asia/Amman",
+  "project": "dkhwwvoplhfjccvjegty",
+  "ownerConfirmation": {
+    "statement": "Recovery callback and sign-in worked",
+    "scope": "Owner-confirmed genuine same-browser recovery callback and subsequent sign-in; not observed through a connected browser by the agent."
+  },
+  "hostedReadOnlyCheck": {
+    "email_confirmed": true,
+    "recovery_requested": true,
+    "signed_in_after_recovery": false,
+    "test_roles": [
+      "user"
+    ],
+    "published_destinations": 6,
+    "admin_roles": 1,
+    "admin_role_fingerprint": "1325eb35e9e9b1b13d6234de021d8021"
+  },
+  "limitations": [
+    "The timestamp comparison does not independently corroborate a new password login after the latest recovery request; the owner-reported browser result is recorded separately.",
+    "Original cross-browser signup callback failure is retained in the audit history.",
+    "A fresh same-browser signup-confirmation callback was not separately retested.",
+    "No passwords, tokens, confirmation links or browser session were exported."
+  ]
+}

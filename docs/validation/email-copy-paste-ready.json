@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-22T19:59:33.797Z",
+  "templates": [
+    {
+      "name": "Invite User",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Confirm Signup",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Reset Password",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Magic Link",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Change Email Address",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Reauthentication",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Password Changed",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    },
+    {
+      "name": "Email Address Changed",
+      "fullHtmlPreserved": true,
+      "variablesValid": true,
+      "noCredentialsFound": true
+    }
+  ],
+  "publicLogoStatus": 200,
+  "publicPngVerified": true,
+  "hostedChanges": false
+}

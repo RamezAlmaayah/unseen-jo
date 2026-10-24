@@ -1,0 +1,68 @@
+{
+  "scope": "Initial development run and stable reruns are recorded separately. Every initially failing suite subsequently passed without weakening assertions. Production recommendation/auth/personal checks and development recommendation/auth retries genuinely exited 0.",
+  "initialDevelopmentRun": [
+    {
+      "name": "check-phase01a",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase01b",
+      "exitCode": 1
+    },
+    {
+      "name": "check-phase01c",
+      "exitCode": 1
+    },
+    {
+      "name": "check-landing-refinement",
+      "exitCode": 0
+    },
+    {
+      "name": "check-global-ui-scale",
+      "exitCode": 0
+    }
+  ],
+  "verifiedReruns": [
+    {
+      "file": "phase05-browser.json",
+      "base": "http://127.0.0.1:4190",
+      "groups": 11,
+      "errors": [],
+      "status": "passed",
+      "scope": "Read individual scenario scopes; real hosted reads or isolated fixtures explicitly identified"
+    },
+    {
+      "file": "phase06-browser-4190.json",
+      "base": "http://127.0.0.1:4190",
+      "groups": 11,
+      "errors": [],
+      "status": "passed",
+      "scope": "Read individual scenario scopes; real hosted reads or isolated fixtures explicitly identified"
+    },
+    {
+      "file": "phase07-browser-4190.json",
+      "base": "http://127.0.0.1:4190",
+      "groups": 26,
+      "errors": [],
+      "status": "passed",
+      "scope": "Isolated fixtures, no genuine account accepted or modified."
+    },
+    {
+      "file": "private-prototype-phase05-dev-retry.json",
+      "base": "http://127.0.0.1:4184",
+      "groups": 6,
+      "errors": [],
+      "status": "passed",
+      "scope": "Read individual scenario scopes; real hosted reads or isolated fixtures explicitly identified"
+    },
+    {
+      "file": "phase06-browser-4184.json",
+      "base": "http://127.0.0.1:4184",
+      "groups": 11,
+      "errors": [],
+      "status": "passed",
+      "scope": "Stable development browser rerun, unchanged assertions; no source edits during execution"
+    }
+  ],
+  "resolved": true
+}

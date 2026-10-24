@@ -1,0 +1,67 @@
+{
+  "base": "http://127.0.0.1:4184",
+  "scope": "Real anonymous hosted/browser reads. New-destination public acceptance only counts actually published records.",
+  "newPublished": 0,
+  "newPublicAcceptancePending": true,
+  "results": [
+    {
+      "name": "Live public retrieval preserves originals and hides drafts/unapproved media",
+      "status": "passed",
+      "published": 6,
+      "newPublished": 0
+    },
+    {
+      "name": "Live published rows feed unchanged recommendation engine with current Arabic and covers",
+      "status": "passed",
+      "newDestinationsChecked": 0
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) en 1366",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) en 820",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) en 390",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) ar-JO 1366",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) ar-JO 820",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    },
+    {
+      "name": "LIVE Home/Explore/map (new-destination journeys pending) ar-JO 390",
+      "status": "passed",
+      "newDetailPages": 0,
+      "newPublished": 0,
+      "newDestinationJourneys": "not run: no new destinations published",
+      "scope": "Real anonymous browser and live Supabase; no fixtures"
+    }
+  ]
+}

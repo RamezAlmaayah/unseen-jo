@@ -1,0 +1,27 @@
+{
+  "scope": "Real anonymous browser guard; authorized and denied sessions use intercepted HTTP fixtures, never real role grants",
+  "passed": 5,
+  "results": [
+    {
+      "name": "real hosted anonymous session renders sign-in without admin content",
+      "status": "passed"
+    },
+    {
+      "name": "authenticated ordinary account receives denial and no dashboard",
+      "status": "passed"
+    },
+    {
+      "name": "authorized fixture renders responsive dashboard, destinations and editor",
+      "status": "passed"
+    },
+    {
+      "name": "new draft submits allowlisted payload through the SDK and navigates to saved record",
+      "status": "passed"
+    },
+    {
+      "name": "category, media, audit and empty states render without errors",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

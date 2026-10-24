@@ -1,0 +1,115 @@
+{
+  "scope": "Automated WCAG scans and localized document titles on actual React renders, fixture published catalog; not human accessibility certification",
+  "results": [
+    {
+      "path": "/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/explore",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/map",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/places/ajloun-forest",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/preferences",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/surprise-me",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/my-discoveries",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/login",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/register",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/forgot-password",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/profile",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/explore",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/map",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/places/ajloun-forest",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/preferences",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/surprise-me",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/my-discoveries",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/login",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/register",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/forgot-password",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "path": "/profile",
+      "width": 390,
+      "violations": []
+    }
+  ]
+}

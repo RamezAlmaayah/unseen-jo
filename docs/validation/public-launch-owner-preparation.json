@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-24T17:42:59.235Z",
+  "scope": "Documentation and preservation checks only; no build, backup/export/restore, real Auth test or hosted mutation executed",
+  "documentLinksChecked": 9,
+  "documentationLinks": "PASS",
+  "completedDist": {
+    "filesCompared": 305,
+    "allOriginalHashesPreserved": true
+  },
+  "holdingPage": {
+    "noindex": true,
+    "scripts": false,
+    "forms": false,
+    "externalRequests": false
+  },
+  "backupBaseline": {
+    "staticReadOnlyCheck": "PASS",
+    "execution": "NOT RUN; native psql/backup access/compatible restore target unavailable"
+  },
+  "windowsExamples": {
+    "powershellParser": "PASS",
+    "nativePathWithSpacesArgumentSmoke": "PASS; fake filename only, no PostgreSQL command executed"
+  },
+  "hostedWrites": 0,
+  "publicLaunch": "NO-GO until owner checkpoints and genuine verification complete",
+  "freshAnonymousCatalog": {
+    "published": 24,
+    "eligible": 8,
+    "excluded": 16,
+    "unchangedEligibleIds": true,
+    "scope": "Fresh anonymous read/signing and catalog comparison, not a new image-byte/browser audit"
+  },
+  "sourceFilesAddedOrUpdated": [
+    "docs/PUBLIC_LAUNCH_OWNER_ACTIONS.md",
+    "docs/operations/WINDOWS_SUPABASE_BACKUP_RECOVERY.md",
+    "docs/legal/OWNER_FACTS_REQUIRED_FOR_LAUNCH.md",
+    "docs/AUTH_PUBLIC_LAUNCH_ACCEPTANCE.md",
+    "supabase/tests/public_launch_recovery_baseline.sql",
+    "artifacts/netlify-origin-reservation/index.html",
+    "artifacts/netlify-origin-reservation/robots.txt",
+    "docs/NETLIFY_PUBLIC_LAUNCH_CHECKLIST.md"
+  ]
+}

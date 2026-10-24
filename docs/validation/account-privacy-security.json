@@ -1,0 +1,14 @@
+{
+  "scope": "Disposable PGlite synthetic accounts and injected Edge clients; no hosted mutations",
+  "results": [
+    "privacy UI cannot activate in production or on a public host",
+    "request/fulfillment RPCs cannot be executed by ordinary users; queue cannot be forged",
+    "idempotent queue, owner-only status and export; no secrets",
+    "owned orphan avatar blocks deletion atomically; no false completion",
+    "Admin deletion is refused",
+    "last Admin role removal, Auth deletion, truncation and counter tampering fail closed",
+    "partial cleanup plus unexpected FK failure never completes the request or partially deletes database records",
+    "synthetic account deletion cascades, preserves other accounts and blocks stale-token avatar uploads",
+    "server handler validates identity, confirmation, CORS, MFA, target injection and service errors"
+  ]
+}

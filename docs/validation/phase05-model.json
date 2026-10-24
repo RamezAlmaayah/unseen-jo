@@ -1,0 +1,66 @@
+{
+  "scope": "Pure engine plus installed SDK against intercepted read-only responses; no hosted writes. Node CPU timings exclude network/React.",
+  "results": [
+    {
+      "name": "normalization reuses categories, ranges, custom total budget and hours without inventing GPS",
+      "status": "passed"
+    },
+    {
+      "name": "multiple interests and multi-category records materially affect ranking",
+      "status": "passed"
+    },
+    {
+      "name": "fixed denominator penalizes missing evidence; coverage is separate from match quality",
+      "status": "passed"
+    },
+    {
+      "name": "unknown admission is never free; strict total budget cannot be proved from admission",
+      "status": "passed"
+    },
+    {
+      "name": "time uses visit estimates, excludes known impossible minima and preserves unknowns",
+      "status": "passed"
+    },
+    {
+      "name": "geodesic distances are approximate straight-line km; missing location is safe",
+      "status": "passed"
+    },
+    {
+      "name": "published-only eligibility rejects drafts, demos, deleted/inactive and malformed records",
+      "status": "passed"
+    },
+    {
+      "name": "strict unknowns require explicit relaxation; verified failures remain blocked",
+      "status": "passed"
+    },
+    {
+      "name": "explanations are evidence based: no budget, transport, opening or family safety claims",
+      "status": "passed"
+    },
+    {
+      "name": "deterministic ranking and controlled diversity preserve strong preferences",
+      "status": "passed"
+    },
+    {
+      "name": "public recommendations use the shared image-qualified catalog, ordered pages and published/demo filters",
+      "status": "passed"
+    }
+  ],
+  "processing": [
+    {
+      "count": 6,
+      "medianMs": 0.14859999999998763,
+      "p95Ms": 0.41419999999993706
+    },
+    {
+      "count": 1000,
+      "medianMs": 8.022100000000137,
+      "p95Ms": 41.641599999999926
+    },
+    {
+      "count": 10000,
+      "medianMs": 62.63289999999961,
+      "p95Ms": 78.45960000000014
+    }
+  ]
+}

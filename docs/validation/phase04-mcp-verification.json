@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-18",
+  "connection": "supabase_unseen_jo",
+  "project": "dkhwwvoplhfjccvjegty",
+  "apiUrl": "https://dkhwwvoplhfjccvjegty.supabase.co",
+  "actualSuccessfulTools": ["get_project_url", "list_migrations", "list_tables", "execute_sql", "get_advisors", "search_docs", "apply_migration"],
+  "migration": { "version": "20261018154102", "name": "phase04_admin_cms", "applied": true },
+  "postMigrationReadOnlySql": { "admins": 0, "published": 0, "drafts": 6, "categories": 7, "images": 0, "review_rls": true },
+  "securityAdvisorFindings": [],
+  "publicAdminRpcFunctionsUseSecurityInvoker": true,
+  "connectionConfigurationEdited": false,
+  "originalConnectionPreserved": true,
+  "adminPrivilegesGranted": false,
+  "destinationsPublished": false,
+  "destructiveRemoteChanges": false,
+  "liveAuthenticatedAdminAcceptance": "pending approval of specific existing Auth user"
+}

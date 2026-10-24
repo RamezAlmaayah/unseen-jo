@@ -1,0 +1,199 @@
+{
+  "base": "http://127.0.0.1:4184",
+  "stage": "premium",
+  "status": "failed",
+  "scope": "Real Chromium layout/Motion/router; Auth settings fixture, empty sessions, reset visual state fixture; no account operations or hosted writes.",
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "login",
+      "shellWidth": 960,
+      "shellHeight": 594.1875,
+      "shellTop": 116.90625,
+      "shellBottom": 711.09375,
+      "contentHeight": 536.1875,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 680.09375,
+      "inputHeights": [
+        46,
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "register",
+      "shellWidth": 960,
+      "shellHeight": 627.1875,
+      "shellTop": 100.40625,
+      "shellBottom": 727.59375,
+      "contentHeight": 585.1875,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 696.59375,
+      "inputHeights": [
+        46,
+        46,
+        46,
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "recovery",
+      "shellWidth": 960,
+      "shellHeight": 512,
+      "shellTop": 158,
+      "shellBottom": 670,
+      "contentHeight": 420.6875,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 639,
+      "inputHeights": [
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "reset",
+      "shellWidth": 960,
+      "shellHeight": 562,
+      "shellTop": 133,
+      "shellBottom": 695,
+      "contentHeight": 479.1875,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 664,
+      "inputHeights": [
+        46,
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "confirmation",
+      "shellWidth": 960,
+      "shellHeight": 512,
+      "shellTop": 158,
+      "shellBottom": 670,
+      "contentHeight": 375.6875,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 639,
+      "inputHeights": [
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "reset-invalid",
+      "shellWidth": 960,
+      "shellHeight": 562,
+      "shellTop": 133,
+      "shellBottom": 695,
+      "contentHeight": 375.484375,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 664,
+      "inputHeights": [],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "callback",
+      "shellWidth": 960,
+      "shellHeight": 554,
+      "shellTop": 137,
+      "shellBottom": 691,
+      "contentHeight": 461.84375,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 660,
+      "inputHeights": [],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "callback-error",
+      "shellWidth": 960,
+      "shellHeight": 554,
+      "shellTop": 137,
+      "shellBottom": 691,
+      "contentHeight": 461.84375,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 660,
+      "inputHeights": [],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "mode": "callback-pkce",
+      "shellWidth": 960,
+      "shellHeight": 554,
+      "shellTop": 137,
+      "shellBottom": 691,
+      "contentHeight": 481.640625,
+      "documentHeight": 768,
+      "horizontalOverflow": false,
+      "controlsBottom": 660,
+      "inputHeights": [],
+      "clippedControls": [],
+      "direction": "ltr"
+    },
+    {
+      "language": "en",
+      "width": 1280,
+      "height": 720,
+      "mode": "login",
+      "shellWidth": 960,
+      "shellHeight": 594.1875,
+      "shellTop": 92.90625,
+      "shellBottom": 687.09375,
+      "contentHeight": 536.1875,
+      "documentHeight": 720,
+      "horizontalOverflow": false,
+      "controlsBottom": 656.09375,
+      "inputHeights": [
+        46,
+        46
+      ],
+      "clippedControls": [],
+      "direction": "ltr"
+    }
+  ],
+  "errors": [
+    "frame.evaluate: Execution context was destroyed, most likely because of a navigation."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "scope": "Rendered React browser tests with stateful Supabase HTTP fixtures; real MapLibre and OpenFreeMap map layers. No genuine user session was accessible. No hosted data mutations.",
+  "passed": 13,
+  "results": [
+    {
+      "name": "chart series match exact current rows and overlapping quality dimensions",
+      "status": "passed"
+    },
+    {
+      "name": "dashboard charts, KPI links, sidebar collapse and desktop screenshot",
+      "status": "passed"
+    },
+    {
+      "name": "WCAG accessibility scan of dashboard and places",
+      "status": "passed"
+    },
+    {
+      "name": "search debounce, status filters, clearing and Places screenshot",
+      "status": "passed"
+    },
+    {
+      "name": "new place grouping and manual coordinates initialize a real geographic MapLibre map",
+      "status": "passed"
+    },
+    {
+      "name": "map click, draggable pin, keyboard movement and legal attribution",
+      "status": "passed"
+    },
+    {
+      "name": "draft save preserves coordinates/categories and refreshes dashboard totals",
+      "status": "passed"
+    },
+    {
+      "name": "unsaved private preview is keyboard-modal and does not publish or save",
+      "status": "passed"
+    },
+    {
+      "name": "optimistic conflict preserves unsaved fields and displays actionable error",
+      "status": "passed"
+    },
+    {
+      "name": "category creation updates category statistics after navigation",
+      "status": "passed"
+    },
+    {
+      "name": "mobile drawer focus, Escape, responsive pages and reduced motion",
+      "status": "passed"
+    },
+    {
+      "name": "tablet layout, acceptance handoff, profile logout and signed-out guard",
+      "status": "passed"
+    },
+    {
+      "name": "editor and private preview WCAG audits",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

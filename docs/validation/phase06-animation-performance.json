@@ -1,0 +1,99 @@
+{
+  "scope": "Actual production-preview guest requests (no mocked Auth settings); headless Chromium, unthrottled desktop and simulated 4× CPU mobile. These are measured frame intervals, not guaranteed hardware FPS. No before/after speedup claimed.",
+  "base": "http://127.0.0.1:4190",
+  "results": [
+    {
+      "width": 1366,
+      "language": "en",
+      "reducedMotion": false,
+      "cpuThrottle": 1,
+      "usableMs": 638,
+      "lcpMs": 472,
+      "initialTransferBytes": 453216,
+      "initialImageRequests": 1,
+      "initialJsEncodedBytes": 314292,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "layoutShift": 0,
+      "animationFrameSamples": 60,
+      "frameGapMedianMs": 16.699999999999818,
+      "frameGapP95Ms": 16.700000000000273,
+      "framesOver50ms": 0,
+      "shellHeightRangePx": 0
+    },
+    {
+      "width": 1366,
+      "language": "ar-JO",
+      "reducedMotion": false,
+      "cpuThrottle": 1,
+      "usableMs": 258,
+      "lcpMs": 304,
+      "initialTransferBytes": 618832,
+      "initialImageRequests": 1,
+      "initialJsEncodedBytes": 314292,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "layoutShift": 0,
+      "animationFrameSamples": 56,
+      "frameGapMedianMs": 16.700000000000045,
+      "frameGapP95Ms": 16.800000000000182,
+      "framesOver50ms": 1,
+      "shellHeightRangePx": 0
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "reducedMotion": false,
+      "cpuThrottle": 4,
+      "usableMs": 1005,
+      "lcpMs": 484,
+      "initialTransferBytes": 453216,
+      "initialImageRequests": 1,
+      "initialJsEncodedBytes": 314292,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "layoutShift": 0,
+      "animationFrameSamples": 60,
+      "frameGapMedianMs": 16.699999999999818,
+      "frameGapP95Ms": 16.799999999999727,
+      "framesOver50ms": 0,
+      "shellHeightRangePx": 0
+    },
+    {
+      "width": 320,
+      "language": "ar-JO",
+      "reducedMotion": true,
+      "cpuThrottle": 1,
+      "usableMs": 273,
+      "lcpMs": 272,
+      "initialTransferBytes": 618832,
+      "initialImageRequests": 1,
+      "initialJsEncodedBytes": 314292,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "layoutShift": 0.00019190586419753086,
+      "animationFrameSamples": 60,
+      "frameGapMedianMs": 16.699999999999818,
+      "frameGapP95Ms": 16.800000000000182,
+      "framesOver50ms": 0,
+      "shellHeightRangePx": 0
+    }
+  ],
+  "chunks": [
+    {
+      "file": "AuthCallbackPage-B_Hki30R.js",
+      "rawBytes": 3937,
+      "gzipBytes": 1629
+    },
+    {
+      "file": "AuthPage-yNZY1Vn0.js",
+      "rawBytes": 9477,
+      "gzipBytes": 3656
+    },
+    {
+      "file": "ProfilePage--QxYcUvP.js",
+      "rawBytes": 7626,
+      "gzipBytes": 2804
+    }
+  ]
+}

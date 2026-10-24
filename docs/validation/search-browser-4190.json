@@ -1,0 +1,63 @@
+{
+  "base": "http://127.0.0.1:4190",
+  "scopes": "Explore cases use actual anonymous hosted data. Saved/visited guest and account cases and all Admin cases use isolated Auth/REST fixtures; no genuine signed-in acceptance claimed.",
+  "results": [
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab en 1366",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab en 390",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab ar-JO 1366",
+      "status": "passed"
+    },
+    {
+      "name": "LIVE public Explore/header/map/search/clear/filter/language/tab ar-JO 390",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search guest en",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search guest ar-JO",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search account en",
+      "status": "passed"
+    },
+    {
+      "name": "saved/visited search account ar-JO",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search en 1366",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search en 390",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search ar-JO 1366",
+      "status": "passed"
+    },
+    {
+      "name": "Admin full-dataset Places and Translation search ar-JO 390",
+      "status": "passed"
+    },
+    {
+      "name": "Admin search errors retain controls, recover and preserve unsaved translation text",
+      "status": "passed"
+    },
+    {
+      "name": "Admin ordinary-user denial prevents any search data query",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

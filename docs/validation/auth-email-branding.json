@@ -1,0 +1,343 @@
+{
+  "scope": "Chromium HTML previews with local logo fixture; Gmail-style head-stripped inline rendering and dark preference. Not real email delivery or Outlook desktop certification.",
+  "logoPubliclyHosted": false,
+  "hostedTemplatesUpdated": false,
+  "results": [
+    {
+      "template": "confirmation",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "confirmation",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "confirmation",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "confirmation",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "confirmation",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "confirmation",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "recovery",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "invite",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "magic_link",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_change",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "reauthentication",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "password_changed_notification",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "en",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "en",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "ar",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "ar",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "bilingual",
+      "width": 600,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    },
+    {
+      "template": "email_changed_notification",
+      "locale": "bilingual",
+      "width": 320,
+      "logo": "local fixture loaded",
+      "status": "passed"
+    }
+  ]
+}

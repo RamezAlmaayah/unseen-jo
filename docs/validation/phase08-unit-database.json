@@ -1,0 +1,45 @@
+{
+  "scope": "Local package validation and real disposable PostgreSQL with real RLS; zero hosted writes. Synthetic test users never exist in hosted Supabase.",
+  "results": [
+    {
+      "name": "exact 18-candidate inventory, package hashes, bilingual content and qualified coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "auth, target-project and explicit publication attestation fail before mutations",
+      "status": "passed"
+    },
+    {
+      "name": "expiry follows actual per-source and per-file checks, not the package rebuild time",
+      "status": "passed"
+    },
+    {
+      "name": "hosted float8 JSON representation is canonicalized without accepting content or meaningful coordinate changes",
+      "status": "passed"
+    },
+    {
+      "name": "full migration replay, original starter protection and ordinary-user denial",
+      "status": "passed"
+    },
+    {
+      "name": "all 18 bilingual drafts use the existing guarded Quick Edit RPC without approvals",
+      "status": "passed"
+    },
+    {
+      "name": "duplicates cannot insert, original six rows remain byte-equivalent and audit actors are genuine test identities",
+      "status": "passed"
+    },
+    {
+      "name": "drafts and Arabic remain invisible to guests and ordinary users; incomplete publication is rejected",
+      "status": "passed"
+    },
+    {
+      "name": "bilingual new-destination names are searchable without approving draft content",
+      "status": "passed"
+    },
+    {
+      "name": "explicit synthetic Admin attestation permits only a complete localized destination through actual guarded RPCs",
+      "status": "passed"
+    }
+  ]
+}

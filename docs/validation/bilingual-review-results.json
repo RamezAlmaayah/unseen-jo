@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-19",
+  "phase": "04L review handover",
+  "url": "http://127.0.0.1:4184/admin/translations",
+  "status": "Review workspace ready; awaiting owner review; genuine browser acceptance remains outstanding",
+  "tests": {
+    "productionValidation": "passed: Oxlint, assets, Vite build",
+    "reviewUnitGroups": 3,
+    "reviewDatabaseGroups": 14,
+    "reviewBrowserChecks": 12,
+    "bilingualViewportAccessibilityScans": 6,
+    "accessibilityViolations": 0,
+    "existingLocalizationUnitGroups": 6,
+    "existingLocalizationDatabaseGroups": 14,
+    "existingHostedAnonymousChecks": 3,
+    "existingInteractionGroups": 7,
+    "missingStaticLocalizationKeys": 0
+  },
+  "preservationArtifact": "bilingual-review-preservation.json",
+  "manualReviewDestinations": [
+    "ajloun-forest",
+    "salt-historic",
+    "wadi-mujib",
+    "dana-reserve",
+    "iraq-al-amir",
+    "umm-qais"
+  ],
+  "realAccountAcceptance": {
+    "status": "not verified",
+    "browserDiscovery": "apps: [], browsers: [] (including final handover check)",
+    "browserOpenError": "Browser is not available: chrome",
+    "credentialsExported": false
+  },
+  "automaticApprovals": false,
+  "destinationsPublished": false,
+  "phase05Started": false
+}

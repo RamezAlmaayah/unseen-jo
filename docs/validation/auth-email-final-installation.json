@@ -1,0 +1,59 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "checkedAt": "2026-10-22T19:46:22.759Z",
+  "logoUrl": "https://dkhwwvoplhfjccvjegty.supabase.co/storage/v1/object/public/brand-assets/unseen-jo-email-logo-v1.png",
+  "publicLogoStatus": 400,
+  "publicLogoVerified": false,
+  "hostedTemplatesVerified": false,
+  "hostedTemplatesChanged": false,
+  "checks": [
+    {
+      "kind": "confirmation",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "recovery",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "invite",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "magic_link",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "email_change",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "reauthentication",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "password_changed_notification",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    },
+    {
+      "kind": "email_changed_notification",
+      "variablesValid": true,
+      "logoUrlConsistent": true,
+      "noCredentialsFound": true
+    }
+  ]
+}

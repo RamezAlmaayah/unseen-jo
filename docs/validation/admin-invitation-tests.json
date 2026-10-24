@@ -1,0 +1,43 @@
+{
+  "scope": "Local routes and intercepted Auth fixtures only. No hosted Auth probe, invitations, real passwords, roles or hosted settings changed.",
+  "passed": 9,
+  "results": [
+    {
+      "name": "real local invitation and recovery routes fail closed without a session",
+      "status": "passed"
+    },
+    {
+      "name": "invalid invitation session fails closed (local fixture unless hosted probe explicitly enabled)",
+      "status": "passed"
+    },
+    {
+      "name": "standard invitation fragment establishes verified session, scrubs URL and survives reload",
+      "status": "passed"
+    },
+    {
+      "name": "password confirmation blocks mismatch; successful Auth update signs out and grants no role",
+      "status": "passed"
+    },
+    {
+      "name": "custom invite token-hash callback exchanges exactly once under StrictMode",
+      "status": "passed"
+    },
+    {
+      "name": "expired links and mismatched callback types fail closed without password fields",
+      "status": "passed"
+    },
+    {
+      "name": "PKCE recovery delegates to official code exchange and strips query before exchange",
+      "status": "passed"
+    },
+    {
+      "name": "same-browser recovery preserves real SDK PKCE verifier and exchanges code",
+      "status": "passed"
+    },
+    {
+      "name": "newly invited ordinary user remains denied CMS access",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

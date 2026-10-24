@@ -1,0 +1,133 @@
+{
+  "verifiedAt": "2026-10-21",
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Actual hosted additive DDL plus read-only verification; no account or tourism data writes.",
+  "before": {
+    "places": "9ae1d6df0e88a9221c75ca516ff6139a",
+    "images": "9af8b1b68f01543006c931bd4d630eda",
+    "roles": "c9a300d005f84b7e10b5f96dafc11c87",
+    "storage": "02811d0d707fc921a85827ddc7f77b9d",
+    "translations": "9a20c9038b83dcaa673e95826ae15989"
+  },
+  "verification": {
+    "tables": [
+      {
+        "name": "user_discovery_history",
+        "rls": true
+      },
+      {
+        "name": "user_visited_places",
+        "rls": true
+      }
+    ],
+    "policies": [
+      {
+        "table": "user_visited_places",
+        "name": "uj_visits_delete",
+        "command": "DELETE",
+        "roles": [
+          "authenticated"
+        ],
+        "using": "(user_id = ( SELECT auth.uid() AS uid))",
+        "check": null
+      },
+      {
+        "table": "user_visited_places",
+        "name": "uj_visits_insert",
+        "command": "INSERT",
+        "roles": [
+          "authenticated"
+        ],
+        "using": null,
+        "check": "((user_id = ( SELECT auth.uid() AS uid)) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = user_visited_places.place_id) AND (p.status = 'published'::text) AND (NOT p.is_demo)))))"
+      },
+      {
+        "table": "user_visited_places",
+        "name": "uj_visits_read",
+        "command": "SELECT",
+        "roles": [
+          "authenticated"
+        ],
+        "using": "(user_id = ( SELECT auth.uid() AS uid))",
+        "check": null
+      },
+      {
+        "table": "user_visited_places",
+        "name": "uj_visits_update",
+        "command": "UPDATE",
+        "roles": [
+          "authenticated"
+        ],
+        "using": "(user_id = ( SELECT auth.uid() AS uid))",
+        "check": "(user_id = ( SELECT auth.uid() AS uid))"
+      },
+      {
+        "table": "user_discovery_history",
+        "name": "uj_history_delete",
+        "command": "DELETE",
+        "roles": [
+          "authenticated"
+        ],
+        "using": "(user_id = ( SELECT auth.uid() AS uid))",
+        "check": null
+      },
+      {
+        "table": "user_discovery_history",
+        "name": "uj_history_insert",
+        "command": "INSERT",
+        "roles": [
+          "authenticated"
+        ],
+        "using": null,
+        "check": "((user_id = ( SELECT auth.uid() AS uid)) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = user_discovery_history.place_id) AND (p.status = 'published'::text) AND (NOT p.is_demo)))))"
+      },
+      {
+        "table": "user_discovery_history",
+        "name": "uj_history_read",
+        "command": "SELECT",
+        "roles": [
+          "authenticated"
+        ],
+        "using": "(user_id = ( SELECT auth.uid() AS uid))",
+        "check": null
+      }
+    ],
+    "visits": 0,
+    "history": 0,
+    "published": 6,
+    "preservation": {
+      "places": "9ae1d6df0e88a9221c75ca516ff6139a",
+      "images": "9af8b1b68f01543006c931bd4d630eda",
+      "roles": "c9a300d005f84b7e10b5f96dafc11c87",
+      "storage": "02811d0d707fc921a85827ddc7f77b9d",
+      "translations": "9a20c9038b83dcaa673e95826ae15989"
+    }
+  },
+  "advisor": {
+    "result": {
+      "lints": [
+        {
+          "name": "auth_leaked_password_protection",
+          "title": "Leaked Password Protection Disabled",
+          "level": "WARN",
+          "facing": "EXTERNAL",
+          "categories": [
+            "SECURITY"
+          ],
+          "description": "Leaked password protection is currently disabled.",
+          "remediation": "https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection",
+          "count": 1,
+          "findings": [
+            {
+              "detail": "Supabase Auth prevents the use of compromised passwords by checking against HaveIBeenPwned.org. Enable this feature to enhance security.",
+              "metadata": {
+                "type": "auth",
+                "entity": "Auth"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

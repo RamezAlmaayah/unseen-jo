@@ -1,0 +1,25 @@
+{
+  "scope": "Genuine anonymous hosted data; real language-switch controls and MapLibre",
+  "languages": [
+    "ar-JO",
+    "en"
+  ],
+  "destinations": 6,
+  "selectionPreserved": true,
+  "switches": [
+    {
+      "language": "ar-JO",
+      "sameCanvas": false,
+      "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759"
+    },
+    {
+      "language": "en",
+      "sameCanvas": false,
+      "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759"
+    }
+  ],
+  "ordinaryPopupClose": true,
+  "additionalCatalogQueries": 0,
+  "errors": [],
+  "status": "passed"
+}

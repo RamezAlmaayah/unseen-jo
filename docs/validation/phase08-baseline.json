@@ -1,0 +1,102 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "capturedAt": "2026-10-21T17:42:31.422Z",
+  "baseline": {
+    "places": [
+      {
+        "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+        "name": "Ajloun Forest Reserve",
+        "slug": "ajloun-forest",
+        "status": "published",
+        "updated_at": "2026-10-19T18:16:26.541095+00:00"
+      },
+      {
+        "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+        "name": "Dana Biosphere Reserve",
+        "slug": "dana-reserve",
+        "status": "published",
+        "updated_at": "2026-10-19T18:16:39.768052+00:00"
+      },
+      {
+        "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+        "name": "Iraq Al-Amir",
+        "slug": "iraq-al-amir",
+        "status": "published",
+        "updated_at": "2026-10-19T18:16:45.896524+00:00"
+      },
+      {
+        "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+        "name": "As-Salt Historic Centre",
+        "slug": "salt-historic",
+        "status": "published",
+        "updated_at": "2026-10-19T18:16:55.637497+00:00"
+      },
+      {
+        "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+        "name": "Umm Qais",
+        "slug": "umm-qais",
+        "status": "published",
+        "updated_at": "2026-10-19T18:17:00.619931+00:00"
+      },
+      {
+        "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+        "name": "Mujib Biosphere Reserve",
+        "slug": "wadi-mujib",
+        "status": "published",
+        "updated_at": "2026-10-19T19:24:18.983976+00:00"
+      }
+    ],
+    "categories": [
+      {
+        "id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "name": "Nature",
+        "slug": "nature",
+        "is_active": true
+      },
+      {
+        "id": "1dd502dc-3170-45fb-96c4-e666c0817e6e",
+        "name": "Food",
+        "slug": "food",
+        "is_active": true
+      },
+      {
+        "id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "name": "History",
+        "slug": "history",
+        "is_active": true
+      },
+      {
+        "id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "name": "Culture",
+        "slug": "culture",
+        "is_active": true
+      },
+      {
+        "id": "76c091cd-4de2-4c00-b579-d8470ddc07c1",
+        "name": "Adventure",
+        "slug": "adventure",
+        "is_active": true
+      },
+      {
+        "id": "cf40fa94-1b34-4096-b520-b36b25752fdb",
+        "name": "Photography",
+        "slug": "photography",
+        "is_active": true
+      },
+      {
+        "id": "b2024002-4323-4fd4-91e4-c1949f8989db",
+        "name": "Family",
+        "slug": "family",
+        "is_active": true
+      }
+    ],
+    "fingerprints": {
+      "roles": "b3990d9afd13d01ffff9de7bf16fd691",
+      "images": "cffd3bf3d2371f68682c346548f619b3",
+      "places": "f98a74f3b163c705ebc4051a913599d1",
+      "buckets": "15bde790cf4caaedda888be0cc19ee04",
+      "objects": "ccab813c6f2dd36dbde4175dc67ae701",
+      "translations": "ab50b2ddf3c7272b5395257266d15b20"
+    }
+  }
+}

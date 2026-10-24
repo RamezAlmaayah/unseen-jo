@@ -1,0 +1,70 @@
+{
+  "scope": "Disposable PGlite/PostGIS with simulated Auth sessions and Storage; no remote writes",
+  "passed": 16,
+  "results": [
+    {
+      "name": "full migration replay preserves drafts and assigns no administrator",
+      "status": "passed"
+    },
+    {
+      "name": "anonymous RPC, draft and media access fail closed",
+      "status": "passed"
+    },
+    {
+      "name": "ordinary users cannot self-promote, mutate content or inspect audit logs",
+      "status": "passed"
+    },
+    {
+      "name": "admin role requires an active matching session and checks expiration",
+      "status": "passed"
+    },
+    {
+      "name": "transactional draft save allowlists fields and rejects stale updates",
+      "status": "passed"
+    },
+    {
+      "name": "incomplete publication is rejected via RPC and direct table write",
+      "status": "passed"
+    },
+    {
+      "name": "image approval requires saved evidence and uploaded bytes",
+      "status": "passed"
+    },
+    {
+      "name": "reviewed complete destination publishes and protects media dependencies",
+      "status": "passed"
+    },
+    {
+      "name": "audit entries cannot be forged or edited by clients",
+      "status": "passed"
+    },
+    {
+      "name": "browser input rejects unsafe data and executable image types",
+      "status": "passed"
+    },
+    {
+      "name": "translation rows start pending and remain invisible for real drafts",
+      "status": "passed"
+    },
+    {
+      "name": "translation approval alone cannot expose a draft or publish unverified content",
+      "status": "passed"
+    },
+    {
+      "name": "public Arabic requires published parent, explicit review and current English timestamp",
+      "status": "passed"
+    },
+    {
+      "name": "translation identity, uniqueness, stale review, session and audit boundaries hold",
+      "status": "passed"
+    },
+    {
+      "name": "cover replacement rejects anonymous, non-admin, stale, cross-place and published operations",
+      "status": "passed"
+    },
+    {
+      "name": "atomic replacement preserves evidence and private pending media independently of publication",
+      "status": "passed"
+    }
+  ]
+}

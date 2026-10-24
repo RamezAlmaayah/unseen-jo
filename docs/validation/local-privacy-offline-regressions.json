@@ -1,0 +1,83 @@
+{
+  "scope": "Disposable PGlite/model/static checks; not actual Supabase Auth/Storage integration",
+  "results": [
+    {
+      "name": "check-phase02a",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "ry\nPASS browser config rejects secrets, missing pairs and unsafe URLs; blank config is safe\nPASS fresh database replay reproduces the application schema and policy definitions\n\n55 checks passed. Remote Supabase/Auth/Storage HTTP checks NOT executed.\n"
+    },
+    {
+      "name": "check-phase02b",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "ination reads beyond platform response limit without N+1\nPASS preference category mapping and live/demo routes keep distinct identities\nPASS draft content import executes twice, preserves edits and keeps unknowns NULL\n15 local grouped checks passed.\n"
+    },
+    {
+      "name": "check-phase03",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": " map-valid points\nPASS demo points are limited to sourced locations, never invented for missing reserves\nPASS all geolocation failure codes offer a manual fallback\nPASS custom style retains real vector/terrain/roads/POI/label sources and attribution\n"
+    },
+    {
+      "name": "check-phase04",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "r input rejects unsafe data and executable image types\nPASS cover replacement rejects anonymous, non-admin, stale, cross-place and published operations\nPASS atomic replacement preserves evidence and private pending media independently of publication\n"
+    },
+    {
+      "name": "check-phase05",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "d cache\n[{\"count\":6,\"medianMs\":0.04540000000000077,\"p95Ms\":0.0671000000000106},{\"count\":1000,\"medianMs\":3.3734000000000037,\"p95Ms\":5.8414000000000215},{\"count\":10000,\"medianMs\":20.931500000000028,\"p95Ms\":32.72289999999998}]\n11 Phase 05 groups passed\n"
+    },
+    {
+      "name": "check-phase06",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "cy preferences are handled safely\nPASS callbacks scrub tokens before verification, are idempotent and accept a later distinct callback\nPASS callback distinguishes absent PKCE storage, missing details, supported token types and optional flow selector\n"
+    },
+    {
+      "name": "check-phase07",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "idation handles invalid calendar values, optional dates and future dates\nPASS saved search, multiple categories and timestamp/name sorting use real field shapes\nPASS new Arabic labels retain Unicode text, parity and no encoding replacement sequences\n"
+    },
+    {
+      "name": "check-global-search",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "tion fields never become a public search index\nPASS literal hostile punctuation has no wildcard/regex meaning; empty and no-result states are deterministic\nPASS generated Arabic server patterns execute in real PostgreSQL without unsafe interpolation\n"
+    },
+    {
+      "name": "check-phase08",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "rdinary users; incomplete publication is rejected\nPASS bilingual new-destination names are searchable without approving draft content\nPASS explicit synthetic Admin attestation permits only a complete localized destination through actual guarded RPCs\n"
+    },
+    {
+      "name": "check-localization",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "e switching translates static and dynamic labels and preserves technical values\nPASS Intl dates, JOD amounts, counts and durations use the selected locale\nPASS localized public adapter keeps immutable map, filters, sources and image licensing fields\n"
+    },
+    {
+      "name": "check-localization-database",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "eness, stale review, session and audit boundaries hold\nPASS cover replacement rejects anonymous, non-admin, stale, cross-place and published operations\nPASS atomic replacement preserves evidence and private pending media independently of publication\n"
+    },
+    {
+      "name": "check-account-privacy",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "quest or partially deletes database records\nPASS synthetic account deletion cascades, preserves other accounts and blocks stale-token avatar uploads\nPASS server handler validates identity, confirmation, CORS, MFA, target injection and service errors\n"
+    },
+    {
+      "name": "check-seo",
+      "status": "PASS",
+      "exitCode": 0,
+      "outputTail": "e API origins are rejected\nPASS private routes, unknown routes and samples are noindex; public routes remain indexable\nPASS Arabic locale, destination summaries and clean canonical paths are supported\nPASS social preview is an actual 1200 by 630 PNG\n"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Read-only real hosted anonymous SDK checks",
+  "passed": 4,
+  "results": [
+    {
+      "name": "anonymous CMS and overview RPC access denied",
+      "status": "passed"
+    },
+    {
+      "name": "anonymous cannot inspect reviews or audit history",
+      "status": "passed"
+    },
+    {
+      "name": "draft destinations and unapproved images remain hidden",
+      "status": "passed"
+    },
+    {
+      "name": "seven active categories remain publicly readable",
+      "status": "passed"
+    }
+  ]
+}

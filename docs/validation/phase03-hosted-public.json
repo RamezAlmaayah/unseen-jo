@@ -1,0 +1,89 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "scope": "Fresh real public publishable-key SDK/HTTP only. Positive published SQL tests referenced by the older script belong to Phase 02B, not a new privileged audit.",
+  "passed": 17,
+  "results": [
+    {
+      "name": "verified URL and enabled modern publishable key initialize public SDK",
+      "status": "passed"
+    },
+    {
+      "name": "seven real active categories",
+      "status": "passed"
+    },
+    {
+      "name": "real nested published-place API returns honest empty catalog",
+      "status": "passed"
+    },
+    {
+      "name": "unfiltered public query cannot see the six imported drafts",
+      "status": "passed"
+    },
+    {
+      "name": "draft slug is not publicly readable",
+      "status": "passed"
+    },
+    {
+      "name": "unknown and invalid slugs return null",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private profiles",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private user_roles",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private user_preferences",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private user_preference_categories",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private saved_places",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private recommendation_feedback",
+      "status": "passed"
+    },
+    {
+      "name": "public requests denied private admin_audit_logs",
+      "status": "passed"
+    },
+    {
+      "name": "public category insert forbidden",
+      "status": "passed"
+    },
+    {
+      "name": "public place updates forbidden",
+      "status": "passed"
+    },
+    {
+      "name": "public place deletes forbidden",
+      "status": "passed"
+    },
+    {
+      "name": "published image metadata remains empty under real RLS",
+      "status": "passed"
+    }
+  ],
+  "date": "2026-10-18",
+  "counts": {
+    "activeCategories": 7,
+    "publicPlaces": 0,
+    "publicPlaceImages": 0
+  },
+  "dedicatedMcp": {
+    "accessible": false,
+    "error": "OAuth refresh failed: Failed to parse server response",
+    "privilegedStateLastVerified": "2026-10-16",
+    "lastVerifiedDraftCount": 6,
+    "lastVerifiedCoordinatePairs": 0
+  },
+  "writesApplied": 0
+}

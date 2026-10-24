@@ -1,0 +1,8 @@
+{
+  "scope": "Genuine final anonymous read of the same public projection; no writes. This verifies public records, not private audit tables.",
+  "checkedAt": "2026-10-20T17:14:58.879Z",
+  "count": 6,
+  "beforeHash": "506c3b33639526ccbc334c8070f108c2a127dea2a791032a113373b02b6b2ee7",
+  "afterHash": "506c3b33639526ccbc334c8070f108c2a127dea2a791032a113373b02b6b2ee7",
+  "status": "passed"
+}

@@ -1,0 +1,25 @@
+{
+  "scope": "Two read-only hosted snapshots; versions, IDs, slugs, statuses, translation states, media identity/approval and category relationships compared. No hosted mutation performed.",
+  "results": [
+    {
+      "entity": "places",
+      "count": 24,
+      "unchanged": true
+    },
+    {
+      "entity": "translations",
+      "count": 24,
+      "unchanged": true
+    },
+    {
+      "entity": "images",
+      "count": 45,
+      "unchanged": true
+    },
+    {
+      "entity": "relationships",
+      "count": 48,
+      "unchanged": true
+    }
+  ]
+}

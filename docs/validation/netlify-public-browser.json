@@ -1,0 +1,417 @@
+{
+  "scope": "Actual production build in isolated Chromium; real anonymous hosted API/Storage reads, no API fixtures; all content/Auth mutations blocked",
+  "generatedAt": "2026-10-24T16:27:53.488Z",
+  "catalog": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "name": "Ajloun Forest Reserve",
+      "status": "published",
+      "publicImageRows": 2,
+      "eligible": true
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "name": "Baptism Site (Al-Maghtas)",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "name": "Amman Citadel",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "name": "Amman Roman Theatre",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "slug": "aqaba-marine-reserve",
+      "name": "Aqaba Marine Reserve",
+      "status": "published",
+      "publicImageRows": 1,
+      "eligible": true
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "name": "Azraq Wetland Reserve",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "name": "Dana Biosphere Reserve",
+      "status": "published",
+      "publicImageRows": 3,
+      "eligible": true
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "name": "Iraq Al-Amir",
+      "status": "published",
+      "publicImageRows": 1,
+      "eligible": true
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "name": "Jerash Archaeological City",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "name": "Karak Castle",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "name": "Little Petra (Siq Al-Barid)",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "name": "St. George’s Church (Madaba Map)",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "name": "Mount Nebo",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "name": "Pella (Tabaqat Fahl)",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "name": "Petra",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "name": "Quseir Amra",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "name": "As-Salt Historic Centre",
+      "status": "published",
+      "publicImageRows": 3,
+      "eligible": true
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "name": "Shaumari Wildlife Reserve",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "name": "Shobak Castle",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "name": "Um er-Rasas (Kastrom Mefa’a)",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "name": "Umm Al-Jimāl",
+      "status": "published",
+      "publicImageRows": 1,
+      "eligible": true
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "name": "Umm Qais",
+      "status": "published",
+      "publicImageRows": 1,
+      "eligible": true
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "name": "Mujib Biosphere Reserve",
+      "status": "published",
+      "publicImageRows": 2,
+      "eligible": true
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "name": "Wadi Rum Protected Area",
+      "status": "published",
+      "publicImageRows": 0,
+      "eligible": false
+    }
+  ],
+  "summary": {
+    "published": 24,
+    "eligible": 8,
+    "excluded": 16,
+    "publicImageRows": 14,
+    "hostedWrites": 0
+  },
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/",
+      "cards": 3,
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/explore",
+      "cards": 8,
+      "realPhotos": 8,
+      "axeViolations": 0,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/explore?search",
+      "excludedSearches": 16,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/map",
+      "markers": 8,
+      "mapReady": true,
+      "popupPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/ajloun-forest",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/aqaba-marine-reserve",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/dana-reserve",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/iraq-al-amir",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/salt-historic",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/umm-al-jimal",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/umm-qais",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/wadi-mujib",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/(image-less)",
+      "unavailableDetails": 16,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/discovery-result",
+      "selectedFromQualifiedCatalog": true,
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/",
+      "cards": 3,
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/explore",
+      "cards": 8,
+      "realPhotos": 8,
+      "axeViolations": 0,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/explore?search",
+      "excludedSearches": 16,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/map",
+      "markers": 8,
+      "mapReady": true,
+      "popupPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/ajloun-forest",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/aqaba-marine-reserve",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/dana-reserve",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/iraq-al-amir",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/salt-historic",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/umm-al-jimal",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/umm-qais",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/wadi-mujib",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/(image-less)",
+      "unavailableDetails": 16,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/discovery-result",
+      "selectedFromQualifiedCatalog": true,
+      "realPhotos": 1,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "blockedMutations": []
+}

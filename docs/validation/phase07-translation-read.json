@@ -1,0 +1,36 @@
+{
+  "scope": "Read-only hosted translation status; no tourism content or review status changed.",
+  "project": "dkhwwvoplhfjccvjegty",
+  "rows": [
+    {
+      "slug": "ajloun-forest",
+      "editorial_status": "reviewed",
+      "current_source": true
+    },
+    {
+      "slug": "dana-reserve",
+      "editorial_status": "reviewed",
+      "current_source": true
+    },
+    {
+      "slug": "iraq-al-amir",
+      "editorial_status": "reviewed",
+      "current_source": true
+    },
+    {
+      "slug": "salt-historic",
+      "editorial_status": "reviewed",
+      "current_source": true
+    },
+    {
+      "slug": "umm-qais",
+      "editorial_status": "reviewed",
+      "current_source": true
+    },
+    {
+      "slug": "wadi-mujib",
+      "editorial_status": "reviewed",
+      "current_source": false
+    }
+  ]
+}

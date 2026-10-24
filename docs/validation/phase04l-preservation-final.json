@@ -1,0 +1,40 @@
+﻿{
+  "checkedAt": "2026-10-19T15:57:40.902976+00:00",
+  "project": "dkhwwvoplhfjccvjegty",
+  "server": "supabase_unseen_jo",
+  "verifiedProjectUrl": "https://dkhwwvoplhfjccvjegty.supabase.co",
+  "finalPrivilegedRecheck": "passed",
+  "mode": "Explicit READ ONLY transactions; SELECT statements only; no remote mutations",
+  "baselineComparisons": {
+    "places": "Exact full-row match to phase04l-before.json and phase04l-remote.json",
+    "images": "Exact full-row match to both baselines",
+    "objects": "Exact id/name/bucket_id reference match to both baselines; object bytes not downloaded or hashed",
+    "roles": "Exact full-row match to both baselines",
+    "translations": "Exact full-row match to phase04l-remote.json",
+    "translationRls": true
+  },
+  "counts": {
+    "places": 6,
+    "drafts": 6,
+    "published": 0,
+    "images": 12,
+    "unapprovedImages": 12,
+    "storageObjects": 13,
+    "roles": 2,
+    "translations": 6,
+    "pendingTranslations": 6,
+    "reviewedTranslations": 0,
+    "staleTranslations": 0
+  },
+  "evidence": {
+    "snapshot": "phase04l-preservation-snapshot.json",
+    "access": "phase04l-access-final.json"
+  },
+  "accessEvidenceScope": "Current policies, anon/authenticated table grants, table RLS and bucket configuration recorded read-only. No complete pre-localization access snapshot exists here for a historical equality claim.",
+  "originalConnectionModified": false,
+  "remoteWrites": 0,
+  "phase04LStatus": "Finalized; manual editorial review remains pending",
+  "manualAcceptance": "Human Arabic/English wording and source-caution review for all six destinations; genuine signed-in save/review acceptance remains unexercised",
+  "phase05Started": false,
+  "previousBlocker": "Resolved after dedicated server reauthentication"
+}

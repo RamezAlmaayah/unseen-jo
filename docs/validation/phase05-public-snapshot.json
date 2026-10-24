@@ -1,0 +1,538 @@
+{
+  "retrievedAt": "2026-10-20T13:08:42.521Z",
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Genuine anonymous public records only; no signed media URLs or credentials",
+  "categories": [
+    {
+      "id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+      "slug": "nature",
+      "name": "Nature"
+    },
+    {
+      "id": "1dd502dc-3170-45fb-96c4-e666c0817e6e",
+      "slug": "food",
+      "name": "Food"
+    },
+    {
+      "id": "2ca78305-d041-4108-b860-8f58d4d67338",
+      "slug": "history",
+      "name": "History"
+    },
+    {
+      "id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+      "slug": "culture",
+      "name": "Culture"
+    },
+    {
+      "id": "76c091cd-4de2-4c00-b579-d8470ddc07c1",
+      "slug": "adventure",
+      "name": "Adventure"
+    },
+    {
+      "id": "cf40fa94-1b34-4096-b520-b36b25752fdb",
+      "slug": "photography",
+      "name": "Photography"
+    },
+    {
+      "id": "b2024002-4323-4fd4-91e4-c1949f8989db",
+      "slug": "family",
+      "name": "Family"
+    }
+  ],
+  "rows": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "name": "Ajloun Forest Reserve",
+      "status": "published",
+      "is_demo": false,
+      "description": "Ajloun Forest Reserve offers a woodland visit in the northern Jordanian highlands. Evergreen oak and other Mediterranean trees shelter wildlife, while walking routes introduce the reserve's landscape and nearby rural communities. RSCN manages the reserve, and UNESCO's biosphere programme records the wider Ajloun designation in 2025.\n\nVisitors can consider the short Roe Deer Trail or ask about guided routes connecting woodland with local craft enterprises. The Soap House, Biscuit House and Calligraphy House illustrate how conservation and community livelihoods are linked. These are distinct experiences with their own arrangements, not activities guaranteed with every admission. Spring is noted for wildflowers. Confirm the chosen route, guide requirements, fees and access with the operator before travelling. An editorial planning allowance of two to four hours suits a short reserve visit, rather than a full-day guided itinerary. Step-free access has not been verified.",
+      "city": "Ajloun",
+      "address": "Ajloun highlands, Ajloun Governorate, northern Jordan; reference pin for the forest reserve, not a surveyed entrance.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "verified_at": "2026-10-19T18:16:25.037213+00:00",
+      "updated_at": "2026-10-19T18:16:26.541095+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": 120,
+      "duration_max_minutes": 240,
+      "best_time_to_visit": "Spring for woodland greenery and wildflowers; confirm trail conditions with RSCN.",
+      "transportation_notes": "Use the forest reserve location reference, not Ajloun Castle. Confirm arrival, parking and any guided-route transfers with RSCN. No driving-time or step-free-access guarantee is provided.",
+      "suitable_groups": null,
+      "latitude": 32.3835625,
+      "longitude": 35.7604375,
+      "place_translations": [
+        {
+          "city": "عجلون",
+          "name": "محمية غابات عجلون",
+          "locale": "ar-JO",
+          "region": null,
+          "address": "مرتفعات عجلون، محافظة عجلون، شمال الأردن؛ نقطة مرجعية للمحمية وليست مدخلًا محددًا بالمسح.",
+          "place_id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+          "activities": null,
+          "updated_at": "2026-10-19T18:16:26.541095+00:00",
+          "updated_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "description": "تتيح محمية غابات عجلون زيارة بيئة حرجية في مرتفعات شمال الأردن. تؤوي أشجار السنديان دائمة الخضرة وغيرها من أشجار حوض المتوسط الحياة البرية، وتعرّف مسارات المشي الزوار بطبيعة المحمية والمجتمعات الريفية المجاورة. تدير الجمعية الملكية لحماية الطبيعة المحمية، ويسجل برنامج اليونسكو للمحيط الحيوي إدراج نطاق عجلون الأوسع عام ٢٠٢٥.\n\nيمكن للزوار التفكير في مسار اليحمور القصير، أو الاستفسار عن مسارات برفقة دليل تربط الغابة بمشروعات الحرف المحلية. وتوضح بيوت الصابون والبسكويت والخط العربي العلاقة بين حماية الطبيعة وسبل عيش المجتمع. هذه تجارب مستقلة لها ترتيباتها، وليست أنشطة مضمونة مع كل تذكرة دخول. ويُشار إلى الربيع بوصفه موسمًا للأزهار البرية. تحقق مع الجهة المشغلة من المسار المختار ومتطلبات الدليل والرسوم وإمكانية الدخول قبل السفر. نقترح تحريريًا تخصيص ساعتين إلى أربع ساعات لزيارة قصيرة للمحمية، لا لبرنامج إرشادي يمتد يومًا كاملًا. لم يُتحقق من توافر مسار خالٍ من الدرج.",
+          "feedback_at": null,
+          "feedback_by": null,
+          "reviewed_at": "2026-10-19T18:16:26.541095+00:00",
+          "reviewed_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "review_notes": null,
+          "opening_hours": null,
+          "editorial_status": "reviewed",
+          "visitor_guidance": "يعرض جدول الوزارة رسوم دخول المحمية: ٢٫٥ دينار للأردني و٦ للمقيم و٨ للأجنبي، إضافة إلى ضريبة ١٦٪، دون تحديد تاريخ سريان. هذه أدلة مصدرية بتاريخ الاطلاع وليست تأكيدًا للمبلغ الحالي المستحق؛ تبقى حقول السعر الموحد فارغة. ساعات العمل وتوافر المسارات حاليًا وملاءمة مجموعات الزوار وإمكانية الوصول غير موثقة. مدة الزيارة توصية تحريرية معلنة.\nالإحداثيات نقطة مرجعية من رابط هيئة تنشيط السياحة، وليست مدخلًا ممسوحًا. نقطة اليونسكو للنطاق الحيوي الأوسع تختلف في المقياس؛ يلزم تأكيد ملاءمة نقطة الوصول مع المسؤول أو المشغّل.",
+          "source_updated_at": "2026-10-19T18:16:26.541095+00:00",
+          "best_time_to_visit": "الربيع لخضرة الغابة وأزهارها البرية؛ تحقق من أحوال المسارات مع الجمعية الملكية لحماية الطبيعة.",
+          "visitor_information": null,
+          "transportation_notes": "استخدم مرجع موقع محمية الغابة، لا قلعة عجلون. تحقق مع الجمعية الملكية لحماية الطبيعة من نقطة الوصول ومواقف السيارات وأي تنقلات للمسارات الإرشادية. لا يُقدَّم ضمان لمدة القيادة أو لإمكانية الوصول دون درج."
+        }
+      ],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+            "name": "Nature",
+            "slug": "nature"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "a8138cb1-326f-4932-862c-e043e6353a4f",
+          "alt_text": "Canvas-sided campsite cabins among trees and wildflowers at Ajlun Reserve, photographed in 2005.",
+          "is_cover": false,
+          "sort_order": 1,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg",
+          "attribution": "Ajlun Reserve 1.jpg — JoTB. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg"
+        },
+        {
+          "id": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+          "alt_text": "Oak woodland and a rocky walking trail in Ajloun Forest Reserve, photographed in May 2026.",
+          "is_cover": true,
+          "sort_order": 2,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+          "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+          "storage_path": "6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "name": "Dana Biosphere Reserve",
+      "status": "published",
+      "is_demo": false,
+      "description": "Dana Biosphere Reserve spans mountain slopes and deep valleys towards Wadi Araba, bringing together markedly different habitats in a compact landscape. Managed by RSCN, it combines biodiversity conservation with nature tourism and local livelihoods. Dana village offers a cultural introduction through its older buildings, terraced gardens and craft activity, while the reserve's walking routes reach very different terrain.\n\nChoose an itinerary before travelling: a village walk is not equivalent to a long descent into Wadi Dana or a visit to Feynan. The Jordan Tourism Board describes both guided and self-guided options, with some routes requiring a licensed guide or operating only in a stated season. RSCN's 2026 trail list separates route durations and notes that some transfers cost extra. Confirm the starting point, return transport, weather and guide arrangements. No single duration, admission price or universal accessibility claim is supplied for the entire reserve. The saved pin is a Dana reference area, not its boundary or a surveyed entrance.",
+      "city": "Dana",
+      "address": "Dana village reference area, Tafilah Governorate, Jordan; choose the appropriate trailhead separately for the wider reserve.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "verified_at": "2026-10-19T18:16:38.43725+00:00",
+      "updated_at": "2026-10-19T18:16:39.768052+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": null,
+      "duration_max_minutes": null,
+      "best_time_to_visit": null,
+      "transportation_notes": "Confirm your chosen starting point and return transfer with RSCN. A descent towards Feynan requires a return or onward plan; the Dana village reference pin does not locate every trail. The 2026 operator list notes extra transport costs for some routes.",
+      "suitable_groups": null,
+      "latitude": 30.6743125,
+      "longitude": 35.6083125,
+      "place_translations": [
+        {
+          "city": "ضانا",
+          "name": "محمية ضانا للمحيط الحيوي",
+          "locale": "ar-JO",
+          "region": null,
+          "address": "منطقة مرجعية لقرية ضانا، محافظة الطفيلة، الأردن؛ يجب اختيار بداية المسار المناسب بصورة مستقلة للمحمية الأوسع.",
+          "place_id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+          "activities": null,
+          "updated_at": "2026-10-19T18:16:39.768052+00:00",
+          "updated_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "description": "تمتد محمية ضانا للمحيط الحيوي عبر منحدرات جبلية وأودية عميقة باتجاه وادي عربة، وتجمع موائل متباينة بوضوح ضمن مشهد متقارب. تديرها الجمعية الملكية لحماية الطبيعة وتربط صون التنوع الحيوي بالسياحة الطبيعية وسبل العيش المحلية. وتتيح قرية ضانا مدخلًا ثقافيًا من خلال مبانيها القديمة وحدائقها المدرجة وأنشطتها الحرفية، بينما تصل مسارات المحمية إلى تضاريس مختلفة جدًا.\n\nاختر برنامجك قبل السفر: فالتجول في القرية لا يعادل هبوطًا طويلًا في وادي ضانا أو زيارة فينان. تعرض هيئة تنشيط السياحة خيارات برفقة دليل وأخرى دون دليل، وتتطلب بعض المسارات دليلًا مرخصًا أو تعمل في موسم محدد فقط. تفصل قائمة مسارات الجمعية لعام ٢٠٢٦ بين مدد المسارات، وتشير إلى أن بعض التنقلات برسوم إضافية. تحقق من نقطة البداية ومواصلات العودة والطقس وترتيبات الدليل. لا يُقدَّم وقت موحد أو رسم دخول واحد أو حكم عام عن سهولة الوصول للمحمية كلها. العلامة المحفوظة مرجع لمنطقة ضانا وليست حدود المحمية أو مدخلًا محددًا بالمسح.",
+          "feedback_at": null,
+          "feedback_by": null,
+          "reviewed_at": "2026-10-19T18:16:39.768052+00:00",
+          "reviewed_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "review_notes": null,
+          "opening_hours": null,
+          "editorial_status": "reviewed",
+          "visitor_guidance": "تسرد الجمعية لعام ٢٠٢٦ مسارات قصيرة تصل إلى ساعتين وخيارات أطول، برسوم تختلف حسب أهلية الزائر مع استثناء بعض التنقلات من السعر. يعرض الجدول الحكومي منفصلًا رسوم دخول ٢ و٥ و١٠ دنانير للأردني والمقيم والأجنبي، إضافة إلى الضريبة، دون تاريخ سريان. لا تساوِ بين رسم الدخول وحزمة برفقة دليل وإجمالي تكلفة الزيارة. تختلف المصادر في أعداد النطاقات الحيوية والأنواع، لذا حُذفت الادعاءات الرقمية عمدًا. الساعات الدقيقة وأفضل موسم عام وملاءمة المجموعات وإمكانية التنقل دون درج غير موثقة.\nروابط الأنشطة الرسمية تتشارك نقطة مرجعية واحدة لا تحدد كل بداية مسار. تذكر قائمة اليونسكو التمهيدية محافظة الطفيلة؛ ولا يعني ذلك الإدراج في قائمة التراث العالمي.",
+          "source_updated_at": "2026-10-19T18:16:39.768052+00:00",
+          "best_time_to_visit": null,
+          "visitor_information": null,
+          "transportation_notes": "أكد نقطة البداية المختارة وتنقل العودة مع الجمعية الملكية لحماية الطبيعة. يتطلب الهبوط باتجاه فينان خطة عودة أو متابعة؛ ولا تحدد نقطة قرية ضانا المرجعية جميع المسارات. تشير قائمة المشغّل لعام ٢٠٢٦ إلى تكاليف نقل إضافية لبعض المسارات."
+        }
+      ],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+            "name": "Nature",
+            "slug": "nature"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "0842e952-05a8-4d9f-be48-47d27ea1068c",
+          "alt_text": "Rounded sandstone outcrops above a wooded valley in Dana Biosphere Reserve.",
+          "is_cover": false,
+          "sort_order": 2,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_06.jpg",
+          "attribution": "Dana Reserve 06.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_06.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg"
+        },
+        {
+          "id": "18e5f55f-e32a-453f-9089-f1a8d88676cf",
+          "alt_text": "Pale sandstone formations and shrubs in Dana Biosphere Reserve.",
+          "is_cover": false,
+          "sort_order": 1,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_04.jpg",
+          "attribution": "Dana Reserve 04.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_04.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg"
+        },
+        {
+          "id": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+          "alt_text": "Rocky slopes and a broad mountain valley in Dana Biosphere Reserve.",
+          "is_cover": true,
+          "sort_order": 3,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+          "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "name": "Iraq Al-Amir",
+      "status": "published",
+      "is_demo": false,
+      "description": "Iraq Al-Amir offers a heritage visit southwest of Amman, where olive-growing countryside, hillside caves and ancient stone architecture form a different setting from the city centre. The Jordan Tourism Board identifies nearby Qasr El-Abd as a rare surviving example of pre-Roman architecture in Jordan, dating to the second century BCE. Its substantial masonry makes it a focus for visitors interested in the region's archaeological landscape.\n\nTreat the area and the palace as related but distinct places when planning a route. The local women's cooperative adds a contemporary craft connection, with visits requiring their own arrangements. Allow one to two hours as an editorial suggestion for an introductory archaeological stop, extending the visit only if other activities are arranged. Confirm access, opening and the appropriate arrival point before travelling. Cave access, step-free routes and current transport services have not been verified. The saved reference point is for the area rather than a surveyed palace entrance.",
+      "city": "Iraq Al-Amir",
+      "address": "Iraq Al-Amir area southwest of Amman, Jordan; Qasr El-Abd is a separate monument within the wider visit.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://international.visitjordan.com/wheretogo/amman/",
+      "verified_at": "2026-10-19T18:16:44.18194+00:00",
+      "updated_at": "2026-10-19T18:16:45.896524+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": 60,
+      "duration_max_minutes": 120,
+      "best_time_to_visit": null,
+      "transportation_notes": "Plan arrival in the Iraq Al-Amir area separately from access to Qasr El-Abd or the women's cooperative. Confirm the intended stop locally; the map reference is not a verified palace entrance. No driving time or public-bus timetable is asserted.",
+      "suitable_groups": null,
+      "latitude": 31.9195625,
+      "longitude": 35.7533125,
+      "place_translations": [
+        {
+          "city": "عراق الأمير",
+          "name": "عراق الأمير",
+          "locale": "ar-JO",
+          "region": null,
+          "address": "منطقة عراق الأمير جنوب غرب عمّان، الأردن؛ قصر العبد معلم مستقل ضمن نطاق الزيارة الأوسع.",
+          "place_id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+          "activities": null,
+          "updated_at": "2026-10-19T18:16:45.896524+00:00",
+          "updated_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "description": "تتيح عراق الأمير زيارة تراثية جنوب غرب عمّان، حيث تشكل الأراضي المزروعة بالزيتون وكهوف السفوح والعمارة الحجرية القديمة بيئة مختلفة عن وسط المدينة. وتعرّف هيئة تنشيط السياحة قصر العبد القريب بوصفه مثالًا نادرًا باقيًا للعمارة السابقة للعصر الروماني في الأردن، يعود إلى القرن الثاني قبل الميلاد. وتجعله كتله الحجرية الضخمة محورًا للزوار المهتمين بالمشهد الأثري للمنطقة.\n\nتعامل مع المنطقة والقصر بوصفهما مكانين مترابطين لكن مختلفين عند تخطيط المسار. وتضيف الجمعية التعاونية النسائية المحلية صلة بالحرف المعاصرة، ولزيارتها ترتيبات مستقلة. نقترح تحريريًا ساعة إلى ساعتين لوقفة أثرية تعريفية، مع تمديد الزيارة فقط عند ترتيب أنشطة أخرى. تحقق من الدخول وأوقات الفتح ونقطة الوصول المناسبة قبل السفر. لم يُتحقق من دخول الكهوف أو المسارات الخالية من الدرج أو خدمات النقل الحالية. النقطة المرجعية المحفوظة للمنطقة وليست مدخلًا ممسوحًا للقصر.",
+          "feedback_at": null,
+          "feedback_by": null,
+          "reviewed_at": "2026-10-19T18:16:45.896524+00:00",
+          "reviewed_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "review_notes": null,
+          "opening_hours": null,
+          "editorial_status": "reviewed",
+          "visitor_guidance": "جدول الوزارة: عراق الأمير ٠٫٢٥ دينار للأردني ودينار للأجنبي؛ لم يُحدد تاريخ السريان أو نطاق التذكرة بدقة. تبقى حقول السعر الرقمية فارغة لتجنب الخلط بين المنطقة والقصر والتعاونية. المدة توصية تحريرية وليست برنامجًا رسميًا. جدول الفتح وأفضل موسم وملاءمة المجموعات وإمكانية الوصول غير موثقة.\nنقطة هيئة تنشيط السياحة مرجع للمنطقة وليست مدخل قصر العبد؛ تُعرّف صور القصر بوصفه المعلم القريب.",
+          "source_updated_at": "2026-10-19T18:16:45.896524+00:00",
+          "best_time_to_visit": null,
+          "visitor_information": null,
+          "transportation_notes": "خطط للوصول إلى منطقة عراق الأمير بصورة مستقلة عن دخول قصر العبد أو التعاونية النسائية. أكد المحطة المقصودة محليًا؛ مرجع الخريطة ليس مدخلًا موثقًا للقصر. لا تُذكر مدة قيادة أو مواعيد حافلات غير موثقة."
+        }
+      ],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "2ca78305-d041-4108-b860-8f58d4d67338",
+            "name": "History",
+            "slug": "history"
+          }
+        },
+        {
+          "categories": {
+            "id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+            "name": "Culture",
+            "slug": "culture"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "42135ff9-bd5b-4d8f-b3e3-43df233e8b53",
+          "alt_text": "Large stone blocks and column remains at Qasr El-Abd near Iraq Al-Amir.",
+          "is_cover": true,
+          "sort_order": 1,
+          "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg",
+          "attribution": "View of Qasr Al-Abd, Amman.jpg — Makeandtoss. CC0. Source: https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg Licence: https://creativecommons.org/publicdomain/zero/1.0/deed.en. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg"
+        }
+      ]
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "name": "As-Salt Historic Centre",
+      "status": "published",
+      "is_demo": false,
+      "description": "As-Salt's historic centre brings together yellow-limestone buildings, connected stairways, narrow lanes and public spaces on steep hills. Its late-Ottoman growth as a trading town shaped an architecture and urban culture recognised by UNESCO when the property was inscribed in 2021. The listing highlights both the built environment and traditions of hospitality and cooperation among Muslim and Christian communities.\n\nA visit is best approached as a walk through a living urban district, with time to look at stonework, streets and the relationships between neighbourhoods and shared spaces. Respect homes, worship and everyday activity; private buildings are not automatically visitor attractions. Allow two to three hours as an editorial suggestion for an introductory walk. Stairways and changes in level are integral to the townscape, so visitors needing step-free access should confirm a suitable route locally. Individual museums and buildings have separate access arrangements; no single admission price or opening calendar is verified for the whole district.",
+      "city": "As-Salt",
+      "address": "Historic urban core of As-Salt, Balqa highlands, west-central Jordan; UNESCO property reference point, not a parking or entrance pin.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://whc.unesco.org/en/list/689/",
+      "verified_at": "2026-10-19T18:16:54.120333+00:00",
+      "updated_at": "2026-10-19T18:16:55.637497+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": 120,
+      "duration_max_minutes": 180,
+      "best_time_to_visit": null,
+      "transportation_notes": "Plan a walking route through the historic core and arrange an appropriate arrival point locally. The UNESCO property reference pin is not a verified car park. Stairways and steep streets mean step-free access must be checked for the intended route.",
+      "suitable_groups": null,
+      "latitude": 32.0426111111,
+      "longitude": 35.7283055556,
+      "place_translations": [
+        {
+          "city": "السلط",
+          "name": "وسط السلط التاريخي",
+          "locale": "ar-JO",
+          "region": null,
+          "address": "النواة التاريخية لمدينة السلط في مرتفعات البلقاء، وسط غرب الأردن؛ نقطة مرجعية لممتلك التراث العالمي وليست موقفًا أو مدخلًا.",
+          "place_id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+          "activities": null,
+          "updated_at": "2026-10-19T18:16:55.637497+00:00",
+          "updated_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "description": "يجمع وسط السلط التاريخي مباني الحجر الجيري الأصفر والسلالم المترابطة والأزقة الضيقة والفضاءات العامة على تلال شديدة الانحدار. وقد شكّل نمو المدينة التجاري في أواخر العهد العثماني عمارتها وثقافتها الحضرية، اللتين اعترفت بهما اليونسكو عند إدراج الموقع عام ٢٠٢١. ويبرز الإدراج البيئة المبنية وتقاليد الضيافة والتعاون بين المجتمعين المسلم والمسيحي.\n\nأفضل مقاربة للزيارة هي التجول سيرًا في حي حضري حي، مع وقت لتأمل الأعمال الحجرية والشوارع والعلاقة بين الأحياء والمساحات المشتركة. احترم المساكن ودور العبادة والحياة اليومية؛ فالمباني الخاصة ليست معالم متاحة للزيارة تلقائيًا. نقترح تحريريًا تخصيص ساعتين إلى ثلاث ساعات لجولة تعريفية. السلالم وتفاوت المناسيب جزء أساسي من مشهد المدينة، لذا ينبغي لمن يحتاج إلى مسار خالٍ من الدرج تأكيد مسار مناسب محليًا. لكل متحف ومبنى ترتيبات دخول مستقلة؛ ولم يُوثق سعر دخول موحد أو جدول عمل يشمل الحي بأكمله.",
+          "feedback_at": null,
+          "feedback_by": null,
+          "reviewed_at": "2026-10-19T18:16:55.637497+00:00",
+          "reviewed_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "review_notes": null,
+          "opening_hours": null,
+          "editorial_status": "reviewed",
+          "visitor_guidance": "تسرد الوزارة رسومًا مستقلة لمتاحف السلط، لا رسم دخول للحي التاريخي. لا تُنقل تلك الرسوم إلى حقول سعر الحي ولا يُفترض أن الزيارة كلها مجانية. المدة توصية تحريرية وليست طول جولة رسميًا. أفضل موسم وساعات العمل العامة وملاءمة المجموعات غير موثقة.\nحُولت إحداثيات اليونسكو من درجات ودقائق وثوانٍ إلى درجات عشرية. وهي مرجع للممتلك المدرج وليست مدخلًا مهيأً للزوار.",
+          "source_updated_at": "2026-10-19T18:16:55.637497+00:00",
+          "best_time_to_visit": null,
+          "visitor_information": null,
+          "transportation_notes": "خطط لمسار مشي عبر الوسط التاريخي واتفق محليًا على نقطة وصول مناسبة. نقطة مرجع اليونسكو ليست موقف سيارات موثقًا. تتطلب السلالم والشوارع المنحدرة التحقق من ملاءمة المسار لمن يحتاج إلى تنقل دون درج."
+        }
+      ],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "2ca78305-d041-4108-b860-8f58d4d67338",
+            "name": "History",
+            "slug": "history"
+          }
+        },
+        {
+          "categories": {
+            "id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+            "name": "Culture",
+            "slug": "culture"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "3a05ca67-6fbb-4d12-912e-92edcfb3d220",
+          "alt_text": "Turquoise wooden doors beside stone buildings on a stepped street in old As-Salt.",
+          "is_cover": false,
+          "sort_order": 1,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(9).jpg",
+          "attribution": "Old as-salt jordan 2024 (9).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(9).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+          "storage_path": "189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg"
+        },
+        {
+          "id": "a7e9cac5-e789-4a19-b981-48c175007cda",
+          "alt_text": "Yellow-stone buildings, balconies and a public square in old As-Salt.",
+          "is_cover": true,
+          "sort_order": 2,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(10).jpg",
+          "attribution": "Old as-salt jordan 2024 (10).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(10).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+          "storage_path": "189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg"
+        },
+        {
+          "id": "536b6920-3df6-4028-a92b-66d5d5fb48bc",
+          "alt_text": "Al-Khader Street stairs between stone buildings in old As-Salt.",
+          "is_cover": false,
+          "sort_order": 3,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(11).jpg",
+          "attribution": "Old as-salt jordan 2024 (11).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(11).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+          "storage_path": "189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg"
+        }
+      ]
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "name": "Umm Qais",
+      "status": "published",
+      "is_demo": false,
+      "description": "At Umm Qais, the remains of ancient Gadara occupy a hilltop above the Jordan Valley. A colonnaded street, theatre remains and dark basalt architecture give visitors an introduction to a city associated with the Decapolis. The Ottoman-era village occupies part of the ancient site, adding another layer to the landscape.\n\nThe museum is housed in an Ottoman-period building and presents archaeological finds from the area, including ceramics and sculpture. An introductory visit can combine the archaeological remains, village setting and museum rather than treating the modern town as the attraction itself. Allow two to three hours as an editorial recommendation, subject to the areas open on the day. Check current hours, ticket eligibility and museum access before travelling; official pages do not provide a fully consistent operating schedule. The saved point is a site-area reference shared by official tourism links, not a confirmed entrance. Step-free access and current visitor facilities require local confirmation.",
+      "city": "Umm Qais",
+      "address": "Umm Qais archaeological site and Ottoman village, northern Jordan; official site-area reference, not a surveyed visitor entrance.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://international.visitjordan.com/wheretogo/umm-qais/",
+      "verified_at": "2026-10-19T18:16:59.307414+00:00",
+      "updated_at": "2026-10-19T18:17:00.619931+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": 120,
+      "duration_max_minutes": 180,
+      "best_time_to_visit": null,
+      "transportation_notes": "Use the archaeological-site reference and confirm the visitor arrival point locally. Official seasonal and attraction-summary hours differ, so confirm site and museum opening before departure. No driving time, bus service or step-free route is guaranteed.",
+      "suitable_groups": null,
+      "latitude": 32.6556875,
+      "longitude": 35.6780625,
+      "place_translations": [
+        {
+          "city": "أم قيس",
+          "name": "أم قيس",
+          "locale": "ar-JO",
+          "region": null,
+          "address": "موقع أم قيس الأثري والقرية العثمانية، شمال الأردن؛ مرجع رسمي لمنطقة الموقع وليس مدخل زوار محددًا بالمسح.",
+          "place_id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+          "activities": null,
+          "updated_at": "2026-10-19T18:17:00.619931+00:00",
+          "updated_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "description": "في أم قيس، تتربع بقايا جدارا القديمة على قمة تطل على وادي الأردن. وتعرّف الشوارع ذات الأعمدة وبقايا المسارح والعمارة البازلتية الداكنة الزوار بمدينة مرتبطة بالديكابوليس. وتشغل القرية التي تعود إلى العهد العثماني جزءًا من الموقع القديم، مضيفة طبقة أخرى إلى المشهد.\n\nيقع المتحف في مبنى من الفترة العثمانية ويعرض مكتشفات أثرية من المنطقة، منها الفخار والمنحوتات. ويمكن للزيارة التعريفية أن تجمع الآثار والقرية والمتحف، بدلًا من اعتبار البلدة الحديثة نفسها المعلم المقصود. نقترح تحريريًا ساعتين إلى ثلاث ساعات، بحسب الأجزاء المفتوحة يوم الزيارة. تحقق من ساعات العمل الحالية وأهلية التذاكر ودخول المتحف قبل السفر؛ فالصفحات الرسمية لا تقدم جدول تشغيل متسقًا بالكامل. النقطة المحفوظة مرجع لمنطقة الموقع تشترك فيه روابط سياحية رسمية وليست مدخلًا مؤكدًا. تتطلب المسارات الخالية من الدرج ومرافق الزوار الحالية تأكيدًا محليًا.",
+          "feedback_at": null,
+          "feedback_by": null,
+          "reviewed_at": "2026-10-19T18:17:00.619931+00:00",
+          "reviewed_by": "914e63a8-a570-4de7-9a14-230d1a7853c8",
+          "review_notes": null,
+          "opening_hours": null,
+          "editorial_status": "reviewed",
+          "visitor_guidance": "رسم الموقع في جدول الوزارة: ٠٫٢٥ دينار للأردني و٥ دنانير للأجنبي، شامل المتحف؛ ولا يعني صف المتحف المنفصل رسمًا إضافيًا على الجميع. تاريخ السريان غير محدد. تختلف ساعات Jordan Pass الموسمية عن الساعات في ملخص المعلم، لذا لم تُحفظ ساعات ثابتة. المدة توصية تحريرية.\nتستخدم روابط الهيئة والوزارة للموقع والمتحف النقطة المرجعية نفسها. يختلف مركز عرض الخريطة عنها، ولا يثبت أي من المصدرين دقة مدخل مهيأ للزوار.",
+          "source_updated_at": "2026-10-19T18:17:00.619931+00:00",
+          "best_time_to_visit": null,
+          "visitor_information": null,
+          "transportation_notes": "استخدم مرجع الموقع الأثري وأكد نقطة وصول الزوار محليًا. تختلف الساعات الموسمية الرسمية عن ملخصات المعالم، لذا تحقق من فتح الموقع والمتحف قبل المغادرة. لا تُضمن مدة قيادة أو خدمة حافلات أو مسار خالٍ من الدرج."
+        }
+      ],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "2ca78305-d041-4108-b860-8f58d4d67338",
+            "name": "History",
+            "slug": "history"
+          }
+        },
+        {
+          "categories": {
+            "id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+            "name": "Culture",
+            "slug": "culture"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "ded55eac-f7b2-496e-bdbc-ca14d0697191",
+          "alt_text": "Dark stone seating and arches of the West Theatre at Umm Qais, overlooking green countryside.",
+          "is_cover": true,
+          "sort_order": 1,
+          "source_url": "https://commons.wikimedia.org/wiki/File:Umm_Qais_(West_Theater).jpg",
+          "attribution": "Umm Qais (West Theater).jpg — Bashar Tabbah. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Umm_Qais_(West_Theater).jpg Licence: https://creativecommons.org/licenses/by-sa/4.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "name": "Mujib Biosphere Reserve",
+      "status": "published",
+      "is_demo": false,
+      "description": "Mujib Biosphere Reserve protects a striking transition between the Dead Sea shore and the surrounding mountain country. Its valleys, cliffs and river habitats support a varied natural landscape. A visit to the reserve is not one interchangeable activity: water routes and dry-land hikes have different seasons, requirements and booking arrangements.\n\nThe Siq Trail starts from Mujib Adventure Center and follows the river through a sandstone gorge towards a waterfall. Water levels can require swimming, and access depends on weather and the operator's safety decisions. RSCN's 2026 trail list gives two to three hours for the self-guided Siq route and a separate guided Ibex option. Earlier RSCN operating guidance sets a minimum age of 18 for wet trails; reconfirm current eligibility before booking. Do not assume a published season guarantees same-day access. The saved point represents the Adventure Center reference area, not a surveyed entrance or the reserve's full extent. Current opening and individual accessibility must be checked with RSCN.",
+      "city": null,
+      "address": "Mujib Adventure Center reference area by the Dead Sea Highway, eastern Dead Sea shore, Jordan; not the centre of the whole reserve.",
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null,
+      "source_url": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "verified_at": "2026-10-19T19:24:14.337426+00:00",
+      "updated_at": "2026-10-19T19:24:18.983976+00:00",
+      "price_min_jod": null,
+      "price_max_jod": null,
+      "duration_min_minutes": null,
+      "duration_max_minutes": null,
+      "best_time_to_visit": "Water trails are seasonal and weather dependent. Confirm current opening and safety conditions with RSCN; a calendar season is not an access guarantee.",
+      "transportation_notes": "Arrange arrival at the Mujib Adventure Center reference area for the Siq route. Other trails may use different starting points or require a guide and transfers. Confirm the selected activity with RSCN; no journey time is assumed.",
+      "suitable_groups": [
+        "solo",
+        "couple",
+        "friends",
+        "family"
+      ],
+      "latitude": 31.4670625,
+      "longitude": 35.5731875,
+      "place_translations": [],
+      "place_categories": [
+        {
+          "categories": {
+            "id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+            "name": "Nature",
+            "slug": "nature"
+          }
+        },
+        {
+          "categories": {
+            "id": "76c091cd-4de2-4c00-b579-d8470ddc07c1",
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        }
+      ],
+      "place_images": [
+        {
+          "id": "ed84410a-372c-4d07-b682-26715852a502",
+          "alt_text": "وادي الموجب.jfif",
+          "is_cover": true,
+          "sort_order": 0,
+          "source_url": "https://dkhwwvoplhfjccvjegty.supabase.co/rest/v1/place_image_ownership?id=eq.2db200d9-6cbe-4e9b-8440-ec121ebf977e",
+          "attribution": "Unseen Jo — project-owned photograph",
+          "storage_path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg"
+        },
+        {
+          "id": "d9fc5e9e-bbe0-42cf-b8c1-9574858a68b9",
+          "alt_text": "Layered valley walls and winding tracks in the Wadi Mujib landscape.",
+          "is_cover": false,
+          "sort_order": 1,
+          "source_url": "https://www.google.com/imgres?q=%D9%85%D8%AD%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A8%20%D9%84%D9%84%D9%85%D8%AD%D9%8A%D8%B7%20%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A&imgurl=https%3A%2F%2Fnshamah-frontend.b-cdn.net%2Fassets%2F4%2F2.jpeg&imgrefurl=https%3A%2F%2Fwww.nshamah.com%2Fquick-services%2Fjordan-tourism%2Fwadi-mujib&docid=We4lAPdi3BlWlM&tbnid=jVnhquascCb7eM&vet=12ahUKEwiCv7H05caXAxUCSvEDHcp3AjAQnPAOegQIchAA..i&w=650&h=450&hcb=2&ved=2ahUKEwiCv7H05caXAxUCSvEDHcp3AjAQnPAOegQIchAA",
+          "attribution": "Wadi Mujib5.jpeg — Effi Schweizer. Public domain. Source: https://commons.wikimedia.org/wiki/File:Wadi_Mujib5.jpeg Licence: https://commons.wikimedia.org/wiki/Template:PD-self. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+          "storage_path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "scope": "Audit of actual hosted SELECT snapshots. No writes; no impersonated RPC approvals. Browser operations remain separate.",
+  "verifiedAt": "2026-10-22T15:15:44.415738+00:00",
+  "total": 24,
+  "originalPublished": 6,
+  "imported": 18,
+  "newPublished": 0,
+  "newDrafts": 18,
+  "bilingualPassed": 18,
+  "preparedCandidatesForExplicitReview": 17,
+  "hostedReadyToPublish": 0,
+  "originalFingerprintsPreserved": true,
+  "results": [
+    {
+      "slug": "petra",
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "wadi-rum",
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": true,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "jerash-archaeological-city",
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "amman-citadel",
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 1,
+      "linkedCover": true,
+      "preparedImages": 1,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "amman-roman-theatre",
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "madaba-st-georges-church",
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 1,
+      "missingMedia": [
+        "madaba-st-georges-church-2"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "mount-nebo",
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 1,
+      "linkedCover": false,
+      "preparedImages": 2,
+      "missingMedia": [
+        "mount-nebo-2"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "al-maghtas-baptism-site",
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": true,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "karak-castle",
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "shobak-castle",
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "quseir-amra",
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": true,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "um-er-rasas",
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 2,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "azraq-wetland-reserve",
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 1,
+      "linkedCover": true,
+      "preparedImages": 2,
+      "missingMedia": [
+        "azraq-wetland-reserve-2"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "shaumari-wildlife-reserve",
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 2,
+      "missingMedia": [
+        "shaumari-wildlife-reserve-1",
+        "shaumari-wildlife-reserve-2"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "pella-tabaqat-fahl",
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 1,
+      "missingMedia": [
+        "pella-tabaqat-fahl-1"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "umm-al-jimal",
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": true,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 1,
+      "missingMedia": [
+        "umm-al-jimal-3"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "little-petra-siq-al-barid",
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": false,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 2,
+      "missingMedia": [
+        "little-petra-siq-al-barid-1",
+        "little-petra-siq-al-barid-2"
+      ],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [],
+      "hostedReadyToPublish": false
+    },
+    {
+      "slug": "aqaba-marine-reserve",
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "status": "draft",
+      "bilingualReadback": "passed",
+      "coordinateWireBytes": "identical to original prepared numbers",
+      "precisionSerializationAffected": true,
+      "categories": "passed",
+      "sourceProvenance": "passed",
+      "linkedImages": 0,
+      "linkedCover": false,
+      "preparedImages": 0,
+      "missingMedia": [],
+      "pendingApprovals": [
+        "Explicit factual/source review",
+        "Qualified geographic review",
+        "Current Arabic review",
+        "Rights-approved cover"
+      ],
+      "criticalBlockers": [
+        "A legal visitor arrival point and the applicable marine zone/access rules have not been independently established.",
+        "No acquired, visually checked and rights-documented cover is ready."
+      ],
+      "hostedReadyToPublish": false
+    }
+  ]
+}

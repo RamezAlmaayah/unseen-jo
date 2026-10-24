@@ -1,0 +1,29 @@
+{
+  "scope": "Local model and localization validation",
+  "results": [
+    {
+      "name": "both substantive bilingual seeds validate for publication without fabricated review completion",
+      "status": "PASS"
+    },
+    {
+      "name": "strict schema, synchronized sections and completion enforce bilingual parity",
+      "status": "PASS"
+    },
+    {
+      "name": "HTML, script links, encoded control characters, credentials and remote embeds are refused",
+      "status": "PASS"
+    },
+    {
+      "name": "publication selection, revocation fallback and managed registration fail closed",
+      "status": "PASS"
+    },
+    {
+      "name": "draft equality is independent of JSON key order; public errors contain no raw server details",
+      "status": "PASS"
+    },
+    {
+      "name": "every new legal-management message has an Arabic resource",
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "apiUrl": "https://dkhwwvoplhfjccvjegty.supabase.co",
+  "preflightCounts": {
+    "categories": 7,
+    "places": 0
+  },
+  "finalSnapshot": {
+    "audit": 23,
+    "links": 10,
+    "users": 0,
+    "images": 0,
+    "places": [
+      {
+        "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+        "name": "Ajloun Forest Reserve",
+        "slug": "ajloun-forest",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      },
+      {
+        "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+        "name": "As-Salt Historic Centre",
+        "slug": "salt-historic",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://whc.unesco.org/en/list/689/",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      },
+      {
+        "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+        "name": "Mujib Biosphere Reserve",
+        "slug": "wadi-mujib",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      },
+      {
+        "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+        "name": "Dana Biosphere Reserve",
+        "slug": "dana-reserve",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      },
+      {
+        "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+        "name": "Iraq Al-Amir",
+        "slug": "iraq-al-amir",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://international.visitjordan.com/wheretogo/amman/",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      },
+      {
+        "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+        "name": "Umm Qais",
+        "slug": "umm-qais",
+        "status": "draft",
+        "latitude": null,
+        "longitude": null,
+        "source_url": "https://international.visitjordan.com/wheretogo/umm-qais/",
+        "verified_at": null,
+        "price_max_jod": null,
+        "price_min_jod": null,
+        "duration_max_minutes": null,
+        "duration_min_minutes": null
+      }
+    ],
+    "objects": 0,
+    "categories": 7,
+    "policy_count": 48
+  },
+  "importReplayUnchanged": true,
+  "policyDefinitionsUnchanged": true,
+  "migrations": [
+    {
+      "version": "20261015212231",
+      "name": "phase02a_foundation"
+    },
+    {
+      "version": "20261015212235",
+      "name": "phase02a_access_and_storage"
+    },
+    {
+      "version": "20261015212242",
+      "name": "phase02a_categories"
+    }
+  ],
+  "securityAdvisors": {
+    "result": {
+      "lints": []
+    }
+  },
+  "hostedSql": {
+    "scope": "Hosted PostgreSQL anonymous role; transaction-only fixtures, not hosted HTTP positive content",
+    "checks": [
+      "published publicly readable",
+      "draft and archived hidden",
+      "imported drafts hidden",
+      "private profiles denied",
+      "public updates denied",
+      "public inserts denied"
+    ],
+    "passed": 6
+  }
+}

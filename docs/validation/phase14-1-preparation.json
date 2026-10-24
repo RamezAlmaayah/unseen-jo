@@ -1,0 +1,1299 @@
+{
+  "scope": "Local-only proposals derived from read-only content snapshot; no hosted mutation",
+  "places": 24,
+  "translations": 19,
+  "pending": 18,
+  "stale": 1,
+  "missingPublicCovers": 17,
+  "selectedPhotos": 30,
+  "alreadyLinked": 30,
+  "optimizedRenditions": 120,
+  "audit": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "name": "Ajloun Forest Reserve",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: region, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / current",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 1,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 32.3835625,
+        "longitude": 35.7604375,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/ajloun/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "name": "Baptism Site (Al-Maghtas)",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.8372222222222,
+        "longitude": 35.5527777777778,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "UNESCO property reference; access is through a separate controlled visitor entrance."
+      },
+      "hours": "Operator homepage: entry from 08:00; last entry 16:00 November–March and 17:00 April–October. Its contact page gives a generic 16:00 last entry; confirm the seasonal cut-off directly.",
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry baseline: Jordanians 3 JOD, other Arab nationalities 5 JOD, other foreign visitors 12 JOD. Confirm current visit type, inclusions and booking terms with the site.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse the controlled visitor entrance; the heritage reference pin is not its gate.\nWear modest clothing and follow the operator’s no-smoking and access instructions.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/1446/",
+      "coordinateSource": "https://whc.unesco.org/en/list/1446/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1446/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://baptismsite.com/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://baptismsite.com/contact/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Homepage seasonal last-entry time differs from generic contact-page time."
+      ],
+      "photoCandidates": [
+        "al-maghtas-baptism-site-1",
+        "al-maghtas-baptism-site-2"
+      ]
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "name": "Amman Citadel",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 31.9543125,
+        "longitude": 35.9354375,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB Citadel section map target; approximate site reference."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry listing: 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm ticket conditions and current museum access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nHilltop paths include uneven ground; a full step-free route is not verified.\nConfirm current gate hours before planning an early or late visit.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/amman/",
+      "sourceEvidence": [
+        {
+          "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/amman/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "amman-citadel-1"
+      ]
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "name": "Amman Roman Theatre",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.9516875,
+        "longitude": 35.9393125,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB Roman Theatre section map target; approximate site reference."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "The Ministry’s 0.25 JOD Jordanian / 2 JOD foreign listing refers to a theatre-associated museum entry. The current exact theatre ticket bundle is unconfirmed; do not assume that figure covers every access type.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nSeating steps are steep; a complete accessible route is not verified.\nEvents and museum opening arrangements may affect access.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/amman/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/amman/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/amman/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "amman-roman-theatre-1",
+        "amman-roman-theatre-2"
+      ]
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "slug": "aqaba-marine-reserve",
+      "name": "Aqaba Marine Reserve",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 29.4297222222222,
+        "longitude": 34.9755555555556,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "UNESCO marine-property reference. Not usable as a road destination; publication remains blocked pending legal visitor access."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "No universal reserve admission or activity price is verified. Charges depend on the authorised access point and chosen service.\nVisit duration depends on the authorised activity; no reserve-wide duration is established.\nUse a confirmed legal visitor access point and check the rules for the specific marine zone.\nDo not touch or collect coral or marine life. Use qualified guidance and observe marine restrictions.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/1742",
+      "coordinateSource": "https://whc.unesco.org/en/list/1742",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1742",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://international.visitjordan.com/where-to-go/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://iucngreenlist.org/sites/aqaba-marine-reserve/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://aseza.jo/EBV4.0/Root_Storage/AR/Aqaba_Marine_Reserve_Management_Plan_2022-2026.pdf",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours",
+        "Historical Phase 08 package note: A legal visitor arrival point and the applicable marine zone/access rules have not been independently established.",
+        "Historical Phase 08 package note: No acquired, visually checked and rights-documented cover is ready.",
+        "Current snapshot has a separate approved project-owned cover. The excluded Commons candidate is not that cover; exact subject and legal visitor arrival still need owner confirmation."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "name": "Azraq Wetland Reserve",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.833909,
+        "longitude": 36.820555,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Named JTB educational reserve link resolves to this location; reference only."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry entrance baseline: Jordanians 2.50 JOD, residents 6 JOD, foreign visitors 8 JOD, plus 16% tax. Confirm the current RSCN total and whether your chosen activity costs extra.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nBird sightings vary naturally; remain quiet and do not disturb wildlife.\nConfirm open paths, reservations, current hours and boardwalk accessibility with RSCN.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "coordinateSource": "https://edutravel.visitjordan.com/en",
+      "sourceEvidence": [
+        {
+          "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://edutravel.visitjordan.com/en",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "azraq-wetland-reserve-1",
+        "azraq-wetland-reserve-2"
+      ]
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "name": "Dana Biosphere Reserve",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: region, best_time_to_visit, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / current",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 2,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 30.6743125,
+        "longitude": 35.6083125,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "name": "Iraq Al-Amir",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: region, best_time_to_visit, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / current",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 31.9195625,
+        "longitude": 35.7533125,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://international.visitjordan.com/wheretogo/amman/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/amman/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/amman/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "name": "Jerash Archaeological City",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 32.2759375,
+        "longitude": 35.8914375,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB archaeological-city reference repeated for several nearby attractions; not a surveyed gate."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry site-entry listing: Jordanians 0.50 JOD; foreign visitors 10 JOD, including the archaeological museum. Performances may have separate arrangements.\nEditorial planning estimate: 120–240 minutes, excluding travel and optional activities. This is not an official required visit duration.\nWear footwear suitable for uneven stone and steps.\nConfirm the open entrance and seasonal hours; museum and performance times may differ.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/jerash/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/jerash/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/jerash/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "jerash-archaeological-city-1",
+        "jerash-archaeological-city-2"
+      ]
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "name": "Karak Castle",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.1809375,
+        "longitude": 35.7016875,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB castle section map target; museum and castle schedules must remain separate."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors, including the archaeological museum. Confirm current access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse designated routes; passages may be dim and surfaces uneven.\nCurrent castle hours, parking and a complete step-free route are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/karak/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/karak/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/karak/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "karak-castle-1",
+        "karak-castle-2"
+      ]
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "name": "Little Petra (Siq Al-Barid)",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 30.37527847,
+        "longitude": 35.45138931,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Community geographic reference for Siq Al-Barid; not a verified ticket office."
+      },
+      "hours": "Published schedules distinguish a general site listing of 06:30–17:00 from the Little Petra ticket office’s winter 07:00–14:00 (2 October 2026–1 March 2027). They are not interchangeable; confirm both access and ticket services with PDTRA.",
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "A current separate Little Petra admission fee has not been verified. Main Petra admission and any Back Trail or transfer arrangements must not be assumed to apply here.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nConfirm the site and ticket-office schedules separately before travelling.\nDo not enter onward trails without confirming ticket, guide and transport requirements.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://visitpetra.jo/en/Location/137",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q2284751",
+      "sourceEvidence": [
+        {
+          "url": "https://visitpetra.jo/en/Location/137",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Openinghours",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q2284751",
+          "checkedOn": "2026-10-21",
+          "method": "Geographic reference data cross-check"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Site hours and ticket-office hours differ; exact same-day availability remains operator-dependent."
+      ],
+      "photoCandidates": [
+        "little-petra-siq-al-barid-1",
+        "little-petra-siq-al-barid-2"
+      ]
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "name": "St. George’s Church (Madaba Map)",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 31.71765,
+        "longitude": 35.7942,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Mosaic-map reference from the geographic cross-check; approximate church location, not verified door access."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Current church admission is unverified. Madaba Archaeological Park and museum prices do not establish this church’s fee.\nEditorial planning estimate: 30–60 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect worship, dress requirements and instructions about photography.\nConfirm tourist visiting times directly; worship schedules are not tourist opening hours.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/madaba/",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q1346870",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q1346870",
+          "checkedOn": "2026-10-21",
+          "method": "Geographic reference data cross-check"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "madaba-st-georges-church-2"
+      ]
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "name": "Mount Nebo",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.768088,
+        "longitude": 35.725703,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Operator embedded map reference agrees with JTB vicinity; not a surveyed gate."
+      },
+      "hours": "Operator-published seasonal hours: winter 08:00–16:30; summer 08:00–18:00. Seasonal changeover dates are not specified; confirm the applicable schedule.",
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "The Custody of the Holy Land lists 3 JOD for non-residents and 0.50 JOD for residents. Confirm eligibility and the current charge with the sanctuary.\nEditorial planning estimate: 60–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect the sanctuary and current visiting arrangements.\nA complete accessible route and current parking arrangements are not verified.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/madaba/",
+      "coordinateSource": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation"
+      ],
+      "photoCandidates": [
+        "mount-nebo-1",
+        "mount-nebo-2"
+      ]
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "name": "Pella (Tabaqat Fahl)",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 32.449809,
+        "longitude": 35.613423,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Approximate archaeological-area reference. JTB directions target near Amman was rejected; exact visitor arrival still needs confirmation."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors. Confirm the current charge locally.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nThe map point is an approximate site reference; confirm the visitor entrance before setting out.\nUse established paths on uneven, exposed archaeological ground.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/wheretogo/pella/",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q167993",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/pella/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q167993",
+          "checkedOn": "2026-10-21",
+          "method": "Geographic reference data cross-check"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours",
+        "JTB directions coordinates point near Amman and were rejected."
+      ],
+      "photoCandidates": [
+        "pella-tabaqat-fahl-1"
+      ]
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "name": "Petra",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB main-trail visitor-centre reference; not a surveyed entrance."
+      },
+      "hours": "Site and visitor centre: 06:30–17:00, 2 October 2026–1 March 2027. Published summer schedule: 06:00–18:00, 2 March–1 October 2026. Confirm closures and trail-specific access before travel.",
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "PDTRA lists 1 JOD for Jordanians; 10 for qualifying residents; 30 for Arab visitors; accommodated foreign visitors 50/55/60 for 1/2/3 consecutive days; non-accommodated day visitors 90. Eligibility documents apply. Guides, transport and Petra by Night are separate.\nEditorial planning estimate: 240–480 minutes, excluding travel and optional activities. This is not an official required visit duration.\nFollow official weather and flash-flood closures; do not enter a closed trail.\nLong routes include substantial walking and steps. Accessible services do not establish that every trail is step-free.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/326/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/petra/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/326/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Petrafees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Openinghours",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/petra/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation"
+      ],
+      "photoCandidates": [
+        "petra-1",
+        "petra-2"
+      ]
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "name": "Quseir Amra",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.8018055555556,
+        "longitude": 36.5873055555556,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "UNESCO reference converted from DMS; no exact visitor entrance asserted."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "The Ministry groups Qasr Amra with desert castles at 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm the ticket’s current site coverage.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not touch painted surfaces; follow room-access and photography instructions.\nCurrent opening hours and step-free access have not been verified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/327",
+      "coordinateSource": "https://whc.unesco.org/en/list/327/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/327",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/327/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "quseir-amra-1",
+        "quseir-amra-2"
+      ]
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "name": "As-Salt Historic Centre",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: region, best_time_to_visit, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / current",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 2,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 32.0426111111,
+        "longitude": 35.7283055556,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://whc.unesco.org/en/list/689/",
+      "coordinateSource": "https://whc.unesco.org/en/list/689/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/689/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "name": "Shaumari Wildlife Reserve",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.7448424,
+        "longitude": 36.7818916,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Named operator map target agrees with JTB reserve vicinity; reference only."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "RSCN’s 2026 tax-inclusive short safari lists 8/13/18 JOD and long safari 12/17/22 JOD for Jordanian/resident/non-Jordanian visitors respectively, including guiding and entry. These are activity packages, not the Ministry’s older entrance-only rates; confirm booking and availability.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nReserve the specific activity and confirm group requirements directly with RSCN.\nDo not approach or feed animals. Wildlife sightings are not guaranteed.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "coordinateSource": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "sourceEvidence": [
+        {
+          "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.rscn.org.jo/history?lang=en",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.rscn.org.jo/public/uploaded_files/reservation/Shaumari%20Wildlife%20Reserve%20Trails%202026.pdf",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours",
+        "2026 tax-inclusive activity packages must not be replaced with Ministry entrance-only prices."
+      ],
+      "photoCandidates": [
+        "shaumari-wildlife-reserve-1",
+        "shaumari-wildlife-reserve-2"
+      ]
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "name": "Shobak Castle",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 30.531389,
+        "longitude": 35.560833,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "Community geographic reference agrees with the vicinity of Jordan Pass castle imagery; not an entrance survey."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "Ministry listing: Jordanians 0.25 JOD; foreign visitors 1 JOD. Confirm the current ticket and access conditions.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not enter unmarked tunnels or unstable areas.\nCurrent gate hours, parking and accessible routes are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q1362749",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q1362749",
+          "checkedOn": "2026-10-21",
+          "method": "Geographic reference data cross-check"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "shobak-castle-1",
+        "shobak-castle-2"
+      ]
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "name": "Um er-Rasas (Kastrom Mefa’a)",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 31.5013125,
+        "longitude": 35.9191875,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "JTB site reference; administrative governorate corrected using Jordanian government sources."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "A current site-specific admission fee has not been verified. Do not assume free entry or substitute a Madaba museum ticket.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay on managed routes; UNESCO identifies structural risks and open trenches in parts of the property.\nDo not climb towers or enter unstable structures.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/1093/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/madaba/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1093/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://um-arrassas.gov.jo/ar/about-us/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.doa.gov.jo/AR/ListDetails/مواقع_أثرية/1145/8",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours",
+        "Dossier Madaba governorate corrected to Amman using municipality/Department of Antiquities."
+      ],
+      "photoCandidates": [
+        "um-er-rasas-1",
+        "um-er-rasas-2"
+      ]
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "name": "Umm Al-Jimāl",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 32.3269444444445,
+        "longitude": 36.37,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "UNESCO property reference converted from DMS; not the House 119 entrance."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "The Ministry groups Umm Al-Jimal with other Mafraq sites at 0.25 JOD Jordanian / 2 JOD foreign entry. Exact applicability at this gate remains to be confirmed.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay out of unstable buildings and do not climb basalt walls.\nConfirm visitor-centre opening, route access and the current entrance.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/1721",
+      "coordinateSource": "https://whc.unesco.org/en/list/1721",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1721",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "umm-al-jimal-3"
+      ]
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "name": "Umm Qais",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: region, best_time_to_visit, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / current",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 32.6556875,
+        "longitude": 35.6780625,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://international.visitjordan.com/wheretogo/umm-qais/",
+      "coordinateSource": "https://www.mota.gov.jo/EN/Pages/Umm_Qays",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/umm-qais/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "name": "Mujib Biosphere Reserve",
+      "status": "published",
+      "english": "Description present; recorded content review; absent fields: city, region, opening_hours, activities, visitor_information",
+      "arabic": "reviewed / STALE; complete local proposal ready",
+      "cover": "Approved public cover",
+      "gallery": {
+        "approved": 1,
+        "unapproved": 0,
+        "selectedLocal": 0
+      },
+      "coordinates": {
+        "latitude": 31.4670625,
+        "longitude": 35.5731875,
+        "kind": "approximate_center",
+        "reviewed": true,
+        "qualification": "Stored approximate reference, not independently surveyed in this phase."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "No universal confirmed numeric admission/total trip cost. Check the operator."
+      },
+      "visitorInformation": null,
+      "source": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "sourceEvidence": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+          "method": "Stored source; historical recorded review, not newly confirmed operating facts."
+        }
+      ],
+      "reviewRequirements": [
+        "Confirm current operating access/hours/fees, entrance and accessibility before travel."
+      ],
+      "photoCandidates": []
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "name": "Wadi Rum Protected Area",
+      "status": "published",
+      "english": "Description present; factual owner review outstanding; absent fields: best_time_to_visit, opening_hours",
+      "arabic": "pending / current; complete local proposal ready",
+      "cover": "MISSING approved public cover",
+      "gallery": {
+        "approved": 0,
+        "unapproved": 1,
+        "selectedLocal": 1
+      },
+      "coordinates": {
+        "latitude": 29.6397222222222,
+        "longitude": 35.4338888888889,
+        "kind": "approximate_center",
+        "reviewed": false,
+        "qualification": "UNESCO protected-area reference, not the visitor centre or a campsite."
+      },
+      "hours": null,
+      "prices": {
+        "min": null,
+        "max": null,
+        "qualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established"
+      },
+      "visitorInformation": "The Ministry lists site entry at 1 JOD for Jordanians and 5 for foreign visitors. Vehicle tours, guides, camps and transfers are additional; confirm your applicable total.\nEditorial planning estimate: 180–360 minutes, excluding travel and optional activities. This is not an official required visit duration.\nArrange permitted desert access and a reliable return; the reserve-wide pin is not a visitor-centre gate.\nCarry water and sun protection. Do not assume an advertised activity is available on your travel date.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+      "source": "https://whc.unesco.org/en/list/1377/",
+      "coordinateSource": "https://whc.unesco.org/en/list/1377/",
+      "sourceEvidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1377/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        },
+        {
+          "url": "https://international.visitjordan.com/where-to-go/",
+          "checkedOn": "2026-10-21",
+          "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+        }
+      ],
+      "reviewRequirements": [
+        "Current public-transport timetable",
+        "Parking arrangements",
+        "Complete accessible route",
+        "Verified seasonal recommendation",
+        "Current tourist opening hours"
+      ],
+      "photoCandidates": [
+        "wadi-rum-1",
+        "wadi-rum-2"
+      ]
+    }
+  ]
+}

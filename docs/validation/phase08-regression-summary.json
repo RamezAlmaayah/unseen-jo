@@ -1,0 +1,34 @@
+{
+  "scope": "Historical demo contracts retained; current replacement suites genuinely executed. First attempt failure retained; only failed responsive suite rerun after test correction.",
+  "results": [
+    {
+      "name": "check-phase01a",
+      "status": "passed",
+      "evidence": "phase08-current-all.json",
+      "checks": 90,
+      "earlierFailure": "Test waited for intentionally hidden mobile list without selecting List; corrected and rerun."
+    },
+    {
+      "name": "check-phase01b",
+      "status": "passed",
+      "evidence": "phase05-browser-4184.json"
+    },
+    {
+      "name": "check-phase01c",
+      "status": "passed",
+      "evidence": "phase06-browser-4184.json and phase07-browser-4184.json"
+    },
+    {
+      "name": "check-landing-refinement",
+      "status": "passed",
+      "evidence": "phase08-current-landing.json",
+      "checks": 6
+    },
+    {
+      "name": "check-global-ui-scale",
+      "status": "passed",
+      "evidence": "phase08-current-scale.json",
+      "checks": 90
+    }
+  ]
+}

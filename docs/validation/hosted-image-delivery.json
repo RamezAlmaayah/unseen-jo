@@ -1,0 +1,190 @@
+{
+  "checkedAt": "2026-10-19T18:54:29.018Z",
+  "scope": "Genuine anonymous Storage signing and GET; existing transformation availability verified, no settings/subscription or content writes",
+  "publishedDestinations": 6,
+  "unapprovedTestImageSigningDenied": true,
+  "results": [
+    {
+      "slug": "ajloun-forest",
+      "imageId": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+      "width": "original",
+      "requestedQuality": null,
+      "path": "artifacts/image-performance/hosted-samples/ajloun-forest-original.image",
+      "bytes": 5161429,
+      "headersMs": 753.4054999999998,
+      "totalGetMs": 2858.0057999999995,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/jpeg",
+        "etag": "\"7cea9eb80347307eef9da3520b95555b\"",
+        "expires": "Mon, 19 Oct 2026 18:59:00 GMT",
+        "last-modified": "Mon, 19 Oct 2026 18:16:20 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "actualWidth": 4000,
+      "actualHeight": 3000
+    },
+    {
+      "slug": "ajloun-forest",
+      "imageId": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+      "width": 640,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/ajloun-forest-640.image",
+      "bytes": 95732,
+      "headersMs": 991.2205000000004,
+      "totalGetMs": 1175.5652,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7cea9eb80347307eef9da3520b95555b\"",
+        "expires": "Mon, 19 Oct 2026 18:59:03 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "actualWidth": 640,
+      "actualHeight": 480,
+      "psnrAgainstLanczosReferenceDb": 31.16,
+      "upscaled": false
+    },
+    {
+      "slug": "ajloun-forest",
+      "imageId": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+      "width": 1280,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/ajloun-forest-1280.image",
+      "bytes": 388858,
+      "headersMs": 589.6345000000001,
+      "totalGetMs": 1154.6077999999998,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7cea9eb80347307eef9da3520b95555b\"",
+        "expires": "Mon, 19 Oct 2026 18:59:05 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "actualWidth": 1280,
+      "actualHeight": 960,
+      "psnrAgainstLanczosReferenceDb": 31.36,
+      "upscaled": false
+    },
+    {
+      "slug": "ajloun-forest",
+      "imageId": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+      "width": 2400,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/ajloun-forest-2400.image",
+      "bytes": 1324024,
+      "headersMs": 1410.3979999999992,
+      "totalGetMs": 2745.7302,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7cea9eb80347307eef9da3520b95555b\"",
+        "expires": "Mon, 19 Oct 2026 18:59:06 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "actualWidth": 2400,
+      "actualHeight": 1800,
+      "psnrAgainstLanczosReferenceDb": 31.8,
+      "upscaled": false
+    },
+    {
+      "slug": "dana-reserve",
+      "imageId": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+      "width": "original",
+      "requestedQuality": null,
+      "path": "artifacts/image-performance/hosted-samples/dana-reserve-original.image",
+      "bytes": 2242965,
+      "headersMs": 730.9565000000002,
+      "totalGetMs": 10400.8897,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/jpeg",
+        "etag": "\"7b60517c62b5962c9658e313645ffe95\"",
+        "expires": "Mon, 19 Oct 2026 18:59:09 GMT",
+        "last-modified": "Mon, 19 Oct 2026 12:45:53 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "actualWidth": 3453,
+      "actualHeight": 2474
+    },
+    {
+      "slug": "dana-reserve",
+      "imageId": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+      "width": 640,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/dana-reserve-640.image",
+      "bytes": 98948,
+      "headersMs": 741.0612999999976,
+      "totalGetMs": 1098.3390999999974,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7b60517c62b5962c9658e313645ffe95\"",
+        "expires": "Mon, 19 Oct 2026 18:59:20 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "actualWidth": 640,
+      "actualHeight": 459,
+      "psnrAgainstLanczosReferenceDb": 31.43,
+      "upscaled": false
+    },
+    {
+      "slug": "dana-reserve",
+      "imageId": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+      "width": 1280,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/dana-reserve-1280.image",
+      "bytes": 375426,
+      "headersMs": 1092.395199999999,
+      "totalGetMs": 2075.2482999999993,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7b60517c62b5962c9658e313645ffe95\"",
+        "expires": "Mon, 19 Oct 2026 18:59:21 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "actualWidth": 1280,
+      "actualHeight": 917,
+      "psnrAgainstLanczosReferenceDb": 32.99,
+      "upscaled": false
+    },
+    {
+      "slug": "dana-reserve",
+      "imageId": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+      "width": 2400,
+      "requestedQuality": 90,
+      "path": "artifacts/image-performance/hosted-samples/dana-reserve-2400.image",
+      "bytes": 1212152,
+      "headersMs": 1337.0234000000019,
+      "totalGetMs": 3189.507600000001,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cf-cache-status": "MISS",
+        "content-type": "image/webp",
+        "etag": "\"7b60517c62b5962c9658e313645ffe95\"",
+        "expires": "Mon, 19 Oct 2026 18:59:24 GMT"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "actualWidth": 2400,
+      "actualHeight": 1720,
+      "psnrAgainstLanczosReferenceDb": 36.96,
+      "upscaled": false
+    }
+  ]
+}

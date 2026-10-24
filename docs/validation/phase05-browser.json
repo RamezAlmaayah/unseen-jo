@@ -1,0 +1,91 @@
+{
+  "base": "http://127.0.0.1:4195",
+  "results": [
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "en",
+      "width": 1440,
+      "usableJourneyMs": 2642.3891999999996,
+      "recommendationMs": 888.8462,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "en",
+      "width": 820,
+      "usableJourneyMs": 2606.6107999999995,
+      "recommendationMs": 874.7655999999988,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "en",
+      "width": 390,
+      "usableJourneyMs": 2560.8418999999994,
+      "recommendationMs": 868.6902000000009,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "ar-JO",
+      "width": 1440,
+      "usableJourneyMs": 2568.9399999999987,
+      "recommendationMs": 853.2440999999999,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "ar-JO",
+      "width": 820,
+      "usableJourneyMs": 2617.5182999999997,
+      "recommendationMs": 847.1037000000033,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "ar-JO",
+      "width": 390,
+      "usableJourneyMs": 2574.124,
+      "recommendationMs": 878.2515999999996,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "network",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "empty",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "single",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "sparse",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "expiry",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

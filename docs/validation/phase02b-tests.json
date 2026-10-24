@@ -1,0 +1,1214 @@
+{
+  "date": "2026-10-16",
+  "local": {
+    "scope": "Local SDK requests use mocked HTTP; draft import uses disposable real PostgreSQL/PostGIS. Not remote integration.",
+    "passed": 15,
+    "results": [
+      {
+        "name": "public client configuration validates URL/key and rejects secrets",
+        "status": "passed"
+      },
+      {
+        "name": "mode defaults: production live, explicit demo, development auto",
+        "status": "passed"
+      },
+      {
+        "name": "successful categories and published catalog use nested joins and public key",
+        "status": "passed"
+      },
+      {
+        "name": "parallel callers deduplicate and reuse catalog; explicit invalidation refetches",
+        "status": "passed"
+      },
+      {
+        "name": "empty published places stay empty with categories intact",
+        "status": "passed"
+      },
+      {
+        "name": "name search and multi-category filtering; supported properties exclude unknowns",
+        "status": "passed"
+      },
+      {
+        "name": "valid, missing and malformed slugs; direct detail reads also enforce publication",
+        "status": "passed"
+      },
+      {
+        "name": "missing optional values stay unknown; no fabricated demo cost or travel time",
+        "status": "passed"
+      },
+      {
+        "name": "default media does not reuse unverified Figma photos; approved mappings are exact",
+        "status": "passed"
+      },
+      {
+        "name": "private image URLs are signed in one batch; failed signing yields no unrelated image",
+        "status": "passed"
+      },
+      {
+        "name": "network failures propagate, are not cached and support retry",
+        "status": "passed"
+      },
+      {
+        "name": "malformed category payload fails visibly",
+        "status": "passed"
+      },
+      {
+        "name": "catalog pagination reads beyond platform response limit without N+1",
+        "status": "passed"
+      },
+      {
+        "name": "preference category mapping and live/demo routes keep distinct identities",
+        "status": "passed"
+      },
+      {
+        "name": "draft content import executes twice, preserves edits and keeps unknowns NULL",
+        "status": "passed"
+      }
+    ]
+  },
+  "database": {
+    "engine": "PGlite WebAssembly PostgreSQL with experimental PostGIS extension",
+    "metadata": {
+      "postgres": "PostgreSQL 18.6 (PGlite 0.5.10) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 6.0.5 (1db513782be24469589d7cb8a1f1834e9a33f271), 32-bit",
+      "postgis": "POSTGIS=\"3.6.2 0\" [EXTENSION] PGSQL=\"180\" GEOS=\"3.14.0-CAPI-1.20.4\" PROJ=\"9.7.0 NETWORK_ENABLED=OFF URL_ENDPOINT=https://cdn.proj.org USER_WRITABLE_DIRECTORY=/home/postgres/.local/share/proj DATABASE_PATH=/pglite/share/proj/proj.db\" (compiled against PROJ 9.7.0) LIBXML=\"2.14.5\" LIBJSON=\"0.18\""
+    },
+    "platformContracts": "Minimal simulated auth.users/auth.uid and storage tables; no hosted HTTP services.",
+    "remoteTestsExecuted": false,
+    "migrations": [
+      {
+        "name": "20261015212231_phase02a_foundation.sql",
+        "sha256": "3b7d95e17724d69e323ad29d4a19c38d902495f8af9e217e4ab41c148edb61e3"
+      },
+      {
+        "name": "20261015212235_phase02a_access_and_storage.sql",
+        "sha256": "957db84550e317dca13be43dacc836b1f32a1e95d88e5892ab9dc47f84335b1f"
+      },
+      {
+        "name": "20261015212242_phase02a_categories.sql",
+        "sha256": "3a398a1aa1f61447b93f2bd613d9643a1ef7cec72f41e41ed76b248708f7e5cc"
+      }
+    ],
+    "passed": 55,
+    "results": [
+      {
+        "name": "migration SQL contains no destructive commands or application-table overwrites",
+        "status": "passed"
+      },
+      {
+        "name": "all migrations execute against real PostgreSQL with real PostGIS",
+        "status": "passed"
+      },
+      {
+        "name": "all 11 application tables have RLS enabled",
+        "status": "passed"
+      },
+      {
+        "name": "category seed is repeatable and creates no sample places or users",
+        "status": "passed"
+      },
+      {
+        "name": "profile trigger ignores role metadata and creates only ordinary user grants",
+        "status": "passed"
+      },
+      {
+        "name": "anon reads published places and hides drafts/associated images/categories",
+        "status": "passed"
+      },
+      {
+        "name": "authenticated reads published places and hides drafts/associated images/categories",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous users read active categories only",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: profiles",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: user_roles",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: user_preferences",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: user_preference_categories",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: saved_places",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: recommendation_feedback",
+        "status": "passed"
+      },
+      {
+        "name": "anonymous access denied: admin_audit_logs",
+        "status": "passed"
+      },
+      {
+        "name": "private ownership protects user_preferences including from unrelated admin",
+        "status": "passed"
+      },
+      {
+        "name": "private ownership protects user_preference_categories including from unrelated admin",
+        "status": "passed"
+      },
+      {
+        "name": "private ownership protects saved_places including from unrelated admin",
+        "status": "passed"
+      },
+      {
+        "name": "private ownership protects recommendation_feedback including from unrelated admin",
+        "status": "passed"
+      },
+      {
+        "name": "profiles expose only own record and permit only allowed field updates",
+        "status": "passed"
+      },
+      {
+        "name": "ordinary users and future partners cannot elevate roles or manage content",
+        "status": "passed"
+      },
+      {
+        "name": "authenticated role without a user identity has no private or admin access",
+        "status": "passed"
+      },
+      {
+        "name": "trusted admin reads drafts, manages content and roles; writes generate audit rows",
+        "status": "passed"
+      },
+      {
+        "name": "audit logs reject direct client writes, including administrators",
+        "status": "passed"
+      },
+      {
+        "name": "private trigger functions cannot be called directly by API roles",
+        "status": "passed"
+      },
+      {
+        "name": "preferences/interest creation, own updates and deletes work; cross-user writes fail",
+        "status": "passed"
+      },
+      {
+        "name": "saved places allow own published saves/removal, reject foreign owners, drafts and duplicates",
+        "status": "passed"
+      },
+      {
+        "name": "feedback insert/update/delete are owner-only and target published places",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: negative place price",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: NaN price",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: reversed price range",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: zero duration",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: reversed duration range",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: invalid latitude",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: invalid longitude",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: NaN latitude",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: half coordinate pair",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: published demo",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: verification without evidence",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: negative budget",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: invalid group",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: invalid image folder",
+        "status": "passed"
+      },
+      {
+        "name": "constraint: image path traversal",
+        "status": "passed"
+      },
+      {
+        "name": "FKs reject unknown places, categories and users",
+        "status": "passed"
+      },
+      {
+        "name": "unique slugs, image paths, one cover per place and feedback relationships",
+        "status": "passed"
+      },
+      {
+        "name": "PostGIS generated point uses longitude/latitude and meter-based radius queries",
+        "status": "passed"
+      },
+      {
+        "name": "all application FKs have a leading index; spatial index exists",
+        "status": "passed"
+      },
+      {
+        "name": "both buckets are private with MIME/size restrictions in stored configuration",
+        "status": "passed"
+      },
+      {
+        "name": "storage object SELECT policies hide drafts and other users’ avatars",
+        "status": "passed"
+      },
+      {
+        "name": "storage object policies permit own avatar operations and block cross-user/moved paths",
+        "status": "passed"
+      },
+      {
+        "name": "only admin can manage place-image objects, with a real place folder",
+        "status": "passed"
+      },
+      {
+        "name": "private SECURITY DEFINER functions pin search_path; no public RPC functions added",
+        "status": "passed"
+      },
+      {
+        "name": "account deletion cleans private relationships while preserving audit history",
+        "status": "passed"
+      },
+      {
+        "name": "browser config rejects secrets, missing pairs and unsafe URLs; blank config is safe",
+        "status": "passed"
+      },
+      {
+        "name": "fresh database replay reproduces the application schema and policy definitions",
+        "status": "passed"
+      }
+    ]
+  },
+  "hostedHttp": {
+    "projectRef": "dkhwwvoplhfjccvjegty",
+    "scope": "Real hosted SDK/HTTP using modern publishable key. No production-published content exists; positive published visibility is tested separately with rollback-only hosted SQL and simulated browser fixtures.",
+    "passed": 17,
+    "results": [
+      {
+        "name": "verified URL and enabled modern publishable key initialize public SDK",
+        "status": "passed"
+      },
+      {
+        "name": "seven real active categories",
+        "status": "passed"
+      },
+      {
+        "name": "real nested published-place API returns honest empty catalog",
+        "status": "passed"
+      },
+      {
+        "name": "unfiltered public query cannot see the six imported drafts",
+        "status": "passed"
+      },
+      {
+        "name": "draft slug is not publicly readable",
+        "status": "passed"
+      },
+      {
+        "name": "unknown and invalid slugs return null",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private profiles",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private user_roles",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private user_preferences",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private user_preference_categories",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private saved_places",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private recommendation_feedback",
+        "status": "passed"
+      },
+      {
+        "name": "public requests denied private admin_audit_logs",
+        "status": "passed"
+      },
+      {
+        "name": "public category insert forbidden",
+        "status": "passed"
+      },
+      {
+        "name": "public place updates forbidden",
+        "status": "passed"
+      },
+      {
+        "name": "public place deletes forbidden",
+        "status": "passed"
+      },
+      {
+        "name": "published image metadata remains empty under real RLS",
+        "status": "passed"
+      }
+    ]
+  },
+  "browser": {
+    "live": "http://127.0.0.1:4182",
+    "demo": "http://127.0.0.1:4183",
+    "passed": 8,
+    "checks": [
+      {
+        "name": "real production Home handles zero published places without demo fallback",
+        "status": "passed"
+      },
+      {
+        "name": "real Explore categories, empty state and cached navigation",
+        "status": "passed"
+      },
+      {
+        "name": "real draft and invalid slugs show unavailable place",
+        "status": "passed"
+      },
+      {
+        "name": "live fixed demonstration stays labeled and temporary save works",
+        "status": "passed"
+      },
+      {
+        "name": "live empty pages retain compact responsive UI and static map",
+        "status": "passed"
+      },
+      {
+        "name": "simulated outage shows error and user retry recovers published cards",
+        "status": "passed"
+      },
+      {
+        "name": "simulated published search/category clearing and details with NULL information",
+        "status": "passed"
+      },
+      {
+        "name": "explicit demo build has original cards and clear demo label",
+        "status": "passed"
+      }
+    ],
+    "responsive": [
+      {
+        "route": "/",
+        "width": 1920,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 44,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 1920,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 1920,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 1920,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 44,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 1366,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 43.712,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 1366,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 1366,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 1366,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 1024,
+        "overflow": false,
+        "header": 60,
+        "main": 1024,
+        "heading": 40,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 1024,
+        "overflow": false,
+        "header": 60,
+        "main": 1024,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 1024,
+        "overflow": false,
+        "header": 60,
+        "main": 1024,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 1024,
+        "overflow": false,
+        "header": 60,
+        "main": 1024,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 768,
+        "overflow": false,
+        "header": 60,
+        "main": 768,
+        "heading": 40,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 768,
+        "overflow": false,
+        "header": 60,
+        "main": 768,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 768,
+        "overflow": false,
+        "header": 60,
+        "main": 768,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 768,
+        "overflow": false,
+        "header": 60,
+        "main": 768,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "main": 390,
+        "heading": 40,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "main": 390,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "main": 390,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "main": 390,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 375,
+        "overflow": false,
+        "header": 104,
+        "main": 375,
+        "heading": 40,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 375,
+        "overflow": false,
+        "header": 104,
+        "main": 375,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 375,
+        "overflow": false,
+        "header": 104,
+        "main": 375,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 375,
+        "overflow": false,
+        "header": 104,
+        "main": 375,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/",
+        "width": 320,
+        "overflow": false,
+        "header": 104,
+        "main": 320,
+        "heading": 40,
+        "brokenImages": 0
+      },
+      {
+        "route": "/explore",
+        "width": 320,
+        "overflow": false,
+        "header": 104,
+        "main": 320,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/places/unknown",
+        "width": 320,
+        "overflow": false,
+        "header": 104,
+        "main": 320,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "/my-discoveries",
+        "width": 320,
+        "overflow": false,
+        "header": 104,
+        "main": 320,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "simulated/saved",
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "main": 1200,
+        "heading": 28,
+        "brokenImages": 0
+      },
+      {
+        "route": "simulated/saved",
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "main": 390,
+        "heading": 26,
+        "brokenImages": 0
+      },
+      {
+        "route": "simulated/saved",
+        "width": 320,
+        "overflow": false,
+        "header": 104,
+        "main": 320,
+        "heading": 26,
+        "brokenImages": 0
+      }
+    ],
+    "errors": [],
+    "scope": "Real empty hosted reads plus separately labeled intercepted published/error UI fixtures."
+  },
+  "regressions": [
+    {
+      "name": "check-phase01a",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase01b",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase01c",
+      "exitCode": 0
+    },
+    {
+      "name": "check-landing-refinement",
+      "exitCode": 0
+    },
+    {
+      "name": "check-global-ui-scale",
+      "exitCode": 0
+    }
+  ],
+  "integrity": {
+    "approvedStyleFilesUnchanged": [
+      "accounts.css",
+      "checkmarks.css",
+      "components.css",
+      "discovery.css",
+      "pages.css",
+      "places.css",
+      "tokens.css",
+      "ui-scale.css"
+    ],
+    "clientBundleSecretScan": "passed",
+    "jsFiles": [
+      "client-BRRAKm4i.js",
+      "index-Lkc4SiUh.js"
+    ],
+    "source": "Credential-prefix scan and decoded JWT role scan of final production JavaScript; public publishable key is expected."
+  },
+  "screenshots": [
+    {
+      "name": "after-details-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-details-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-discoveries-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-discoveries-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-explore-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-explore-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-details-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-details-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-discoveries-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-discoveries-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-explore-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-explore-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-landing-1366.png",
+      "identical": false
+    },
+    {
+      "name": "after-full-landing-375.png",
+      "identical": false
+    },
+    {
+      "name": "after-full-login-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-login-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-map-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-map-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-not-found-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-not-found-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-preferences-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-preferences-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-profile-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-profile-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-recovery-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-recovery-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-register-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-register-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-result-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-result-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-surprise-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-full-surprise-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-landing-1366.png",
+      "identical": false
+    },
+    {
+      "name": "after-landing-375.png",
+      "identical": false
+    },
+    {
+      "name": "after-login-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-login-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-map-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-map-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-not-found-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-not-found-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-preferences-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-preferences-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-profile-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-profile-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-recovery-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-recovery-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-register-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-register-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-result-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-result-375.png",
+      "identical": true
+    },
+    {
+      "name": "after-surprise-1366.png",
+      "identical": true
+    },
+    {
+      "name": "after-surprise-375.png",
+      "identical": true
+    },
+    {
+      "name": "before-details-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-discoveries-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-explore-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-details-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-discoveries-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-explore-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-landing-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-login-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-map-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-not-found-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-preferences-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-profile-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-recovery-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-register-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-result-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-full-surprise-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-landing-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-login-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-map-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-not-found-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-preferences-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-profile-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-recovery-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-register-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-result-1366.png",
+      "identical": true
+    },
+    {
+      "name": "before-surprise-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-details-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-discoveries-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-explore-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-landing-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-login-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-map-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-not-found-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-preferences-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-profile-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-recovery-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-register-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-result-1366.png",
+      "identical": true
+    },
+    {
+      "name": "comparison-surprise-1366.png",
+      "identical": true
+    },
+    {
+      "name": "gallery-dialog-1366.png",
+      "identical": true
+    },
+    {
+      "name": "gallery-dialog-375.png",
+      "identical": true
+    },
+    {
+      "name": "preview-dialog-1366.png",
+      "identical": false
+    },
+    {
+      "name": "preview-dialog-375.png",
+      "identical": false
+    },
+    {
+      "name": "profile-edit-1366.png",
+      "identical": true
+    },
+    {
+      "name": "profile-edit-375.png",
+      "identical": true
+    },
+    {
+      "name": "register-invalid-1366.png",
+      "identical": true
+    },
+    {
+      "name": "register-invalid-375.png",
+      "identical": true
+    },
+    {
+      "name": "surprise-invalid-1366.png",
+      "identical": true
+    },
+    {
+      "name": "surprise-invalid-375.png",
+      "identical": true
+    }
+  ],
+  "finalDialog": [
+    {
+      "width": 1366,
+      "identical": false
+    },
+    {
+      "width": 375,
+      "identical": true
+    }
+  ],
+  "finalDialogDesktopDifference": {
+    "bounds": [
+      209,
+      400,
+      222,
+      414
+    ],
+    "changedPixels": 20,
+    "scope": "Background image corner, not dialog text/layout."
+  }
+}

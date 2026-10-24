@@ -1,0 +1,77 @@
+{
+  "scope": "Actual public hosted catalog, no mutations",
+  "results": [
+    {
+      "language": "en",
+      "term": "Ajloun",
+      "cards": 6,
+      "markers": 1
+    },
+    {
+      "language": "en",
+      "term": "عجلون",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "en",
+      "term": "Wadi Mujib",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "en",
+      "term": "وادي الموجب",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "en",
+      "term": "Umm Qais",
+      "cards": 1,
+      "markers": 1
+    },
+    {
+      "language": "en",
+      "term": "أم قيس",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "ar-JO",
+      "term": "Ajloun",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "ar-JO",
+      "term": "عجلون",
+      "cards": 1,
+      "markers": 1
+    },
+    {
+      "language": "ar-JO",
+      "term": "Wadi Mujib",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "ar-JO",
+      "term": "وادي الموجب",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "ar-JO",
+      "term": "Umm Qais",
+      "cards": 0,
+      "markers": 0
+    },
+    {
+      "language": "ar-JO",
+      "term": "أم قيس",
+      "cards": 1,
+      "markers": 1
+    }
+  ]
+}

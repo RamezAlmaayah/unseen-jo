@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "lang": "en",
+      "width": 1366,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    },
+    {
+      "route": "/",
+      "lang": "en",
+      "width": 820,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    },
+    {
+      "route": "/",
+      "lang": "en",
+      "width": 390,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    },
+    {
+      "route": "/",
+      "lang": "ar-JO",
+      "width": 1366,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    },
+    {
+      "route": "/",
+      "lang": "ar-JO",
+      "width": 820,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    },
+    {
+      "route": "/",
+      "lang": "ar-JO",
+      "width": 390,
+      "status": "passed",
+      "scope": "Real anonymous data, deterministic map tiles; no hosted writes"
+    }
+  ]
+}

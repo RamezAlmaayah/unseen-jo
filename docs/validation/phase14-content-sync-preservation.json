@@ -1,0 +1,40 @@
+{
+  "scope": "Fresh pre/post full-row SELECT comparisons and role-membership fingerprint; no hosted writes performed.",
+  "results": [
+    {
+      "table": "places",
+      "count": 24,
+      "unchanged": true
+    },
+    {
+      "table": "translations",
+      "count": 24,
+      "unchanged": true
+    },
+    {
+      "table": "images",
+      "count": 45,
+      "unchanged": true
+    },
+    {
+      "table": "reviews",
+      "count": 24,
+      "unchanged": true
+    },
+    {
+      "table": "relationships",
+      "count": 48,
+      "unchanged": true
+    },
+    {
+      "table": "storage",
+      "count": 211,
+      "unchanged": true
+    },
+    {
+      "table": "admin_fingerprint",
+      "count": 2,
+      "unchanged": true
+    }
+  ]
+}

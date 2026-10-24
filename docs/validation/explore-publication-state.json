@@ -1,0 +1,93 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Read-only dedicated MCP status/timestamp snapshots; browser additionally verifies anonymous public queries and actual build data mode. No mutations.",
+  "before": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:26.541095+00"
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:39.768052+00"
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:45.896524+00"
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:55.637497+00"
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:17:00.619931+00"
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 19:24:18.983976+00"
+    }
+  ],
+  "after": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:26.541095+00"
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:39.768052+00"
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:45.896524+00"
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:16:55.637497+00"
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 18:17:00.619931+00"
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "status": "published",
+      "is_demo": false,
+      "updated_at": "2026-10-19 19:24:18.983976+00"
+    }
+  ],
+  "unchanged": true
+}

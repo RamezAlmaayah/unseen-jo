@@ -1,0 +1,6 @@
+{
+  "scope": "Real local Supabase only; runner never uses repository .env or hosted keys",
+  "status": "BLOCKED",
+  "results": [],
+  "reason": "Local prerequisites or an integration assertion failed; no credentials/output exposed. Inspect the isolated stack locally. No hosted fallback."
+}

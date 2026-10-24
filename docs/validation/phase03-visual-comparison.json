@@ -1,0 +1,2826 @@
+{
+  "scope": "Pixel comparison of current regression screenshots against pre-Phase-03 records. Map/Explore/Details changes are authorized. RGB pixel comparison, no tolerance. Previous screenshots restored after capture.",
+  "compared": 156,
+  "identical": 116,
+  "unchangedNonMap": 105,
+  "changedNonMap": [
+    {
+      "file": "global-ui-scale/after-discoveries-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        16,
+        663,
+        359,
+        683
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 64,
+      "changedFraction": 0.00021018062397372742,
+      "review": "Small painting/focus/image-edge variation; reviewed against original, unchanged geometry."
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        942
+      ],
+      "afterSize": [
+        1366,
+        942
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0005603168238040617,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        1778
+      ],
+      "afterSize": [
+        375,
+        1778
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0010813648293963255,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "global-ui-scale/after-landing-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0006872636041971693,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "global-ui-scale/after-landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.002367816091954023,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-1024x768.png",
+      "identical": false,
+      "beforeSize": [
+        1024,
+        768
+      ],
+      "afterSize": [
+        1024,
+        768
+      ],
+      "differenceBounds": [
+        872,
+        445,
+        972,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0009167989095052084,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-1366x768.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0006872636041971693,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-1440x900.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        900
+      ],
+      "afterSize": [
+        1440,
+        900
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0005563271604938271,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-1920x1080.png",
+      "identical": false,
+      "beforeSize": [
+        1920,
+        1080
+      ],
+      "afterSize": [
+        1920,
+        1080
+      ],
+      "differenceBounds": [
+        1332,
+        445,
+        1432,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.00034770447530864195,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-390x844.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        844
+      ],
+      "afterSize": [
+        390,
+        844
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0021904241098553894,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-full-1024x768.png",
+      "identical": false,
+      "beforeSize": [
+        1024,
+        942
+      ],
+      "afterSize": [
+        1024,
+        942
+      ],
+      "differenceBounds": [
+        872,
+        445,
+        972,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0007474538880042463,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-full-1366x768.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        942
+      ],
+      "afterSize": [
+        1366,
+        942
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0005603168238040617,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-full-1440x900.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        942
+      ],
+      "afterSize": [
+        1440,
+        942
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0005315227648030196,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-full-1920x1080.png",
+      "identical": false,
+      "beforeSize": [
+        1920,
+        1080
+      ],
+      "afterSize": [
+        1920,
+        1080
+      ],
+      "differenceBounds": [
+        1332,
+        445,
+        1432,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.00034770447530864195,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "landing-refinement/after-full-390x844.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        1778
+      ],
+      "afterSize": [
+        390,
+        1778
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0010397738744195436,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "phase01a/landing-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0005006944444444445,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "phase01a/landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        1778
+      ],
+      "afterSize": [
+        375,
+        1778
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0010813648293963255,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "phase01a/landing-390.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        1778
+      ],
+      "afterSize": [
+        390,
+        1778
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 721,
+      "changedFraction": 0.0010397738744195436,
+      "review": "Existing Phase 02B view all \u00b7 demo label; original Landing source not edited in Phase 03."
+    },
+    {
+      "file": "phase01b/surprise-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        707,
+        430,
+        733,
+        434
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 5,
+      "changedFraction": 3.4722222222222224e-06,
+      "review": "Small painting/focus/image-edge variation; reviewed against original, unchanged geometry."
+    },
+    {
+      "file": "phase01c/profile-edit-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        468,
+        276,
+        1296,
+        503
+      ],
+      "expectedMapAreaChange": false,
+      "changedPixels": 25,
+      "changedFraction": 1.736111111111111e-05,
+      "review": "Small painting/focus/image-edge variation; reviewed against original, unchanged geometry."
+    }
+  ],
+  "results": [
+    {
+      "file": "global-ui-scale/after-details-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        789,
+        668,
+        1259,
+        768
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-details-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        16,
+        392,
+        359,
+        488
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-discoveries-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-discoveries-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        16,
+        663,
+        359,
+        683
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-explore-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        200,
+        179,
+        1165,
+        768
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-explore-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        7,
+        256,
+        368,
+        812
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-details-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        1473
+      ],
+      "afterSize": [
+        1366,
+        1473
+      ],
+      "differenceBounds": [
+        789,
+        668,
+        1259,
+        994
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-details-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        3138
+      ],
+      "afterSize": [
+        375,
+        3138
+      ],
+      "differenceBounds": [
+        16,
+        2047,
+        359,
+        2353
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-discoveries-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1046
+      ],
+      "afterSize": [
+        1366,
+        1046
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-discoveries-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        2323
+      ],
+      "afterSize": [
+        375,
+        2323
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-explore-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        1184
+      ],
+      "afterSize": [
+        1366,
+        1238
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-explore-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        2452
+      ],
+      "afterSize": [
+        375,
+        2632
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        942
+      ],
+      "afterSize": [
+        1366,
+        942
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        1778
+      ],
+      "afterSize": [
+        375,
+        1778
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-login-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-login-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        975
+      ],
+      "afterSize": [
+        375,
+        975
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-map-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        1238
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-map-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        2632
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-full-not-found-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-not-found-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-preferences-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        984
+      ],
+      "afterSize": [
+        1366,
+        984
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-preferences-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1560
+      ],
+      "afterSize": [
+        375,
+        1560
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-profile-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        823
+      ],
+      "afterSize": [
+        1366,
+        823
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-profile-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1413
+      ],
+      "afterSize": [
+        375,
+        1413
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-recovery-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-recovery-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        974
+      ],
+      "afterSize": [
+        375,
+        974
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-register-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        798
+      ],
+      "afterSize": [
+        1366,
+        798
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-register-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1181
+      ],
+      "afterSize": [
+        375,
+        1181
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-result-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-result-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1123
+      ],
+      "afterSize": [
+        375,
+        1123
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-surprise-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        812
+      ],
+      "afterSize": [
+        1366,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-full-surprise-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1148
+      ],
+      "afterSize": [
+        375,
+        1148
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-landing-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-login-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-login-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-map-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        107,
+        98,
+        1165,
+        768
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-map-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        7,
+        133,
+        368,
+        812
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/after-not-found-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-not-found-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-preferences-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-preferences-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-profile-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-profile-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-recovery-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-recovery-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-register-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-register-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-result-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-result-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-surprise-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/after-surprise-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-details-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-discoveries-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-explore-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-full-details-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        2054
+      ],
+      "afterSize": [
+        1366,
+        2054
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-full-discoveries-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1378
+      ],
+      "afterSize": [
+        1366,
+        1378
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-explore-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1670
+      ],
+      "afterSize": [
+        1366,
+        1670
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-full-landing-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1091
+      ],
+      "afterSize": [
+        1366,
+        1091
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-login-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        862
+      ],
+      "afterSize": [
+        1366,
+        862
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-map-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-full-not-found-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-preferences-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1922
+      ],
+      "afterSize": [
+        1366,
+        1922
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-profile-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1089
+      ],
+      "afterSize": [
+        1366,
+        1089
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-recovery-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        823
+      ],
+      "afterSize": [
+        1366,
+        823
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-register-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1074
+      ],
+      "afterSize": [
+        1366,
+        1074
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-result-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1202
+      ],
+      "afterSize": [
+        1366,
+        1202
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-full-surprise-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1670
+      ],
+      "afterSize": [
+        1366,
+        1670
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-landing-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-login-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-map-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/before-not-found-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-preferences-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-profile-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-recovery-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-register-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-result-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/before-surprise-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-details-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/comparison-discoveries-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-explore-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/comparison-landing-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-login-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-map-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/comparison-not-found-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-preferences-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-profile-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-recovery-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-register-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-result-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/comparison-surprise-1366.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/gallery-dialog-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        789,
+        136,
+        1259,
+        768
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/gallery-dialog-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        16,
+        398,
+        359,
+        482
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/preview-dialog-1366.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        200,
+        179,
+        1165,
+        768
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/preview-dialog-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        812
+      ],
+      "afterSize": [
+        375,
+        812
+      ],
+      "differenceBounds": [
+        7,
+        468,
+        368,
+        812
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "global-ui-scale/profile-edit-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        844
+      ],
+      "afterSize": [
+        1366,
+        844
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/profile-edit-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1574
+      ],
+      "afterSize": [
+        375,
+        1574
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/register-invalid-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        938
+      ],
+      "afterSize": [
+        1366,
+        938
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/register-invalid-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1321
+      ],
+      "afterSize": [
+        375,
+        1321
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/surprise-invalid-1366.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        876
+      ],
+      "afterSize": [
+        1366,
+        876
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "global-ui-scale/surprise-invalid-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1232
+      ],
+      "afterSize": [
+        375,
+        1232
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-1024x768.png",
+      "identical": false,
+      "beforeSize": [
+        1024,
+        768
+      ],
+      "afterSize": [
+        1024,
+        768
+      ],
+      "differenceBounds": [
+        872,
+        445,
+        972,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-1366x768.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-1440x900.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        900
+      ],
+      "afterSize": [
+        1440,
+        900
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-1920x1080.png",
+      "identical": false,
+      "beforeSize": [
+        1920,
+        1080
+      ],
+      "afterSize": [
+        1920,
+        1080
+      ],
+      "differenceBounds": [
+        1332,
+        445,
+        1432,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-390x844.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        844
+      ],
+      "afterSize": [
+        390,
+        844
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-full-1024x768.png",
+      "identical": false,
+      "beforeSize": [
+        1024,
+        942
+      ],
+      "afterSize": [
+        1024,
+        942
+      ],
+      "differenceBounds": [
+        872,
+        445,
+        972,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-full-1366x768.png",
+      "identical": false,
+      "beforeSize": [
+        1366,
+        942
+      ],
+      "afterSize": [
+        1366,
+        942
+      ],
+      "differenceBounds": [
+        1055,
+        445,
+        1155,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-full-1440x900.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        942
+      ],
+      "afterSize": [
+        1440,
+        942
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-full-1920x1080.png",
+      "identical": false,
+      "beforeSize": [
+        1920,
+        1080
+      ],
+      "afterSize": [
+        1920,
+        1080
+      ],
+      "differenceBounds": [
+        1332,
+        445,
+        1432,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/after-full-390x844.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        1778
+      ],
+      "afterSize": [
+        390,
+        1778
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/before-1366x768.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        768
+      ],
+      "afterSize": [
+        1366,
+        768
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/before-1440x900.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        900
+      ],
+      "afterSize": [
+        1440,
+        900
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/before-full-1366x768.png",
+      "identical": true,
+      "beforeSize": [
+        1366,
+        1392
+      ],
+      "afterSize": [
+        1366,
+        1392
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/before-full-1440x900.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1392
+      ],
+      "afterSize": [
+        1440,
+        1392
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/comparison-1366x768.png",
+      "identical": true,
+      "beforeSize": [
+        2732,
+        804
+      ],
+      "afterSize": [
+        2732,
+        804
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "landing-refinement/comparison-1440x900.png",
+      "identical": true,
+      "beforeSize": [
+        2880,
+        936
+      ],
+      "afterSize": [
+        2880,
+        936
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/landing-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        1092,
+        445,
+        1192,
+        457
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/landing-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        1778
+      ],
+      "afterSize": [
+        375,
+        1778
+      ],
+      "differenceBounds": [
+        231,
+        688,
+        331,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/landing-390.png",
+      "identical": false,
+      "beforeSize": [
+        390,
+        1778
+      ],
+      "afterSize": [
+        390,
+        1778
+      ],
+      "differenceBounds": [
+        246,
+        688,
+        346,
+        700
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/preferences-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/preferences-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1560
+      ],
+      "afterSize": [
+        375,
+        1560
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/preferences-390.png",
+      "identical": true,
+      "beforeSize": [
+        390,
+        1560
+      ],
+      "afterSize": [
+        390,
+        1560
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/preferences-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        1536,
+        1024
+      ],
+      "afterSize": [
+        1536,
+        1024
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01a/preferences-preview-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1276
+      ],
+      "afterSize": [
+        1440,
+        1276
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/explore-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1184
+      ],
+      "afterSize": [
+        1440,
+        1238
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01b/explore-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        2452
+      ],
+      "afterSize": [
+        375,
+        2632
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01b/explore-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        1766,
+        1024
+      ],
+      "afterSize": [
+        1766,
+        1024
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01b/result-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/result-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1123
+      ],
+      "afterSize": [
+        375,
+        1123
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/result-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        2048,
+        820
+      ],
+      "afterSize": [
+        2048,
+        820
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/surprise-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        707,
+        430,
+        733,
+        434
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/surprise-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1148
+      ],
+      "afterSize": [
+        375,
+        1148
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01b/surprise-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        1766,
+        1024
+      ],
+      "afterSize": [
+        1766,
+        1024
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/details-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1473
+      ],
+      "afterSize": [
+        1440,
+        1473
+      ],
+      "differenceBounds": [
+        826,
+        668,
+        1296,
+        994
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01c/details-375.png",
+      "identical": false,
+      "beforeSize": [
+        375,
+        3138
+      ],
+      "afterSize": [
+        375,
+        3138
+      ],
+      "differenceBounds": [
+        16,
+        2047,
+        359,
+        2353
+      ],
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01c/details-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        1728,
+        1045
+      ],
+      "afterSize": [
+        1728,
+        1045
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": true
+    },
+    {
+      "file": "phase01c/discoveries-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1046
+      ],
+      "afterSize": [
+        1440,
+        1046
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/discoveries-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        2323
+      ],
+      "afterSize": [
+        375,
+        2323
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/discoveries-comparison.png",
+      "identical": true,
+      "beforeSize": [
+        1728,
+        824
+      ],
+      "afterSize": [
+        1728,
+        824
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/discoveries-empty-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/discoveries-visited-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/login-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/login-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1000
+      ],
+      "afterSize": [
+        375,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/not-found-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/not-found-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1000
+      ],
+      "afterSize": [
+        375,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/profile-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/profile-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1413
+      ],
+      "afterSize": [
+        375,
+        1413
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/profile-edit-1440.png",
+      "identical": false,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": [
+        468,
+        276,
+        1296,
+        503
+      ],
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/recovery-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/recovery-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1000
+      ],
+      "afterSize": [
+        375,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/register-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/register-375.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1181
+      ],
+      "afterSize": [
+        375,
+        1181
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase01c/register-validation-1440.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1000
+      ],
+      "afterSize": [
+        1440,
+        1000
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase02b/live-empty-desktop.png",
+      "identical": true,
+      "beforeSize": [
+        1440,
+        1116
+      ],
+      "afterSize": [
+        1440,
+        1116
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    },
+    {
+      "file": "phase02b/live-empty-mobile.png",
+      "identical": true,
+      "beforeSize": [
+        375,
+        1348
+      ],
+      "afterSize": [
+        375,
+        1348
+      ],
+      "differenceBounds": null,
+      "expectedMapAreaChange": false
+    }
+  ],
+  "review": {
+    "exactImages": 116,
+    "exactUnrelatedImages": 105,
+    "existingDemoLabelComparisons": 17,
+    "otherSmallDifferences": [
+      {
+        "file": "global-ui-scale/after-discoveries-375.png",
+        "changedPixels": 64,
+        "changedFraction": 0.00021018062397372742
+      },
+      {
+        "file": "phase01b/surprise-1440.png",
+        "changedPixels": 5,
+        "changedFraction": 3.4722222222222224e-06
+      },
+      {
+        "file": "phase01c/profile-edit-1440.png",
+        "changedPixels": 25,
+        "changedFraction": 1.736111111111111e-05
+      }
+    ]
+  }
+}

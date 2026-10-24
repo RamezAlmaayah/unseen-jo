@@ -1,0 +1,1610 @@
+{
+  "rls": [
+    {
+      "table": "admin_audit_logs",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "categories",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "place_categories",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "place_images",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "place_reviews",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "place_translations",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "places",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "profiles",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "recommendation_feedback",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "saved_places",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "user_preference_categories",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "user_preferences",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "user_roles",
+      "forced": false,
+      "schema": "public",
+      "enabled": true
+    },
+    {
+      "table": "buckets",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "buckets_analytics",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "buckets_vectors",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "migrations",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "objects",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "s3_multipart_uploads",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "s3_multipart_uploads_parts",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    },
+    {
+      "table": "vector_indexes",
+      "forced": false,
+      "schema": "storage",
+      "enabled": true
+    }
+  ],
+  "buckets": [
+    {
+      "id": "place-images",
+      "name": "place-images",
+      "public": false,
+      "file_size_limit": 5242880,
+      "allowed_mime_types": [
+        "image/jpeg",
+        "image/png",
+        "image/webp",
+        "image/avif"
+      ]
+    },
+    {
+      "id": "profile-avatars",
+      "name": "profile-avatars",
+      "public": false,
+      "file_size_limit": 2097152,
+      "allowed_mime_types": [
+        "image/jpeg",
+        "image/png",
+        "image/webp"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "cmd": "SELECT",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "admin_audit_logs",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_audit_admin_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_categories_admin_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_categories_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_categories_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "is_active",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_categories_anon_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(is_active OR ( SELECT unseen_private.is_admin() AS is_admin))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_categories_authenticated_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_categories_admin_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_categories_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_categories_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((EXISTS ( SELECT 1\n   FROM places p\n  WHERE (p.id = place_categories.place_id))) AND (EXISTS ( SELECT 1\n   FROM categories c\n  WHERE (c.id = place_categories.category_id))))",
+      "roles": [
+        "anon",
+        "authenticated"
+      ],
+      "tablename": "place_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_categories_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(approved_at IS NOT NULL)",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "place_images",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_image_approval_anon",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(( SELECT unseen_private.is_admin() AS is_admin) OR (approved_at IS NOT NULL))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_images",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_image_approval_user",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_images",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_images_admin_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_images",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_images_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_images",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_images_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(EXISTS ( SELECT 1\n   FROM places p\n  WHERE (p.id = place_images.place_id)))",
+      "roles": [
+        "anon",
+        "authenticated"
+      ],
+      "tablename": "place_images",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_images_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "ALL",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_reviews",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_reviews_admin",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_translations",
+      "permissive": "PERMISSIVE",
+      "policyname": "translation_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_translations",
+      "permissive": "PERMISSIVE",
+      "policyname": "translation_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((editorial_status = 'reviewed'::text) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = place_translations.place_id) AND (p.status = 'published'::text) AND (p.updated_at = place_translations.source_updated_at)))))",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "place_translations",
+      "permissive": "PERMISSIVE",
+      "policyname": "translation_anon_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(( SELECT unseen_private.is_admin() AS is_admin) OR ((editorial_status = 'reviewed'::text) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = place_translations.place_id) AND (p.status = 'published'::text) AND (p.updated_at = place_translations.source_updated_at))))))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "place_translations",
+      "permissive": "PERMISSIVE",
+      "policyname": "translation_authenticated_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_places_admin_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_places_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_places_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(status = 'published'::text)",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_places_anon_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((status = 'published'::text) OR ( SELECT unseen_private.is_admin() AS is_admin))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_places_authenticated_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "profiles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_profiles_owner_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "(id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "profiles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_profiles_owner_update",
+      "schemaname": "public",
+      "with_check": "(id = ( SELECT auth.uid() AS uid))"
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "recommendation_feedback",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_feedback_owner_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "recommendation_feedback",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_feedback_owner_insert",
+      "schemaname": "public",
+      "with_check": "((user_id = ( SELECT auth.uid() AS uid)) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = recommendation_feedback.place_id) AND (p.status = 'published'::text)))))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "recommendation_feedback",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_feedback_owner_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "recommendation_feedback",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_feedback_owner_update",
+      "schemaname": "public",
+      "with_check": "(user_id = ( SELECT auth.uid() AS uid))"
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "saved_places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_saved_owner_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "saved_places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_saved_owner_insert",
+      "schemaname": "public",
+      "with_check": "((user_id = ( SELECT auth.uid() AS uid)) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id = saved_places.place_id) AND (p.status = 'published'::text)))))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "saved_places",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_saved_owner_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preference_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_interests_owner_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preference_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_interests_owner_insert",
+      "schemaname": "public",
+      "with_check": "((user_id = ( SELECT auth.uid() AS uid)) AND (EXISTS ( SELECT 1\n   FROM categories c\n  WHERE ((c.id = user_preference_categories.category_id) AND c.is_active))))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preference_categories",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_interests_owner_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preferences",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_preferences_owner_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preferences",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_preferences_owner_insert",
+      "schemaname": "public",
+      "with_check": "(user_id = ( SELECT auth.uid() AS uid))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preferences",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_preferences_owner_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "(user_id = ( SELECT auth.uid() AS uid))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_preferences",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_preferences_owner_update",
+      "schemaname": "public",
+      "with_check": "(user_id = ( SELECT auth.uid() AS uid))"
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_roles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_roles_admin_delete",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_roles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_roles_admin_insert",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "( SELECT unseen_private.is_admin() AS is_admin)",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_roles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_roles_admin_update",
+      "schemaname": "public",
+      "with_check": "( SELECT unseen_private.is_admin() AS is_admin)"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((user_id = ( SELECT auth.uid() AS uid)) OR ( SELECT unseen_private.is_admin() AS is_admin))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "user_roles",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_roles_read",
+      "schemaname": "public",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "((bucket_id = 'profile-avatars'::text) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_avatar_owner_delete",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_avatar_owner_insert",
+      "schemaname": "storage",
+      "with_check": "((bucket_id = 'profile-avatars'::text) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((bucket_id = 'profile-avatars'::text) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_avatar_owner_read",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "((bucket_id = 'profile-avatars'::text) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_avatar_owner_update",
+      "schemaname": "storage",
+      "with_check": "((bucket_id = 'profile-avatars'::text) AND ((storage.foldername(name))[1] = (( SELECT auth.uid() AS uid))::text))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((bucket_id <> 'place-images'::text) OR (EXISTS ( SELECT 1\n   FROM place_images i\n  WHERE ((i.storage_path = objects.name) AND (i.approved_at IS NOT NULL)))))",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "objects",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_object_approval_anon",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((bucket_id <> 'place-images'::text) OR ( SELECT unseen_private.is_admin() AS is_admin) OR (EXISTS ( SELECT 1\n   FROM place_images i\n  WHERE ((i.storage_path = objects.name) AND (i.approved_at IS NOT NULL)))))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_object_approval_user",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "((bucket_id <> 'place-images'::text) OR (NOT (EXISTS ( SELECT 1\n   FROM place_images i\n  WHERE (i.storage_path = objects.name)))))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_object_immutable_delete",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "((bucket_id <> 'place-images'::text) OR (NOT (EXISTS ( SELECT 1\n   FROM place_images i\n  WHERE (i.storage_path = objects.name)))))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "RESTRICTIVE",
+      "policyname": "uj_object_immutable_update",
+      "schemaname": "storage",
+      "with_check": "((bucket_id <> 'place-images'::text) OR (NOT (EXISTS ( SELECT 1\n   FROM place_images i\n  WHERE (i.storage_path = objects.name)))))"
+    },
+    {
+      "cmd": "DELETE",
+      "qual": "((bucket_id = 'place-images'::text) AND ( SELECT unseen_private.is_admin() AS is_admin))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_objects_admin_delete",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "INSERT",
+      "qual": null,
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_objects_admin_insert",
+      "schemaname": "storage",
+      "with_check": "((bucket_id = 'place-images'::text) AND ( SELECT unseen_private.is_admin() AS is_admin) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id)::text = (storage.foldername(objects.name))[1]))))"
+    },
+    {
+      "cmd": "UPDATE",
+      "qual": "((bucket_id = 'place-images'::text) AND ( SELECT unseen_private.is_admin() AS is_admin))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_objects_admin_update",
+      "schemaname": "storage",
+      "with_check": "((bucket_id = 'place-images'::text) AND ( SELECT unseen_private.is_admin() AS is_admin) AND (EXISTS ( SELECT 1\n   FROM places p\n  WHERE ((p.id)::text = (storage.foldername(objects.name))[1]))))"
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((bucket_id = 'place-images'::text) AND (( SELECT unseen_private.is_admin() AS is_admin) OR (EXISTS ( SELECT 1\n   FROM (place_images i\n     JOIN places p ON ((p.id = i.place_id)))\n  WHERE ((i.storage_path = objects.name) AND (p.status = 'published'::text))))))",
+      "roles": [
+        "authenticated"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_objects_authenticated_read",
+      "schemaname": "storage",
+      "with_check": null
+    },
+    {
+      "cmd": "SELECT",
+      "qual": "((bucket_id = 'place-images'::text) AND (EXISTS ( SELECT 1\n   FROM (place_images i\n     JOIN places p ON ((p.id = i.place_id)))\n  WHERE ((i.storage_path = objects.name) AND (p.status = 'published'::text)))))",
+      "roles": [
+        "anon"
+      ],
+      "tablename": "objects",
+      "permissive": "PERMISSIVE",
+      "policyname": "uj_place_objects_public_read",
+      "schemaname": "storage",
+      "with_check": null
+    }
+  ],
+  "checked_at": "2026-10-19T15:57:40.902976+00:00",
+  "table_grants": [
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "admin_audit_logs",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "postgres",
+      "table_name": "categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "postgres",
+      "table_name": "place_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "postgres",
+      "table_name": "place_images",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_images",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_images",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_images",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_images",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_reviews",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_reviews",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_reviews",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_reviews",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "postgres",
+      "table_name": "place_translations",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_translations",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_translations",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "place_translations",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "postgres",
+      "table_name": "places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "profiles",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "recommendation_feedback",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "recommendation_feedback",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "saved_places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "saved_places",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_preference_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_preference_categories",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_preferences",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_preferences",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_roles",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_roles",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_roles",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "postgres",
+      "table_name": "user_roles",
+      "is_grantable": "NO",
+      "table_schema": "public",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_analytics",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_vectors",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "buckets_vectors",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "DELETE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "INSERT",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "objects",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "UPDATE",
+      "with_hierarchy": "NO"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "s3_multipart_uploads",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "s3_multipart_uploads",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "s3_multipart_uploads_parts",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "s3_multipart_uploads_parts",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "anon",
+      "grantor": "supabase_storage_admin",
+      "table_name": "vector_indexes",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    },
+    {
+      "grantee": "authenticated",
+      "grantor": "supabase_storage_admin",
+      "table_name": "vector_indexes",
+      "is_grantable": "NO",
+      "table_schema": "storage",
+      "table_catalog": "postgres",
+      "privilege_type": "SELECT",
+      "with_hierarchy": "YES"
+    }
+  ]
+}

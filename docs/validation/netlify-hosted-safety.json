@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-24T16:32:23.487Z",
+  "scope": "Read-only hosted schema/advisor checks; no Auth users or credentials retrieved",
+  "hostedWrites": 0,
+  "inventory": {
+    "checkedAt": "2026-10-24T16:25:42.421016Z",
+    "published": 24,
+    "draft": 0,
+    "archived": 0,
+    "adminCount": 2,
+    "legalInstalled": false
+  },
+  "triggers": [
+    {
+      "table": "public.user_roles",
+      "name": "unseen_jo_audit"
+    },
+    {
+      "table": "auth.users",
+      "name": "unseen_jo_auth_user_created"
+    }
+  ],
+  "lastAdminSafeguard": "Not installed: trigger inventory matches prior audit; local hardening remains unactivated",
+  "securityAdvisors": {
+    "lints": [
+      {
+        "name": "auth_leaked_password_protection",
+        "title": "Leaked Password Protection Disabled",
+        "level": "WARN",
+        "facing": "EXTERNAL",
+        "categories": [
+          "SECURITY"
+        ],
+        "description": "Leaked password protection is currently disabled.",
+        "remediation": "https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection",
+        "count": 1,
+        "findings": [
+          {
+            "detail": "Supabase Auth prevents the use of compromised passwords by checking against HaveIBeenPwned.org. Enable this feature to enhance security.",
+            "metadata": {
+              "type": "auth",
+              "entity": "Auth"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

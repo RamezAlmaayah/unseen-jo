@@ -1,0 +1,38 @@
+{
+  "scope": "API fixtures only; no hosted requests or real account changes",
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "productionControls": "unavailable",
+      "passwordCollection": false,
+      "requestSubmission": false,
+      "accessibility": "passed"
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "productionControls": "unavailable",
+      "passwordCollection": false,
+      "requestSubmission": false,
+      "accessibility": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "productionControls": "unavailable",
+      "passwordCollection": false,
+      "requestSubmission": false,
+      "accessibility": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 320,
+      "productionControls": "unavailable",
+      "passwordCollection": false,
+      "requestSubmission": false,
+      "accessibility": "passed"
+    }
+  ],
+  "errors": []
+}

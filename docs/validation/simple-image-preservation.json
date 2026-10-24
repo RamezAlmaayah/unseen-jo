@@ -1,0 +1,20 @@
+{
+  "scope": "Read-only hosted fingerprints before and after simple image management migrations; places/translations projection excludes four optional visitor fields as in baseline query. Existing row timestamps are included. Storage names, metadata and updated_at included.",
+  "project": "dkhwwvoplhfjccvjegty",
+  "before": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "storage": "ad8b6547857c713e1b396a00f14e97a0",
+    "translations": "c0a1f6befe62ad042ae19bb7b75e07a5"
+  },
+  "after": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "storage": "ad8b6547857c713e1b396a00f14e97a0",
+    "translations": "c0a1f6befe62ad042ae19bb7b75e07a5"
+  },
+  "unchanged": true,
+  "hostedOwnershipDeclarations": 0,
+  "publishedPlacesUnchanged": 6,
+  "storageObjects": 15
+}

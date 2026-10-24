@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-10-19T15:52:07.645242+00:00",
+  "phase": "04L",
+  "localizationArtifacts": {
+    "phase04l-unit-tests": {
+      "artifact": "docs/validation/phase04l-unit-tests.json",
+      "artifactModifiedAt": "2026-10-19T15:45:11.489191+00:00",
+      "passed": 6,
+      "scope": "Localization resources/adapters and immutable saved English comparison; no remote mutations"
+    },
+    "phase04l-database-tests": {
+      "artifact": "docs/validation/phase04l-database-tests.json",
+      "artifactModifiedAt": "2026-10-19T15:47:55.415948+00:00",
+      "passed": 14,
+      "scope": "Disposable PGlite/PostGIS with simulated Auth sessions and Storage; no remote writes"
+    },
+    "phase04l-hosted-tests": {
+      "artifact": "docs/validation/phase04l-hosted-tests.json",
+      "artifactModifiedAt": "2026-10-19T15:46:34.609601+00:00",
+      "passed": 3,
+      "scope": "Real anonymous SDK: reads plus a denied insert permission probe; zero stored mutations"
+    },
+    "phase04l-browser": {
+      "artifact": "docs/validation/phase04l-browser.json",
+      "artifactModifiedAt": "2026-10-19T15:51:06.250542+00:00",
+      "passed": 116,
+      "scope": "Rendered local React UI, prepared researched bilingual text and real MapLibre; fixture Auth/HTTP, never remote writes or actual publication."
+    },
+    "phase04l-interactions": {
+      "artifact": "docs/validation/phase04l-interactions.json",
+      "artifactModifiedAt": "2026-10-19T15:45:56.084990+00:00",
+      "passed": 7,
+      "scope": "Rendered browser interactions with fixture Auth and isolated in-memory translation writes; no remote content/media/approval changes"
+    },
+    "phase04l-destination-previews": {
+      "artifact": "docs/validation/phase04l-destination-previews.json",
+      "artifactModifiedAt": "2026-10-19T15:50:45.628750+00:00",
+      "passed": 6,
+      "scope": "All six actual prepared translations rendered in protected editor and both preview languages with fixture Auth/API; zero mutations"
+    },
+    "phase04l-public-accessibility": {
+      "artifact": "docs/validation/phase04l-public-accessibility.json",
+      "artifactModifiedAt": "2026-10-19T15:47:28.907685+00:00",
+      "passed": 22,
+      "scope": "Automated WCAG scans and localized document titles on actual React renders, fixture published catalog; not human accessibility certification"
+    },
+    "phase04l-visual-refinement": {
+      "artifact": "docs/validation/phase04l-visual-refinement.json",
+      "artifactModifiedAt": "2026-10-19T13:22:13.490906+00:00",
+      "passed": 6,
+      "scope": "Arabic public text placement within existing unmirrored artwork; scoped refinement after full bilingual suite"
+    },
+    "phase04l-map-language": {
+      "artifact": "docs/validation/phase04l-map-language.json",
+      "artifactModifiedAt": "2026-10-19T15:51:41.939546+00:00",
+      "passed": 0,
+      "scope": "OpenFreeMap live TileJSON and decoded vector tile, plus real rendered MapLibre"
+    },
+    "phase04l-resource-audit": {
+      "artifact": "docs/validation/phase04l-resource-audit.json",
+      "artifactModifiedAt": "2026-10-19T15:45:28.501531+00:00",
+      "passed": 0,
+      "scope": null
+    }
+  },
+  "legacyRegressionJobs": [
+    {
+      "name": "check-phase01c",
+      "exitCode": 0
+    },
+    {
+      "name": "check-global-ui-scale",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase02b-hosted",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase02b-browser",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase03-browser",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase03-refinement",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase03-details-controls",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase03-quality",
+      "exitCode": 0
+    },
+    {
+      "name": "check-phase04-browser",
+      "exitCode": 0
+    }
+  ],
+  "productionValidation": {
+    "command": "npm run validate",
+    "exitCode": 0,
+    "lint": "Oxlint passed",
+    "assets": "83 references; 48 unique originals; passed",
+    "build": "Vite production build passed; existing large MapLibre chunk warning"
+  },
+  "finalPreservation": "Passed via reauthenticated supabase_unseen_jo MCP on 19 October 2026: exact place/image/role/reference comparison to both baselines; translations unchanged and pending. See phase04l-preservation-final.json.",
+  "approvalsMade": false,
+  "publicationPerformed": false,
+  "mediaImported": false,
+  "phase05Started": false,
+  "phase04LStatus": "Finalized; six human translation reviews and genuine signed-in editorial acceptance remain manual.",
+  "finalizationEvidence": "docs/validation/phase04l-preservation-final.json"
+}

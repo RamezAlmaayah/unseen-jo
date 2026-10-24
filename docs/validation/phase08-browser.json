@@ -1,0 +1,42 @@
+{
+  "scope": "Real browser and application UI with isolated fixture Auth/REST/Storage; no genuine account or hosted import accepted",
+  "results": [
+    {
+      "name": "Admin batch draft import/resume/readback/refresh/accessibility en 1366",
+      "status": "passed",
+      "scope": "Intercepted Auth/REST/Storage, no hosted writes",
+      "drafts": 18,
+      "originalsPreserved": 6,
+      "uploads": 30
+    },
+    {
+      "name": "Admin batch draft import/resume/readback/refresh/accessibility en 390",
+      "status": "passed",
+      "scope": "Intercepted Auth/REST/Storage, no hosted writes",
+      "drafts": 18,
+      "originalsPreserved": 6,
+      "uploads": 30
+    },
+    {
+      "name": "Admin batch draft import/resume/readback/refresh/accessibility ar-JO 1366",
+      "status": "passed",
+      "scope": "Intercepted Auth/REST/Storage, no hosted writes",
+      "drafts": 18,
+      "originalsPreserved": 6,
+      "uploads": 30
+    },
+    {
+      "name": "Admin batch draft import/resume/readback/refresh/accessibility ar-JO 390",
+      "status": "passed",
+      "scope": "Intercepted Auth/REST/Storage, no hosted writes",
+      "drafts": 18,
+      "originalsPreserved": 6,
+      "uploads": 30
+    },
+    {
+      "name": "Rebuilt but source-expired package blocks publication; reload genuinely refreshed checks restores readiness and resets attestation",
+      "status": "passed",
+      "scope": "Real browser with intercepted package/Auth/REST, no approvals or publication called"
+    }
+  ]
+}

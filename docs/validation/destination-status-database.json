@@ -1,0 +1,38 @@
+{
+  "scope": "Real disposable PostgreSQL/RLS, isolated fixture identities; zero hosted writes",
+  "at": "2026-10-23T19:11:05.616Z",
+  "results": [
+    {
+      "name": "all migrations replay and existing three-state schema is reused",
+      "status": "passed"
+    },
+    {
+      "name": "ordinary content validation fails atomically without introducing an approval workflow",
+      "status": "passed"
+    },
+    {
+      "name": "unapproved media and absent editorial attestations do not block status changes",
+      "status": "passed"
+    },
+    {
+      "name": "all six directed transitions, repeat no-op, archived restoration and counts are correct",
+      "status": "passed"
+    },
+    {
+      "name": "content, IDs, slugs, translations, media evidence and review identities are byte-preserved",
+      "status": "passed"
+    },
+    {
+      "name": "stale status/version, invalid states, guests, ordinary users and revoked sessions are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "actual content edits still advance source versions and pending translations remain separate",
+      "status": "passed"
+    },
+    {
+      "name": "normal public models and recommendations reject private draft overlays as well as archived rows",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "scope": "All six actual prepared translations rendered in protected editor and both preview languages with fixture Auth/API; zero mutations",
+  "passed": 6,
+  "results": [
+    {
+      "slug": "ajloun-forest",
+      "name": "محمية غابات عجلون",
+      "status": "passed"
+    },
+    {
+      "slug": "salt-historic",
+      "name": "وسط السلط التاريخي",
+      "status": "passed"
+    },
+    {
+      "slug": "wadi-mujib",
+      "name": "محمية الموجب للمحيط الحيوي",
+      "status": "passed"
+    },
+    {
+      "slug": "dana-reserve",
+      "name": "محمية ضانا للمحيط الحيوي",
+      "status": "passed"
+    },
+    {
+      "slug": "iraq-al-amir",
+      "name": "عراق الأمير",
+      "status": "passed"
+    },
+    {
+      "slug": "umm-qais",
+      "name": "أم قيس",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "writes": []
+}

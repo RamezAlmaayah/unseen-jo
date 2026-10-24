@@ -1,0 +1,41 @@
+{
+  "scope": "No credentials exported or role impersonation attempted. Earlier hosted schema/count snapshots remain timestamped; a newer privileged read-back cannot be claimed.",
+  "originalConnector": "OAuth reauthentication required; refresh rejected",
+  "dedicatedMcp": "OAuth refresh response could not be parsed",
+  "cli": "No existing Supabase CLI access token; no login or token request attempted",
+  "hostedContentWritesByAgent": 0,
+  "hostedSchemaApplied": true,
+  "adminBrowserAction": "Complete and enable all 24 privately",
+  "errors": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "This app connection requires reauthentication. Reconnect the app and try again."
+          }
+        ],
+        "structuredContent": {
+          "error": "This app connection requires reauthentication. Reconnect the app and try again.",
+          "error_code": "UNAUTHORIZED"
+        },
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "tool call error: tool call failed for `supabase_unseen_jo/get_project_url`\n\nCaused by:\n    OAuth token refresh failed: Failed to parse server response"
+          }
+        ],
+        "isError": true
+      }
+    }
+  ],
+  "recordedAt": "2026-10-22T17:16:01.872Z",
+  "migrationHistory": "Hosted table and invoker RPC installation was verified. Remote migration-history version could not be read after OAuth expired; do not blindly reapply the migration before aligning its version."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "language": "en",
+    "width": 1366,
+    "height": 768,
+    "panelHeight": 366,
+    "cardHeights": [
+      433.5,
+      433.5,
+      433.5,
+      433.5,
+      433.5,
+      433.5
+    ],
+    "fullyVisible": 0
+  },
+  {
+    "language": "ar-JO",
+    "width": 1366,
+    "height": 768,
+    "panelHeight": 366,
+    "cardHeights": [
+      433.5,
+      433.5,
+      433.5,
+      433.5,
+      433.5,
+      490.890625
+    ],
+    "fullyVisible": 0
+  },
+  {
+    "language": "en",
+    "width": 900,
+    "height": 1000,
+    "panelHeight": 1255.265625,
+    "cardHeights": [
+      402.421875,
+      402.421875,
+      402.421875,
+      402.421875,
+      402.421875,
+      402.421875
+    ],
+    "fullyVisible": 2
+  },
+  {
+    "language": "en",
+    "width": 390,
+    "height": 844,
+    "panelHeight": 2359.6875,
+    "cardHeights": [
+      373.28125,
+      373.28125,
+      373.28125,
+      373.28125,
+      373.28125,
+      373.28125
+    ],
+    "fullyVisible": 0
+  }
+]

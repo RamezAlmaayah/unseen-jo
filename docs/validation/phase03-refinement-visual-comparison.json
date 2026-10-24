@@ -1,0 +1,838 @@
+{
+  "scope": "Historical screenshot pixel comparison before restoring records. Authorized Explore/map/Details changes expected; pre-Phase-02B preserved screenshots also lack existing demo labels. Geometry and asset checks are separate.",
+  "compared": 166,
+  "identical": 124,
+  "unrelatedExact": 107,
+  "results": [
+    {
+      "file": "global-ui-scale/after-details-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-details-375.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-discoveries-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-discoveries-375.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-explore-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-explore-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-details-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-details-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-discoveries-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-discoveries-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-explore-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-explore-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-1366.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-landing-375.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-login-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-login-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-map-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-map-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-full-not-found-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-not-found-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-preferences-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-preferences-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-profile-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-profile-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-recovery-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-recovery-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-register-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-register-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-result-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-result-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-surprise-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-full-surprise-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-landing-1366.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-landing-375.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-login-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-login-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-map-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-map-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/after-not-found-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-not-found-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-preferences-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-preferences-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-profile-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-profile-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-recovery-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-recovery-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-register-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-register-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-result-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-result-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-surprise-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/after-surprise-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-details-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-discoveries-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-explore-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-full-details-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-full-discoveries-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-explore-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-full-landing-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-login-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-map-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-full-not-found-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-preferences-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-profile-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-recovery-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-register-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-result-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-full-surprise-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-landing-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-login-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-map-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/before-not-found-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-preferences-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-profile-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-recovery-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-register-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-result-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/before-surprise-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-details-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/comparison-discoveries-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-explore-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/comparison-landing-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-login-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-map-1366.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/comparison-not-found-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-preferences-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-profile-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-recovery-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-register-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-result-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/comparison-surprise-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/gallery-dialog-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/gallery-dialog-375.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/preview-dialog-1366.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/preview-dialog-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "global-ui-scale/profile-edit-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/profile-edit-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/register-invalid-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/register-invalid-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/surprise-invalid-1366.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "global-ui-scale/surprise-invalid-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-1024x768.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-1366x768.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-1440x900.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-1920x1080.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-390x844.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-full-1024x768.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-full-1366x768.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-full-1440x900.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-full-1920x1080.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/after-full-390x844.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/before-1366x768.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/before-1440x900.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/before-full-1366x768.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/before-full-1440x900.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/comparison-1366x768.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "landing-refinement/comparison-1440x900.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/landing-1440.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/landing-375.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/landing-390.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/preferences-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/preferences-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/preferences-390.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/preferences-comparison.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01a/preferences-preview-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/explore-1440.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01b/explore-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01b/explore-comparison.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01b/result-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/result-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/result-comparison.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/surprise-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/surprise-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01b/surprise-comparison.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/details-1440.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01c/details-375.png",
+      "identical": false,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01c/details-comparison.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "phase01c/discoveries-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/discoveries-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/discoveries-comparison.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/discoveries-empty-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/discoveries-visited-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/login-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/login-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/not-found-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/not-found-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/profile-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/profile-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/profile-edit-1440.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/recovery-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/recovery-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/register-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/register-375.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase01c/register-validation-1440.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase02b/live-empty-desktop.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase02b/live-empty-mobile.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/amman-real-streets-pois-map.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "phase03/demo-salt-streets-desktop.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/demo-salt-streets-mobile.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/demo-selected-mobile.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/iraq-al-amir-real-detail-map.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "phase03/live-jordan-desktop.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/live-jordan-mobile.png",
+      "identical": false,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/salt-popup-map-mobile.png",
+      "identical": true,
+      "mapRelated": true
+    },
+    {
+      "file": "phase03/salt-road-labels-mobile.png",
+      "identical": true,
+      "mapRelated": false
+    },
+    {
+      "file": "phase03/salt-street-detail-map.png",
+      "identical": true,
+      "mapRelated": true
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "checked": 221,
+  "scope": "Frontend source and built JS/HTML/JSON credential scan; handler logging source check. Does not verify external gateway/APM configuration."
+}

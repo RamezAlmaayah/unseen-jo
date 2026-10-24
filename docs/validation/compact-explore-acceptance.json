@@ -1,0 +1,426 @@
+{
+  "scope": "Genuine anonymous live data in production Chromium. Tab tests use a second real browser page; headless scheduling may differ from visible Chrome. No API interception or stored writes.",
+  "results": [
+    {
+      "kind": "tab return",
+      "language": "en",
+      "seconds": 5,
+      "token": true,
+      "canvas": true,
+      "scroll": true,
+      "zoom": true,
+      "additionalCatalogQueries": 0,
+      "status": "passed"
+    },
+    {
+      "kind": "tab return",
+      "language": "en",
+      "seconds": 30,
+      "token": true,
+      "canvas": true,
+      "scroll": true,
+      "zoom": true,
+      "additionalCatalogQueries": 0,
+      "status": "passed"
+    },
+    {
+      "kind": "whole-card navigation, separate actions, category and manual Near You",
+      "language": "en",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "height": 768,
+      "panelHeight": 358,
+      "cards": [
+        {
+          "height": 128,
+          "top": 458,
+          "bottom": 586,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 598,
+          "bottom": 726,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 738,
+          "bottom": 866,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 878,
+          "bottom": 1006,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 1018,
+          "bottom": 1146,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 1158,
+          "bottom": 1286,
+          "imageWidth": 128,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 2,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-en-1366.png",
+      "status": "passed"
+    },
+    {
+      "kind": "tab return",
+      "language": "ar-JO",
+      "seconds": 5,
+      "token": true,
+      "canvas": true,
+      "scroll": true,
+      "zoom": true,
+      "additionalCatalogQueries": 0,
+      "status": "passed"
+    },
+    {
+      "kind": "tab return",
+      "language": "ar-JO",
+      "seconds": 30,
+      "token": true,
+      "canvas": true,
+      "scroll": true,
+      "zoom": true,
+      "additionalCatalogQueries": 0,
+      "status": "passed"
+    },
+    {
+      "kind": "whole-card navigation, separate actions, category and manual Near You",
+      "language": "ar-JO",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "height": 768,
+      "panelHeight": 358,
+      "cards": [
+        {
+          "height": 128,
+          "top": 458,
+          "bottom": 586,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 598,
+          "bottom": 726,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 738,
+          "bottom": 866,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 878,
+          "bottom": 1006,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 128,
+          "top": 1018,
+          "bottom": 1146,
+          "imageWidth": 128,
+          "imageOnStart": true
+        },
+        {
+          "height": 174,
+          "top": 1158,
+          "bottom": 1332,
+          "imageWidth": 128,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 2,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-ar-JO-1366.png",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 900,
+      "height": 1000,
+      "panelHeight": 1255.265625,
+      "cards": [
+        {
+          "height": 402.421875,
+          "top": 410,
+          "bottom": 812.421875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 410,
+          "bottom": 812.421875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 836.421875,
+          "bottom": 1238.84375,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 836.421875,
+          "bottom": 1238.84375,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 1262.84375,
+          "bottom": 1665.265625,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 1262.84375,
+          "bottom": 1665.265625,
+          "imageWidth": 414,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 2,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-en-900.png",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 900,
+      "height": 1000,
+      "panelHeight": 1336.046875,
+      "cards": [
+        {
+          "height": 402.421875,
+          "top": 410,
+          "bottom": 812.421875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 410,
+          "bottom": 812.421875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 836.421875,
+          "bottom": 1238.84375,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 402.421875,
+          "top": 836.421875,
+          "bottom": 1238.84375,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 483.203125,
+          "top": 1262.84375,
+          "bottom": 1746.046875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        },
+        {
+          "height": 483.203125,
+          "top": 1262.84375,
+          "bottom": 1746.046875,
+          "imageWidth": 414,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 2,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-ar-JO-900.png",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "height": 844,
+      "panelHeight": 2359.6875,
+      "cards": [
+        {
+          "height": 373.28125,
+          "top": 550,
+          "bottom": 923.28125,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 947.28125,
+          "bottom": 1320.5625,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 1344.5625,
+          "bottom": 1717.84375,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 1741.84375,
+          "bottom": 2115.125,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 2139.125,
+          "bottom": 2512.40625,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 2536.40625,
+          "bottom": 2909.6875,
+          "imageWidth": 358,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 0,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-en-390.png",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "height": 844,
+      "panelHeight": 2440.46875,
+      "cards": [
+        {
+          "height": 373.28125,
+          "top": 558,
+          "bottom": 931.28125,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 955.28125,
+          "bottom": 1328.5625,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 1352.5625,
+          "bottom": 1725.84375,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 1749.84375,
+          "bottom": 2123.125,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 373.28125,
+          "top": 2147.125,
+          "bottom": 2520.40625,
+          "imageWidth": 358,
+          "imageOnStart": true
+        },
+        {
+          "height": 454.0625,
+          "top": 2544.40625,
+          "bottom": 2998.46875,
+          "imageWidth": 358,
+          "imageOnStart": true
+        }
+      ],
+      "fullyVisible": 0,
+      "links": [
+        "/places/ajloun-forest",
+        "/places/dana-reserve",
+        "/places/iraq-al-amir",
+        "/places/salt-historic",
+        "/places/umm-qais",
+        "/places/wadi-mujib"
+      ],
+      "screenshot": "artifacts/compact-explore/after-ar-JO-390.png",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

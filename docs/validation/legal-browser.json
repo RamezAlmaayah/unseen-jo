@@ -1,0 +1,207 @@
+{
+  "base": "http://127.0.0.1:4198",
+  "scope": "Production Chromium; fixture APIs; no live account or email tests",
+  "results": [
+    {
+      "path": "privacy-policy",
+      "language": "en",
+      "width": 1366,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "en",
+      "width": 1366,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "en",
+      "width": 768,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "en",
+      "width": 768,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "en",
+      "width": 390,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "en",
+      "width": 390,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "en",
+      "width": 320,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "en",
+      "width": 320,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "ar-JO",
+      "width": 1366,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "ar-JO",
+      "width": 1366,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "ar-JO",
+      "width": 768,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "ar-JO",
+      "width": 768,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "ar-JO",
+      "width": 768,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "ar-JO",
+      "width": 390,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "ar-JO",
+      "width": 390,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    },
+    {
+      "path": "privacy-policy",
+      "language": "ar-JO",
+      "width": 320,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "path": "terms-of-service",
+      "language": "ar-JO",
+      "width": 320,
+      "anchors": "keyboard passed",
+      "seo": "passed",
+      "accessibility": "zero WCAG A/AA violations",
+      "overflow": false
+    },
+    {
+      "language": "ar-JO",
+      "width": 320,
+      "registrationLinks": "before submit; new-tab content; form preserved",
+      "languageSwitch": "passed",
+      "registrationAccessibility": "passed"
+    }
+  ],
+  "errors": []
+}

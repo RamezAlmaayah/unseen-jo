@@ -1,0 +1,24 @@
+{
+  "drafts": 18,
+  "functions": [
+    {
+      "name": "admin_private_prototype_catalog",
+      "searchPath": [
+        "search_path=\"\""
+      ],
+      "securityDefiner": false
+    },
+    {
+      "name": "admin_save_private_prototype",
+      "searchPath": [
+        "search_path=\"\""
+      ],
+      "securityDefiner": false
+    }
+  ],
+  "published": 6,
+  "rlsEnabled": true,
+  "verifiedAt": "2026-10-22T16:28:09.709745+00:00",
+  "destinations": 24,
+  "enabledPrivateOverlays": 0
+}

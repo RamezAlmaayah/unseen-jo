@@ -1,0 +1,34 @@
+{
+  "scope": "Local access controller, concurrency, identity isolation, TTL, signing and real SDK builder integration tests; no hosted writes",
+  "passed": 7,
+  "results": [
+    {
+      "name": "same-user SIGNED_IN/token recovery coalesces; no checking state within cooldown",
+      "status": "passed"
+    },
+    {
+      "name": "sign-out and account switches clear private UI immediately; stale requests cannot restore it",
+      "status": "passed"
+    },
+    {
+      "name": "permission revocation and forced checks still fail closed",
+      "status": "passed"
+    },
+    {
+      "name": "concurrent public reads deduplicate and warm synchronous snapshots avoid loading-only mounts",
+      "status": "passed"
+    },
+    {
+      "name": "catalog TTL revalidates while still-valid signed image URLs remain stable",
+      "status": "passed"
+    },
+    {
+      "name": "Admin mutation invalidation clears warm catalog, detail and signing caches; network errors are not retained",
+      "status": "passed"
+    },
+    {
+      "name": "real SDK query builders invalidate public cache after successful Admin writes, not read RPCs",
+      "status": "passed"
+    }
+  ]
+}

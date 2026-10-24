@@ -1,0 +1,20 @@
+{
+  "scope": "Focused genuine hosted browser recheck after final Arabic dual-case formatter correction",
+  "results": [
+    {
+      "width": 1440,
+      "value": "ساعة واحدة إلى ساعتين",
+      "status": "passed"
+    },
+    {
+      "width": 820,
+      "value": "ساعة واحدة إلى ساعتين",
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "value": "ساعة واحدة إلى ساعتين",
+      "status": "passed"
+    }
+  ]
+}
