@@ -1,0 +1,7 @@
+﻿import {parse} from '@babel/parser'
+import {readdir,readFile,writeFile} from 'node:fs/promises'
+const ar=JSON.parse(await readFile('src/i18n/locales/ar-JO.json','utf8')),missing=new Set(),templates=new Set()
+async function scan(dir){for(const f of await readdir(dir,{withFileTypes:true})){const file=dir+'/'+f.name;if(f.isDirectory()){if(!file.endsWith('/i18n'))await scan(file)}else if(file.endsWith('.jsx')){const ast=parse(await readFile(file,'utf8'),{sourceType:'module',plugins:['jsx']});function visit(n){if(!n||typeof n!=='object')return;if(n.type==='CallExpression'&&n.callee.name==='tx'&&n.arguments[0]){const e=n.arguments[0];if(e.type==='StringLiteral'&&/[A-Za-z]/.test(e.value)&&!ar[e.value.trim()])missing.add(e.value.trim());if(e.type==='TemplateLiteral')templates.add(e.quasis.map((q,i)=>q.value.cooked+(i<e.expressions.length?'{{v'+i+'}}':'')).join(''))}for(const[k,v]of Object.entries(n)){if(['loc','start','end','extra'].includes(k))continue;if(Array.isArray(v))v.forEach(visit);else if(v&&typeof v==='object')visit(v)}}visit(ast)}}}await scan('src');const deliberateOriginals=['GeoNames \u00b7 CC BY 4.0','u','j'];const result={deliberateOriginals,missingStatic:[...missing].filter(key=>!deliberateOriginals.includes(key)).sort(),dynamicTemplates:[...templates].sort()};await writeFile('docs/validation/phase04l-resource-audit.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result,null,2))
+
+if(result.missingStatic.length)throw new Error("Missing static localization resources")
+

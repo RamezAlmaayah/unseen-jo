@@ -1,0 +1,17 @@
+Your password was updated.
+
+This is a security notification: the password for your Unseen Jo account has changed.
+
+{{ .SiteURL }}
+
+If this was not you, open Unseen Jo directly and request a password reset immediately.
+
+---
+
+تم تحديث كلمة مرورك.
+
+هذا إشعار أمان: تغيّرت كلمة المرور الخاصة بحسابك في Unseen Jo.
+
+{{ .SiteURL }}
+
+إذا لم تُجرِ هذا التغيير، افتح Unseen Jo مباشرة واطلب إعادة تعيين كلمة المرور فوراً.

@@ -1,0 +1,6 @@
+import {chromium} from 'file:///C:/Users/Magic%20Systems/AppData/Local/Temp/unseen-jo-browser-check/node_modules/playwright/index.mjs'
+import {writeFile,mkdir} from 'node:fs/promises'
+const b=await chromium.launch({headless:true}),results=[]
+await mkdir('artifacts/search',{recursive:true})
+try{for(const language of ['en','ar-JO']){const c=await b.newContext({viewport:{width:1366,height:768}});await c.addInitScript(l=>localStorage.setItem('unseen-jo-language',l),language);const p=await c.newPage();await p.goto('http://127.0.0.1:4184/explore');await p.locator('.destination-card').first().waitFor({state:'attached'});const input=p.locator('.explore-search input');for(const term of ['Ajloun','عجلون','Wadi Mujib','وادي الموجب','Umm Qais','أم قيس']){await input.fill(term);await p.waitForTimeout(80);results.push({language,term,cards:await p.locator('.destination-card').count(),markers:await p.locator('.destination-marker').count()})}await p.screenshot({path:`artifacts/search/before-${language}.png`,fullPage:true});await c.close()}}finally{await b.close();await writeFile('docs/validation/search-before.json',JSON.stringify({scope:'Actual public hosted catalog, no mutations',results},null,2)+'\n')}
+console.log(results)

@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict'
+import {writeFile,readFile,readdir} from 'node:fs/promises'
+import {join} from 'node:path'
+import {tmpdir} from 'node:os'
+import {pathToFileURL} from 'node:url'
+import {gzipSync} from 'node:zlib'
+const {chromium}=await import(pathToFileURL(join(tmpdir(),'unseen-jo-browser-check/node_modules/playwright/index.mjs'))),browser=await chromium.launch({headless:true}),base=process.env.QA_BASE_URL||'http://127.0.0.1:4190',results=[]
+try{
+ for(const [width,language,reduced,cpu]of [[1366,'en',false,1],[1366,'ar-JO',false,1],[390,'en',false,4],[320,'ar-JO',true,1]]){
+  const context=await browser.newContext({viewport:{width,height:900},reducedMotion:reduced?'reduce':'no-preference'}),page=await context.newPage(),requests=[]
+  await page.addInitScript(language=>{localStorage.setItem('unseen-jo-language',language);window.documentIdentity=crypto.randomUUID();window.shifts=[];window.lcp=[];new PerformanceObserver(list=>{for(const v of list.getEntries())if(!v.hadRecentInput)window.shifts.push(v.value)}).observe({type:'layout-shift',buffered:true});new PerformanceObserver(list=>window.lcp.push(...list.getEntries().map(v=>v.startTime))).observe({type:'largest-contentful-paint',buffered:true})},language)
+  const cdp=await context.newCDPSession(page);await cdp.send('Emulation.setCPUThrottlingRate',{rate:cpu});page.on('request',r=>requests.push({url:r.url(),type:r.resourceType()}))
+  const start=performance.now();await page.goto(base+'/auth?mode=login');await page.locator('form button[type="submit"]:not([disabled])').waitFor();const usableMs=performance.now()-start;await page.waitForTimeout(1000)
+  const original=await page.evaluate(()=>window.documentIdentity),initialRequests=requests.length
+  await page.evaluate(()=>{window.animationSample=new Promise(resolve=>{let start,last;const gaps=[],positions=[],heights=[],opacities=[];function frame(t){start??=t;if(last)gaps.push(t-last);last=t;positions.push(getComputedStyle(document.querySelector('.auth-welcome')).transform);heights.push(document.querySelector('.auth-shell').getBoundingClientRect().height);opacities.push(getComputedStyle(document.querySelector('.auth-welcome')).opacity);if(t-start<1000)requestAnimationFrame(frame);else resolve({gaps,positions,heights,opacities})}requestAnimationFrame(frame)})})
+  await page.locator(width>680?'.auth-welcome button':'.auth-mobile-switch button').click();const sample=await page.evaluate(()=>window.animationSample),gaps=sample.gaps.sort((a,b)=>a-b),paint=await page.evaluate(()=>({cls:window.shifts.reduce((s,n)=>s+n,0),lcpMs:window.lcp.at(-1),resources:performance.getEntriesByType('resource').map(r=>({name:r.name,type:r.initiatorType,transfer:r.transferSize,encoded:r.encodedBodySize}))}))
+  assert.equal(await page.evaluate(()=>window.documentIdentity),original);assert.equal(requests.length-initialRequests,0);assert.ok(Math.max(...sample.heights)-Math.min(...sample.heights)<1);if(width>680&&!reduced)assert.ok(new Set(sample.positions).size>3,'welcome panel moves continuously');assert.ok(sample.opacities.every(v=>Number(v)===1),'welcome panel never blanks')
+  results.push({width,language,reducedMotion:reduced,cpuThrottle:cpu,usableMs:Math.round(usableMs),lcpMs:Math.round(paint.lcpMs),initialTransferBytes:paint.resources.reduce((s,r)=>s+r.transfer,0),initialImageRequests:requests.filter(r=>r.type==='image').length,initialJsEncodedBytes:paint.resources.filter(r=>r.name.split('?')[0].endsWith('.js')).reduce((s,r)=>s+r.encoded,0),modeSwitchRequests:requests.length-initialRequests,documentReloads:0,layoutShift:paint.cls,animationFrameSamples:gaps.length,frameGapMedianMs:gaps[Math.floor(gaps.length/2)],frameGapP95Ms:gaps[Math.floor(gaps.length*.95)],framesOver50ms:gaps.filter(n=>n>50).length,shellHeightRangePx:Math.max(...sample.heights)-Math.min(...sample.heights)})
+  await page.screenshot({path:`artifacts/phase06/production-animation-${language}-${width}.png`,fullPage:true});await context.close()
+ }
+ const chunks=[];for(const file of (await readdir('dist/assets')).filter(f=>/^(AuthPage|AuthCallbackPage|ProfilePage)-.*\.js$/.test(f))){const bytes=await readFile('dist/assets/'+file);chunks.push({file,rawBytes:bytes.length,gzipBytes:gzipSync(bytes).length})}
+ await writeFile('docs/validation/phase06-animation-performance.json',JSON.stringify({scope:'Actual production-preview guest requests (no mocked Auth settings); headless Chromium, unthrottled desktop and simulated 4× CPU mobile. These are measured frame intervals, not guaranteed hardware FPS. No before/after speedup claimed.',base,results,chunks},null,2)+'\n');console.log(JSON.stringify(results))
+}finally{await browser.close()}

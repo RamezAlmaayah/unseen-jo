@@ -1,0 +1,25 @@
+/* Extensions to the approved preference fields and result card composition. */
+.recommendation-limits{margin-block:24px;color:var(--color-primary);font-size:14px;line-height:1.6}
+.recommendation-limits summary,.recommendation-score summary{cursor:pointer;font-weight:600}
+/* Retain the approved terracotta; large bold CTA text meets its contrast target. */
+.surprise-submit .button--terracotta{font-size:19px;font-weight:700}
+.recommendation-limit-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-block:16px}
+.recommendation-limit-fields label{display:grid;gap:8px;min-width:0}
+.recommendation-limit-fields input{width:100%;min-height:44px;border:1px solid #90aa9b;border-radius:9px;padding:8px 12px;background:#fff;color:#164f3f;font:inherit}
+.recommendation-limits fieldset{border:1px solid #b7d2c5;border-radius:12px;padding:14px;margin:12px 0}
+.recommendation-limits fieldset label{display:flex;align-items:flex-start;gap:10px;margin-block:10px}
+.recommendation-limits input[type=checkbox]{margin-top:5px;accent-color:#164f3f;flex-shrink:0;width:18px;height:18px}
+.recommendation-score{border-bottom:1px solid #bfd4c8;padding-block:16px;font-size:14px;line-height:1.6}
+.recommendation-score p{margin-block:8px}
+.recommendation-score strong{font-size:16px}
+.recommendation-credit{font-size:12px;line-height:1.6;margin:10px 4px;color:#164f3f;overflow-wrap:anywhere}
+.recommendation-credit summary{cursor:pointer;padding-block:6px}
+.recommendation-intro,.recommendation-notice,.recommendation-empty{width:min(calc(100% - 48px),1000px);margin:20px auto;color:#164f3f;line-height:1.7;font-size:14px}
+.recommendation-notice,.recommendation-empty{background:#f1f9f7;border:1px solid #b7d2c5;border-radius:14px;padding:20px}
+.recommendation-empty a,.recommendation-empty button{display:inline-flex;margin:8px 12px 8px 0;min-height:44px;align-items:center}
+.discovery-result-actions{flex-wrap:wrap}
+.discovery-result-actions>.button{flex:1;min-width:min(100%,220px)}
+.discovery-result-page .destination-card__metadata{grid-template-columns:repeat(auto-fit,minmax(min(100%,145px),1fr));row-gap:12px}
+.discovery-result-page .destination-card__metadata dd{white-space:normal;overflow-wrap:break-word;min-width:0}
+.discovery-result-page .destination-card__image img{inset:0;width:100%;height:100%;max-width:100%;object-fit:cover}
+@media(max-width:600px){.recommendation-limit-fields{grid-template-columns:1fr}.recommendation-intro,.recommendation-notice,.recommendation-empty{width:calc(100% - 32px)}}

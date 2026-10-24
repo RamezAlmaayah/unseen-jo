@@ -1,0 +1,7 @@
+Your journey starts here.
+
+Confirm your email to save the places that inspire you and discover more of Jordan.
+
+{{ .ConfirmationURL }}
+
+If you did not create an account, you can safely ignore this email.

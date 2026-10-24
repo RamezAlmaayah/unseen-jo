@@ -1,0 +1,2 @@
+import {useTranslation} from 'react-i18next'
+export default function LanguageSwitcher(){const {i18n}=useTranslation();return <button type="button" className="language-switcher" lang={i18n.language==='en'?'ar-JO':'en'} dir="auto" aria-label={i18n.language==='en'?'التبديل إلى العربية':'Switch to English'} onClick={()=>void i18n.changeLanguage(i18n.language==='en'?'ar-JO':'en')}>{i18n.language==='en'?'العربية':'English'}</button>}

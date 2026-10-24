@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict'
+import {readFile,writeFile} from 'node:fs/promises'
+import {matchesImportedField} from '../src/features/admin/phase08Import.js'
+const json=async p=>JSON.parse(await readFile(p,'utf8')),m=await json('docs/evidence/phase08/import-package.json'),h=await json('docs/validation/phase08-hosted.json'),c=await json('docs/validation/phase08-coordinate-roundtrip.json'),preservation=await json('docs/validation/phase08-post-import-preservation.json'),b=await json('docs/validation/phase08-baseline.json')
+const hex=n=>{const a=Buffer.alloc(8);a.writeDoubleBE(n);return a.toString('hex')},same=(a,b)=>JSON.stringify(a??null)===JSON.stringify(b??null),results=[]
+assert.equal(h.places.length,24);assert.equal(new Set(h.places.map(p=>p.id)).size,24);assert.equal(new Set(h.places.map(p=>p.slug)).size,24)
+for(const [table,hash]of Object.entries(b.baseline.fingerprints))assert.equal(preservation.originalFingerprints[table],hash,'Original '+table+' must remain unchanged')
+for(const p of m.places){const row=h.places.find(r=>r.slug===p.slug),ar=row.place_translations.find(t=>t.locale==='ar-JO'),review=row.place_reviews[0],coordinate=c.rows.find(x=>x.slug===p.slug),notes=JSON.parse(review.notes),diffs=[]
+ for(const [key,value]of Object.entries(p.english))if(!matchesImportedField(key,row[key],value))diffs.push('English '+key)
+ for(const [key,value]of Object.entries(p.arabic))if(!same(ar?.[key],value))diffs.push('Arabic '+key)
+ assert.ok(coordinate.latitudebinary===hex(p.english.latitude)&&coordinate.longitudebinary===hex(p.english.longitude),p.slug+' actual binary coordinate changed')
+ assert.deepEqual(row.place_categories.map(c=>c.category_id).sort(),[...p.category_ids].sort(),p.slug+' categories')
+ assert.equal(notes.contentHash,p.contentHash,p.slug+' source provenance');assert.equal(review.location_kind,p.location_kind)
+ assert.deepEqual(diffs,[],p.slug+' exact bilingual content');assert.ok(['draft','published'].includes(row.status))
+ const expected=m.photos.filter(i=>i.slug===p.slug),missingMedia=expected.filter(i=>!row.place_images.some(x=>x.storage_path===row.id+'/phase08-'+i.uploadSha256+'.jpg')).map(p=>p.id),mediaIssues=[]
+ for(const image of row.place_images){const photo=expected.find(p=>image.storage_path.endsWith(p.uploadSha256+'.jpg')),obj=preservation.newMediaObjects.find(x=>x.imageId===image.id);if(!photo||image.source_url!==photo.page||image.attribution!==photo.attribution||image.license_evidence!==photo.licenseEvidence||!obj?.objectExists||obj.metadata?.size!==photo.uploadBytes)mediaIssues.push(image.id)}
+ assert.deepEqual(mediaIssues,[],p.slug+' stored image evidence or object mismatch')
+ const pendingApprovals=[];if(!review.claims_reviewed||!row.verified_at)pendingApprovals.push('Explicit factual/source review');if(!review.location_reviewed)pendingApprovals.push('Qualified geographic review');if(ar.editorial_status!=='reviewed'||ar.source_updated_at!==row.updated_at)pendingApprovals.push('Current Arabic review');if(!row.place_images.some(i=>i.is_cover&&i.approved_at))pendingApprovals.push('Rights-approved cover')
+ results.push({slug:p.slug,id:row.id,status:row.status,bilingualReadback:'passed',coordinateWireBytes:'identical to original prepared numbers',precisionSerializationAffected:Object.keys(p.english).some(k=>['latitude','longitude'].includes(k)&&!same(row[k],p.english[k])),categories:'passed',sourceProvenance:'passed',linkedImages:row.place_images.length,linkedCover:row.place_images.some(i=>i.is_cover),preparedImages:expected.length,missingMedia,pendingApprovals,criticalBlockers:p.criticalBlockers,hostedReadyToPublish:row.status==='draft'&&!missingMedia.length&&!pendingApprovals.length&&!p.criticalBlockers.length})
+}
+const output={scope:'Audit of actual hosted SELECT snapshots. No writes; no impersonated RPC approvals. Browser operations remain separate.',verifiedAt:h.verifiedAt,total:24,originalPublished:6,imported:18,newPublished:results.filter(r=>r.status==='published').length,newDrafts:results.filter(r=>r.status==='draft').length,bilingualPassed:results.filter(r=>r.bilingualReadback==='passed').length,preparedCandidatesForExplicitReview:results.filter(r=>!r.criticalBlockers.length).length,hostedReadyToPublish:results.filter(r=>r.hostedReadyToPublish).length,originalFingerprintsPreserved:true,results}
+await writeFile('docs/validation/phase08-hosted-audit.json',JSON.stringify(output,null,2)+'\n');console.log(JSON.stringify({...output,results:undefined}))

@@ -1,0 +1,8 @@
+# Netlify Drop uses the prebuilt dist folder, including _redirects and _headers.
+# These settings also describe a future repository build; no deployment is run.
+[build]
+  command = "npm run build:netlify"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"

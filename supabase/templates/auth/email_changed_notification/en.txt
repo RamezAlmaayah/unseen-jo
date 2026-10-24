@@ -1,0 +1,7 @@
+Your email address changed.
+
+The email address for your Unseen Jo account has been updated.
+
+{{ .SiteURL }}
+
+If this was not you, review your account immediately and request help through the application.

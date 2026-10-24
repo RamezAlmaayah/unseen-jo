@@ -1,0 +1,7 @@
+/* Async states only; approved page sizing, tokens and card geometry unchanged. */
+.tourism-skeleton { display: grid; gap: 12px; width: min(100%, 360px); margin: 20px auto 0; }
+.tourism-skeleton span { display: block; height: 12px; border-radius: 6px; background: var(--color-border, #e5e7eb); }
+.tourism-skeleton span:nth-child(2) { width: 80%; }
+.tourism-skeleton span:nth-child(3) { width: 60%; }
+.featured-card__copy h3 a { color: inherit; text-decoration: none; }
+.featured-card__image .asset-unavailable { display: grid; place-items: center; width: 100%; height: 100%; }

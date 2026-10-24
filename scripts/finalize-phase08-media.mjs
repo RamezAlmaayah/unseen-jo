@@ -1,0 +1,7 @@
+import {readFile,writeFile} from 'node:fs/promises'
+const dir='docs/evidence/phase08',json=async p=>JSON.parse(await readFile(dir+'/'+p,'utf8')),acquired=await json('media-acquisition.json'),variants=await json('derivatives.json'),review=await json('visual-review.json'),photos=[]
+for(const p of acquired.photos){const inspected=review.photos[p.id],v=variants.find(v=>v.id===p.id);if(inspected?.status!=='visually checked'||!v)continue
+ const attribution=`${p.title.replace(/^File:/,'')} — ${p.author}. ${p.license}. Source: ${p.page} Licence: ${p.licenseUrl}. ${v.modifications}`
+ photos.push({...p,...v,isCover:inspected.galleryOnly?false:inspected.cover??p.isCover,identityStatus:inspected.status,identityReview:review.method+' '+inspected.note,rightsEligible:true,altEn:inspected.altEn,altAr:inspected.altAr,attribution,licenseEvidence:JSON.stringify({method:'File-level Commons metadata and licence grant verified; source original SHA-1 matches downloaded bytes; assistant visual subject inspection. CMS approval still pending.',checkedAt:p.retrievedAt,revision:p.revision,author:p.author,license:p.license,licenseUrl:p.licenseUrl,source:p.page,credit:p.credit,originalSha256:p.sha256,uploadSha256:v.uploadSha256,changes:v.modifications,altAr:inspected.altAr}),localUrl:'/'+v.uploadPath})
+}
+await writeFile(dir+'/media-ready.json',JSON.stringify({preparedAt:new Date().toISOString(),photos,acquisitionErrors:acquired.errors},null,2)+'\n');console.log('Prepared '+photos.length+' visually checked photographs; no hosted approvals.')

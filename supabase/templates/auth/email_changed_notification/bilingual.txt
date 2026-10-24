@@ -1,0 +1,17 @@
+Your email address changed.
+
+The email address for your Unseen Jo account has been updated.
+
+{{ .SiteURL }}
+
+If this was not you, review your account immediately and request help through the application.
+
+---
+
+تغيّر بريدك الإلكتروني.
+
+تم تحديث البريد الإلكتروني الخاص بحسابك في Unseen Jo.
+
+{{ .SiteURL }}
+
+إذا لم تُجرِ هذا التغيير، راجع حسابك فوراً واطلب المساعدة عبر التطبيق.

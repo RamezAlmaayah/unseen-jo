@@ -1,0 +1,17 @@
+A new journey awaits.
+
+You have been invited to join Unseen Jo. Accept your invitation to finish setting up your account.
+
+{{ .ConfirmationURL }}
+
+An invitation does not grant administrator permissions. If this invitation was unexpected, you can ignore it.
+
+---
+
+رحلة جديدة بانتظارك.
+
+أنت مدعو للانضمام إلى Unseen Jo. اقبل الدعوة لتكمل إعداد حسابك.
+
+{{ .ConfirmationURL }}
+
+لا تمنح الدعوة صلاحيات الإدارة. إذا لم تتوقّع هذه الدعوة، يمكنك تجاهلها.

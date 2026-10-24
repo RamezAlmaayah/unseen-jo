@@ -1,0 +1,90 @@
+{
+  "logoUrl": "https://dkhwwvoplhfjccvjegty.supabase.co/storage/v1/object/public/brand-assets/unseen-jo-email-logo-v1.png",
+  "logoHosted": false,
+  "hostedTemplatesUpdated": false,
+  "defaultLocale": "bilingual",
+  "templates": [
+    {
+      "kind": "confirmation",
+      "status": "Used by existing email/password signup",
+      "notification": false,
+      "variables": [
+        "ConfirmationURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "recovery",
+      "status": "Used by existing public and Admin recovery",
+      "notification": false,
+      "variables": [
+        "ConfirmationURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "invite",
+      "status": "Existing Admin invitation callback supported",
+      "notification": false,
+      "variables": [
+        "ConfirmationURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "magic_link",
+      "status": "Optional only; no passwordless sign-in added to the app",
+      "notification": false,
+      "variables": [
+        "ConfirmationURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "email_change",
+      "status": "Existing profile email-change flow; preserves double confirmation",
+      "notification": false,
+      "variables": [
+        "ConfirmationURL",
+        "NewEmail"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "reauthentication",
+      "status": "Template prepared for existing secure-password-change policy",
+      "notification": false,
+      "variables": [
+        "Token"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "password_changed_notification",
+      "status": "Optional security notification; hosted enablement unknown, not changed",
+      "notification": true,
+      "variables": [
+        "SiteURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    },
+    {
+      "kind": "email_changed_notification",
+      "status": "Optional security notification; hosted enablement unknown, not changed",
+      "notification": true,
+      "variables": [
+        "SiteURL"
+      ],
+      "deployed": false,
+      "hostedStatus": "unverified"
+    }
+  ],
+  "hostedStatusVerified": false
+}

@@ -1,0 +1,9 @@
+import {spawn} from 'node:child_process'
+import {mkdir,writeFile,readFile} from 'node:fs/promises'
+const jobs=[['check-phase01c',4186],['check-global-ui-scale',4186],['check-phase02b-hosted',4187],['check-phase02b-browser',4186],['check-phase03-browser',4186],['check-phase03-refinement',4186],['check-phase03-details-controls',4186],['check-phase03-quality',4186],['check-phase04-browser',4187]].filter(([name])=>!process.argv[2]||process.argv.slice(2).includes(name)),results=[]
+await mkdir('artifacts/phase04l/regressions',{recursive:true})
+for(const[name,port]of jobs){const result=await new Promise(resolve=>{const child=spawn(process.execPath,[`scripts/${name}.mjs`],{windowsHide:true,env:{...process.env,QA_BASE_URL:`http://127.0.0.1:${port}`,QA_LIVE_URL:'http://127.0.0.1:4187'}});let output='';child.stdout.on('data',d=>output+=d);child.stderr.on('data',d=>output+=d);child.on('error',e=>resolve({exitCode:-1,output:e.message}));child.on('close',exitCode=>resolve({exitCode,output}))});await writeFile(`artifacts/phase04l/regressions/${name}.log`,result.output);results.push({name,exitCode:result.exitCode});console.log(`${result.exitCode===0?'PASS':'FAIL'} ${name}\n${result.output.slice(-1800)}`)}
+const previous=JSON.parse(await readFile('docs/validation/phase04l-remaining-regressions.json','utf8').catch(()=> '[]'));for(const r of results){const p=previous.find(x=>x.name===r.name);if(p)p.exitCode=r.exitCode;else previous.push(r)}
+await writeFile('docs/validation/phase04l-remaining-regressions.json',JSON.stringify(previous,null,2)+'\n')
+const old=JSON.parse(await readFile('artifacts/phase02b/regressions/results.json','utf8'));for(const r of results){const match=old.find(o=>o.name===r.name);if(match)match.exitCode=r.exitCode}await writeFile('artifacts/phase02b/regressions/results.json',JSON.stringify(old,null,2)+'\n')
+if(results.some(r=>r.exitCode))process.exitCode=1

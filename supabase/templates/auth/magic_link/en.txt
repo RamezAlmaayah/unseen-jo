@@ -1,0 +1,7 @@
+Your next discovery is waiting.
+
+Use this one-time link to sign in securely. Never share it with anyone.
+
+{{ .ConfirmationURL }}
+
+If you did not request this sign-in link, ignore this email.

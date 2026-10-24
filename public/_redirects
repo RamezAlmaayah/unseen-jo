@@ -1,0 +1,3 @@
+# Keep the original route, query string and browser fragment for React/PKCE.
+# Existing files take precedence; do not force this rewrite.
+/* /index.html 200
