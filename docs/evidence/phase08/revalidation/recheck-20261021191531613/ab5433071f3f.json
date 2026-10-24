@@ -1,0 +1,13 @@
+{
+  "url": "https://aseza.jo/EBV4.0/Root_Storage/AR/Aqaba_Marine_Reserve_Management_Plan_2022-2026.pdf",
+  "checkedAt": "2026-10-21T19:17:37.034Z",
+  "status": 200,
+  "ok": true,
+  "sha256": "2092409224a339fb84b89b3976901f9fd10f64c1e2b45715d477ff841feaff2c",
+  "contentType": "application/pdf",
+  "text": null,
+  "method": "Origin PDF retrieved; semantic inspection must be recorded separately",
+  "unchangedInspectedText": false,
+  "previousTextSha256": null,
+  "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/ab5433071f3f.json"
+}

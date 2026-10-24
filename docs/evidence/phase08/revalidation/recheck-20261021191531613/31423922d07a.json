@@ -1,0 +1,13 @@
+{
+  "url": "https://www.ummeljimal.org/",
+  "checkedAt": "2026-10-21T19:17:39.030Z",
+  "status": 200,
+  "ok": true,
+  "sha256": "d37b6cd2a4a1ccd4c87e877cfcc6169659479f347c5b3ca090379a26eef6e1a6",
+  "contentType": "text/html",
+  "text": "The Umm el-Jimal Project: Archaeological Research, Cultural Heritage Preservation, and Community Development in Jordan THE UMM EL-JIMAL PROJECT English Choose this link to enter the English language website. Choose Your Language Enter the site. &copy; 2007&ndash; Umm el-Jimal Project. All rights reserved. Created by Open Hand Studios",
+  "method": "Origin HTTP retrieval and comparison with previously inspected source text",
+  "unchangedInspectedText": true,
+  "previousTextSha256": "0483a0b5efa42e79307fc7c0cd078e3466b34ad48975ff20de02a7e3c6b58d81",
+  "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/31423922d07a.json"
+}
