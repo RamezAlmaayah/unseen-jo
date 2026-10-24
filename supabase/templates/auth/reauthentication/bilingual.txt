@@ -1,0 +1,17 @@
+One quick security check.
+
+Use this one-time code to confirm it is you before continuing. Enter it only in the Unseen Jo session where you requested it.
+
+{{ .Token }}
+
+Never share this code. If you did not request it, ignore this email.
+
+---
+
+خطوة سريعة لحماية حسابك.
+
+استخدم الرمز لمرة واحدة لتأكيد هويتك. أدخله فقط في جلسة Unseen Jo التي طلبته منها.
+
+{{ .Token }}
+
+لا تشارك الرمز مع أي شخص. إذا لم تطلبه، تجاهل الرسالة.

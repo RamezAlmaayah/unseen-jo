@@ -1,0 +1,31 @@
+{
+  "status": "Implementation delivered; genuine signed-in Phase 07 acceptance pending",
+  "project": "dkhwwvoplhfjccvjegty",
+  "browsers": [
+    {
+      "port": 4184,
+      "passed": 18,
+      "medianUsableMs": 814,
+      "rangeMs": [
+        716,
+        1505
+      ]
+    },
+    {
+      "port": 4190,
+      "passed": 18,
+      "medianUsableMs": 406,
+      "rangeMs": [
+        243,
+        491
+      ]
+    }
+  ],
+  "route": {
+    "bytes": 13716,
+    "gzipBytes": 4601
+  },
+  "unitDatabaseGroups": 10,
+  "hostedPrivateWrites": 0,
+  "phase08": "Not started"
+}

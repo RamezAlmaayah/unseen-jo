@@ -1,0 +1,33 @@
+{
+  "scope": "Offline SDK/fixture tests; no hosted writes",
+  "results": [
+    {
+      "name": "all 24 records evaluated; only seven with authorized media enter the public catalog",
+      "status": "PASS"
+    },
+    {
+      "name": "every image-less direct URL, search and featured selection is excluded",
+      "status": "PASS"
+    },
+    {
+      "name": "cold recommendations and warm catalog use the same image-qualified source",
+      "status": "PASS"
+    },
+    {
+      "name": "an image row whose anonymous signing fails never produces a card or detail",
+      "status": "PASS"
+    },
+    {
+      "name": "working gallery is promoted when cover signing fails; no unrelated photo substituted",
+      "status": "PASS"
+    },
+    {
+      "name": "future archival removes the destination on refresh without deleting content or related data",
+      "status": "PASS"
+    },
+    {
+      "name": "expired caches reread public inventory; no insert/update/delete request exists",
+      "status": "PASS"
+    }
+  ]
+}

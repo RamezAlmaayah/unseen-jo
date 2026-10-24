@@ -1,0 +1,57 @@
+{
+  "scope": "Offline fixtures only; no hosted access or writes",
+  "tests": [
+    {
+      "name": "package digest, exact identities, counts and rights exclusions",
+      "status": "PASS"
+    },
+    {
+      "name": "timestamp precision, local-only execution and safe error reporting",
+      "status": "PASS"
+    },
+    {
+      "name": "read-only preview: 19 ready, six text changes, 30 image approvals blocked, no mutation",
+      "status": "PASS"
+    },
+    {
+      "name": "confirmation, duplicate IDs, wrong batch size and destination conflict fail closed",
+      "status": "PASS"
+    },
+    {
+      "name": "hosted version, deleted rows, added destinations, changed rights detected without overwrite",
+      "status": "PASS"
+    },
+    {
+      "name": "all 19 execute in controlled batches; rerun idempotent; 24 destinations/images/categories preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "CAS race after preflight preserves newer text and stops the next record",
+      "status": "PASS"
+    },
+    {
+      "name": "revoked session after text save leaves a truthful partial result; no auto retry",
+      "status": "PASS"
+    },
+    {
+      "name": "lost text-save reply is unverified, never automatically replayed",
+      "status": "PASS"
+    },
+    {
+      "name": "lost review reply does not claim completion; new preview recognizes committed review",
+      "status": "PASS"
+    },
+    {
+      "name": "cancellation and account switch stop further requests",
+      "status": "PASS"
+    },
+    {
+      "name": "readback failure does not report verified success",
+      "status": "PASS"
+    },
+    {
+      "name": "adapter rejects wrong project, guest and missing backend permission; production guard blocks writes",
+      "status": "PASS"
+    }
+  ]
+}

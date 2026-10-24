@@ -1,0 +1,53 @@
+{
+  "retrievedAt": "2026-10-21T17:59:58.865Z",
+  "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Church+of+Saint+George+Madaba&gsrlimit=2&prop=coordinates%7Cpageprops&coprimary=primary",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 2,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "1484884": {
+          "pageid": 1484884,
+          "ns": 0,
+          "title": "Madaba",
+          "index": 2,
+          "coordinates": [
+            {
+              "lat": 31.71666667,
+              "lon": 35.8,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "MADABA_2.png",
+            "wikibase-shortdesc": "City in Madaba Governorate, Jordan",
+            "wikibase_item": "Q1683958"
+          }
+        },
+        "6207282": {
+          "pageid": 6207282,
+          "ns": 0,
+          "title": "Madaba Map",
+          "index": 1,
+          "coordinates": [
+            {
+              "lat": 31.71765,
+              "lon": 35.7942,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Palmer_&_Guthe_image_of_the_Medaba_map.jpg",
+            "wikibase-shortdesc": "6th-century mosaic map of the Holy Land",
+            "wikibase_item": "Q1346870"
+          }
+        }
+      }
+    }
+  }
+}

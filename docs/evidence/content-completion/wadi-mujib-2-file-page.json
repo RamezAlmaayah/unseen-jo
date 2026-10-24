@@ -1,0 +1,185 @@
+{
+  "accessed": "2026-10-19",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AWadi+Mujib5.jpeg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 4141301,
+    "ns": 6,
+    "title": "File:Wadi Mujib5.jpeg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1091558,
+        "width": 1600,
+        "height": 1200,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wadi_Mujib5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Mujib5.jpeg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4141301",
+        "sha1": "00675661b1d348fe6299f8120fbc0e349f0ba245",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2008-05-31 15:50:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Wadi Mujib5",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Wadi Mujib|Self-published work|PD-self",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Wadi Mujib",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2008-05-11",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Effi Schweizer",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1276103157,
+        "parentid": 450997734,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=Wadi Mujib}}\n|Source={{Own}}\n|Author=Effi Schweizer\n|Date=2008-05-11\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-self}}\n\n[[Category:Wadi Mujib]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 1091558,
+    "width": 1600,
+    "height": 1200,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wadi_Mujib5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Mujib5.jpeg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4141301",
+    "sha1": "00675661b1d348fe6299f8120fbc0e349f0ba245",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2008-05-31 15:50:51",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Wadi Mujib5",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Wadi Mujib|Self-published work|PD-self",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Wadi Mujib",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-05-11",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Effi Schweizer",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "scope": "Disposable PGlite/PostGIS, simulated Auth and Storage only; no hosted content writes",
+  "passed": 15,
+  "results": [
+    {
+      "name": "full migrations and isolated owner-only editor workspaces",
+      "status": "passed"
+    },
+    {
+      "name": "autosave accepts incomplete drafts without public writes and enforces workspace concurrency",
+      "status": "passed"
+    },
+    {
+      "name": "one save creates a new bilingual destination as draft and ignores publication injection",
+      "status": "passed"
+    },
+    {
+      "name": "explicit source and translation review never publishes a draft, and licensed media require explicit confirmation",
+      "status": "passed"
+    },
+    {
+      "name": "reviewed published corrections update English and Arabic atomically without changing IDs/slugs/status",
+      "status": "passed"
+    },
+    {
+      "name": "pending cover, invalid rights and unsafe coordinates roll back every public mutation",
+      "status": "passed"
+    },
+    {
+      "name": "verified replacement changes actual media while preserving previous approval and original bytes",
+      "status": "passed"
+    },
+    {
+      "name": "cover selection/reordering and removal use only this destination and keep original files",
+      "status": "passed"
+    },
+    {
+      "name": "stale dependencies and incomplete payload cannot overwrite manual work",
+      "status": "passed"
+    },
+    {
+      "name": "snapshot supplies current bilingual content and delayed requests cannot cross account identities",
+      "status": "passed"
+    },
+    {
+      "name": "simple images reject anonymous/non-admin requests and ignore fabricated Google license fields",
+      "status": "passed"
+    },
+    {
+      "name": "one original-ownership declaration records the real actor/object and cannot be forged or edited",
+      "status": "passed"
+    },
+    {
+      "name": "Replace and Save changes actual published cover without changing any text, translation review or status",
+      "status": "passed"
+    },
+    {
+      "name": "verified image reuse and caption edits preserve recorded approval and backend evidence",
+      "status": "passed"
+    },
+    {
+      "name": "ownership evidence cannot approve changed object bytes and unknown drafts remain private",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scope": "Actual Chromium/React Admin → Places; isolated authenticated API fixtures, not a real hosted Admin browser session",
+  "at": "2026-10-23T19:59:39.725Z",
+  "results": [
+    {
+      "language": "en",
+      "width": 1440,
+      "destinations": 24,
+      "transitions": 6,
+      "explicitSave": true,
+      "reloadPersistence": true,
+      "errorAndRetry": true,
+      "pagination": true,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "destinations": 24,
+      "transitions": 6,
+      "explicitSave": true,
+      "reloadPersistence": true,
+      "errorAndRetry": true,
+      "pagination": true,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

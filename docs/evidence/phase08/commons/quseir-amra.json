@@ -1,0 +1,780 @@
+{
+  "slug": "quseir-amra",
+  "query": "Quseir Amra",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Quseir+Amra+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:34.885Z",
+  "previousAttempt": {
+    "slug": "quseir-amra",
+    "retrievedAt": "2026-10-21T17:45:21.807Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Qasr Amra.jpg",
+      "pageid": 424436,
+      "revision": 1018579792,
+      "wikitext": "== {{int:filedesc}} ==\n{{en|8th-century [[:Category:Quseir Amra|Qasr Amra]] palace  ''hammam''-bathhouse — [[:Category:Umayyad architecture|Umayyad architecture]] in Jordan.}}\n{{-}}\n;Credits\nTaken from [http://www.dukerisst.com/World%20Fotos/Jordan/QasrAmra/Main.jpg] {{Wayback|url=http://www.dukerisst.com/World%20Fotos/Jordan/QasrAmra/Main.jpg |date=20041029185152 }}, the site owner has agreed to license the image under the [[:en:GFDL]]. See the talk page for the text of the e-mails. Photo of the [[:en:Qasr Amra]].\n\n== {{int:license-header}} ==\n{{GFDL|migration=relicense}}\n\n[[Category:Quseir Amra Hammam|02]]\n[[Category:Media missing infobox template]]",
+      "size": 72025,
+      "width": 640,
+      "height": 385,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Qasr_Amra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Qasr_Amra.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=424436",
+      "sha1": "94334afec16fcb6cbfbdae7511af65249840ce09",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2005-11-15 22:45:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Qasr Amra",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Quseir Amra Hammam",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Oud player, 8th century, Jordan, Quseir Amra, unadjusted.jpg",
+      "pageid": 169199997,
+      "revision": 1265677127,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Oud player, 8th century, Jordan, Quseir Amra}}\n|date=823-843 A.D.\n|source=cropped Wikimedia Commons image: [[:File:Quseir Amra, Jordan (44127558045).jpg]]\n\nOriginal painting is a fresco in [[w:Qusayr 'Amra|Qusayr 'Amra]], built some time between 723 and 743 A.D.\n|author=painting: unknown artist between 723-743 A.D.\nphoto of painting by flowcomm at https://flickr.com/photos/21162417@N07/44127558045\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n\n[[Category:Quseir Amra frescos]]\n[[Category:Ouds in art]]",
+      "size": 583069,
+      "width": 478,
+      "height": 1112,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Oud_player%2C_8th_century%2C_Jordan%2C_Quseir_Amra%2C_unadjusted.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oud_player,_8th_century,_Jordan,_Quseir_Amra,_unadjusted.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169199997",
+      "sha1": "ca794ebd590477420339f1aa9ceef4f13621305f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-07-04 00:28:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Oud player, 8th century, Jordan, Quseir Amra, unadjusted",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra frescos|Ouds in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oud player, 8th century, Jordan, Quseir Amra",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "823-843 A.D.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>cropped Wikimedia Commons image: <a href=\"//commons.wikimedia.org/wiki/File:Quseir_Amra,_Jordan_(44127558045).jpg\" title=\"File:Quseir Amra, Jordan (44127558045).jpg\">File:Quseir Amra, Jordan (44127558045).jpg</a>\n</p>\nOriginal painting is a fresco in <a href=\"https://en.wikipedia.org/wiki/Qusayr_%27Amra\" class=\"extiw\" title=\"w:Qusayr 'Amra\">Qusayr 'Amra</a>, built some time between 723 and 743 A.D.",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<p>painting: unknown artist between 723-743 A.D.\n</p>\nphoto of painting by flowcomm at <a rel=\"nofollow\" class=\"external free\" href=\"https://flickr.com/photos/21162417@N07/44127558045\">https://flickr.com/photos/21162417@N07/44127558045</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 11.jpg",
+      "pageid": 195128027,
+      "revision": 1255448256,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.}}\n|date=2026-06-10 15:02:16\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801789|36.587271}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Quseir Amra]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 20522811,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Quseir_Amra_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_11.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128027",
+      "sha1": "e83ebf2a7f6b34575df96240703ec347fe71d179",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:43:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 11",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801789",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587271",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 15:02:16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 17.jpg",
+      "pageid": 195128054,
+      "revision": 1255448289,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.}}\n|date=2026-06-10 15:02:53\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801789|36.587271}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Quseir Amra]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 4378070,
+      "width": 3000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Quseir_Amra_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_17.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128054",
+      "sha1": "0f2b21520bc33cf3022836cde841333e70424a1b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:43:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 17",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801789",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587271",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 15:02:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 18.jpg",
+      "pageid": 195128059,
+      "revision": 1255448291,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.}}\n|date=2026-06-10 15:03:00\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801789|36.587271}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Quseir Amra]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 3376365,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Quseir_Amra_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_18.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128059",
+      "sha1": "383308be1f66dfb2e58e326e5024baf8a2472c78",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:43:38",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 18",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801789",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587271",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 15:03:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 20.jpg",
+      "pageid": 195128066,
+      "revision": 1255448311,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.}}\n|date=2026-06-10 15:03:31\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801789|36.587271}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Quseir Amra]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 4269726,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Quseir_Amra_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_20.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128066",
+      "sha1": "c3232ac246c914dd8fe9363897bbef0325617302",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:43:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 20",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801789",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587271",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 15:03:31",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 38.jpg",
+      "pageid": 195128466,
+      "revision": 1255448417,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan}}\n|date=2026-06-10 14:46:22\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801813|36.587489}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Quseir Amra]]",
+      "size": 32266026,
+      "width": 10688,
+      "height": 14256,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Quseir_Amra_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_38.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128466",
+      "sha1": "d6c83cd7ce06092ff52aa8bd79d9274b3869c6c4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:54:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 38",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801813",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587489",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 14:46:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Quseir Amra 62.jpg",
+      "pageid": 195128506,
+      "revision": 1255448583,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قصير عمرة إحدى القصور الصحراوية في محافظة الزرقاء شرق الأردن}}\n{{en|1=Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan}}\n|date=2026-06-10 15:01:30\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.801789|36.587271}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Quseir Amra]]",
+      "size": 27610670,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Quseir_Amra_62.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_62.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195128506",
+      "sha1": "5a92a9c32406ea37945692893e563fefb4d3f8d4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 18:55:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quseir Amra 62",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quseir Amra|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.801789",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.587271",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Quseir Amra is one of the desert castles in Zarqa Governorate, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 15:01:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

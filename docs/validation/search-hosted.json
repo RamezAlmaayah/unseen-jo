@@ -1,0 +1,281 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "mutations": 0,
+  "results": [
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "Ajloun",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "Ajloun",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "Ajloun",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": " AJLOUN ",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": " AJLOUN ",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": " AJLOUN ",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "عَجْلُـون",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "عَجْلُـون",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "عَجْلُـون",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "عجل",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "عجل",
+      "slugs": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "عجل",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "Wadi Mujib",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "Wadi Mujib",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "Wadi Mujib",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "وادي الموجب",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "وادي الموجب",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "وادي الموجب",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "الموج",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "الموج",
+      "slugs": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "الموج",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "Umm Qais",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "Umm Qais",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "Umm Qais",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "أُمّ قَيْس",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "أُمّ قَيْس",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "أُمّ قَيْس",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "ام قيس",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "ام قيس",
+      "slugs": [
+        "umm-qais"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "ام قيس",
+      "count": 1
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "not-a-real-destination",
+      "slugs": []
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "not-a-real-destination",
+      "slugs": []
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "not-a-real-destination",
+      "count": 0
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "%_",
+      "slugs": []
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "%_",
+      "slugs": []
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "%_",
+      "count": 0
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "en",
+      "query": "",
+      "slugs": [
+        "ajloun-forest",
+        "dana-reserve",
+        "iraq-al-amir",
+        "salt-historic",
+        "umm-qais",
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual public catalog + production local filter",
+      "lang": "ar-JO",
+      "query": "",
+      "slugs": [
+        "ajloun-forest",
+        "dana-reserve",
+        "iraq-al-amir",
+        "salt-historic",
+        "umm-qais",
+        "wadi-mujib"
+      ]
+    },
+    {
+      "scope": "Actual PostgREST predicate with anonymous public projection; not Admin session",
+      "query": "",
+      "count": 6
+    }
+  ]
+}

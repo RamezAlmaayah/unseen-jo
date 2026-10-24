@@ -1,0 +1,126 @@
+{
+  "scope": "Actual production app and Chromium; intercepted authenticated Admin fixtures, no hosted writes or real owner session.",
+  "results": [
+    {
+      "language": "en",
+      "width": 1440,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"Inter Variable\", Inter, system-ui, sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "expanded, collapsed",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"Inter Variable\", Inter, system-ui, sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "automatic compact",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"Inter Variable\", Inter, system-ui, sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "mobile drawer",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"IBM Plex Sans Arabic\", sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "expanded, collapsed",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"IBM Plex Sans Arabic\", sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "automatic compact",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "official": {
+        "asset": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "word": "Unseen Jo",
+        "font": "\"IBM Plex Sans Arabic\", sans-serif",
+        "size": "15px",
+        "weight": "900",
+        "lineHeight": "20px",
+        "color": "rgb(22, 79, 63)",
+        "imageWidth": 40,
+        "imageHeight": 36.5,
+        "direction": "ltr"
+      },
+      "states": "mobile drawer",
+      "keyboardNavigation": true,
+      "a11yViolations": 0,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,35 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/alkatra';
+@import 'tailwindcss';
+@import './tokens.css';
+@import './components.css';
+@import './pages.css';
+@import './discovery.css';
+@import './checkmarks.css';
+@import './places.css';
+@import './accounts.css';
+@import './ui-scale.css';
+@import './tourism.css';
+@import './maps.css';
+@import './images.css';
+@import './visitor-information.css';
+@import './recommendations.css';
+@import './user-accounts.css';
+@import './personal-discoveries.css';
+@import './search.css';
+
+@layer base {
+  :root { font-family: var(--font-sans); color: var(--color-text); background: var(--color-white); font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+  body { margin: 0; min-width: 320px; }
+  button, input, select, textarea { font: inherit; }
+  :focus-visible { outline: 3px solid var(--color-primary); outline-offset: 4px; }
+  main:focus { outline: none; }
+  ::selection { color: var(--color-primary); background: var(--color-gold); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+.prototype-notice{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:10px max(20px,calc((100vw - 1200px)/2));background:#edf6f1;color:#164f3f;font-size:13px;border-bottom:1px solid #d5e6dc}
+.prototype-notice a{margin-inline-start:auto;text-decoration:underline;white-space:nowrap}
+.prototype-notice strong{white-space:nowrap}

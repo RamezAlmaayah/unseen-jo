@@ -1,0 +1,44 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Genuine anonymous Auth settings/Data API probes. No impersonated authenticated session and no successful writes.",
+  "results": [
+    {
+      "name": "Actual public Auth configuration",
+      "email": true,
+      "google": false,
+      "signupDisabled": false,
+      "emailAutoConfirmed": false,
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous private-table access denied: profiles",
+      "code": "42501",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous private-table access denied: user_preferences",
+      "code": "42501",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous private-table access denied: user_preference_categories",
+      "code": "42501",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous private-table access denied: saved_places",
+      "code": "42501",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous preference RPC denied before mutation",
+      "code": "42501",
+      "status": "passed"
+    },
+    {
+      "name": "All six published destinations remain publicly accessible",
+      "count": 6,
+      "status": "passed"
+    }
+  ]
+}

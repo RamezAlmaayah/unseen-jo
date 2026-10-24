@@ -1,0 +1,248 @@
+{
+  "scope": "Genuine anonymous hosted destinations, translations, signed image rendering and accessibility in Chromium; zero API interception or stored mutations",
+  "results": [
+    {
+      "language": "en",
+      "slug": "ajloun-forest",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 900
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        }
+      ],
+      "accessibility": [],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "slug": "salt-historic",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 900
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "slug": "wadi-mujib",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 362
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "slug": "dana-reserve",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 900
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 472
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "slug": "iraq-al-amir",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 1376
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "slug": "umm-qais",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 1376
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "ajloun-forest",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 358
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        }
+      ],
+      "accessibility": [],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "salt-historic",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 358
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "wadi-mujib",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 144
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        }
+      ],
+      "translationFallback": true,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "dana-reserve",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 358
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        },
+        {
+          "path": "/storage/v1/render/image/sign/place-images/a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 173
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "iraq-al-amir",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 326
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "slug": "umm-qais",
+      "images": [
+        {
+          "path": "/storage/v1/render/image/sign/place-images/066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+          "optimized": true,
+          "complete": true,
+          "naturalWidth": 326
+        }
+      ],
+      "translationFallback": false,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

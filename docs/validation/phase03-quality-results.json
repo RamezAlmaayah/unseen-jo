@@ -1,0 +1,217 @@
+{
+  "reviewedAt": "2026-10-18T12:32:02.113Z",
+  "scope": "Final Phase 03 demo map quality. No database modifications.",
+  "sourceLinks": [
+    {
+      "slug": "ajloun",
+      "source": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "reviewedAt": "2026-10-18T12:22:14.784Z",
+      "locationLinks": [
+        "https://www.google.com/maps/place/8PGG%2B4X/@32.3253125,35.7252488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3253125!4d35.7274375",
+        "https://www.google.com/maps/place/9P6F%2BW4/@32.3623125,35.7206238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3623125!4d35.7228125",
+        "https://www.google.com/maps/place/8P4X%2BHX/@32.3064375,35.7477488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3064375!4d35.7499375",
+        "https://www.google.com/maps/place/9QM6%2BC5/@32.3835625,35.7582488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3835625!4d35.7604375"
+      ]
+    },
+    {
+      "slug": "dana-feynan",
+      "source": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "reviewedAt": "2026-10-18T12:22:16.144Z",
+      "locationLinks": [
+        "https://www.google.com/maps/place/MJF5%2BP8/@30.6743125,35.6061238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d30.6743125!4d35.6083125"
+      ]
+    },
+    {
+      "slug": "wadi-mujib",
+      "source": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "reviewedAt": "2026-10-18T12:22:16.587Z",
+      "locationLinks": [
+        "https://www.google.com/maps/place/FH8F%2BR7/@31.4670625,35.5709988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.4670625!4d35.5731875"
+      ]
+    }
+  ],
+  "publicRead": {
+    "scope": "Actual publishable-key REST reads in production live build; no mutation requests.",
+    "reads": [
+      {
+        "table": "categories",
+        "method": "GET",
+        "status": 200,
+        "rows": 7
+      },
+      {
+        "table": "places",
+        "method": "GET",
+        "status": 200,
+        "rows": 0
+      }
+    ],
+    "status": "passed"
+  },
+  "mapBrowserFixtureRerun": {
+    "checks": [
+      {
+        "name": "SIMULATED published rows: all seven custom categories, invalid coordinates excluded",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED card/marker synchronization, popup, keyboard escape and selection cleanup",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED manual city, radius, nearest sorting, NULL exclusion and location clearing",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED supported-property filter and clear share the same marker/card list",
+        "status": "passed"
+      },
+      {
+        "name": "EMULATED browser GPS granted: user action only, one-shot marker, no stored coordinates",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED pending GPS cancelled: late position cannot reactivate location",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED geolocation denied: clear error and manual fallback",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED geolocation unavailable: clear error and manual fallback",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED geolocation timeout: clear error and manual fallback",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED geolocation unsupported: clear error and manual fallback",
+        "status": "passed"
+      },
+      {
+        "name": "DEMO details: sourced map/popup/directions and missing-location safeguard",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED large catalog: clustering and expansion",
+        "status": "passed"
+      },
+      {
+        "name": "DEMO responsive/touch emulation: seven required viewports, route scale and popup bounds",
+        "status": "passed"
+      },
+      {
+        "name": "SIMULATED provider outage: map error/retry without losing list",
+        "status": "passed"
+      }
+    ],
+    "responsive": [
+      {
+        "width": 1920,
+        "overflow": false,
+        "header": 60,
+        "h1": 28
+      },
+      {
+        "width": 1440,
+        "overflow": false,
+        "header": 60,
+        "h1": 28
+      },
+      {
+        "width": 1366,
+        "overflow": false,
+        "header": 60,
+        "h1": 28
+      },
+      {
+        "width": 1024,
+        "overflow": false,
+        "header": 60,
+        "h1": 28
+      },
+      {
+        "width": 768,
+        "overflow": false,
+        "header": 60,
+        "h1": 28
+      },
+      {
+        "width": 390,
+        "overflow": false,
+        "header": 104,
+        "h1": 26
+      },
+      {
+        "width": 375,
+        "overflow": false,
+        "header": 104,
+        "h1": 26
+      }
+    ],
+    "errors": []
+  },
+  "protectedFiles": {
+    "src/styles/tokens.css": "0789a8f8ca862caf0b3da02b10acf86c3014a55290b8d215b0d16fd6915d0215",
+    "src/styles/ui-scale.css": "b35afcec201522d83b269058331219837f56d5cdb23b8ff5eac23fdb8a8628be",
+    "supabase/migrations/20261015212231_phase02a_foundation.sql": "3b7d95e17724d69e323ad29d4a19c38d902495f8af9e217e4ab41c148edb61e3",
+    "supabase/migrations/20261015212235_phase02a_access_and_storage.sql": "957db84550e317dca13be43dacc836b1f32a1e95d88e5892ab9dc47f84335b1f",
+    "supabase/migrations/20261015212242_phase02a_categories.sql": "3a398a1aa1f61447b93f2bd613d9643a1ef7cec72f41e41ed76b248708f7e5cc"
+  },
+  "protectedFilesUnchanged": true,
+  "originalAssetIntegrity": "83 references / 48 originals passed SHA-256 validation",
+  "demoJsonChange": "Intentional removal of misleading Ajloun cover/result/saved photograph mappings only; values remain explicitly illustrative",
+  "localChecks": {
+    "mapGroups": 9,
+    "tourismGroups": 15,
+    "lint": "passed",
+    "liveBuild": "passed",
+    "demoBuild": "passed"
+  },
+  "remainingLimitations": [
+    "No rights-cleared geographically verified replacement photograph in existing inventory",
+    "Other three demo photos remain unverified",
+    "Reference pins are not surveyed entrances or access guarantees",
+    "Provider-dependent geography; MapLibre chunk advisory remains",
+    "No physical GPS accuracy certification"
+  ],
+  "finalProductionDemoBrowser": {
+    "scope": "Real local demo browser and OpenFreeMap provider; no database requests or writes.",
+    "results": [
+      {
+        "width": 1440,
+        "height": 900,
+        "selectedCardsTested": 4,
+        "visibleMarkers": 4,
+        "initialZoom": 6.23,
+        "tileResponses": 27,
+        "axeViolations": 0,
+        "status": "passed"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "selectedCardsTested": 4,
+        "visibleMarkers": 4,
+        "initialZoom": 6.03,
+        "tileResponses": 27,
+        "axeViolations": 0,
+        "status": "passed"
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "selectedCardsTested": 4,
+        "visibleMarkers": 2,
+        "initialZoom": 5.59,
+        "tileResponses": 31,
+        "axeViolations": 0,
+        "status": "passed"
+      }
+    ],
+    "errors": []
+  },
+  "historicalPhase03ScreenshotsRestored": 10
+}

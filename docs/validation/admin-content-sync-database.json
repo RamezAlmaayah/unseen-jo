@@ -1,0 +1,38 @@
+{
+  "scope": "Disposable PGlite/PostgreSQL with actual migrations; not hosted Supabase Auth/Storage integration",
+  "at": "2026-10-23T19:09:26.725Z",
+  "results": [
+    {
+      "name": "replay every existing migration with no new grants or schema changes",
+      "status": "PASS"
+    },
+    {
+      "name": "seed 24 isolated Published destinations, 19 proposals and 30 private image mappings",
+      "status": "PASS"
+    },
+    {
+      "name": "guest, ordinary user and revoked sessions cannot update or activate translations",
+      "status": "PASS"
+    },
+    {
+      "name": "all 11 Arabic fields save with CAS; review identity/time are server-derived",
+      "status": "PASS"
+    },
+    {
+      "name": "stale writes update zero rows and duplicate translations cannot be inserted",
+      "status": "PASS"
+    },
+    {
+      "name": "stale-source review rejected; partial text save remains pending and private",
+      "status": "PASS"
+    },
+    {
+      "name": "existing Published-image guards reject approval; simple-image payload cannot upgrade existing rows",
+      "status": "PASS"
+    },
+    {
+      "name": "all 24 IDs/slugs/statuses/English, images, categories and both Admin memberships unchanged",
+      "status": "PASS"
+    }
+  ]
+}

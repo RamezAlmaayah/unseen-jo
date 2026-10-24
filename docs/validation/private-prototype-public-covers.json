@@ -1,0 +1,241 @@
+{
+  "verifiedAt": "2026-10-22T16:50:32.766Z",
+  "results": [
+    {
+      "slug": "ajloun-forest",
+      "path": "docs/evidence/private-prototype/preserved-covers/ajloun-forest.jpg",
+      "bytes": 5161429,
+      "sha256": "e9f6e303d22e7fd975844f72b01c7582547f01d0e9ec4c9ec740899f9d3327ea",
+      "storagePath": "6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "licenseEvidence": "Machine evidence check 2026-10-19T17:32:19.904Z; Commons revision 1250184811; creator own-work grant, CC BY-SA 4.0. Original SHA-256 e9f6e303d22e7fd975844f72b01c7582547f01d0e9ec4c9ec740899f9d3327ea. Source and licence links retained. This is automated preparation, not personal administrator attestation.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 4000,
+      "height": 3000,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "docs/evidence/private-prototype/preserved-covers/ajloun-forest-320.webp",
+          "bytes": 26554,
+          "sha256": "ae32d757d38f1429107b9048334c137e49d6a3dad997382b14131625807df1ef"
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/private-prototype/preserved-covers/ajloun-forest-640.webp",
+          "bytes": 106166,
+          "sha256": "4a8192203f14ab4478ffeccefe81b0e84852e44240a2e632a66511a732a9e2fc"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/private-prototype/preserved-covers/ajloun-forest-1280.webp",
+          "bytes": 439412,
+          "sha256": "8b18875fc7d86cbb4161980d77bd5dca53e13d19ad761894fafc5207f8d387b9"
+        },
+        {
+          "width": 2400,
+          "height": 1800,
+          "path": "docs/evidence/private-prototype/preserved-covers/ajloun-forest-2400.webp",
+          "bytes": 1405528,
+          "sha256": "b158129e9eea95d3d16decb191510cb7148f1efc9233d42b92299a1443efda84"
+        }
+      ]
+    },
+    {
+      "slug": "dana-reserve",
+      "path": "docs/evidence/private-prototype/preserved-covers/dana-reserve.jpg",
+      "bytes": 2242965,
+      "sha256": "f9522383c23c1ffbc2210be290cce58aec33af9a13ae39ac047119077eefafe5",
+      "storagePath": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "licenseEvidence": "Source file page reviewed 2026-10-19, revision 1124688626. Bernard Gagnon; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0. Author's own-work declaration retained in dana-reserve-3-file-page.json. Original SHA-256 d0a4a3b39850038fd8fca1047ff7e3d5be4acc8e0efcaf1c8f4ffa529bc639f7. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 3453,
+      "height": 2474,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 229,
+          "path": "docs/evidence/private-prototype/preserved-covers/dana-reserve-320.webp",
+          "bytes": 30080,
+          "sha256": "bcb271e249286fd4671a62182ee5724235d152f62fb639e6f636de7cf0b0d0ab"
+        },
+        {
+          "width": 640,
+          "height": 459,
+          "path": "docs/evidence/private-prototype/preserved-covers/dana-reserve-640.webp",
+          "bytes": 113958,
+          "sha256": "6ca3d7f7b478daa5dd9a21229df2c7140db636ebf3e5790e9f5116035150c64a"
+        },
+        {
+          "width": 1280,
+          "height": 917,
+          "path": "docs/evidence/private-prototype/preserved-covers/dana-reserve-1280.webp",
+          "bytes": 419368,
+          "sha256": "ed1ccdf1a9a8b3f0d052b6ee6c001858b356bc0b9ecb8e0a3e65e31fe3246bfd"
+        },
+        {
+          "width": 2400,
+          "height": 1720,
+          "path": "docs/evidence/private-prototype/preserved-covers/dana-reserve-2400.webp",
+          "bytes": 1313700,
+          "sha256": "c5b3296f8e718228a5c07776b00393946946595f3e1b3f863d4a7f3b508c0afe"
+        }
+      ]
+    },
+    {
+      "slug": "iraq-al-amir",
+      "path": "docs/evidence/private-prototype/preserved-covers/iraq-al-amir.jpg",
+      "bytes": 1496722,
+      "sha256": "0ba1fa285c2767019af9d1e414ebe544e80caff36bc727827dd99618ec83a3ad",
+      "storagePath": "4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg",
+      "attribution": "View of Qasr Al-Abd, Amman.jpg — Makeandtoss. CC0. Source: https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg Licence: https://creativecommons.org/publicdomain/zero/1.0/deed.en. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "licenseEvidence": "Source file page reviewed 2026-10-19, revision 1287786500. Makeandtoss; CC0; https://creativecommons.org/publicdomain/zero/1.0/deed.en. Author's own-work declaration retained in iraq-al-amir-1-file-page.json. Original SHA-256 25abb00095a5ed7029c8ee4e3222d0c60f8eba696ea2e7c41f34e42ebba3ac94. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 3057,
+      "height": 2259,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 236,
+          "path": "docs/evidence/private-prototype/preserved-covers/iraq-al-amir-320.webp",
+          "bytes": 24280,
+          "sha256": "a9864566faec9931d2d17a906f0d1cdfa70c7eba0864aad029e9b98b163348ff"
+        },
+        {
+          "width": 640,
+          "height": 473,
+          "path": "docs/evidence/private-prototype/preserved-covers/iraq-al-amir-640.webp",
+          "bytes": 85124,
+          "sha256": "286b8a10142ee32536f02dfd556ef50fb83280d380fad9d7348025bff46282d2"
+        },
+        {
+          "width": 1280,
+          "height": 946,
+          "path": "docs/evidence/private-prototype/preserved-covers/iraq-al-amir-1280.webp",
+          "bytes": 312370,
+          "sha256": "0a7437a5e48a1c492f483144ce5e4477effabc1e537489caec55f2c493cbdfd3"
+        },
+        {
+          "width": 2400,
+          "height": 1774,
+          "path": "docs/evidence/private-prototype/preserved-covers/iraq-al-amir-2400.webp",
+          "bytes": 990574,
+          "sha256": "8ae8e8fcea70430f05303a4e0d7ca7bfec190a8a7a45f8a86deba5778c7027a1"
+        }
+      ]
+    },
+    {
+      "slug": "salt-historic",
+      "path": "docs/evidence/private-prototype/preserved-covers/salt-historic.jpg",
+      "bytes": 455563,
+      "sha256": "d6fd9cecba8f630e29bf087cdad507c48b79c7ff35edf684193adf6dd165f477",
+      "storagePath": "189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(10).jpg",
+      "attribution": "Old as-salt jordan 2024 (10).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(10).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+      "licenseEvidence": "Source file page reviewed 2026-10-19, revision 1081059977. 1995Maisjamal; CC BY 4.0; https://creativecommons.org/licenses/by/4.0. Author's own-work declaration retained in salt-historic-2-file-page.json. Original SHA-256 d6fd9cecba8f630e29bf087cdad507c48b79c7ff35edf684193adf6dd165f477. Original file unchanged; responsive display cropping may apply.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 1600,
+      "height": 1200,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "docs/evidence/private-prototype/preserved-covers/salt-historic-320.webp",
+          "bytes": 33396,
+          "sha256": "41afe6ab087376e2a80f19ef43ed437483f836f44bdd743c3a9a30fe6716d357"
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/private-prototype/preserved-covers/salt-historic-640.webp",
+          "bytes": 126004,
+          "sha256": "0693b421411ce74eed04e59cb7c24d82c7e15876719da9bc94ce4c0043811f8d"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/private-prototype/preserved-covers/salt-historic-1280.webp",
+          "bytes": 458302,
+          "sha256": "1265d97509b23e604b66083002052e3e34f34e530546b1727248f8901b32fa5f"
+        }
+      ]
+    },
+    {
+      "slug": "umm-qais",
+      "path": "docs/evidence/private-prototype/preserved-covers/umm-qais.jpg",
+      "bytes": 936292,
+      "sha256": "434124a40fd7f25fb8eea1dd0f52f512aef8136682cc6d801d647a0a2439408c",
+      "storagePath": "066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umm_Qais_(West_Theater).jpg",
+      "attribution": "Umm Qais (West Theater).jpg — Bashar Tabbah. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Umm_Qais_(West_Theater).jpg Licence: https://creativecommons.org/licenses/by-sa/4.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "licenseEvidence": "Source file page reviewed 2026-10-19, revision 1009966429. Bashar Tabbah; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0. Author's source/permission record retained in umm-qais-1-file-page.json. Wikimedia public VRT permission confirmation ticket 2019101510004511. Original SHA-256 b16da0b300fdbb31c01ecd0826fbc2c6cbdd2006ed8b9bc8782018178a210340. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 2500,
+      "height": 1667,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 213,
+          "path": "docs/evidence/private-prototype/preserved-covers/umm-qais-320.webp",
+          "bytes": 20138,
+          "sha256": "02697b9ae43fd9e0090806c600f5c13afc6a567b0fdd5c5c5498fc82792c0e85"
+        },
+        {
+          "width": 640,
+          "height": 427,
+          "path": "docs/evidence/private-prototype/preserved-covers/umm-qais-640.webp",
+          "bytes": 75636,
+          "sha256": "d73e306f8e436de8d4c1c4b441a1d980c7f7a3cf46c9bd67a3d7f7cbfca53f9a"
+        },
+        {
+          "width": 1280,
+          "height": 854,
+          "path": "docs/evidence/private-prototype/preserved-covers/umm-qais-1280.webp",
+          "bytes": 284870,
+          "sha256": "c662aa594137903c2b3c1393a4c914d7993f2282ccb7b006ee33d765988a3077"
+        },
+        {
+          "width": 2400,
+          "height": 1600,
+          "path": "docs/evidence/private-prototype/preserved-covers/umm-qais-2400.webp",
+          "bytes": 894782,
+          "sha256": "85b368551a933f506654eebb74efcf5ec5a02df5544a8cc78f6019e8adbd7bc3"
+        }
+      ]
+    },
+    {
+      "slug": "wadi-mujib",
+      "path": "docs/evidence/private-prototype/preserved-covers/wadi-mujib.jpg",
+      "bytes": 56888,
+      "sha256": "5e4d0762f96dd8721de36c79022f6f68c4f1d4f9be669a58e4cc1dce8c712d29",
+      "storagePath": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+      "sourceUrl": "https://dkhwwvoplhfjccvjegty.supabase.co/rest/v1/place_image_ownership?id=eq.2db200d9-6cbe-4e9b-8440-ec121ebf977e",
+      "attribution": "Unseen Jo — project-owned photograph",
+      "licenseEvidence": "Project original ownership declaration 2db200d9-6cbe-4e9b-8440-ec121ebf977e, affirmed by administrator 914e63a8-a570-4de7-9a14-230d1a7853c8 at 2026-10-19 21:41:15.787515+00. Object identity and ownership statement retained in the private audit evidence.",
+      "status": "passed",
+      "scope": "Genuine anonymous hosted original-cover download; no source/image/status changes",
+      "width": 515,
+      "height": 388,
+      "renditions": [
+        {
+          "width": 320,
+          "height": 241,
+          "path": "docs/evidence/private-prototype/preserved-covers/wadi-mujib-320.webp",
+          "bytes": 39980,
+          "sha256": "c096dbf6ea6a8cacc9da2446c177f66cc60e6dc2d4b8483c8d751b67a688c590"
+        }
+      ]
+    }
+  ]
+}

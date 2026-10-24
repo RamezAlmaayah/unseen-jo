@@ -1,0 +1,5310 @@
+{
+  "scope": "Genuine anonymous hosted Supabase data in Chromium, all six destinations / two languages / three production widths, plus development spots; no API interception or stored writes. Stress copy is DOM-only.",
+  "results": [
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 313.59375,
+              "right": 517.328125,
+              "bottom": 449.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 334.59375,
+              "right": 496.328125,
+              "bottom": 356.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 368.59375,
+              "right": 496.328125,
+              "bottom": 422.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–4 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 313.59375,
+              "right": 906.65625,
+              "bottom": 449.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 334.59375,
+              "right": 885.65625,
+              "bottom": 356.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 368.59375,
+              "right": 885.65625,
+              "bottom": 396.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 313.59375,
+              "right": 1296,
+              "bottom": 449.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 334.59375,
+              "right": 1275,
+              "bottom": 356.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 368.59375,
+              "right": 1275,
+              "bottom": 396.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 144,
+              "y": 465.59375,
+              "right": 517.328125,
+              "bottom": 611.59375,
+              "width": 373.328125,
+              "height": 146
+            },
+            "title": {
+              "x": 165,
+              "y": 486.59375,
+              "right": 496.328125,
+              "bottom": 508.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 520.59375,
+              "right": 496.328125,
+              "bottom": 590.59375,
+              "width": 331.328125,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 533.328125,
+              "y": 465.59375,
+              "right": 906.65625,
+              "bottom": 601.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 486.59375,
+              "right": 885.65625,
+              "bottom": 508.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 520.59375,
+              "right": 885.65625,
+              "bottom": 564.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-en-1440.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.328125,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.328125,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.328125,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 406.59375,
+              "right": 906.65625,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 427.59375,
+              "right": 885.65625,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 461.59375,
+              "right": 885.65625,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 144,
+              "y": 558.59375,
+              "right": 517.328125,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 579.59375,
+              "right": 496.328125,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 613.59375,
+              "right": 496.328125,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.328125,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.328125,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.328125,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "1–2 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 406.59375,
+              "right": 906.65625,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 427.59375,
+              "right": 885.65625,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 461.59375,
+              "right": 885.65625,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 144,
+              "y": 558.59375,
+              "right": 517.328125,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 579.59375,
+              "right": 496.328125,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 613.59375,
+              "right": 496.328125,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.328125,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.328125,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.328125,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 406.59375,
+              "right": 906.65625,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 427.59375,
+              "right": 885.65625,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 461.59375,
+              "right": 885.65625,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 144,
+              "y": 558.59375,
+              "right": 517.328125,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 579.59375,
+              "right": 496.328125,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 613.59375,
+              "right": 496.328125,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.328125,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.328125,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.328125,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 406.59375,
+              "right": 906.65625,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 427.59375,
+              "right": 885.65625,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 461.59375,
+              "right": 885.65625,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 144,
+              "y": 558.59375,
+              "right": 517.328125,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 579.59375,
+              "right": 496.328125,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 613.59375,
+              "right": 496.328125,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 144,
+              "y": 278.59375,
+              "right": 517.328125,
+              "bottom": 414.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 299.59375,
+              "right": 496.328125,
+              "bottom": 321.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 333.59375,
+              "right": 496.328125,
+              "bottom": 361.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.328125,
+              "y": 278.59375,
+              "right": 906.65625,
+              "bottom": 414.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 299.59375,
+              "right": 885.65625,
+              "bottom": 321.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 333.59375,
+              "right": 885.65625,
+              "bottom": 361.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 922.65625,
+              "y": 278.59375,
+              "right": 1296,
+              "bottom": 414.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 943.65625,
+              "y": 299.59375,
+              "right": 1275,
+              "bottom": 321.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 943.65625,
+              "y": 333.59375,
+              "right": 1275,
+              "bottom": 361.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 144,
+              "y": 430.59375,
+              "right": 517.328125,
+              "bottom": 576.59375,
+              "width": 373.328125,
+              "height": 146
+            },
+            "title": {
+              "x": 165,
+              "y": 451.59375,
+              "right": 496.328125,
+              "bottom": 473.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 485.59375,
+              "right": 496.328125,
+              "bottom": 555.59375,
+              "width": 331.328125,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 533.328125,
+              "y": 430.59375,
+              "right": 906.65625,
+              "bottom": 566.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.328125,
+              "y": 451.59375,
+              "right": 885.65625,
+              "bottom": 473.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.328125,
+              "y": 485.59375,
+              "right": 885.65625,
+              "bottom": 529.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-wadi-mujib-en-1440.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 161.59375,
+              "right": 402,
+              "bottom": 297.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 182.59375,
+              "right": 381,
+              "bottom": 204.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 216.59375,
+              "right": 381,
+              "bottom": 270.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–4 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 161.59375,
+              "right": 803.609375,
+              "bottom": 297.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 182.59375,
+              "right": 782.609375,
+              "bottom": 204.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 216.59375,
+              "right": 782.609375,
+              "bottom": 244.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 313.59375,
+              "right": 402,
+              "bottom": 449.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 334.59375,
+              "right": 381,
+              "bottom": 356.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 368.59375,
+              "right": 381,
+              "bottom": 396.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 418,
+              "y": 313.59375,
+              "right": 803.609375,
+              "bottom": 459.59375,
+              "width": 385.609375,
+              "height": 146
+            },
+            "title": {
+              "x": 439,
+              "y": 334.59375,
+              "right": 782.609375,
+              "bottom": 356.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 368.59375,
+              "right": 782.609375,
+              "bottom": 438.59375,
+              "width": 343.609375,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 475.59375,
+              "right": 402,
+              "bottom": 611.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 496.59375,
+              "right": 381,
+              "bottom": 518.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 530.59375,
+              "right": 381,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-en-820.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 379.59375,
+              "right": 402,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 400.59375,
+              "right": 381,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 434.59375,
+              "right": 381,
+              "bottom": 462.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 379.59375,
+              "right": 803.609375,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 400.59375,
+              "right": 782.609375,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 434.59375,
+              "right": 782.609375,
+              "bottom": 462.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 531.59375,
+              "right": 402,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 552.59375,
+              "right": 381,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 586.59375,
+              "right": 381,
+              "bottom": 614.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 531.59375,
+              "right": 803.609375,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 552.59375,
+              "right": 782.609375,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 586.59375,
+              "right": 782.609375,
+              "bottom": 630.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 379.59375,
+              "right": 402,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 400.59375,
+              "right": 381,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 434.59375,
+              "right": 381,
+              "bottom": 488.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "1–2 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 379.59375,
+              "right": 803.609375,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 400.59375,
+              "right": 782.609375,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 434.59375,
+              "right": 782.609375,
+              "bottom": 462.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 531.59375,
+              "right": 402,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 552.59375,
+              "right": 381,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 586.59375,
+              "right": 381,
+              "bottom": 614.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 531.59375,
+              "right": 803.609375,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 552.59375,
+              "right": 782.609375,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 586.59375,
+              "right": 782.609375,
+              "bottom": 630.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 406.59375,
+              "right": 402,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 427.59375,
+              "right": 381,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 461.59375,
+              "right": 381,
+              "bottom": 515.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 406.59375,
+              "right": 803.609375,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 427.59375,
+              "right": 782.609375,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 461.59375,
+              "right": 782.609375,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 558.59375,
+              "right": 402,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 579.59375,
+              "right": 381,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 613.59375,
+              "right": 381,
+              "bottom": 641.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 558.59375,
+              "right": 803.609375,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 579.59375,
+              "right": 782.609375,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 613.59375,
+              "right": 782.609375,
+              "bottom": 657.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 379.59375,
+              "right": 402,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 400.59375,
+              "right": 381,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 434.59375,
+              "right": 381,
+              "bottom": 488.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 379.59375,
+              "right": 803.609375,
+              "bottom": 515.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 400.59375,
+              "right": 782.609375,
+              "bottom": 422.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 434.59375,
+              "right": 782.609375,
+              "bottom": 462.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 531.59375,
+              "right": 402,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 552.59375,
+              "right": 381,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 586.59375,
+              "right": 381,
+              "bottom": 614.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 531.59375,
+              "right": 803.609375,
+              "bottom": 667.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 552.59375,
+              "right": 782.609375,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 586.59375,
+              "right": 782.609375,
+              "bottom": 630.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16.390625,
+              "y": 99.59375,
+              "right": 402,
+              "bottom": 235.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 120.59375,
+              "right": 381,
+              "bottom": 142.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 154.59375,
+              "right": 381,
+              "bottom": 182.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 418,
+              "y": 99.59375,
+              "right": 803.609375,
+              "bottom": 235.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 120.59375,
+              "right": 782.609375,
+              "bottom": 142.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 154.59375,
+              "right": 782.609375,
+              "bottom": 182.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16.390625,
+              "y": 251.59375,
+              "right": 402,
+              "bottom": 387.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 272.59375,
+              "right": 381,
+              "bottom": 294.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 306.59375,
+              "right": 381,
+              "bottom": 334.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 418,
+              "y": 251.59375,
+              "right": 803.609375,
+              "bottom": 397.59375,
+              "width": 385.609375,
+              "height": 146
+            },
+            "title": {
+              "x": 439,
+              "y": 272.59375,
+              "right": 782.609375,
+              "bottom": 294.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 306.59375,
+              "right": 782.609375,
+              "bottom": 376.59375,
+              "width": 343.609375,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 413.59375,
+              "right": 402,
+              "bottom": 549.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 434.59375,
+              "right": 381,
+              "bottom": 456.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 468.59375,
+              "right": 381,
+              "bottom": 512.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–4 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 647.59375,
+              "width": 358,
+              "height": 142
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 628.59375,
+              "width": 320,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 663.59375,
+              "right": 374,
+              "bottom": 799.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 682.59375,
+              "right": 355,
+              "bottom": 704.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 716.59375,
+              "right": 355,
+              "bottom": 760.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-en-390.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 130.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "1–2 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "2–3 hours",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 130.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Visit Duration",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Admission Fee",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "Opening Hours",
+            "text": "Unavailable",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 647.59375,
+              "width": 358,
+              "height": 142
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 628.59375,
+              "width": 320,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "Best Time to Visit",
+            "text": "See seasonal guidance — Read visitor notes: Best Time to Visit",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 663.59375,
+              "right": 374,
+              "bottom": 799.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 682.59375,
+              "right": 355,
+              "bottom": 704.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 716.59375,
+              "right": 355,
+              "bottom": 760.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "Getting There",
+            "text": "Plan your arrival — Read visitor notes: Getting There",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "kind": "keyboard, source disclosure, gallery, save, map and long-text stress",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 313.59375,
+              "right": 1296,
+              "bottom": 449.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 334.59375,
+              "right": 1275,
+              "bottom": 356.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 368.59375,
+              "right": 1275,
+              "bottom": 422.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى أربع ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 313.59375,
+              "right": 906.671875,
+              "bottom": 449.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 334.59375,
+              "right": 885.671875,
+              "bottom": 356.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 368.59375,
+              "right": 885.671875,
+              "bottom": 396.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 313.59375,
+              "right": 517.34375,
+              "bottom": 449.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 334.59375,
+              "right": 496.34375,
+              "bottom": 356.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 368.59375,
+              "right": 496.34375,
+              "bottom": 396.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 922.671875,
+              "y": 465.59375,
+              "right": 1296,
+              "bottom": 611.59375,
+              "width": 373.328125,
+              "height": 146
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 486.59375,
+              "right": 1275,
+              "bottom": 508.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 520.59375,
+              "right": 1275,
+              "bottom": 590.59375,
+              "width": 331.328125,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 533.34375,
+              "y": 465.59375,
+              "right": 906.671875,
+              "bottom": 601.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 486.59375,
+              "right": 885.671875,
+              "bottom": 508.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 520.59375,
+              "right": 885.671875,
+              "bottom": 564.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-ar-JO-1440.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 406.59375,
+              "right": 906.671875,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 427.59375,
+              "right": 885.671875,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 461.59375,
+              "right": 885.671875,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.34375,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.34375,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.34375,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 922.671875,
+              "y": 558.59375,
+              "right": 1296,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 579.59375,
+              "right": 1275,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 613.59375,
+              "right": 1275,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعة واحدة إلى ساعتان",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 406.59375,
+              "right": 906.671875,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 427.59375,
+              "right": 885.671875,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 461.59375,
+              "right": 885.671875,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.34375,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.34375,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.34375,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 922.671875,
+              "y": 558.59375,
+              "right": 1296,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 579.59375,
+              "right": 1275,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 613.59375,
+              "right": 1275,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 406.59375,
+              "right": 906.671875,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 427.59375,
+              "right": 885.671875,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 461.59375,
+              "right": 885.671875,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.34375,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.34375,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.34375,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 922.671875,
+              "y": 558.59375,
+              "right": 1296,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 579.59375,
+              "right": 1275,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 613.59375,
+              "right": 1275,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 406.59375,
+              "right": 1296,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 427.59375,
+              "right": 1275,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 461.59375,
+              "right": 1275,
+              "bottom": 515.59375,
+              "width": 331.328125,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 406.59375,
+              "right": 906.671875,
+              "bottom": 542.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 427.59375,
+              "right": 885.671875,
+              "bottom": 449.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 461.59375,
+              "right": 885.671875,
+              "bottom": 489.59375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 406.59375,
+              "right": 517.34375,
+              "bottom": 542.59375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 427.59375,
+              "right": 496.34375,
+              "bottom": 449.59375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 461.59375,
+              "right": 496.34375,
+              "bottom": 489.59375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 922.671875,
+              "y": 558.59375,
+              "right": 1296,
+              "bottom": 694.59375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 579.59375,
+              "right": 1275,
+              "bottom": 601.59375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 613.59375,
+              "right": 1275,
+              "bottom": 657.59375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1440,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 3,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 922.671875,
+              "y": 278.984375,
+              "right": 1296,
+              "bottom": 414.984375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 299.984375,
+              "right": 1275,
+              "bottom": 321.984375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 333.984375,
+              "right": 1275,
+              "bottom": 361.984375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 533.34375,
+              "y": 278.984375,
+              "right": 906.671875,
+              "bottom": 414.984375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 299.984375,
+              "right": 885.671875,
+              "bottom": 321.984375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 333.984375,
+              "right": 885.671875,
+              "bottom": 361.984375,
+              "width": 331.328125,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 144,
+              "y": 278.984375,
+              "right": 517.34375,
+              "bottom": 414.984375,
+              "width": 373.34375,
+              "height": 136
+            },
+            "title": {
+              "x": 165,
+              "y": 299.984375,
+              "right": 496.34375,
+              "bottom": 321.984375,
+              "width": 331.34375,
+              "height": 22
+            },
+            "value": {
+              "x": 165,
+              "y": 333.984375,
+              "right": 496.34375,
+              "bottom": 361.984375,
+              "width": 331.34375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 922.671875,
+              "y": 430.984375,
+              "right": 1296,
+              "bottom": 576.984375,
+              "width": 373.328125,
+              "height": 146
+            },
+            "title": {
+              "x": 943.671875,
+              "y": 451.984375,
+              "right": 1275,
+              "bottom": 473.984375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 943.671875,
+              "y": 485.984375,
+              "right": 1275,
+              "bottom": 555.984375,
+              "width": 331.328125,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 533.34375,
+              "y": 430.984375,
+              "right": 906.671875,
+              "bottom": 566.984375,
+              "width": 373.328125,
+              "height": 136
+            },
+            "title": {
+              "x": 554.34375,
+              "y": 451.984375,
+              "right": 885.671875,
+              "bottom": 473.984375,
+              "width": 331.328125,
+              "height": 22
+            },
+            "value": {
+              "x": 554.34375,
+              "y": 485.984375,
+              "right": 885.671875,
+              "bottom": 529.984375,
+              "width": 331.328125,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-wadi-mujib-ar-JO-1440.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 161.59375,
+              "right": 803.609375,
+              "bottom": 297.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 182.59375,
+              "right": 782.609375,
+              "bottom": 204.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 216.59375,
+              "right": 782.609375,
+              "bottom": 270.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى أربع ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 161.59375,
+              "right": 402,
+              "bottom": 297.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 182.59375,
+              "right": 381,
+              "bottom": 204.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 216.59375,
+              "right": 381,
+              "bottom": 244.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 313.59375,
+              "right": 803.609375,
+              "bottom": 449.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 334.59375,
+              "right": 782.609375,
+              "bottom": 356.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 368.59375,
+              "right": 782.609375,
+              "bottom": 396.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16.390625,
+              "y": 313.59375,
+              "right": 402,
+              "bottom": 459.59375,
+              "width": 385.609375,
+              "height": 146
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 334.59375,
+              "right": 381,
+              "bottom": 356.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 368.59375,
+              "right": 381,
+              "bottom": 438.59375,
+              "width": 343.609375,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 475.59375,
+              "right": 803.609375,
+              "bottom": 611.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 496.59375,
+              "right": 782.609375,
+              "bottom": 518.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 530.59375,
+              "right": 782.609375,
+              "bottom": 574.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-ar-JO-820.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 406.59375,
+              "right": 803.609375,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 427.59375,
+              "right": 782.609375,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 461.59375,
+              "right": 782.609375,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 406.59375,
+              "right": 402,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 427.59375,
+              "right": 381,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 461.59375,
+              "right": 381,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 558.59375,
+              "right": 803.609375,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 579.59375,
+              "right": 782.609375,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 613.59375,
+              "right": 782.609375,
+              "bottom": 641.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 558.59375,
+              "right": 402,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 579.59375,
+              "right": 381,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 613.59375,
+              "right": 381,
+              "bottom": 657.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 406.59375,
+              "right": 803.609375,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 427.59375,
+              "right": 782.609375,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 461.59375,
+              "right": 782.609375,
+              "bottom": 515.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعة واحدة إلى ساعتان",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 406.59375,
+              "right": 402,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 427.59375,
+              "right": 381,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 461.59375,
+              "right": 381,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 558.59375,
+              "right": 803.609375,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 579.59375,
+              "right": 782.609375,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 613.59375,
+              "right": 782.609375,
+              "bottom": 641.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 558.59375,
+              "right": 402,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 579.59375,
+              "right": 381,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 613.59375,
+              "right": 381,
+              "bottom": 657.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 406.59375,
+              "right": 803.609375,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 427.59375,
+              "right": 782.609375,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 461.59375,
+              "right": 782.609375,
+              "bottom": 515.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 406.59375,
+              "right": 402,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 427.59375,
+              "right": 381,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 461.59375,
+              "right": 381,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 558.59375,
+              "right": 803.609375,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 579.59375,
+              "right": 782.609375,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 613.59375,
+              "right": 782.609375,
+              "bottom": 641.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 558.59375,
+              "right": 402,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 579.59375,
+              "right": 381,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 613.59375,
+              "right": 381,
+              "bottom": 657.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 406.59375,
+              "right": 803.609375,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 427.59375,
+              "right": 782.609375,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 461.59375,
+              "right": 782.609375,
+              "bottom": 515.59375,
+              "width": 343.609375,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 406.59375,
+              "right": 402,
+              "bottom": 542.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 427.59375,
+              "right": 381,
+              "bottom": 449.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 461.59375,
+              "right": 381,
+              "bottom": 489.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 558.59375,
+              "right": 803.609375,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 579.59375,
+              "right": 782.609375,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 613.59375,
+              "right": 782.609375,
+              "bottom": 641.59375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16.390625,
+              "y": 558.59375,
+              "right": 402,
+              "bottom": 694.59375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 579.59375,
+              "right": 381,
+              "bottom": 601.59375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 613.59375,
+              "right": 381,
+              "bottom": 657.59375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 820,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 418,
+              "y": 126.984375,
+              "right": 803.609375,
+              "bottom": 262.984375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 147.984375,
+              "right": 782.609375,
+              "bottom": 169.984375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 181.984375,
+              "right": 782.609375,
+              "bottom": 209.984375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16.390625,
+              "y": 126.984375,
+              "right": 402,
+              "bottom": 262.984375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 147.984375,
+              "right": 381,
+              "bottom": 169.984375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 181.984375,
+              "right": 381,
+              "bottom": 209.984375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 418,
+              "y": 278.984375,
+              "right": 803.609375,
+              "bottom": 414.984375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 299.984375,
+              "right": 782.609375,
+              "bottom": 321.984375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 333.984375,
+              "right": 782.609375,
+              "bottom": 361.984375,
+              "width": 343.609375,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16.390625,
+              "y": 278.984375,
+              "right": 402,
+              "bottom": 424.984375,
+              "width": 385.609375,
+              "height": 146
+            },
+            "title": {
+              "x": 37.390625,
+              "y": 299.984375,
+              "right": 381,
+              "bottom": 321.984375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 37.390625,
+              "y": 333.984375,
+              "right": 381,
+              "bottom": 403.984375,
+              "width": 343.609375,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 418,
+              "y": 440.984375,
+              "right": 803.609375,
+              "bottom": 576.984375,
+              "width": 385.609375,
+              "height": 136
+            },
+            "title": {
+              "x": 439,
+              "y": 461.984375,
+              "right": 782.609375,
+              "bottom": 483.984375,
+              "width": 343.609375,
+              "height": 22
+            },
+            "value": {
+              "x": 439,
+              "y": 495.984375,
+              "right": 782.609375,
+              "bottom": 539.984375,
+              "width": 343.609375,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "ajloun-forest",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى أربع ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 647.59375,
+              "width": 358,
+              "height": 142
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 628.59375,
+              "width": 320,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 663.59375,
+              "right": 374,
+              "bottom": 799.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 682.59375,
+              "right": 355,
+              "bottom": 704.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 716.59375,
+              "right": 355,
+              "bottom": 760.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "screenshot": "artifacts/visitor-information/after-ajloun-forest-ar-JO-390.png",
+      "accessibility": [],
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "dana-reserve",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 130.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "iraq-al-amir",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعة واحدة إلى ساعتان",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "salt-historic",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "umm-qais",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.59375,
+              "right": 374,
+              "bottom": 185.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.59375,
+              "right": 355,
+              "bottom": 90.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.59375,
+              "right": 355,
+              "bottom": 156.59375,
+              "width": 320,
+              "height": 54
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "ساعتان إلى ثلاث ساعات",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.59375,
+              "right": 374,
+              "bottom": 337.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.59375,
+              "right": 355,
+              "bottom": 242.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.59375,
+              "right": 355,
+              "bottom": 282.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.59375,
+              "right": 374,
+              "bottom": 489.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.59375,
+              "right": 355,
+              "bottom": 394.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.59375,
+              "right": 355,
+              "bottom": 434.59375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 505.59375,
+              "right": 374,
+              "bottom": 641.59375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 524.59375,
+              "right": 355,
+              "bottom": 546.59375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.59375,
+              "right": 355,
+              "bottom": 602.59375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "slug": "wadi-mujib",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "cards": [
+          {
+            "id": "duration",
+            "card": {
+              "x": 16,
+              "y": 49.984375,
+              "right": 374,
+              "bottom": 185.984375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 68.984375,
+              "right": 355,
+              "bottom": 90.984375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 102.984375,
+              "right": 355,
+              "bottom": 130.984375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "مدة الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "admission",
+            "card": {
+              "x": 16,
+              "y": 201.984375,
+              "right": 374,
+              "bottom": 337.984375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 220.984375,
+              "right": 355,
+              "bottom": 242.984375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 254.984375,
+              "right": 355,
+              "bottom": 282.984375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "رسوم الدخول",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "hours",
+            "card": {
+              "x": 16,
+              "y": 353.984375,
+              "right": 374,
+              "bottom": 489.984375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 372.984375,
+              "right": 355,
+              "bottom": 394.984375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 406.984375,
+              "right": 355,
+              "bottom": 434.984375,
+              "width": 320,
+              "height": 28
+            },
+            "overflow": false,
+            "heading": "ساعات الزيارة",
+            "text": "غير متاح",
+            "icon": true
+          },
+          {
+            "id": "season",
+            "card": {
+              "x": 16,
+              "y": 505.984375,
+              "right": 374,
+              "bottom": 647.984375,
+              "width": 358,
+              "height": 142
+            },
+            "title": {
+              "x": 35,
+              "y": 524.984375,
+              "right": 355,
+              "bottom": 546.984375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 558.984375,
+              "right": 355,
+              "bottom": 628.984375,
+              "width": 320,
+              "height": 70
+            },
+            "overflow": false,
+            "heading": "أفضل وقت للزيارة",
+            "text": "راجع الإرشادات الموسمية — اقرأ إرشادات الزيارة: أفضل وقت للزيارة",
+            "icon": true
+          },
+          {
+            "id": "transport",
+            "card": {
+              "x": 16,
+              "y": 663.984375,
+              "right": 374,
+              "bottom": 799.984375,
+              "width": 358,
+              "height": 136
+            },
+            "title": {
+              "x": 35,
+              "y": 682.984375,
+              "right": 355,
+              "bottom": 704.984375,
+              "width": 320,
+              "height": 22
+            },
+            "value": {
+              "x": 35,
+              "y": 716.984375,
+              "right": 355,
+              "bottom": 760.984375,
+              "width": 320,
+              "height": 44
+            },
+            "overflow": false,
+            "heading": "المواصلات",
+            "text": "خطط للوصول إلى الوجهة — اقرأ إرشادات الزيارة: المواصلات",
+            "icon": true
+          }
+        ]
+      },
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "kind": "keyboard, source disclosure, gallery, save, map and long-text stress",
+      "status": "passed"
+    },
+    {
+      "language": "en",
+      "kind": "development mobile",
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "kind": "development mobile",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

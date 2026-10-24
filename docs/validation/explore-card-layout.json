@@ -1,0 +1,8 @@
+{
+  "scope": "Genuine anonymous hosted reads and real Chromium/MapLibre. No API interception, stored writes, uploads or publication calls. Long-copy stress and split widths are DOM-only test changes.",
+  "modes": {
+    "development": "supabase"
+  },
+  "results": [],
+  "errors": []
+}

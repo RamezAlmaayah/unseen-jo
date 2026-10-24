@@ -1,0 +1,205 @@
+Bilingual review|المراجعة الثنائية اللغة
+Bilingual content review|مراجعة المحتوى بالعربية والإنجليزية
+Open bilingual content review|فتح مراجعة المحتوى باللغتين
+LANGUAGE & EDITORIAL CARE|العناية باللغة والمحتوى
+Compare the saved English source with Arabic, one destination at a time.|قارن المصدر الإنجليزي المحفوظ بالترجمة العربية لكل وجهة على حدة.
+destinations|وجهات
+Review workflow|خطوات المراجعة
+Compare English and Arabic, including source cautions.|قارن الإنجليزية والعربية، بما في ذلك التحفظات الواردة في المصادر.
+Edit Arabic and save independently.|عدّل العربية واحفظها بصورة مستقلة.
+Record Needs Changes with a note, or approve after your review.|سجّل «تحتاج إلى تعديلات» مع ملاحظة، أو اعتمد الترجمة بعد مراجعتك.
+Translation approval, destination publication and image rights are separate decisions.|اعتماد الترجمة ونشر الوجهة وإجازة حقوق الصور قرارات مستقلة.
+No destinations to review.|لا توجد وجهات للمراجعة.
+Destination review queue|قائمة الوجهات للمراجعة
+Find a destination|ابحث عن وجهة
+All translations|جميع الترجمات
+Pending Review|بانتظار المراجعة
+Approved|معتمدة
+Needs Changes|تحتاج إلى تعديلات
+needs_changes|تحتاج إلى تعديلات
+Arabic missing|الترجمة العربية غير متوفرة
+No matching destinations. Change the search or status filter.|لا توجد وجهات مطابقة. غيّر البحث أو مرشح الحالة.
+Selected destination review|مراجعة الوجهة المحددة
+Destination status|حالة الوجهة
+English source changed|تغيّر المصدر الإنجليزي
+Translation review prompts|نقاط تستدعي مراجعة الترجمة
+These prompts identify possible gaps or ambiguity. They do not establish a translation error or verify tourism facts.|تشير هذه النقاط إلى نقص أو غموض محتمل؛ ولا تثبت خطأ في الترجمة أو صحة المعلومات السياحية.
+No automatic flags. A human comparison is still required.|لا توجد ملاحظات آلية. لا تزال المقارنة البشرية مطلوبة.
+Saved source · read only|مصدر محفوظ · للقراءة فقط
+Editable translation|ترجمة قابلة للتحرير
+Prepared source notes · 19 October 2026|ملاحظات مصدرية معدّة بتاريخ ١٩ أكتوبر ٢٠٢٦
+Destination name|اسم الوجهة
+Location description|وصف الموقع
+Visitor information and source cautions|معلومات الزائر والتحفظات المصدرية
+Check this field|راجع هذا الحقل
+Unsaved Arabic changes|تعديلات عربية غير محفوظة
+Arabic text matches the saved version|النص العربي يطابق النسخة المحفوظة
+Saving Arabic resets translation approval to Pending Review.|حفظ العربية يعيد حالة اعتماد الترجمة إلى «بانتظار المراجعة».
+Save Arabic independently|حفظ العربية بصورة مستقلة
+Location and visitor facts|بيانات الموقع والزيارة
+Not recorded|غير مسجل
+Price range (JOD)|نطاق السعر (دينار أردني)
+Visit duration (minutes)|مدة الزيارة (دقائق)
+Blank values mean unknown, not free admission or unrestricted access.|القيم الفارغة تعني أن المعلومة غير معروفة، ولا تعني دخولًا مجانيًا أو غير مقيد.
+Sources and outstanding verification|المصادر والتحققات المتبقية
+Source notes are dated evidence, not a live operating schedule.|الملاحظات المصدرية أدلة مؤرخة، وليست جدول تشغيل محدثًا لحظيًا.
+Tourism claims still require source verification.|لا تزال المعلومات السياحية بحاجة إلى تحقق من المصادر.
+Location accuracy and arrival suitability require review.|دقة الموقع وملاءمة نقطة الوصول بحاجة إلى مراجعة.
+Existing images still require separate rights approval.|لا تزال الصور الموجودة بحاجة إلى إجازة مستقلة لحقوق الاستخدام.
+Translation review does not clear these warnings.|مراجعة الترجمة لا تزيل هذه التحذيرات.
+Record your translation decision|تسجيل قرار مراجعة الترجمة
+Review only the saved Arabic text. Approval requires a current English source, a name and a complete description.|راجع النص العربي المحفوظ فقط. يتطلب الاعتماد مصدرًا إنجليزيًا لم يتغير منذ الترجمة واسمًا ووصفًا كاملًا.
+Reviewer note · required for Needs Changes|ملاحظة المراجع · مطلوبة عند اختيار «تحتاج إلى تعديلات»
+Approved at|وقت الاعتماد
+Feedback recorded at|وقت تسجيل الملاحظات
+Mark Needs Changes|تحديد «تحتاج إلى تعديلات»
+Return to Pending Review|إعادة إلى «بانتظار المراجعة»
+Approve saved translation|اعتماد الترجمة المحفوظة
+No destination publication or image approval is performed here.|لا يُنشر أي محتوى سياحي ولا تُجاز أي صور من هذه الصفحة.
+Approval clears the resolved reviewer note. The status change is recorded in the private audit log.|يمسح الاعتماد ملاحظة المراجع بعد حلها. ويُسجل تغيير الحالة في سجل التدقيق الخاص بالإدارة.
+Arabic|العربية
+Open full destination editor|فتح محرر الوجهة الكامل
+Discard unsaved Arabic edits and review notes?|هل تريد تجاهل تعديلات العربية وملاحظات المراجعة غير المحفوظة؟
+Saving Arabic text does not save reviewer notes. Continue and discard the unsaved note?|حفظ النص العربي لا يحفظ ملاحظات المراجع. هل تريد المتابعة وتجاهل الملاحظة غير المحفوظة؟
+Arabic saved. English, publication and image approvals are unchanged.|حُفظت العربية. لم تتغير الإنجليزية أو حالة النشر أو إجازات الصور.
+Save Arabic text before recording a review.|احفظ النص العربي قبل تسجيل المراجعة.
+Approve this saved Arabic translation only? Confirm that you compared every field and source caution. This does not publish the destination or approve images.|هل تريد اعتماد هذه الترجمة العربية المحفوظة فقط؟ أكد أنك قارنت كل حقل والتحفظات المصدرية. هذا الإجراء لا ينشر الوجهة ولا يجيز الصور.
+Record the changed note with Needs Changes, or restore it before changing status.|سجّل الملاحظة المعدلة مع «تحتاج إلى تعديلات»، أو أعد الملاحظة المحفوظة قبل تغيير الحالة.
+Translation feedback saved. No approval or publication was performed.|حُفظت ملاحظات الترجمة. لم يحدث اعتماد أو نشر.
+Translation returned to Pending Review.|أُعيدت الترجمة إلى «بانتظار المراجعة».
+Translation approved. Destination publication and image rights are unchanged.|اعتُمدت الترجمة. لم تتغير حالة نشر الوجهة أو حقوق الصور.
+Invalid translation review status.|حالة مراجعة الترجمة غير صالحة.
+Review notes must contain at most 4000 characters.|يجب ألا تتجاوز ملاحظات المراجعة ٤٠٠٠ حرف.
+Describe the translation changes needed.|اذكر التعديلات المطلوبة في الترجمة.
+Arabic is missing for an available English source field.|الترجمة العربية غير متوفرة لحقل موجود في المصدر الإنجليزي.
+This field has no Arabic script. Check that it is translated.|لا يحتوي هذا الحقل على حروف عربية. تحقق من ترجمته.
+Numeric expressions differ. Check dates, fees, ages and durations; written-out numbers may explain the difference.|تختلف التعابير الرقمية. راجع التواريخ والرسوم والأعمار والمدد؛ قد يكون السبب كتابة الأعداد بالكلمات.
+The English source changed. Compare every Arabic field before submitting it again.|تغيّر المصدر الإنجليزي. قارن كل حقل عربي قبل إعادة إرساله.
+Check that the wider UNESCO biosphere designation is distinct from the forest reserve, and that activities and access are not guaranteed.|تحقق من التمييز بين نطاق اليونسكو الحيوي الأوسع ومحمية الغابة، ومن عدم تقديم الأنشطة والدخول بوصفهما مضمونين.
+Keep district access separate from individual museum tickets. The suggested visit duration is editorial advice.|ميّز بين دخول الحي وتذاكر المتاحف الفردية. مدة الزيارة المقترحة توصية تحريرية.
+Check trail names, resident eligibility, dated fees and the older minimum-age guidance. A listed season does not guarantee opening.|راجع أسماء المسارات وأهلية المقيم والرسوم المؤرخة وإرشادات الحد الأدنى للعمر الأقدم. الموسم المدرج لا يضمن الفتح.
+Keep entry fees, guided packages and transfer costs distinct. Dana village, Wadi Dana and Feynan are different itineraries.|ميّز بين رسوم الدخول والبرامج الإرشادية وتكاليف التنقل. قرية ضانا ووادي ضانا وفينان برامج زيارة مختلفة.
+Keep the wider area, Qasr El-Abd and the cooperative distinct. Ticket scope and accessibility remain uncertain.|ميّز بين المنطقة الأوسع وقصر العبد والتعاونية. لا يزال نطاق التذكرة وإمكانية الوصول غير مؤكدين.
+Preserve the uncertainty about opening hours, ticket eligibility and museum inclusion. The original test image remains unapproved.|حافظ على التحفظات بشأن أوقات الفتح وأهلية التذاكر وشمول المتحف. صورة الاختبار الأصلية لا تزال غير معتمدة.
+Image source citation URL|رابط مصدر الصورة للتوثيق
+Citation and rights evidence only. Changing this link does not replace the photograph.|للتوثيق وإثبات الحقوق فقط. تغيير هذا الرابط لا يستبدل الصورة.
+The cover photograph is delivered from the stored file, with responsive versions generated from that file.|تُعرض صورة الغلاف من الملف المخزّن، وتُنشأ النسخ المتجاوبة من الملف نفسه.
+Replace cover photograph|استبدال صورة الغلاف
+Choose an actual image file. The new cover stays unapproved; publication is a separate action.|اختر ملف صورة فعليًا. يبقى الغلاف الجديد دون اعتماد؛ والنشر إجراء منفصل.
+Upload this file as the new cover? The previous photo and its rights evidence stay in the gallery. The new cover requires its own description and rights approval. Unsaved metadata is not applied.|هل تريد رفع هذا الملف ليصبح الغلاف الجديد؟ تبقى الصورة السابقة وأدلة حقوقها في المعرض. يتطلب الغلاف الجديد وصفًا واعتمادًا مستقلًا للحقوق. لن تُطبّق البيانات غير المحفوظة.
+New cover uploaded privately. Review its description and rights before approval.|رُفع الغلاف الجديد بشكل خاص. راجع وصفه وحقوقه قبل الاعتماد.
+Return the destination to draft before replacing its cover.|أعد الوجهة إلى مسودة قبل استبدال غلافها.
+Choose the current cover image for this destination.|اختر صورة الغلاف الحالية لهذه الوجهة.
+Replacement upload retained at {{v0}}. Reload the destination before retrying; review unlinked uploads if needed. {{v1}}|احتُفظ بالملف البديل في {{v0}}. أعد تحميل الوجهة قبل المحاولة مجددًا، وراجع الملفات غير المرتبطة عند الحاجة. {{v1}}
+
+Quick Edit|تحرير سريع
+Edit both languages, photographs and visitor details in one place.|عدّل النصوص باللغتين والصور ومعلومات الزيارة في مكان واحد.
+Photographs|الصور
+Choose a file to change the actual photograph. New uploads stay private until their rights are approved.|اختر ملفًا لتغيير الصورة الفعلية. تبقى الصور الجديدة خاصة إلى أن تُعتمد حقوقها.
+Replace Cover Image|استبدال صورة الغلاف
+Add Gallery Images|إضافة صور إلى المعرض
+Upload New Image|رفع صورة جديدة
+Select Existing Verified Image|اختيار صورة موثّقة موجودة
+Save this new destination once before adding photographs.|احفظ الوجهة الجديدة أولًا، ثم أضف الصور.
+Use as cover|استخدام كغلاف
+Move image up|نقل الصورة إلى الأعلى
+Move image down|نقل الصورة إلى الأسفل
+Remove Image|إزالة الصورة
+Image attribution and rights|نَسب الصورة وحقوق استخدامها
+I verified this photograph and its documented reuse rights. Approve it when I save.|تحققت من هوية هذه الصورة وأدلة حقوق إعادة استخدامها. اعتمدها عند الحفظ.
+Technical information|المعلومات التقنية
+Leave unknown prices and unconfirmed hours blank.|اترك الأسعار غير المعروفة وساعات العمل غير المؤكدة فارغة.
+Advanced Details|تفاصيل متقدمة
+Full review tools|أدوات المراجعة الكاملة
+I checked the text, location and source evidence, and compared the Arabic and English. Save these as reviewed changes.|راجعت النص والموقع وأدلة المصادر، وقارنت المحتوى العربي بالإنجليزي. احفظ هذه التعديلات بوصفها مراجَعة.
+Verified changes update the existing website after all publication checks pass. Otherwise your changes remain a private draft.|تظهر التعديلات المراجَعة على الموقع بعد اجتياز جميع شروط النشر. وإلا فتبقى التعديلات مسودة خاصة.
+Saving keeps this destination private. This editor does not publish draft destinations.|تبقى الوجهة خاصة عند الحفظ. لا ينشر هذا المحرر الوجهات المسودة.
+Saving…|جارٍ الحفظ…
+Save Changes|حفظ التغييرات
+Discard older working draft|تجاهل مسودة العمل السابقة
+Your private working draft has been restored.|استُعيدت مسودة عملك الخاصة.
+The saved destination changed. Your older working draft is retained; reload or discard it before editing.|تغيّرت بيانات الوجهة المحفوظة. احتُفظ بمسودتك السابقة؛ أعد التحميل أو تجاهلها قبل التحرير.
+Unsaved changes|تغييرات غير محفوظة
+Private draft saved automatically. Website unchanged.|حُفظت المسودة الخاصة تلقائيًا. لم يتغير الموقع.
+Changes saved privately. Verify the changes below to update the website.|حُفظت التعديلات بشكل خاص. أكّد مراجعتها أدناه لتحديث الموقع.
+Changes saved. The website is updated.|حُفظت التعديلات وحُدّث الموقع.
+Changes saved. Publication status unchanged.|حُفظت التعديلات دون تغيير حالة النشر.
+Photographs uploaded privately. Add their rights evidence before approval.|رُفعت الصور بشكل خاص. أضف أدلة حقوق استخدامها قبل الاعتماد.
+Remove this photograph from the destination? Its original file is retained.|هل تريد إزالة هذه الصورة من الوجهة؟ سيُحتفظ بالملف الأصلي.
+Discard your older private working draft? Saved destination content will remain unchanged.|هل تريد تجاهل مسودة عملك الخاصة السابقة؟ لن يتغيّر محتوى الوجهة المحفوظ.
+This destination changed. Reload before saving; your edits are still on this page.|تغيّرت هذه الوجهة. أعد تحميلها قبل الحفظ؛ ما زالت تعديلاتك موجودة في هذه الصفحة.
+Another editor tab saved this working draft. Reload before saving.|حُفظت مسودة العمل من تبويب آخر. أعد التحميل قبل الحفظ.
+Existing destination links cannot be changed in Quick Edit|لا يمكن تغيير روابط الوجهات الحالية من المحرر السريع
+Save privately or verify your changes before updating the website|احفظ بشكل خاص أو أكّد مراجعة تعديلاتك قبل تحديث الموقع
+Add a location source and precision in Advanced Details before verifying changes|أضف مصدر الموقع ودرجة دقته في التفاصيل المتقدمة قبل تأكيد المراجعة
+The editing form is incomplete. Reload before saving|نموذج التحرير غير مكتمل. أعد التحميل قبل الحفظ
+The editing form is too large or invalid|نموذج التحرير كبير جدًا أو غير صالح
+An image does not belong to this destination. Reload the editor.|إحدى الصور لا تتبع هذه الوجهة. أعد تحميل المحرر.
+Upload the photograph for this destination before saving|ارفع الصورة لهذه الوجهة قبل الحفظ
+The signed-in account changed. Reopen the editor before saving.|تغيّر الحساب المسجّل. افتح المحرر مجددًا قبل الحفظ.
+Region|المنطقة
+Opening hours (confirmed only)|ساعات العمل (المؤكدة فقط)
+Activities|الأنشطة
+Visitor information|معلومات الزائر
+Destination name (English)|اسم الوجهة (الإنجليزية)
+Destination name (Arabic)|اسم الوجهة (العربية)
+Description (English)|الوصف (الإنجليزية)
+Description (Arabic)|الوصف (العربية)
+City (English)|المدينة (الإنجليزية)
+City (Arabic)|المدينة (العربية)
+Region (English)|المنطقة (الإنجليزية)
+Region (Arabic)|المنطقة (العربية)
+Address (English)|العنوان (الإنجليزية)
+Address (Arabic)|العنوان (العربية)
+Opening hours (confirmed only) (English)|ساعات العمل (المؤكدة فقط) (الإنجليزية)
+Opening hours (confirmed only) (Arabic)|ساعات العمل (المؤكدة فقط) (العربية)
+Activities (English)|الأنشطة (الإنجليزية)
+Activities (Arabic)|الأنشطة (العربية)
+Visitor information (English)|معلومات الزائر (الإنجليزية)
+Visitor information (Arabic)|معلومات الزائر (العربية)
+Best time to visit (English)|أفضل وقت للزيارة (الإنجليزية)
+Best time to visit (Arabic)|أفضل وقت للزيارة (العربية)
+Transportation notes (English)|ملاحظات المواصلات (الإنجليزية)
+Transportation notes (Arabic)|ملاحظات المواصلات (العربية)
+Are these project originals?|هل هذه الصور أصلية ومملوكة للمشروع؟
+Confirm only if these photographs were created or are owned by Unseen Jo and the project may publish them.|أكّد فقط إذا كانت هذه الصور من إنتاج Unseen Jo أو مملوكة له ويحق للمشروع نشرها.
+Photographs from Google or other websites are not proof of ownership. You can keep them private instead.|صور Google والمواقع الأخرى ليست دليلًا على الملكية. يمكنك الاحتفاظ بها في المعاينة الخاصة.
+Keep private|الاحتفاظ بها خاصة
+Confirm project originals|تأكيد ملكية الصور الأصلية للمشروع
+Confirm original ownership|تأكيد ملكية الصورة الأصلية
+Replace Image|استبدال الصورة
+Upload Image|رفع صورة
+Choose Existing Image|اختيار صورة موجودة
+Manage images|إدارة الصور
+Choose a destination to replace photographs or manage its gallery.|اختر وجهة لاستبدال صورها أو إدارة معرضها.
+Upload a photograph or choose one already verified for this destination.|ارفع صورة أو اختر صورة موثّقة مسبقًا لهذه الوجهة.
+Unverified photographs are available in private preview only.|الصور غير الموثّقة متاحة في المعاينة الخاصة فقط.
+Images uploaded. Save Changes when ready.|رُفعت الصور. اضغط حفظ التغييرات عندما تكون جاهزًا.
+Changes saved privately.|حُفظت التعديلات بشكل خاص.
+Save updates eligible photographs. Unverified photographs stay private.|يُحدّث الحفظ الصور المؤهلة. تبقى الصور غير الموثّقة خاصة.
+ready|جاهزة للحفظ
+private|معاينة خاصة
+This photograph is available in private preview only until its rights are established.|هذه الصورة متاحة في المعاينة الخاصة فقط حتى تثبت حقوق استخدامها.
+Reopen the editor with your administrator account|أعد فتح المحرر بحساب المسؤول
+Choose an image belonging to this destination|اختر صورة تابعة لهذه الوجهة
+Upload the photograph before saving|ارفع الصورة قبل الحفظ
+Plan Your Visit|خطط لزيارتك
+Visit Duration|مدة الزيارة
+Admission Fee|رسوم الدخول
+Opening Hours|ساعات الزيارة
+Best Time to Visit|أفضل وقت للزيارة
+Getting There|المواصلات
+Planning estimate|تقدير لتخطيط الزيارة
+See opening notes|راجع إرشادات ساعات الزيارة
+See seasonal guidance|راجع الإرشادات الموسمية
+Guidance; confirm current conditions|إرشادات عامة؛ تحقق من الظروف الحالية
+Plan your arrival|خطط للوصول إلى الوجهة
+Read visitor notes|اقرأ إرشادات الزيارة
+Important Information Before Visiting|معلومات مهمة قبل الزيارة
+Confirm current admission, opening and access conditions with the operator before travelling.|تحقق مع الجهة المشغلة من رسوم الدخول وساعات الزيارة وشروط الوصول الحالية قبل السفر.
+Additional source context|معلومات إضافية عن المصادر
+Load section|تحميل القسم
+Loading section|جارٍ تحميل القسم
+Content charts|مخططات المحتوى
+Quality & review center|مركز الجودة والمراجعة
+Workspace section could not load. Reload to retry.|تعذر تحميل قسم مساحة العمل. أعد تحميل الصفحة للمحاولة مجددًا.

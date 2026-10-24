@@ -1,0 +1,51 @@
+{
+  "requestedAt": "2026-10-21T19:17:51.512Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Amman+Amphitheater+18.JPG%7CJordan%2C+Madaba.+%28Mosaic+map+photo+at+Greek+Orthodox+Church+of+Saint+George%29+DSCN0901.jpg%7CThe+Madaba+Map%2C+part+of+a+floor+mosaic+in+the+early+Byzantine+church+of+Saint+George+depicting+the+Holy+Land+in+the+6th+century+AD%2C+Madaba%2C+Jordan+%2833798342833%29.jpg%7CMemorial+Church+of+Moses%2C+Mount+Nebo%2C+Jordan+%2826804136468%29.jpg%7CInside+the+Basilica%2C+the+Memorial+Church+of+Moses%2C+Mount+Nebo%2C+Jordan.jpg%7CBethany+%285%29.JPG%7CJordan+Baptism+site+BW+3.JPG%7CKerak+BW+1.JPG&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 0,
+          "title": "Amman Amphitheater 18.JPG",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Jordan, Madaba. (Mosaic map photo at Greek Orthodox Church of Saint George) DSCN0901.jpg",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan (33798342833).jpg",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Memorial Church of Moses, Mount Nebo, Jordan (26804136468).jpg",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.jpg",
+          "missing": ""
+        },
+        "-6": {
+          "ns": 0,
+          "title": "Bethany (5).JPG",
+          "missing": ""
+        },
+        "-7": {
+          "ns": 0,
+          "title": "Jordan Baptism site BW 3.JPG",
+          "missing": ""
+        },
+        "-8": {
+          "ns": 0,
+          "title": "Kerak BW 1.JPG",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

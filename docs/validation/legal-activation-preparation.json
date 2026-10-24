@@ -1,0 +1,120 @@
+{
+  "at": "2026-10-23T22:30:02.619Z",
+  "project_id": "dkhwwvoplhfjccvjegty",
+  "migration": "supabase/migrations/20261023213831_legal_pages_management.sql",
+  "sha256": "f23e8fb24ce0912933db5b0b8c1d6e494f5346b2812164574e888470db9257c3",
+  "hosted_schema": "dependencies present; legal objects absent",
+  "hosted_import": "NOT APPLIED",
+  "admins": 2,
+  "destinations": {
+    "count": 24,
+    "statuses": {
+      "published": 24
+    },
+    "id_slug_status_fingerprint": "d4b1f41baae1d7e285b97056ffdc6077"
+  },
+  "historyDrift": [
+    {
+      "hosted_version": "20261019130504",
+      "name": "phase04l_place_translations",
+      "local_file": "20261019125402_phase04l_place_translations.sql"
+    },
+    {
+      "hosted_version": "20261019160815",
+      "name": "phase04l_bilingual_review",
+      "local_file": "20261019160227_phase04l_bilingual_review.sql"
+    },
+    {
+      "hosted_version": "20261019161453",
+      "name": "phase04l_private_review_feedback",
+      "local_file": "20261019161125_phase04l_private_review_feedback.sql"
+    },
+    {
+      "hosted_version": "20261019174432",
+      "name": "phase04l_atomic_localized_publication",
+      "local_file": "20261019173712_phase04l_atomic_localized_publication.sql"
+    },
+    {
+      "hosted_version": "20261019193607",
+      "name": "phase04l_replace_cover_image",
+      "local_file": "20261019193157_phase04l_replace_cover_image.sql"
+    },
+    {
+      "hosted_version": "20261019203915",
+      "name": "phase04l_quick_edit",
+      "local_file": "20261019203241_phase04l_quick_edit.sql"
+    },
+    {
+      "hosted_version": "20261019204524",
+      "name": "phase04l_quick_edit_snapshot_safety",
+      "local_file": "20261019204256_phase04l_quick_edit_snapshot_safety.sql"
+    },
+    {
+      "hosted_version": "20261019212221",
+      "name": "phase04l_simple_image_management",
+      "local_file": "20261019211445_phase04l_simple_image_management.sql"
+    },
+    {
+      "hosted_version": "20261019212604",
+      "name": "phase04l_simple_image_locking",
+      "local_file": "20261019212319_phase04l_simple_image_locking.sql"
+    },
+    {
+      "hosted_version": "20261020164017",
+      "name": "phase06_user_accounts",
+      "local_file": "20261020162409_phase06_user_accounts.sql"
+    },
+    {
+      "hosted_version": "20261021123344",
+      "name": "phase07_personal_discoveries",
+      "local_file": "20261021122225_phase07_personal_discoveries.sql"
+    },
+    {
+      "hosted_version": "20261022162806",
+      "name": "private_mvp_prototype",
+      "local_file": "20261022160724_private_mvp_prototype.sql"
+    },
+    {
+      "hosted_version": "20261022174408",
+      "name": "simple_destination_status",
+      "local_file": "20261022173255_simple_destination_status.sql"
+    }
+  ],
+  "backup": "artifacts/legal-activation/20261024",
+  "backup_scope": "local legal sources + seeds + hosted metadata/migration definitions; full hosted restore point not verified",
+  "documents": [
+    {
+      "document_key": "privacy",
+      "version": 1,
+      "status": "unapproved draft",
+      "languages": [
+        "en",
+        "ar-JO"
+      ],
+      "sections": 12,
+      "review": {
+        "operator": false,
+        "contact": false,
+        "retention": false,
+        "legalReview": false
+      }
+    },
+    {
+      "document_key": "terms",
+      "version": 1,
+      "status": "unapproved draft",
+      "languages": [
+        "en",
+        "ar-JO"
+      ],
+      "sections": 14,
+      "review": {
+        "operator": false,
+        "contact": false,
+        "retention": false,
+        "legalReview": false
+      }
+    }
+  ],
+  "checks": "PASS: object names, hosted history/source alignment, Admin predicate/session dependencies, schema usage, execution grants, original file hashes, complete bilingual seed validation"
+}

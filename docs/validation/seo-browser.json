@@ -1,0 +1,119 @@
+{
+  "scope": "Production build Chromium and real React router/SDK with isolated API fixtures; no hosted writes",
+  "base": "http://127.0.0.1:4195",
+  "results": [
+    {
+      "route": "/",
+      "language": "en",
+      "title": "Unseen Jo | Discover Jordan Differently",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/explore",
+      "language": "en",
+      "title": "Explore Jordan | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/surprise-me",
+      "language": "en",
+      "title": "Surprise Me | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/places/ajloun-forest",
+      "language": "en",
+      "title": "Ajloun Forest Reserve | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/auth?mode=login",
+      "language": "en",
+      "title": "Sign in | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/admin/login",
+      "language": "en",
+      "title": "Administrator workspace | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/profile",
+      "language": "en",
+      "title": "Profile | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/my-discoveries",
+      "language": "en",
+      "title": "Your discoveries | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/",
+      "language": "ar-JO",
+      "title": "Unseen Jo | اكتشف الأردن بطريقة مختلفة",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/explore",
+      "language": "ar-JO",
+      "title": "استكشف الأردن | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/surprise-me",
+      "language": "ar-JO",
+      "title": "فاجئني | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/places/ajloun-forest",
+      "language": "ar-JO",
+      "title": "محمية غابات عجلون | Unseen Jo",
+      "noindex": false,
+      "status": "passed"
+    },
+    {
+      "route": "/auth?mode=login",
+      "language": "ar-JO",
+      "title": "تسجيل الدخول | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/admin/login",
+      "language": "ar-JO",
+      "title": "مساحة عمل المسؤول | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/profile",
+      "language": "ar-JO",
+      "title": "الملف الشخصي | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    },
+    {
+      "route": "/my-discoveries",
+      "language": "ar-JO",
+      "title": "اكتشافاتك | Unseen Jo",
+      "noindex": true,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

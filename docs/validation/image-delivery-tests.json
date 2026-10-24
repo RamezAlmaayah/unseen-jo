@@ -1,0 +1,30 @@
+{
+  "scope": "Local deterministic cache/concurrency/security, real SDK with fake transport, and actual derivative integrity tests; no hosted mutations",
+  "passed": 6,
+  "results": [
+    {
+      "name": "signed variants coalesce, keep URLs stable, expire before the token, and invalidate",
+      "status": "passed"
+    },
+    {
+      "name": "signing failures fail closed and retry without reusing denied signatures",
+      "status": "passed"
+    },
+    {
+      "name": "signing work is bounded to four concurrent requests",
+      "status": "passed"
+    },
+    {
+      "name": "private preview signatures are reused within a repository and isolated between account-scoped repositories",
+      "status": "passed"
+    },
+    {
+      "name": "display derivatives have integrity, preserve proportions and never upscale; originals retain approved hashes",
+      "status": "passed"
+    },
+    {
+      "name": "explicit cover file replacement uses immutable uploads, invalidates signatures and never fetches citation URLs",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "scope": "Genuine anonymous hosted reads and permission-denial checks only; zero stored writes or owner credentials",
+  "project": "https://dkhwwvoplhfjccvjegty.supabase.co",
+  "places": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "status": "published",
+      "is_demo": false,
+      "region": null,
+      "opening_hours": null,
+      "activities": null,
+      "visitor_information": null
+    }
+  ],
+  "denials": [
+    {
+      "name": "admin_quick_edit_state",
+      "code": "42501"
+    },
+    {
+      "name": "admin_save_quick_draft",
+      "code": "42501"
+    },
+    {
+      "name": "admin_apply_quick_edit",
+      "code": "42501"
+    },
+    {
+      "name": "admin_image_eligibility",
+      "code": "42501"
+    },
+    {
+      "name": "admin_confirm_original_images",
+      "code": "42501"
+    },
+    {
+      "name": "admin_save_simple_images",
+      "code": "42501"
+    }
+  ],
+  "privateDraftReadDenied": true
+}

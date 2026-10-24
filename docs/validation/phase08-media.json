@@ -1,0 +1,128 @@
+{
+  "scope": "Real local downloaded files and genuine Pillow decoding/hash checks; no hosted upload, approval or rendering claim",
+  "originals": 34,
+  "preparedPhotos": 30,
+  "derivatives": 120,
+  "results": [
+    {
+      "name": "petra-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "petra-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "wadi-rum-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "wadi-rum-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "jerash-archaeological-city-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "jerash-archaeological-city-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "amman-citadel-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "amman-roman-theatre-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "amman-roman-theatre-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "madaba-st-georges-church-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "mount-nebo-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "mount-nebo-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "al-maghtas-baptism-site-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "al-maghtas-baptism-site-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "karak-castle-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "karak-castle-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "shobak-castle-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "shobak-castle-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "quseir-amra-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "quseir-amra-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "um-er-rasas-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "um-er-rasas-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "azraq-wetland-reserve-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "azraq-wetland-reserve-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "shaumari-wildlife-reserve-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "shaumari-wildlife-reserve-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "pella-tabaqat-fahl-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "umm-al-jimal-3 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "little-petra-siq-al-barid-1 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    },
+    {
+      "name": "little-petra-siq-al-barid-2 original/upload/derivative hashes, dimensions, no upscaling, license and visual-check record",
+      "status": "passed"
+    }
+  ]
+}

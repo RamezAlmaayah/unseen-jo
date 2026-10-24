@@ -1,0 +1,901 @@
+{
+  "slug": "jerash-archaeological-city",
+  "query": "Jerash Oval Plaza",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Jerash+Oval+Plaza+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:15.573Z",
+  "rows": [
+    {
+      "title": "File:Jerash, Oval Plaza (6738144433).jpg",
+      "pageid": 24487858,
+      "revision": 1156052560,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Jerash, Oval Plaza\n| Source      = [https://www.flickr.com/photos/azwegers/6738144433/ Jerash, Oval Plaza]\n\n| Date        = 2010-06-01 09:12\n| Author      = [https://www.flickr.com/people/67769030@N07 Arian Zwegers]\n| Permission  = \n| other_versions=\n}}\n{{Location dec|32.272281|35.891397|source:Flickr}}\n\n== {{int:license-header}} ==\n{{cc-by-2.0}}\n{{flickrreview|File Upload Bot (Magnus Manske)|2013-02-06}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Photographs by Arian Zwegers]]\n[[Category:Taken with Canon EOS 450D]]",
+      "size": 6131345,
+      "width": 4272,
+      "height": 2848,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jerash%2C_Oval_Plaza_%286738144433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash,_Oval_Plaza_(6738144433).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24487858",
+      "sha1": "7d7e437cbe98cd70a27b5bc9bf9a856abcc4d752",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-02-06 10:47:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash, Oval Plaza (6738144433)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 450D|Oval Forum (Jerash)|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Arian Zwegers|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.272281",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.891397",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jerash, Oval Plaza",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-06-01 09:12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/azwegers/6738144433/\">Jerash, Oval Plaza</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/67769030@N07\">Arian Zwegers</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash Oval Plaza 001.JPG",
+      "pageid": 33439660,
+      "revision": 1187829306,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.}}\n|date=2014-05-18 09:16:38\n|source={{own}}\n|author=[[User:لا روسا|لا روسا]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Taken with Fujifilm FinePix T200]]",
+      "size": 1652451,
+      "width": 2048,
+      "height": 1536,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Jerash_Oval_Plaza_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_001.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33439660",
+      "sha1": "12e4f9fb40c17b522ea3d75475794c7f465b13a5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-06-17 08:30:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash Oval Plaza 001",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm FinePix T200|Oval Forum (Jerash)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-18 09:16:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D9%84%D8%A7_%D8%B1%D9%88%D8%B3%D8%A7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:لا روسا (page does not exist)\">لا روسا</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash Oval Plaza 003.JPG",
+      "pageid": 33439661,
+      "revision": 968776666,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.}}{{en|1=Oval Plaza and Roman cardo in Jerash, Jordan}}\n|date=2014-05-18 09:17:23\n|source={{own}}\n|author=[[User:لا روسا|لا روسا]]\n|permission=\n|other_versions=\n}}\n{{Assessments|arwiki=1|arwiki-nom=الساحة البيضاوية وشارع الأعمدة في جرش}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Featured pictures on ar wiki by ولاء]]",
+      "size": 2056382,
+      "width": 5364,
+      "height": 4022,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jerash_Oval_Plaza_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_003.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33439661",
+      "sha1": "0a4a17660202ffd7d50219b353fcde3543735dc7",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-03-11 05:33:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash Oval Plaza 003",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Self-published work|Files with Assessments template missing SDC Commons no value quality assessment|Featured pictures on Wikipedia, Arabic|Featured pictures on ar wiki by ولاء",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oval Plaza and Roman cardo in Jerash, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-18 09:17:23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D9%84%D8%A7_%D8%B1%D9%88%D8%B3%D8%A7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:لا روسا (page does not exist)\">لا روسا</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash Oval Plaza 002.JPG",
+      "pageid": 33439662,
+      "revision": 1187829324,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.}}\n|date=2014-05-18 09:21:17\n|source={{own}}\n|author=[[User:لا روسا|لا روسا]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Taken with Fujifilm FinePix T200]]",
+      "size": 1390066,
+      "width": 2048,
+      "height": 1536,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jerash_Oval_Plaza_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_002.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33439662",
+      "sha1": "db044f9e02c54504278e84f0a6687634412df28b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-06-17 08:30:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash Oval Plaza 002",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm FinePix T200|Oval Forum (Jerash)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-18 09:21:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D9%84%D8%A7_%D8%B1%D9%88%D8%B3%D8%A7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:لا روسا (page does not exist)\">لا روسا</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash Oval Plaza 004.JPG",
+      "pageid": 33439663,
+      "revision": 1187829315,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.}}\n|date=2014-05-18 09:16:18\n|source={{own}}\n|author=[[User:لا روسا|لا روسا]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Taken with Fujifilm FinePix T200]]",
+      "size": 1605804,
+      "width": 2048,
+      "height": 1536,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jerash_Oval_Plaza_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_004.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33439663",
+      "sha1": "d681aa78829a467f68737e4b038736f95bc081ac",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-06-17 08:30:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash Oval Plaza 004",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm FinePix T200|Oval Forum (Jerash)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "الساحة البيضاوية وشارع الأعمدة في جرش الرومانية، الأردن.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-18 09:16:18",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D9%84%D8%A7_%D8%B1%D9%88%D8%B3%D8%A7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:لا روسا (page does not exist)\">لا روسا</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash, Oval Plaza. Jordan0922.jpg",
+      "pageid": 33515580,
+      "revision": 1134342621,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Jerash, Oval Plaza. Jordan.}}\n|date=2014-06-21 17:37:25\n|source={{own}}\n|author=[[User:G41rn8|G41rn8]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Oval Forum (Jerash)]]",
+      "size": 3193468,
+      "width": 2592,
+      "height": 1944,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jerash%2C_Oval_Plaza._Jordan0922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash,_Oval_Plaza._Jordan0922.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33515580",
+      "sha1": "5b09464ac5a1414d474729b23ededd4b299826c3",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-06-21 21:45:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash, Oval Plaza. Jordan0922",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jerash, Oval Plaza. Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-06-21 17:37:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:G41rn8\" title=\"User:G41rn8\">G41rn8</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Colonnade Around the Oval Plaza at Jerash (5596019225).jpg",
+      "pageid": 52706987,
+      "revision": 899927762,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = AWIB-ISAW: Colonnade Around the Oval Plaza at Jerash\nView of the center and surrounding colonnade of the Oval plaza at Jerash. by Sarah Ferguson (2009)\ncopyright: 2009 Sara Ferguson (used with permission)\nphotographed place: Gerasa or Antiochia ad Chrysorhoam (Jerash) [http://pleiades.stoa.org/places/678158/ pleiades.stoa.org/places/678158/]\n\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: [http://www.nyu.edu/isaw/awib.htm www.nyu.edu/isaw/awib.htm].\n| Source      = [https://www.flickr.com/photos/isawnyu/5596019225/ Colonnade Around the Oval Plaza at Jerash]\n| Date        = 2009-10-01 00:00\n| Author      = [https://www.flickr.com/people/34561917@N04 Institute for the Study of the Ancient World] from New York, United States of America\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{User:FlickreviewR/reviewed-pass|isawnyu|https://flickr.com/photos/34561917@N04/5596019225|2016-11-01 18:51:07|cc-by-2.0|}}\n[[Category:Oval Forum (Jerash)]]\n[[Category:Files from Institute for the Study of the Ancient World NYU Flickr stream]]",
+      "size": 1375342,
+      "width": 1280,
+      "height": 960,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Colonnade_Around_the_Oval_Plaza_at_Jerash_%285596019225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Colonnade_Around_the_Oval_Plaza_at_Jerash_(5596019225).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52706987",
+      "sha1": "c6770fc8abfd8b3209e3aa4934b8e63f9e0ef11e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-11-01 18:32:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Colonnade Around the Oval Plaza at Jerash (5596019225)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Flickr images reviewed by FlickreviewR|Files from Institute for the Study of the Ancient World NYU Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>AWIB-ISAW: Colonnade Around the Oval Plaza at Jerash\nView of the center and surrounding colonnade of the Oval plaza at Jerash. by Sarah Ferguson (2009)\ncopyright: 2009 Sara Ferguson (used with permission)\nphotographed place: Gerasa or Antiochia ad Chrysorhoam (Jerash) <a rel=\"mw:ExtLink nofollow\" href=\"http://pleiades.stoa.org/places/678158/\" class=\"external text\">pleiades.stoa.org/places/678158/</a></p>\n\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: <a rel=\"mw:ExtLink nofollow\" href=\"http://www.nyu.edu/isaw/awib.htm\" class=\"external text\">www.nyu.edu/isaw/awib.htm</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-10-01 00:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/isawnyu/5596019225/\" class=\"external text\">Colonnade Around the Oval Plaza at Jerash</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/34561917@N04\" class=\"external text\">Institute for the Study of the Ancient World</a> from New York, United States of America",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Oval Plaza at Jerash (5596019375).jpg",
+      "pageid": 52707017,
+      "revision": 1194792058,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = AWIB-ISAW: Oval Plaza at Jerash\nView of the Oval Plaza and surrounding colonnade at Jerash, Jordan by Sarah Ferguson (2009)\ncopyright: 2009 Sara Ferguson (used with permission)\nphotographed place: Gerasa or Antiochia ad Chrysorhoam (Jerash) [http://pleiades.stoa.org/places/678158/ pleiades.stoa.org/places/678158/]\n\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: [http://www.nyu.edu/isaw/awib.htm www.nyu.edu/isaw/awib.htm].\n| Source      = [https://www.flickr.com/photos/isawnyu/5596019375/ Oval Plaza at Jerash]\n| Date        = 2009-10-01 00:00\n| Author      = [https://www.flickr.com/people/34561917@N04 Institute for the Study of the Ancient World] from New York, United States of America\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{User:FlickreviewR/reviewed-pass|isawnyu|https://flickr.com/photos/34561917@N04/5596019375|2016-11-01 18:50:46|cc-by-2.0|}}\n[[Category:Oval Forum (Jerash)]]\n[[Category:Files from Institute for the Study of the Ancient World NYU Flickr stream]]",
+      "size": 1259395,
+      "width": 1280,
+      "height": 960,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Oval_Plaza_at_Jerash_%285596019375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oval_Plaza_at_Jerash_(5596019375).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52707017",
+      "sha1": "161ab0675aa40fcb4a2810c282c8de9f01f72ff9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-11-01 18:33:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Oval Plaza at Jerash (5596019375)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Flickr images reviewed by FlickreviewR|Files from Institute for the Study of the Ancient World NYU Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>AWIB-ISAW: Oval Plaza at Jerash\nView of the Oval Plaza and surrounding colonnade at Jerash, Jordan by Sarah Ferguson (2009)\ncopyright: 2009 Sara Ferguson (used with permission)\nphotographed place: Gerasa or Antiochia ad Chrysorhoam (Jerash) <a rel=\"nofollow\" class=\"external text\" href=\"http://pleiades.stoa.org/places/678158/\">pleiades.stoa.org/places/678158/</a>\n</p>\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.nyu.edu/isaw/awib.htm\">www.nyu.edu/isaw/awib.htm</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-10-01 00:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/isawnyu/5596019375/\">Oval Plaza at Jerash</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34561917@N04\">Institute for the Study of the Ancient World</a> from New York, United States of America",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash Oval Plaza 020.jpg",
+      "pageid": 97123884,
+      "revision": 911079628,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Roman Forum (Oval Plaza) at Jerash, Jordan. The plaza and columns were probably built in the 2nd century AD, and paving came later around the 4th century AD.}}\n|date=2019-03-09 13:21:07\n|source={{own}}\n|author=[[User:Freedom's Falcon|Freedom's Falcon]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2020|jo}}\n\n[[Category:Unidentified cultural heritage monuments in Jordan]]\n[[Category:Oval Forum (Jerash)]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Jordan photographs taken on 2019-03-09]]",
+      "size": 2046363,
+      "width": 3840,
+      "height": 2160,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jerash_Oval_Plaza_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_020.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97123884",
+      "sha1": "04dd773d39dff5344f4b74985c392256c70e675b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-11-29 12:56:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash Oval Plaza 020",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Self-published work|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2019-03-09|Images from Wiki Loves Monuments 2020|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2020 in Jordan|Unidentified cultural heritage monuments in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Roman Forum (Oval Plaza) at Jerash, Jordan. The plaza and columns were probably built in the 2nd century AD, and paving came later around the 4th century AD.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-03-09 13:21:07",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Freedom%27s_Falcon\" title=\"User:Freedom's Falcon\">Freedom's Falcon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jerash the Oval Plaza in springtime.jpg",
+      "pageid": 154196003,
+      "revision": 950433142,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The unusual oval plaza in springtime}}\n|date=2019-03-17\n|source={{own}}\n|author=[[User:Kariman Mango|Kariman Mango]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2024|jo}}\n\n[[Category:Oval Forum (Jerash)]]\n[[Category:Uploaded via Campaign:wlm-jo]]",
+      "size": 122494,
+      "width": 960,
+      "height": 1280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Jerash_the_Oval_Plaza_in_springtime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jerash_the_Oval_Plaza_in_springtime.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154196003",
+      "sha1": "c7d1b699efa6c1e61c821db462e592091822bb5c",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-10-23 08:11:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jerash the Oval Plaza in springtime",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Oval Forum (Jerash)|Self-published work|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-jo|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The unusual oval plaza in springtime",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-03-17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kariman_Mango&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kariman Mango (page does not exist)\">Kariman Mango</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

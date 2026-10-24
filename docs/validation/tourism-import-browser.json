@@ -1,0 +1,16 @@
+{
+  "scope": "Actual researched content and local photographs rendered with fixture Auth and protected API reads; real MapLibre layers. No hosted writes or genuine signed-in session.",
+  "passed": 2,
+  "results": [
+    {
+      "name": "local research package renders all inspected photographs and source/licence links under admin guard",
+      "status": "passed"
+    },
+    {
+      "name": "local import evidence review page automated WCAG scan",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "unexpectedOperations": []
+}

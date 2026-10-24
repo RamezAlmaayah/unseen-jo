@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-18",
+  "passed": 17,
+  "checks": [
+    {
+      "name": "REAL provider: live empty Jordan map, geographic tiles and visible legal attribution",
+      "status": "passed"
+    },
+    {
+      "name": "REAL map controls: zoom, drag, reset and keyboard navigation",
+      "status": "passed"
+    },
+    {
+      "name": "REAL provider: mobile rendering and sourced local demo popup at street zoom",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED published rows: all seven custom categories, invalid coordinates excluded",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED card/marker synchronization, popup, keyboard escape and selection cleanup",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED manual city, radius, nearest sorting, NULL exclusion and location clearing",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED supported-property filter and clear share the same marker/card list",
+      "status": "passed"
+    },
+    {
+      "name": "EMULATED browser GPS granted: user action only, one-shot marker, no stored coordinates",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED pending GPS cancelled: late position cannot reactivate location",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED geolocation denied: clear error and manual fallback",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED geolocation unavailable: clear error and manual fallback",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED geolocation timeout: clear error and manual fallback",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED geolocation unsupported: clear error and manual fallback",
+      "status": "passed"
+    },
+    {
+      "name": "DEMO details: sourced map/popup/directions and missing-location safeguard",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED large catalog: clustering and expansion",
+      "status": "passed"
+    },
+    {
+      "name": "DEMO responsive/touch emulation: seven required viewports, route scale and popup bounds",
+      "status": "passed"
+    },
+    {
+      "name": "SIMULATED provider outage: map error/retry without losing list",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "realProviderResponses": [
+    {
+      "url": "https://tiles.openfreemap.org/planet",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/27.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/27.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/76/52.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/77/52.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/76/51.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/77/51.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/27.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/27.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/12/2454/1661.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/12/2454/1662.pbf",
+      "status": 200
+    },
+    {
+      "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/65024-65279.pbf",
+      "status": 200
+    }
+  ],
+  "responsive": [
+    {
+      "width": 1920,
+      "overflow": false,
+      "header": 60,
+      "h1": 28
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "header": 60,
+      "h1": 28
+    },
+    {
+      "width": 1366,
+      "overflow": false,
+      "header": 60,
+      "h1": 28
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "header": 60,
+      "h1": 28
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "header": 60,
+      "h1": 28
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "header": 104,
+      "h1": 26
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "header": 104,
+      "h1": 26
+    }
+  ],
+  "scope": "Three real-provider browser groups plus final fourteen fixture/demo/emulated groups. Final gesture-handler change exercised by touch-drag test. No physical GPS/device or private remote audit claim."
+}

@@ -1,0 +1,5 @@
+/* Existing parent dimensions/crops reserve layout; no wrapper changes grids. */
+.asset-image:not([src]) { background-color: var(--color-pale-mint, #edf4ee); }
+.asset-image--arrived { animation: image-arrival 160ms ease-out; }
+@keyframes image-arrival { from { opacity: 0.6; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .asset-image--arrived { animation: none; } }

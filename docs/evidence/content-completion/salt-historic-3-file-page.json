@@ -1,0 +1,193 @@
+{
+  "accessed": "2026-10-19",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AOld+as-salt+jordan+2024+%2811%29.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 157059556,
+    "ns": 6,
+    "title": "File:Old as-salt jordan 2024 (11).jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 397279,
+        "width": 1600,
+        "height": 1200,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Old_as-salt_jordan_2024_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(11).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157059556",
+        "sha1": "35e7262c777bae015a4e5dc43a76776efbf7e0a8",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-12-24 13:56:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Old as-salt jordan 2024 (11)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "As-Salt|Self-published work|Uploads by JDACA volunteers 2024",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "درج في احد احياء السلط القديمة",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-12-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:1995Maisjamal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:1995Maisjamal (page does not exist)\">1995Maisjamal</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1254038791,
+        "parentid": 1020790103,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=درج في احد احياء السلط القديمة}}\n|date=2024-12-23\n|source={{own}}\n|author=[[User:1995Maisjamal|1995Maisjamal]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-4.0}}\n\n[[Category:As-Salt]]\n[[Category:Uploads by JDACA volunteers 2024]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 397279,
+    "width": 1600,
+    "height": 1200,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Old_as-salt_jordan_2024_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(11).jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157059556",
+    "sha1": "35e7262c777bae015a4e5dc43a76776efbf7e0a8",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-12-24 13:56:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Old as-salt jordan 2024 (11)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "As-Salt|Self-published work|Uploads by JDACA volunteers 2024",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "درج في احد احياء السلط القديمة",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-12-23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:1995Maisjamal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:1995Maisjamal (page does not exist)\">1995Maisjamal</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

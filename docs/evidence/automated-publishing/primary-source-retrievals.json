@@ -1,0 +1,585 @@
+{
+  "retrievedBy": "Automated HTTP retrieval; not personal administrator review",
+  "records": [
+    {
+      "url": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "finalUrl": "https://international.visitjordan.com/wheretogo/ajloun/",
+      "retrievedAt": "2026-10-19T17:29:45.132Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 80329,
+      "sha256": "1455325cae953330f4e97d9f1fd8649627d7449e8996ad53c8fb61703248b899",
+      "title": "Ajloun, Jordan | Forests, Nature &amp; Islamic Castle",
+      "mapTargets": [
+        {
+          "latitude": 32.3253125,
+          "longitude": 35.7274375
+        },
+        {
+          "latitude": 32.3623125,
+          "longitude": 35.7228125
+        },
+        {
+          "latitude": 32.3064375,
+          "longitude": 35.7499375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        },
+        {
+          "latitude": 32.3835625,
+          "longitude": 35.7604375
+        }
+      ],
+      "coordinateMatches": [
+        "ajloun-forest"
+      ]
+    },
+    {
+      "url": "https://www.unesco.org/en/mab/ajloun?hub=66369",
+      "finalUrl": "https://www.unesco.org/en/mab/ajloun?hub=66369",
+      "retrievedAt": "2026-10-19T17:29:46.768Z",
+      "status": 200,
+      "type": "text/html",
+      "bytes": 244,
+      "sha256": "d172d3d77dcb52518cf74cdd8d1e94be9c307172b218b48fc9907f9c53bf234f",
+      "title": "Request Rejected",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+      "finalUrl": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+      "retrievedAt": "2026-10-19T17:29:47.744Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 95341,
+      "sha256": "4c8a83d776b17332715a46d98f9e0904979c2d11fab09fd24168ea68962b1655",
+      "title": "Entrance Fees - ministry of tourism and antiquities",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/689/",
+      "finalUrl": "https://whc.unesco.org/en/list/689/",
+      "retrievedAt": "2026-10-19T17:29:51.130Z",
+      "status": 403,
+      "type": "text/html; charset=UTF-8",
+      "bytes": 5601,
+      "sha256": "75eea670f0cb92adc306a8b981025b970df154fd43799f677033bccd6dab5b2a",
+      "title": "Just a moment...",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "finalUrl": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+      "retrievedAt": "2026-10-19T17:29:51.393Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 60127,
+      "sha256": "679f0e9b6da6bd032ae38fea620f0da1ae9dbfcc8e0c141ab8f45b8b08bef1a8",
+      "title": "Wadi Mujib Jordan – Siq, Canyon &amp; Malaqi Trail Adventures",
+      "mapTargets": [
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        },
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        },
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        },
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        },
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        },
+        {
+          "latitude": 31.4670625,
+          "longitude": 35.5731875
+        }
+      ],
+      "coordinateMatches": [
+        "wadi-mujib"
+      ]
+    },
+    {
+      "url": "https://www.rscn.org.jo/uploaded_files/reservation/Mujib%20Biosphere%20Reserve%20Trails%202026.pdf",
+      "finalUrl": "https://www.rscn.org.jo/uploaded_files/reservation/Mujib%20Biosphere%20Reserve%20Trails%202026.pdf",
+      "retrievedAt": "2026-10-19T17:29:52.209Z",
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": 2768322,
+      "sha256": "e4fb717c02f837754645d0cefdc845629dc9307d016dda2e471d3d1d5411f78b",
+      "title": null,
+      "mapTargets": [],
+      "coordinateMatches": [],
+      "savedAs": "mujib-2026.pdf"
+    },
+    {
+      "url": "https://rscn.org.jo/uploaded_files/reservation/Mujib%202025-1.pdf",
+      "finalUrl": "https://rscn.org.jo/uploaded_files/reservation/Mujib%202025-1.pdf",
+      "retrievedAt": "2026-10-19T17:29:53.164Z",
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": 1270460,
+      "sha256": "19ed29967d4dc039012b557d23fdb3c92ff10b47c52bdd777286365287e934d1",
+      "title": null,
+      "mapTargets": [],
+      "coordinateMatches": [],
+      "savedAs": "mujib-2025.pdf"
+    },
+    {
+      "url": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "finalUrl": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+      "retrievedAt": "2026-10-19T17:29:53.930Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 108365,
+      "sha256": "b08ada679138b1ec3e76ace894bf65fab43d01d3257e716a00e2c40faae88866",
+      "title": "Dana &amp; Feynan Jordan 2026 – Hiking, Wildlife &amp; Eco Travel",
+      "mapTargets": [
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        },
+        {
+          "latitude": 30.6743125,
+          "longitude": 35.6083125
+        }
+      ],
+      "coordinateMatches": [
+        "dana-reserve"
+      ]
+    },
+    {
+      "url": "https://www.rscn.org.jo/reserve/1",
+      "finalUrl": "https://www.rscn.org.jo/reserve/1",
+      "retrievedAt": "2026-10-19T17:29:54.112Z",
+      "status": 200,
+      "type": "text/html; charset=UTF-8",
+      "bytes": 97652,
+      "sha256": "d23f68812c8579b2c0ada51fe70e7c7c7f6101428eb399903638ec4d013c3c32",
+      "title": "المحميات | RSCN",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://whc.unesco.org/en/tentativelists/5155/",
+      "finalUrl": "https://whc.unesco.org/en/tentativelists/5155/",
+      "retrievedAt": "2026-10-19T17:29:54.446Z",
+      "status": 403,
+      "type": "text/html; charset=UTF-8",
+      "bytes": 5655,
+      "sha256": "c8533a408dc8ebb7d147fadd1e317cdbf885107528822cdbb3fe9d9a5dd2802e",
+      "title": "Just a moment...",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://www.rscn.org.jo/uploaded_files/reservation/Dana%20Biosphere%20Reserve%20Trails%202026.pdf",
+      "finalUrl": "https://www.rscn.org.jo/uploaded_files/reservation/Dana%20Biosphere%20Reserve%20Trails%202026.pdf",
+      "retrievedAt": "2026-10-19T17:29:54.643Z",
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": 3736350,
+      "sha256": "fe9f8b53611ceaaedac2f6f82d951af7c39bb2f16d9202473e049a4d5fb95c0a",
+      "title": null,
+      "mapTargets": [],
+      "coordinateMatches": [],
+      "savedAs": "dana-2026.pdf"
+    },
+    {
+      "url": "https://international.visitjordan.com/wheretogo/amman/",
+      "finalUrl": "https://international.visitjordan.com/wheretogo/amman/",
+      "retrievedAt": "2026-10-19T17:29:55.408Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 134239,
+      "sha256": "348ad5493196d94cc36d56943fe52d89de7863400cbead00efe382af96fa4167",
+      "title": "Amman Jordan 2026 – Citadel, Rainbow Street &amp; Local Culture",
+      "mapTargets": [
+        {
+          "latitude": 31.9543125,
+          "longitude": 35.9354375
+        },
+        {
+          "latitude": 31.9458125,
+          "longitude": 35.9271875
+        },
+        {
+          "latitude": 31.9496875,
+          "longitude": 35.9303125
+        },
+        {
+          "latitude": 31.9541875,
+          "longitude": 35.9301875
+        },
+        {
+          "latitude": 31.9690625,
+          "longitude": 35.9690625
+        },
+        {
+          "latitude": 31.9504375,
+          "longitude": 35.9360625
+        },
+        {
+          "latitude": 31.9514375,
+          "longitude": 35.9299375
+        },
+        {
+          "latitude": 31.9533125,
+          "longitude": 35.9283125
+        },
+        {
+          "latitude": 31.9856875,
+          "longitude": 35.8229375
+        },
+        {
+          "latitude": 31.9488125,
+          "longitude": 35.9313125
+        },
+        {
+          "latitude": 31.9496875,
+          "longitude": 35.9346875
+        },
+        {
+          "latitude": 31.9611875,
+          "longitude": 35.9129375
+        },
+        {
+          "latitude": 31.9565625,
+          "longitude": 35.9266875
+        },
+        {
+          "latitude": 31.9529375,
+          "longitude": 35.9149375
+        },
+        {
+          "latitude": 31.9579375,
+          "longitude": 35.9153125
+        },
+        {
+          "latitude": 31.9504375,
+          "longitude": 35.9238125
+        },
+        {
+          "latitude": 31.9493125,
+          "longitude": 35.9301875
+        },
+        {
+          "latitude": 31.9526875,
+          "longitude": 35.9318125
+        },
+        {
+          "latitude": 31.9523125,
+          "longitude": 35.9319375
+        },
+        {
+          "latitude": 31.9519375,
+          "longitude": 35.9333125
+        },
+        {
+          "latitude": 31.9519375,
+          "longitude": 35.9333125
+        },
+        {
+          "latitude": 31.9499375,
+          "longitude": 35.9348125
+        },
+        {
+          "latitude": 31.9443125,
+          "longitude": 35.9211875
+        },
+        {
+          "latitude": 31.9508125,
+          "longitude": 35.9211875
+        },
+        {
+          "latitude": 31.9828125,
+          "longitude": 35.8263125
+        },
+        {
+          "latitude": 31.9846875,
+          "longitude": 35.8254375
+        },
+        {
+          "latitude": 31.9541875,
+          "longitude": 35.9343125
+        },
+        {
+          "latitude": 31.9516875,
+          "longitude": 35.9389375
+        },
+        {
+          "latitude": 31.9516875,
+          "longitude": 35.9393125
+        },
+        {
+          "latitude": 31.9195625,
+          "longitude": 35.7533125
+        },
+        {
+          "latitude": 31.8824375,
+          "longitude": 35.8434375
+        },
+        {
+          "latitude": 31.9189137,
+          "longitude": 35.7553488
+        },
+        {
+          "latitude": 31.9574471,
+          "longitude": 35.9242412
+        },
+        {
+          "latitude": 31.9528089,
+          "longitude": 35.9317916
+        },
+        {
+          "latitude": 32.0273331,
+          "longitude": 35.8623241
+        }
+      ],
+      "coordinateMatches": [
+        "iraq-al-amir"
+      ]
+    },
+    {
+      "url": "https://international.visitjordan.com/wheretogo/umm-qais/",
+      "finalUrl": "https://international.visitjordan.com/wheretogo/umm-qais/",
+      "retrievedAt": "2026-10-19T17:29:55.643Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 59376,
+      "sha256": "4db4e31b33a9a8537fd53a138aeb4cea817860a2998cb1dc846813580629b118",
+      "title": "Umm Qais, Jordan | Ancient Gadara &amp; Scenic Views",
+      "mapTargets": [
+        {
+          "latitude": 32.6556875,
+          "longitude": 35.6780625
+        },
+        {
+          "latitude": 32.6556875,
+          "longitude": 35.6780625
+        }
+      ],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://www.mota.gov.jo/EN/Pages/Umm_Qays",
+      "finalUrl": "https://www.mota.gov.jo/EN/Pages/Umm_Qays",
+      "retrievedAt": "2026-10-19T17:29:55.766Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 85287,
+      "sha256": "0b8f350472df978dabee90b55ea05366fd2e0d519ce7921408fd3ebb130274a1",
+      "title": "Umm Qais - ministry of tourism and antiquities",
+      "mapTargets": [
+        {
+          "latitude": 32.6556875,
+          "longitude": 35.6780625
+        },
+        {
+          "latitude": 32.6556875,
+          "longitude": 35.6780625
+        }
+      ],
+      "coordinateMatches": [
+        "umm-qais"
+      ]
+    },
+    {
+      "url": "https://jordanpass.jo/Contents/Opening_Hours.aspx",
+      "finalUrl": "https://jordanpass.jo/Contents/Opening_Hours.aspx",
+      "retrievedAt": "2026-10-19T17:29:56.167Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 30133,
+      "sha256": "a00863af2ab659852acf811d5e77eb100f9e2b69c5802cf6473e1a65e254aa03",
+      "title": "Opening Hours",
+      "mapTargets": [],
+      "coordinateMatches": []
+    },
+    {
+      "url": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
+      "finalUrl": "https://www.jordanpass.jo/Contents/Jordan_Attractions.aspx",
+      "retrievedAt": "2026-10-19T17:29:56.667Z",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 85558,
+      "sha256": "3162ee60fd7a02b86b9643a70a63234c88dc85e1ad246eab2157956b6af79185",
+      "title": "Included Attractions",
+      "mapTargets": [
+        {
+          "latitude": 30.3284544,
+          "longitude": 35.4443622
+        },
+        {
+          "latitude": 30.3284544,
+          "longitude": 35.4443622
+        },
+        {
+          "latitude": 32.2746515,
+          "longitude": 35.8960765
+        },
+        {
+          "latitude": 32.2746515,
+          "longitude": 35.8960765
+        },
+        {
+          "latitude": 32.6543534,
+          "longitude": 35.6880516
+        },
+        {
+          "latitude": 32.6543534,
+          "longitude": 35.6880516
+        },
+        {
+          "latitude": 31.8801682,
+          "longitude": 36.8273859
+        },
+        {
+          "latitude": 31.8801682,
+          "longitude": 36.8273859
+        },
+        {
+          "latitude": 31.5002268,
+          "longitude": 35.9155217
+        },
+        {
+          "latitude": 31.5002268,
+          "longitude": 35.9155217
+        },
+        {
+          "latitude": 32.3318746,
+          "longitude": 36.3652653
+        },
+        {
+          "latitude": 32.3318746,
+          "longitude": 36.3652653
+        },
+        {
+          "latitude": 31.951878,
+          "longitude": 35.9395922
+        },
+        {
+          "latitude": 31.951878,
+          "longitude": 35.9395922
+        },
+        {
+          "latitude": 29.5215738,
+          "longitude": 35.0014463
+        },
+        {
+          "latitude": 29.5215738,
+          "longitude": 35.0014463
+        },
+        {
+          "latitude": 31.9515797,
+          "longitude": 35.9393536
+        },
+        {
+          "latitude": 31.9515797,
+          "longitude": 35.9393536
+        },
+        {
+          "latitude": 31.0504342,
+          "longitude": 35.5022922
+        },
+        {
+          "latitude": 31.0504342,
+          "longitude": 35.5022922
+        },
+        {
+          "latitude": 29.5212447,
+          "longitude": 35.0020314
+        },
+        {
+          "latitude": 29.5212447,
+          "longitude": 35.0020314
+        }
+      ],
+      "coordinateMatches": []
+    }
+  ]
+}

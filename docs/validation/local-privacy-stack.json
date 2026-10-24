@@ -1,0 +1,7 @@
+{
+  "status": "BLOCKED",
+  "project": "unseen-jo-privacy-integration",
+  "api": "http://127.0.0.1:55431",
+  "exitCode": 1,
+  "reason": "DockerLifecycleInspectError: Docker command not found; Podman also unavailable"
+}

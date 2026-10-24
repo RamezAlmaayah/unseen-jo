@@ -1,0 +1,79 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Genuine read-only hosted whole-row fingerprints before account migration/testing and after signup/profile/favorites/preferences operations. Tourism, Admin role and all Storage metadata unchanged.",
+  "passed": true,
+  "before": [
+    {
+      "entity": "places",
+      "records": 6,
+      "fingerprint": "f98a74f3b163c705ebc4051a913599d1"
+    },
+    {
+      "entity": "place_images",
+      "records": 13,
+      "fingerprint": "cffd3bf3d2371f68682c346548f619b3"
+    },
+    {
+      "entity": "translations",
+      "records": 6,
+      "fingerprint": "1f7917498c9e8fa6a9d396d4055886dc"
+    },
+    {
+      "entity": "place_categories",
+      "records": 10,
+      "fingerprint": "7fd78c4b654afee6ddc1fd9bdbb156b7"
+    },
+    {
+      "entity": "admin_roles",
+      "records": 1,
+      "fingerprint": "1325eb35e9e9b1b13d6234de021d8021"
+    },
+    {
+      "entity": "storage_objects",
+      "records": 15,
+      "fingerprint": "ccab813c6f2dd36dbde4175dc67ae701"
+    },
+    {
+      "entity": "storage_buckets",
+      "records": 2,
+      "fingerprint": "15bde790cf4caaedda888be0cc19ee04"
+    }
+  ],
+  "after": [
+    {
+      "entity": "places",
+      "records": 6,
+      "fingerprint": "f98a74f3b163c705ebc4051a913599d1"
+    },
+    {
+      "entity": "place_images",
+      "records": 13,
+      "fingerprint": "cffd3bf3d2371f68682c346548f619b3"
+    },
+    {
+      "entity": "translations",
+      "records": 6,
+      "fingerprint": "1f7917498c9e8fa6a9d396d4055886dc"
+    },
+    {
+      "entity": "place_categories",
+      "records": 10,
+      "fingerprint": "7fd78c4b654afee6ddc1fd9bdbb156b7"
+    },
+    {
+      "entity": "admin_roles",
+      "records": 1,
+      "fingerprint": "1325eb35e9e9b1b13d6234de021d8021"
+    },
+    {
+      "entity": "storage_objects",
+      "records": 15,
+      "fingerprint": "ccab813c6f2dd36dbde4175dc67ae701"
+    },
+    {
+      "entity": "storage_buckets",
+      "records": 2,
+      "fingerprint": "15bde790cf4caaedda888be0cc19ee04"
+    }
+  ]
+}

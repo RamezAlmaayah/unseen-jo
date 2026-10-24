@@ -1,0 +1,154 @@
+{
+  "batchId": "recheck-20261021191835293",
+  "recordedAt": "2026-10-21T19:20:50.453Z",
+  "provenance": "Assistant-performed source reinspection, not personal administrator review. Raw direct retrieval failures remain in revalidation-current.json.",
+  "observations": [
+    {
+      "url": "https://whc.unesco.org/en/list/326/",
+      "checkedAt": "2026-10-21T19:20:50.433Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Nabataean rock-cut heritage and water management reaffirmed."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/327/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Umayyad reception/bath complex and protected murals reaffirmed."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1093/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Roman/Byzantine/early Islamic remains, mosaics and structural hazards reaffirmed."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1377/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Mixed desert natural/cultural property and rock inscriptions reaffirmed."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1446/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "East-bank baptismal/archaeological pilgrimage context reaffirmed; tradition distinguished from proof."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1721/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Basalt settlement, water collection and reconstructed House 119 visitor centre reaffirmed."
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/1742/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Marine reef/seagrass property and regulated zones reaffirmed; no legal visitor arrival inferred."
+    },
+    {
+      "url": "https://visitpetra.jo/en/Location/137",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Little Petra identity and rock-cut facilities reaffirmed; page says general 06:30–17:00. Separate official hours page still distinguishes winter ticket office 07:00–14:00; qualifications retained."
+    },
+    {
+      "url": "https://www.rscn.org.jo/public/uploaded_files/reservation/Shaumari%20Wildlife%20Reserve%20Trails%202026.pdf",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "2026 tax-inclusive safari price categories, entry/guiding inclusion and group conditions reaffirmed from actual three-page PDF; not Ministry entrance-only fees."
+    },
+    {
+      "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "JTB Shobak historical paragraph reaffirmed through web response despite origin timeout; medieval Montreal and later restoration supported. No current visitor schedule inferred."
+    },
+    {
+      "url": "https://visitpetra.jo/en/page/26/Nearby-Attractions",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Assistant content reinspection of official web-tool response",
+      "note": "Official operator Shobak and Little Petra descriptions independently support historical identity; operational details not invented."
+    },
+    {
+      "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Origin content reinspection and exact relevant-table comparison",
+      "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table."
+    },
+    {
+      "url": "https://baptismsite.com/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh origin text and official web response reinspection",
+      "note": "Seasonal homepage entry from 08:00, last entry 16:00 Nov–Mar / 17:00 Apr–Oct reaffirmed."
+    },
+    {
+      "url": "https://baptismsite.com/contact/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh origin response reinspection",
+      "note": "Generic 16:00 cut-off, modest clothing and no-smoking remain in actual freshly retrieved operator text; seasonal conflict retained."
+    },
+    {
+      "url": "https://um-arrassas.gov.jo/ar/about-us/",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh origin Arabic content reinspection",
+      "note": "Arabic municipality page explicitly retains Al-Jizah district, Capital/Amman governorate. Municipal office hours are not tourist opening hours."
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q1346870",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+      "note": "Madaba Map remains a sixth-century floor mosaic located at St George Church; approximate geographic reference retained."
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q1362749",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+      "note": "Montreal/Shobak castle identity, location and 1115 inception retained; historical administrative label not reused as current governorate."
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q167993",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+      "note": "Pella/Tabaqat Fahl archaeological location in Irbid retained; rejected JTB directions pin remains rejected."
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q2284751",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+      "note": "Siq Al-Barid/Little Petra location in Maan and geographic reference retained."
+    },
+    {
+      "url": "https://aseza.jo/EN/Pages/Aqaba_Marine_Reserve",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Fresh official origin content and web response reinspection",
+      "note": "Operator describes public beaches, facilities and managed activities. Exact road arrival and photographed beach identity remain unresolved. General free beach access is not a total activity budget."
+    },
+    {
+      "url": "https://aseza.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/management_plan_for_Aqaba_marine_reserve.pdf",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "status": "verified",
+      "method": "Actual official PDF web-tool read",
+      "note": "128-page plan inspected for boundary/zoning and visitor-management sections; proposed/older plan provisions cannot independently settle current arrival and activity-zone permissions. Keep Aqaba blocked."
+    }
+  ]
+}

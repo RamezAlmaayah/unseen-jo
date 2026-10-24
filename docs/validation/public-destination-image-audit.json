@@ -1,0 +1,1093 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "checkedAt": "2026-10-23T19:50:23.950Z",
+  "scope": "Genuine anonymous Data API and Storage reads plus Chromium decoding of downloaded bytes; no hosted writes, credentials or signed URLs stored",
+  "summary": {
+    "publishedChecked": 24,
+    "withWorkingImages": 7,
+    "withoutWorkingImages": 17,
+    "imagesChecked": 45,
+    "workingApprovedImages": 13,
+    "approvedBrokenImages": 0,
+    "unapprovedPubliclyReadable": 0,
+    "archivedByThisTask": 0,
+    "hostedWrites": 0
+  },
+  "destinations": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "name": "Ajloun Forest Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T18:16:26.541095+00:00",
+      "imageRecords": 2,
+      "approvedImages": 2,
+      "approvedCover": true,
+      "workingPublicImages": 2,
+      "workingCover": true,
+      "images": [
+        "a8138cb1-326f-4932-862c-e043e6353a4f",
+        "d68100be-d02f-4d31-bb13-2a52bae516e5"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "slug": "al-maghtas-baptism-site",
+      "name": "Baptism Site (Al-Maghtas)",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:48:16.732492+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "490225b4-808d-4df9-a57e-770f86a6587b",
+        "4cfdadcc-312f-42b6-b8c4-71fccac403ea"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "slug": "amman-citadel",
+      "name": "Amman Citadel",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:47:23.48107+00:00",
+      "imageRecords": 1,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "fa1f2d0b-ef60-4cfa-9374-30d6b5572d1d"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "slug": "amman-roman-theatre",
+      "name": "Amman Roman Theatre",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:47:40.977004+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "2f97b032-117d-4a88-b3b5-d1cbb77dfb24",
+        "8f3a133e-f43d-4ed4-96a3-946aa3fd61ba"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "slug": "aqaba-marine-reserve",
+      "name": "Aqaba Marine Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:51.002576+00:00",
+      "imageRecords": 2,
+      "approvedImages": 1,
+      "approvedCover": true,
+      "workingPublicImages": 1,
+      "workingCover": true,
+      "images": [
+        "15c92ee9-c49a-4b7f-a531-86e8dba0ccd6",
+        "5a904b44-154c-4e2e-bf31-316b4dff5acf"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "slug": "azraq-wetland-reserve",
+      "name": "Azraq Wetland Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:32.848251+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "a0b99509-1ee2-4439-a67e-32ef376d37fc",
+        "ff0de68b-36e7-4879-ba4d-1781761ea7c8"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "name": "Dana Biosphere Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T18:16:39.768052+00:00",
+      "imageRecords": 3,
+      "approvedImages": 3,
+      "approvedCover": true,
+      "workingPublicImages": 3,
+      "workingCover": true,
+      "images": [
+        "0842e952-05a8-4d9f-be48-47d27ea1068c",
+        "18e5f55f-e32a-453f-9089-f1a8d88676cf",
+        "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "name": "Iraq Al-Amir",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T18:16:45.896524+00:00",
+      "imageRecords": 1,
+      "approvedImages": 1,
+      "approvedCover": true,
+      "workingPublicImages": 1,
+      "workingCover": true,
+      "images": [
+        "42135ff9-bd5b-4d8f-b3e3-43df233e8b53"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "slug": "jerash-archaeological-city",
+      "name": "Jerash Archaeological City",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:46:46.405003+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "052b9fdc-4bf2-43ff-a0a7-d7c89c5f9c5d",
+        "2b011d9c-21e5-4015-9686-745c9bf6c4fb"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "slug": "karak-castle",
+      "name": "Karak Castle",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:48:46.016221+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "7362b951-af9e-4c92-856c-5cf36a1da1c5",
+        "99c4523c-cd4d-492a-b142-031593ca82b7"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "slug": "little-petra-siq-al-barid",
+      "name": "Little Petra (Siq Al-Barid)",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:49.465394+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "5d45a2ce-ed41-4f62-b321-f227f1b7f17e",
+        "a8dc24e1-47da-46e0-b038-8ea162a3c60d"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "slug": "madaba-st-georges-church",
+      "name": "St. George’s Church (Madaba Map)",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:47:59.392182+00:00",
+      "imageRecords": 1,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "8da4f448-0400-4f84-932a-e583c8ece46f"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "slug": "mount-nebo",
+      "name": "Mount Nebo",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:48:01.264408+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "9934bb15-68ab-44eb-bcc3-058f55283e08",
+        "a02b4a29-4e63-40f1-9b05-62f68ea899b6"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "slug": "pella-tabaqat-fahl",
+      "name": "Pella (Tabaqat Fahl)",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:45.904957+00:00",
+      "imageRecords": 1,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "43cc8ed9-28cc-422c-8a69-b1493f3f1d32"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "slug": "petra",
+      "name": "Petra",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:45:53.071783+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "96cc66d2-ac89-4ad0-bbcb-10bb9b3a3bc1",
+        "ab97c12b-9665-4857-b6c1-84bfd8958c4a"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "slug": "quseir-amra",
+      "name": "Quseir Amra",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:49:27.300161+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "1eef8ff9-ac54-4d22-81f1-b1b229106605",
+        "5c1e529b-106e-452f-9646-cb525b204bb2"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "name": "As-Salt Historic Centre",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T18:16:55.637497+00:00",
+      "imageRecords": 3,
+      "approvedImages": 3,
+      "approvedCover": true,
+      "workingPublicImages": 3,
+      "workingCover": true,
+      "images": [
+        "3a05ca67-6fbb-4d12-912e-92edcfb3d220",
+        "536b6920-3df6-4028-a92b-66d5d5fb48bc",
+        "a7e9cac5-e789-4a19-b981-48c175007cda"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "slug": "shaumari-wildlife-reserve",
+      "name": "Shaumari Wildlife Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:44.343039+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "77d56dd0-836c-473b-80bd-30468dd7a94d",
+        "7be6f66e-2bfb-4e93-b1aa-7d0057708a7a"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "slug": "shobak-castle",
+      "name": "Shobak Castle",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:49:07.543597+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "6e0e0fb9-b790-4a67-a58c-d6f603796f64",
+        "7a3de2ac-1fd5-4e8c-aa0a-ad77a4347fa6"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "slug": "um-er-rasas",
+      "name": "Um er-Rasas (Kastrom Mefa’a)",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:03.357258+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "933f3cba-2cf9-4400-b179-663e03e10a28",
+        "d29d75f0-9c76-4d79-ac8a-2e038b3ca4f8"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "slug": "umm-al-jimal",
+      "name": "Umm Al-Jimāl",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:50:47.448166+00:00",
+      "imageRecords": 1,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "2f58e2eb-5bd4-43ae-886c-c08ab54c926d"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "name": "Umm Qais",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T18:17:00.619931+00:00",
+      "imageRecords": 2,
+      "approvedImages": 1,
+      "approvedCover": true,
+      "workingPublicImages": 1,
+      "workingCover": true,
+      "images": [
+        "ded55eac-f7b2-496e-bdbc-ca14d0697191",
+        "f30f04d6-804e-4a1b-8ed5-14bb6218b510"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "name": "Mujib Biosphere Reserve",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-19T19:24:18.983976+00:00",
+      "imageRecords": 2,
+      "approvedImages": 2,
+      "approvedCover": true,
+      "workingPublicImages": 2,
+      "workingCover": true,
+      "images": [
+        "d9fc5e9e-bbe0-42cf-b8c1-9574858a68b9",
+        "ed84410a-372c-4d07-b682-26715852a502"
+      ],
+      "action": "keep_published",
+      "reason": null
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "slug": "wadi-rum",
+      "name": "Wadi Rum Protected Area",
+      "status": "published",
+      "expectedUpdatedAt": "2026-10-21T18:46:22.545957+00:00",
+      "imageRecords": 2,
+      "approvedImages": 0,
+      "approvedCover": false,
+      "workingPublicImages": 0,
+      "workingCover": false,
+      "images": [
+        "a30fef57-6b27-42ca-b7e3-ec074fa798f6",
+        "f956fe14-bd27-4889-b84d-b09b5d9d6730"
+      ],
+      "action": "archive_required",
+      "reason": "No approved public image; existing uploads remain private."
+    }
+  ],
+  "images": [
+    {
+      "id": "052b9fdc-4bf2-43ff-a0a7-d7c89c5f9c5d",
+      "placeId": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "path": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-aaf02f12fb02671c775938cb869241fce860e5f86ea0b6a49fa81c9c5956691c.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "0842e952-05a8-4d9f-be48-47d27ea1068c",
+      "placeId": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:34.33564+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 2227478,
+      "sha256": "d8f0e62b9ec9866dbdec9c8d18bd3ed003b810cf7301cf46b585de43f6d726d9",
+      "decoded": {
+        "width": 3456,
+        "height": 2592
+      },
+      "result": "working"
+    },
+    {
+      "id": "15c92ee9-c49a-4b7f-a531-86e8dba0ccd6",
+      "placeId": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "path": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7/0ce14c66-eb7a-4022-922b-5ed08e59ad62.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-22T15:54:22.989809+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 42804,
+      "sha256": "ee1a1e97169534144351f8104598c9e6cdf99625a49491b3872077ac27235fb6",
+      "decoded": {
+        "width": 470,
+        "height": 336
+      },
+      "result": "working"
+    },
+    {
+      "id": "18e5f55f-e32a-453f-9089-f1a8d88676cf",
+      "placeId": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:30.301912+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 1081114,
+      "sha256": "fce9ad97aa643290acb486f0291d6c42c14260bc30effe3e172ecfa61d517a9d",
+      "decoded": {
+        "width": 2592,
+        "height": 1714
+      },
+      "result": "working"
+    },
+    {
+      "id": "1eef8ff9-ac54-4d22-81f1-b1b229106605",
+      "placeId": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "path": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-86d4a252c6e25afd909813da5a0330a848b8fb87ce9a26f837a1f80670aaa4eb.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "2b011d9c-21e5-4015-9686-745c9bf6c4fb",
+      "placeId": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "path": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-4bdb19cd9c22a5024a2412731976a1cb498ebd8cca43ff8b4c09f926ea8c5dc8.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "2f58e2eb-5bd4-43ae-886c-c08ab54c926d",
+      "placeId": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "path": "15e5f707-72e2-49a7-a908-07c1bbe703c8/phase08-9f7a1ccfcd479e72de5f35ede058f798ba3f50a2d836103d8aaa7b59b31bd5fc.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "2f97b032-117d-4a88-b3b5-d1cbb77dfb24",
+      "placeId": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "path": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-7b04f213487538f66f84fc6674b1a60e186a3c1a50e7ab6965b7a0b38abf4d95.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "3a05ca67-6fbb-4d12-912e-92edcfb3d220",
+      "placeId": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:49.05742+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 324462,
+      "sha256": "106cc0ce001a9632c90c60168493cb495ac1ee66f680fae4733417133b8e59eb",
+      "decoded": {
+        "width": 1600,
+        "height": 1200
+      },
+      "result": "working"
+    },
+    {
+      "id": "42135ff9-bd5b-4d8f-b3e3-43df233e8b53",
+      "placeId": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "path": "4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:43.615069+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 1496722,
+      "sha256": "0ba1fa285c2767019af9d1e414ebe544e80caff36bc727827dd99618ec83a3ad",
+      "decoded": {
+        "width": 3057,
+        "height": 2259
+      },
+      "result": "working"
+    },
+    {
+      "id": "43cc8ed9-28cc-422c-8a69-b1493f3f1d32",
+      "placeId": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "path": "16997697-cb9e-4126-b359-b83f1bde762c/phase08-d54bfefb491b2e2d59bba6bd62e53af819c828f33b54cd938e4845a30bb1bea3.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "490225b4-808d-4df9-a57e-770f86a6587b",
+      "placeId": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "path": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-cb905e133489a0878fd464630de18cefa53875a2e884219e535f969912f05cf3.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "4cfdadcc-312f-42b6-b8c4-71fccac403ea",
+      "placeId": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "path": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-8c45fb3b6a3a5b5e296eaaa1f61cf0feb193db00c4167f0307806e48768ec912.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "536b6920-3df6-4028-a92b-66d5d5fb48bc",
+      "placeId": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:53.497399+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 397279,
+      "sha256": "7eb87e685d280f925fa2d649859d697d602edca7916c7eb66581b475f4173882",
+      "decoded": {
+        "width": 1600,
+        "height": 1200
+      },
+      "result": "working"
+    },
+    {
+      "id": "5a904b44-154c-4e2e-bf31-316b4dff5acf",
+      "placeId": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "path": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7/prototype-f5903d546a9a1dbfa4ab069503967ac6cfd28d944211206c9139105b27e598af.png",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "5c1e529b-106e-452f-9646-cb525b204bb2",
+      "placeId": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "path": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-b5e2e9981015c872ab2ecb6039e213289b1328addb84df8a6d99466b6a2b65b0.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "5d45a2ce-ed41-4f62-b321-f227f1b7f17e",
+      "placeId": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "path": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-37cf674a5d59e82a4b50520926991c28b112b819afc95243795ea6a7d35dcfba.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "6d8c87f3-e2aa-4e43-b015-1f14d84e7ade",
+      "placeId": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:37.959897+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 2242965,
+      "sha256": "f9522383c23c1ffbc2210be290cce58aec33af9a13ae39ac047119077eefafe5",
+      "decoded": {
+        "width": 3453,
+        "height": 2474
+      },
+      "result": "working"
+    },
+    {
+      "id": "6e0e0fb9-b790-4a67-a58c-d6f603796f64",
+      "placeId": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "path": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-8b84cc4c64bbfeff5fc674ae752bad2f7acc9b4a0c401059c171b42bb05f20f9.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "7362b951-af9e-4c92-856c-5cf36a1da1c5",
+      "placeId": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "path": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-cc2b507a181aa92a72c0078b1efcfaa816375d1767e58d141dfd3c44b93a9e0e.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "77d56dd0-836c-473b-80bd-30468dd7a94d",
+      "placeId": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "path": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c5c402c2e4d9e1bccd7482422d1db5d46a0d1b7e9761cf255731efcb3715f3f0.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "7a3de2ac-1fd5-4e8c-aa0a-ad77a4347fa6",
+      "placeId": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "path": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-eea9b02bd25208fc1d114e1973f35fd9465ea5290d168b0150dfa23b3d4929b0.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "7be6f66e-2bfb-4e93-b1aa-7d0057708a7a",
+      "placeId": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "path": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c3638fe09425a0bfa5d607011c55719820bfc844067a1459f5fbb24c4194697e.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "8da4f448-0400-4f84-932a-e583c8ece46f",
+      "placeId": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "path": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/phase08-fc85ca4ada0994e92d9b558d6e305c0979e5b7456704645ae015ba8e8e34bc43.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "8f3a133e-f43d-4ed4-96a3-946aa3fd61ba",
+      "placeId": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "path": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-09ef9c566121319f0984091c730bdadfe7ddd9bbaf0e3dbea2c04ec21c5ec701.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "933f3cba-2cf9-4400-b179-663e03e10a28",
+      "placeId": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "path": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-a69f6101159120ecff0cb410bf3e1d1794792c3da4e8634b99c3c6e74bfe5cde.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "96cc66d2-ac89-4ad0-bbcb-10bb9b3a3bc1",
+      "placeId": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "path": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-b06d72218629ece42208255dbe10f56df4bb838a14794b6a8fac2e5d713ec8cb.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "9934bb15-68ab-44eb-bcc3-058f55283e08",
+      "placeId": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "path": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-efd450725e5a31b6dce7a8abb164c0d2b2c403d0ebfe0cbcc998afb23a0eee0f.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "99c4523c-cd4d-492a-b142-031593ca82b7",
+      "placeId": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "path": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-86455f11d2ac2b850ef12b674ea5e65978fbf14b4d3380c06fa3a1c45b4e12d2.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "a02b4a29-4e63-40f1-9b05-62f68ea899b6",
+      "placeId": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "path": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-fefe7f78aae3183ca2e5a01fc271cad44d8d171ae7af73914c6292b3a16335ac.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "a0b99509-1ee2-4439-a67e-32ef376d37fc",
+      "placeId": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "path": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-214cc801dec0276d7dc368f7bdd8ea5d39978d83d0ba59f9b68bb468213c5b3e.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "a30fef57-6b27-42ca-b7e3-ec074fa798f6",
+      "placeId": "d278185d-b952-406d-8371-5569816e30e6",
+      "path": "d278185d-b952-406d-8371-5569816e30e6/phase08-0fb12913d31ed5ce732eb2da1699af83da5c2988447a4c510f7781dcd2a07509.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "a7e9cac5-e789-4a19-b981-48c175007cda",
+      "placeId": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "path": "189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:51.723992+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 455563,
+      "sha256": "d6fd9cecba8f630e29bf087cdad507c48b79c7ff35edf684193adf6dd165f477",
+      "decoded": {
+        "width": 1600,
+        "height": 1200
+      },
+      "result": "working"
+    },
+    {
+      "id": "a8138cb1-326f-4932-862c-e043e6353a4f",
+      "placeId": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:06.664003+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 699080,
+      "sha256": "45a4b459da84607b85b3204388f9ea0c0220c83e692b731d980a8fa555879e69",
+      "decoded": {
+        "width": 2008,
+        "height": 1344
+      },
+      "result": "working"
+    },
+    {
+      "id": "a8dc24e1-47da-46e0-b038-8ea162a3c60d",
+      "placeId": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "path": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-ddf926fe2699b775be9f00d47c8460cb1119d0f5b349da676dd7a7b9b1ce5cc4.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "ab97c12b-9665-4857-b6c1-84bfd8958c4a",
+      "placeId": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "path": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-5dff4735b58492b8d2ca03265370cf53c938138416b9a71e4247520d27caba15.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "d29d75f0-9c76-4d79-ac8a-2e038b3ca4f8",
+      "placeId": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "path": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-595fd53a4c7cd8241b9333f3548345f86d6fd2bd24c7b88b598ce0256644044d.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "d68100be-d02f-4d31-bb13-2a52bae516e5",
+      "placeId": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:24.433028+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 5161429,
+      "sha256": "e9f6e303d22e7fd975844f72b01c7582547f01d0e9ec4c9ec740899f9d3327ea",
+      "decoded": {
+        "width": 4000,
+        "height": 3000
+      },
+      "result": "working"
+    },
+    {
+      "id": "d9fc5e9e-bbe0-42cf-b8c1-9574858a68b9",
+      "placeId": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg",
+      "isCover": false,
+      "approved": true,
+      "approvalAt": "2026-10-19T19:23:29.985991+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 561494,
+      "sha256": "d81cdffd141be98990b352ff9c5d4897e0686d844dba3115c26e561947fa1814",
+      "decoded": {
+        "width": 1600,
+        "height": 1200
+      },
+      "result": "working"
+    },
+    {
+      "id": "ded55eac-f7b2-496e-bdbc-ca14d0697191",
+      "placeId": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "path": "066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T18:16:58.73912+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 936292,
+      "sha256": "434124a40fd7f25fb8eea1dd0f52f512aef8136682cc6d801d647a0a2439408c",
+      "decoded": {
+        "width": 2500,
+        "height": 1667
+      },
+      "result": "working"
+    },
+    {
+      "id": "ed84410a-372c-4d07-b682-26715852a502",
+      "placeId": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+      "isCover": true,
+      "approved": true,
+      "approvalAt": "2026-10-19T21:41:23.952631+00:00",
+      "publicRecordVisible": true,
+      "storagePresent": true,
+      "publicSignAllowed": true,
+      "http": 200,
+      "mime": "image/jpeg",
+      "bytes": 56888,
+      "sha256": "5e4d0762f96dd8721de36c79022f6f68c4f1d4f9be669a58e4cc1dce8c712d29",
+      "decoded": {
+        "width": 515,
+        "height": 388
+      },
+      "result": "working"
+    },
+    {
+      "id": "f30f04d6-804e-4a1b-8ed5-14bb6218b510",
+      "placeId": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "path": "066dbed9-ca25-421e-8187-00fbc78fcda3/e02dd86c-a43b-43b1-8820-670115101f7f.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "f956fe14-bd27-4889-b84d-b09b5d9d6730",
+      "placeId": "d278185d-b952-406d-8371-5569816e30e6",
+      "path": "d278185d-b952-406d-8371-5569816e30e6/phase08-05dd5870b738cb6ddbb121c360767adfc849e7093c1bf0f66f1c1fb07c06741a.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "fa1f2d0b-ef60-4cfa-9374-30d6b5572d1d",
+      "placeId": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "path": "af3f7f7c-eba4-455b-b334-5009734da5b1/phase08-ca6d981ab0e4d8568f9287fac9f05ab88e2d834577b0db1dff015785950b099a.jpg",
+      "isCover": true,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    },
+    {
+      "id": "ff0de68b-36e7-4879-ba4d-1781761ea7c8",
+      "placeId": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "path": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-f2586a414ec9a58265fd8cbba1f48a3118ec9d8dfcf811145c42cbffd05eb2f6.jpg",
+      "isCover": false,
+      "approved": false,
+      "approvalAt": null,
+      "publicRecordVisible": false,
+      "storagePresent": true,
+      "publicSignAllowed": false,
+      "result": "not_public"
+    }
+  ]
+}

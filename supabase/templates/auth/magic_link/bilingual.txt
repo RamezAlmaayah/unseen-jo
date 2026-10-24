@@ -1,0 +1,17 @@
+Your next discovery is waiting.
+
+Use this one-time link to sign in securely. Never share it with anyone.
+
+{{ .ConfirmationURL }}
+
+If you did not request this sign-in link, ignore this email.
+
+---
+
+اكتشافك القادم بانتظارك.
+
+استخدم هذا الرابط لمرة واحدة لتسجيل الدخول بأمان. لا تشاركه مع أي شخص.
+
+{{ .ConfirmationURL }}
+
+إذا لم تطلب رابط الدخول، تجاهل الرسالة.

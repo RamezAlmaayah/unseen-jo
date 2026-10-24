@@ -1,0 +1,1093 @@
+{
+  "batchId": "recheck-20261021191835293",
+  "completedAt": "2026-10-21T19:20:50.453Z",
+  "provenance": "Actual origin and Commons API revalidation plus explicitly recorded assistant source reinspection; not administrator approval. Original acquisition/rights records unchanged.",
+  "records": [
+    {
+      "slug": "petra",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:32.151Z",
+      "contentHash": "89a25c7fb215e89ca0151c6130a263655f6193c208c3dd4d07bbc21b0c7b3eba",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/326/",
+          "checkedAt": "2026-10-21T19:20:50.433Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Nabataean rock-cut heritage and water management reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/petra/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:33.281Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/d452edf4705d.json",
+          "evidenceSha256": "ee7054e35a810138ddf755a643a2243fbb76ded24b85daa1fd8cbbbc88ae9054"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Petrafees",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:32.152Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/4881e7926498.json",
+          "evidenceSha256": "a3d4647c5528ae0c560329176be860731f8c6b3970db2d84fa8ea0573c10adfc"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Openinghours",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:32.151Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/ee664fce72bb.json",
+          "evidenceSha256": "ccfcd49ae03fb3c092801bb65cdfb9fdd3e960d9cda0c222fb80a1f7d37058a4"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "wadi-rum",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:17:38.010Z",
+      "contentHash": "fedb759dff18d8b7fc2edf037e0a2c00fe316b3c9b0ac02c0afebb3ca2ecb430",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/1377/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Mixed desert natural/cultural property and rock inscriptions reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/wadi-rum/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:38.010Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/d98fa9e27480.json",
+          "evidenceSha256": "a8cac8e5af1b92eef84a254ce5ccb55d05cc13a162d71212ca5803a0810f0c03"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "jerash-archaeological-city",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:34.806Z",
+      "contentHash": "23b61849479d8a306fa788fafeb1fda8becb186879c2a6c1c0b48241683f1ad9",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/jerash/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:34.806Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/0e72a2f9c844.json",
+          "evidenceSha256": "071a6ad76ddbfe337c68437bd39826b34cc5a24b625b5ba5217ad72afc0c4084"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "amman-citadel",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:34.582Z",
+      "contentHash": "3578ad64e17caa0f8526911cad6464f885f0498d0ebf96fa4efa4ccd92196070",
+      "sources": [
+        {
+          "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:34.582Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/1567338379c6.json",
+          "evidenceSha256": "f44719e47b5eafc40cea63afaf58c09c213f9f4db255fa423f9e8631ae5f4baf"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/amman/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:35.119Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/9e3b2b6417f6.json",
+          "evidenceSha256": "470334a96dd2b1721879a6c4b5d0388f260eec310d1dcb87289ec99537e0b180"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "amman-roman-theatre",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:35.119Z",
+      "contentHash": "cbe7839ec4c8458fd6dc211b7695d4c0b94dd7b2244ef3f9f68ec5a82673875c",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/amman/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:35.119Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/9e3b2b6417f6.json",
+          "evidenceSha256": "470334a96dd2b1721879a6c4b5d0388f260eec310d1dcb87289ec99537e0b180"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "madaba-st-georges-church",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:35.183Z",
+      "contentHash": "3cf716ae535ae3805ae2a91f9f44d5590929babd9acc7c751dac1e8daa0fc50b",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:35.183Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/2167a83fce6e.json",
+          "evidenceSha256": "e35a12545221f484b495368040c1945ae04bcdafe9d5af9b3f89798bacfd902d"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q1346870",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+          "note": "Madaba Map remains a sixth-century floor mosaic located at St George Church; approximate geographic reference retained.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "mount-nebo",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:35.183Z",
+      "contentHash": "a9eb09de332548f118866ca0a6997b9ace2a80275670866efe31156eb74d0efe",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:35.183Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/2167a83fce6e.json",
+          "evidenceSha256": "e35a12545221f484b495368040c1945ae04bcdafe9d5af9b3f89798bacfd902d"
+        },
+        {
+          "url": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:41.663Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/e3187480ea2c.json",
+          "evidenceSha256": "51e904f912e05e9cd039d7d9d0c4375b88987ecf850611fbbe5200128ee08758"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "al-maghtas-baptism-site",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "contentHash": "1754cefe761b04e2d8ceaa096216b23d69f0a0899f9cde21e9bd4e7d51434d89",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/1446/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "East-bank baptismal/archaeological pilgrimage context reaffirmed; tradition distinguished from proof.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://baptismsite.com/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh origin text and official web response reinspection",
+          "note": "Seasonal homepage entry from 08:00, last entry 16:00 Nov–Mar / 17:00 Apr–Oct reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://baptismsite.com/contact/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh origin response reinspection",
+          "note": "Generic 16:00 cut-off, modest clothing and no-smoking remain in actual freshly retrieved operator text; seasonal conflict retained.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [
+        "Homepage seasonal last-entry time differs from generic contact-page time."
+      ],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "karak-castle",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:43.230Z",
+      "contentHash": "daf6201a799de40dd7878c642fce652ca364bbeed11235ea925911d19b248cfa",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/karak/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:43.230Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/42cc9ebba6b2.json",
+          "evidenceSha256": "c441c389ecf84af5b2877cf9f42b12611b58b799ff0e9d309c861ed82a6f000a"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "shobak-castle",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "contentHash": "7c115006dadd63ff90b4cb205da4c7a138d24eaed7352a717a0a5e2c23393342",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "JTB Shobak historical paragraph reaffirmed through web response despite origin timeout; medieval Montreal and later restoration supported. No current visitor schedule inferred.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q1362749",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+          "note": "Montreal/Shobak castle identity, location and 1115 inception retained; historical administrative label not reused as current governorate.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://visitpetra.jo/en/page/26/Nearby-Attractions",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Official operator Shobak and Little Petra descriptions independently support historical identity; operational details not invented.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "quseir-amra",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "contentHash": "f94eea3cb3939f0b26ac5b0e4d40e57f0fc0216df6180669909241794cc5cab6",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/327/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Umayyad reception/bath complex and protected murals reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/327/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Umayyad reception/bath complex and protected murals reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "um-er-rasas",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:35.183Z",
+      "contentHash": "ff856e1b117326a693a9793ee4d35930ec385fc669b01b1a2c6c7f9e558771ba",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/1093/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Roman/Byzantine/early Islamic remains, mosaics and structural hazards reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://international.visitjordan.com/wheretogo/madaba/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:35.183Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/2167a83fce6e.json",
+          "evidenceSha256": "e35a12545221f484b495368040c1945ae04bcdafe9d5af9b3f89798bacfd902d"
+        },
+        {
+          "url": "https://um-arrassas.gov.jo/ar/about-us/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh origin Arabic content reinspection",
+          "note": "Arabic municipality page explicitly retains Al-Jizah district, Capital/Amman governorate. Municipal office hours are not tourist opening hours.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [
+        "Dossier Madaba governorate corrected to Amman using municipality/Department of Antiquities."
+      ],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "azraq-wetland-reserve",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:17:13.087Z",
+      "contentHash": "5f986efb1510b6a490c23bbce5341107769c8a39917b83268e2a6d6bfc6ac274",
+      "sources": [
+        {
+          "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:13.087Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/64db2b95f047.json",
+          "evidenceSha256": "1911190c6e8a121c8574090f97a3feaf52f279cba48a3237fb492a0ad750980a"
+        },
+        {
+          "url": "https://edutravel.visitjordan.com/en",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:13.118Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/3a5941128fde.json",
+          "evidenceSha256": "f082f399477b467ad1df22f301e38d48306c429a940cbee721bdd4d725b0603a"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "shaumari-wildlife-reserve",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:17:13.087Z",
+      "contentHash": "07e471dc0eac96fbca1dfb6fff17ab05df34d7638a1378d02222fa1f2e5191a5",
+      "sources": [
+        {
+          "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:13.087Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/64db2b95f047.json",
+          "evidenceSha256": "1911190c6e8a121c8574090f97a3feaf52f279cba48a3237fb492a0ad750980a"
+        },
+        {
+          "url": "https://www.rscn.org.jo/public/uploaded_files/reservation/Shaumari%20Wildlife%20Reserve%20Trails%202026.pdf",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "2026 tax-inclusive safari price categories, entry/guiding inclusion and group conditions reaffirmed from actual three-page PDF; not Ministry entrance-only fees.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [
+        "2026 tax-inclusive activity packages must not be replaced with Ministry entrance-only prices."
+      ],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "pella-tabaqat-fahl",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:17:14.289Z",
+      "contentHash": "5c0cbc081af74592bd7ca3ec27a9d4d5f9369276c790ce7a13c9ba4a7a8a673c",
+      "sources": [
+        {
+          "url": "https://international.visitjordan.com/wheretogo/pella/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:14.289Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/d3a60542b85f.json",
+          "evidenceSha256": "20f1df83a00691f26c0db0c18e67deac5b09d6313ac1f0a15435c19e26879715"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q167993",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+          "note": "Pella/Tabaqat Fahl archaeological location in Irbid retained; rejected JTB directions pin remains rejected.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [
+        "JTB directions coordinates point near Amman and were rejected."
+      ],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "umm-al-jimal",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:17:39.030Z",
+      "contentHash": "0a0ae7432245e0749ecbb25a84f417194ee715dcdc6cfeb720178c35b37b8eb1",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/1721/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Basalt settlement, water collection and reconstructed House 119 visitor centre reaffirmed.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.ummeljimal.org/",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:17:39.030Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/31423922d07a.json",
+          "evidenceSha256": "1850041fc0fea110e19a5faf1ee5f31cdd78a13b6755e4c96fa2329b496d776a"
+        },
+        {
+          "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Origin content reinspection and exact relevant-table comparison",
+          "note": "Relevant fee table compared exactly with the earlier inspected body; visitor categories, museum/grouped-site inclusions and reserve tax qualifications retained. Visit counter/footer changed, not the fee table.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "little-petra-siq-al-barid",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:15:32.151Z",
+      "contentHash": "9eddaeaf02019f46685512ebd6ff430f5b61ec0d31821b6a6105d183488e3f73",
+      "sources": [
+        {
+          "url": "https://visitpetra.jo/en/Location/137",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Little Petra identity and rock-cut facilities reaffirmed; page says general 06:30–17:00. Separate official hours page still distinguishes winter ticket office 07:00–14:00; qualifications retained.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q2284751",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh geographic dataset page reinspection; community reference, not an official entrance survey",
+          "note": "Siq Al-Barid/Little Petra location in Maan and geographic reference retained.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://visitpetra.jo/en/Openinghours",
+          "status": "verified",
+          "checkedAt": "2026-10-21T19:15:32.151Z",
+          "method": "Live origin response has exactly the same full text as the previously inspected source",
+          "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/ee664fce72bb.json",
+          "evidenceSha256": "ccfcd49ae03fb3c092801bb65cdfb9fdd3e960d9cda0c222fb80a1f7d37058a4"
+        }
+      ],
+      "missing": [],
+      "qualifications": [
+        "Site hours and ticket-office hours differ; exact same-day availability remains operator-dependent."
+      ],
+      "criticalBlockersPreserved": []
+    },
+    {
+      "slug": "aqaba-marine-reserve",
+      "status": "verified",
+      "checkedAt": "2026-10-21T19:20:50.453Z",
+      "contentHash": "8332ddbab2d4fb967e290d47844a40fe864ee9844713493e20d773108d235919",
+      "sources": [
+        {
+          "url": "https://whc.unesco.org/en/list/1742/",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Assistant content reinspection of official web-tool response",
+          "note": "Marine reef/seagrass property and regulated zones reaffirmed; no legal visitor arrival inferred.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        },
+        {
+          "url": "https://aseza.jo/EN/Pages/Aqaba_Marine_Reserve",
+          "checkedAt": "2026-10-21T19:20:50.453Z",
+          "status": "verified",
+          "method": "Fresh official origin content and web response reinspection",
+          "note": "Operator describes public beaches, facilities and managed activities. Exact road arrival and photographed beach identity remain unresolved. General free beach access is not a total activity budget.",
+          "evidenceFile": "docs/evidence/phase08/revalidation-observations.json",
+          "evidenceSha256": "2aeeffe2c3f86757cd76400e215bddaf545adca43947d5f5acf38a97c330b4a7"
+        }
+      ],
+      "missing": [],
+      "qualifications": [],
+      "criticalBlockersPreserved": [
+        "A legal visitor arrival point and the applicable marine zone/access rules have not been independently established.",
+        "No acquired, visually checked and rights-documented cover is ready."
+      ]
+    }
+  ],
+  "licenses": [
+    {
+      "photoId": "petra-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Khazneh_2,_Petra,_Jordan.jpg",
+      "checkedAt": "2026-10-21T19:18:36.533Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1257189431,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "5dff4735b58492b8d2ca03265370cf53c938138416b9a71e4247520d27caba15"
+    },
+    {
+      "photoId": "petra-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Al_Khazneh_02.jpg",
+      "checkedAt": "2026-10-21T19:18:36.546Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1125925664,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "b06d72218629ece42208255dbe10f56df4bb838a14794b6a8fac2e5d713ec8cb"
+    },
+    {
+      "photoId": "wadi-rum-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Infinite_Spaces.jpg",
+      "checkedAt": "2026-10-21T19:18:36.557Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1162023075,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "05dd5870b738cb6ddbb121c360767adfc849e7093c1bf0f66f1c1fb07c06741a"
+    },
+    {
+      "photoId": "wadi-rum-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Khor_al_Ajram_2.jpg",
+      "checkedAt": "2026-10-21T19:18:36.572Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1236311759,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "0fb12913d31ed5ce732eb2da1699af83da5c2988447a4c510f7781dcd2a07509"
+    },
+    {
+      "photoId": "jerash-archaeological-city-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_003.JPG",
+      "checkedAt": "2026-10-21T19:18:36.587Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 968776666,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "aaf02f12fb02671c775938cb869241fce860e5f86ea0b6a49fa81c9c5956691c"
+    },
+    {
+      "photoId": "jerash-archaeological-city-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jerash_Oval_Plaza_020.jpg",
+      "checkedAt": "2026-10-21T19:18:36.594Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 911079628,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "4bdb19cd9c22a5024a2412731976a1cb498ebd8cca43ff8b4c09f926ea8c5dc8"
+    },
+    {
+      "photoId": "amman-citadel-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules_-_Amman_citadel.jpg",
+      "checkedAt": "2026-10-21T19:18:36.603Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 967381595,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "ca6d981ab0e4d8568f9287fac9f05ab88e2d834577b0db1dff015785950b099a"
+    },
+    {
+      "photoId": "amman-roman-theatre-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Roman_theater_of_Amman_01.jpg",
+      "checkedAt": "2026-10-21T19:18:36.611Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1012574959,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-0.json",
+      "responseSha256": "873709fbbb1e457b4ee98b3d5e0735c864a7fa9768951038ed57a329038292af",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "09ef9c566121319f0984091c730bdadfe7ddd9bbaf0e3dbea2c04ec21c5ec701"
+    },
+    {
+      "photoId": "amman-roman-theatre-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Amman_Amphitheater_18.JPG",
+      "checkedAt": "2026-10-21T19:18:36.923Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 790707657,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "7b04f213487538f66f84fc6674b1a60e186a3c1a50e7ab6965b7a0b38abf4d95"
+    },
+    {
+      "photoId": "madaba-st-georges-church-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan,_Madaba._(Mosaic_map_photo_at_Greek_Orthodox_Church_of_Saint_George)_DSCN0901.jpg",
+      "checkedAt": "2026-10-21T19:18:36.936Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 709826124,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Excluded from import: preserve visual identity/underlying rights blocker",
+      "originalSha256": "ca208a0930eef84130e33b20481e10d78af3ad50f333e2284f89e8298c6579e8"
+    },
+    {
+      "photoId": "madaba-st-georges-church-2",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Madaba_Map,_part_of_a_floor_mosaic_in_the_early_Byzantine_church_of_Saint_George_depicting_the_Holy_Land_in_the_6th_century_AD,_Madaba,_Jordan_(33798342833).jpg",
+      "checkedAt": "2026-10-21T19:18:36.956Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1095750144,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "6d9ef808e279f7db9f3bef520711d715cec42f01ee7e4b659bdbf1f111ee2ecb"
+    },
+    {
+      "photoId": "mount-nebo-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(26804136468).jpg",
+      "checkedAt": "2026-10-21T19:18:36.977Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1111221649,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "546b93241f9a56821b00b82017c91b561e5dd0cd12538b0b9590f966b272503e"
+    },
+    {
+      "photoId": "mount-nebo-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Basilica,_the_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+      "checkedAt": "2026-10-21T19:18:37.012Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1210658379,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "bc578dfe4879219850b127145d4ff289b370e3b36d9fc011a614ef0e2df09253"
+    },
+    {
+      "photoId": "al-maghtas-baptism-site-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Bethany_(5).JPG",
+      "checkedAt": "2026-10-21T19:18:37.035Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 909290690,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "8c45fb3b6a3a5b5e296eaaa1f61cf0feb193db00c4167f0307806e48768ec912"
+    },
+    {
+      "photoId": "al-maghtas-baptism-site-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_3.JPG",
+      "checkedAt": "2026-10-21T19:18:37.044Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1260279871,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "cb905e133489a0878fd464630de18cefa53875a2e884219e535f969912f05cf3"
+    },
+    {
+      "photoId": "karak-castle-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Kerak_BW_1.JPG",
+      "checkedAt": "2026-10-21T19:18:37.054Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1163793603,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-8.json",
+      "responseSha256": "cec74b1cf0245fa43d4743f89a77d1613cdd4b9419c3c9eccf225f0e94d64379",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "86455f11d2ac2b850ef12b674ea5e65978fbf14b4d3380c06fa3a1c45b4e12d2"
+    },
+    {
+      "photoId": "karak-castle-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Karak_Castle_2.jpg",
+      "checkedAt": "2026-10-21T19:18:37.787Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1225987797,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "cc2b507a181aa92a72c0078b1efcfaa816375d1767e58d141dfd3c44b93a9e0e"
+    },
+    {
+      "photoId": "shobak-castle-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Montreal_Castle_04.jpg",
+      "checkedAt": "2026-10-21T19:18:37.793Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1147394121,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "eea9b02bd25208fc1d114e1973f35fd9465ea5290d168b0150dfa23b3d4929b0"
+    },
+    {
+      "photoId": "shobak-castle-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Montreal_Castle_05.jpg",
+      "checkedAt": "2026-10-21T19:18:37.803Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1124764900,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "8b84cc4c64bbfeff5fc674ae752bad2f7acc9b4a0c401059c171b42bb05f20f9"
+    },
+    {
+      "photoId": "quseir-amra-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_18.jpg",
+      "checkedAt": "2026-10-21T19:18:37.815Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1255448291,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "86d4a252c6e25afd909813da5a0330a848b8fb87ce9a26f837a1f80670aaa4eb"
+    },
+    {
+      "photoId": "quseir-amra-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Quseir_Amra_20.jpg",
+      "checkedAt": "2026-10-21T19:18:37.828Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1255448311,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "b5e2e9981015c872ab2ecb6039e213289b1328addb84df8a6d99466b6a2b65b0"
+    },
+    {
+      "photoId": "um-er-rasas-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_ar-Rasas_Arcs.jpg",
+      "checkedAt": "2026-10-21T19:18:37.835Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1212025201,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "595fd53a4c7cd8241b9333f3548345f86d6fd2bd24c7b88b598ce0256644044d"
+    },
+    {
+      "photoId": "um-er-rasas-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_ar-Rasas.jpg",
+      "checkedAt": "2026-10-21T19:18:37.839Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1036374751,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "a69f6101159120ecff0cb410bf3e1d1794792c3da4e8634b99c3c6e74bfe5cde"
+    },
+    {
+      "photoId": "azraq-wetland-reserve-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve,_May_2017.jpg",
+      "checkedAt": "2026-10-21T19:18:37.844Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1070744300,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-16.json",
+      "responseSha256": "24af3ed94364e9a7580af0c70a68f5440e14cb5d1cc0515cb8ab1b04fad42746",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "214cc801dec0276d7dc368f7bdd8ea5d39978d83d0ba59f9b68bb468213c5b3e"
+    },
+    {
+      "photoId": "azraq-wetland-reserve-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_36.jpg",
+      "checkedAt": "2026-10-21T19:18:38.244Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1250558999,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "f2586a414ec9a58265fd8cbba1f48a3118ec9d8dfcf811145c42cbffd05eb2f6"
+    },
+    {
+      "photoId": "shaumari-wildlife-reserve-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_43.jpg",
+      "checkedAt": "2026-10-21T19:18:38.254Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1255947813,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "c5c402c2e4d9e1bccd7482422d1db5d46a0d1b7e9761cf255731efcb3715f3f0"
+    },
+    {
+      "photoId": "shaumari-wildlife-reserve-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_55.jpg",
+      "checkedAt": "2026-10-21T19:18:38.268Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1255947898,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "c3638fe09425a0bfa5d607011c55719820bfc844067a1459f5fbb24c4194697e"
+    },
+    {
+      "photoId": "pella-tabaqat-fahl-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Pella,_Jordan_(33383216993).jpg",
+      "checkedAt": "2026-10-21T19:18:38.276Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1117445807,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "d54bfefb491b2e2d59bba6bd62e53af819c828f33b54cd938e4845a30bb1bea3"
+    },
+    {
+      "photoId": "umm-al-jimal-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_10.jpg",
+      "checkedAt": "2026-10-21T19:18:38.287Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1271165340,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Excluded from import: preserve visual identity/underlying rights blocker",
+      "originalSha256": "dfa6f13267060de5cff591a8132bc32a6a4d53132e9db2ed94ba496a09b58337"
+    },
+    {
+      "photoId": "umm-al-jimal-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_05.jpg",
+      "checkedAt": "2026-10-21T19:18:38.300Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1271165330,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Excluded from import: preserve visual identity/underlying rights blocker",
+      "originalSha256": "ed8a19fb5fdf9f47744ad55d82a7a8f167857bdb435878562bebdaa020daa090"
+    },
+    {
+      "photoId": "umm-al-jimal-3",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_el-Jimal.jpg",
+      "checkedAt": "2026-10-21T19:18:38.309Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1046844426,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "9f7a1ccfcd479e72de5f35ede058f798ba3f50a2d836103d8aaa7b59b31bd5fc"
+    },
+    {
+      "photoId": "little-petra-siq-al-barid-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Columned_Chamber_Siq_al-Barid_Jordan1502.jpg",
+      "checkedAt": "2026-10-21T19:18:38.319Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 865430221,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-24.json",
+      "responseSha256": "4a66e665ded3604b0c70d3a57420d3924f0dc4da6f42610dbd8e48a9513020e1",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "37cf674a5d59e82a4b50520926991c28b112b819afc95243795ea6a7d35dcfba"
+    },
+    {
+      "photoId": "little-petra-siq-al-barid-2",
+      "source": "https://commons.wikimedia.org/wiki/File:Little_Petra,_Jordan_-_49785122391.jpg",
+      "checkedAt": "2026-10-21T19:18:38.611Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 898071271,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-32.json",
+      "responseSha256": "e85d4780ef715f08b881d524b2f129c76fbbfb794a457b49849644ada73dd39d",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Prepared licence remains eligible, explicit Admin approval still pending",
+      "originalSha256": "e4f01350976feca06aaeeff6a9c160795ae9807bfd5ffa14d007e868504b046a"
+    },
+    {
+      "photoId": "aqaba-marine-reserve-1",
+      "source": "https://commons.wikimedia.org/wiki/File:Aqaba_Marine_Park,_Jordan.jpg",
+      "checkedAt": "2026-10-21T19:18:38.630Z",
+      "eligibleMetadataUnchanged": true,
+      "originalSha1Unchanged": true,
+      "revision": 1153149241,
+      "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191835293/commons-32.json",
+      "responseSha256": "e85d4780ef715f08b881d524b2f129c76fbbfb794a457b49849644ada73dd39d",
+      "method": "Live individual Commons file metadata/licence/revision and original SHA-1 cross-check; visual identity and underlying-work exclusions remain separate",
+      "rightsQualification": "Excluded from import: preserve visual identity/underlying rights blocker",
+      "originalSha256": "8b0c09bbd499d3e9d1f5bfe6ae47d4e5301355afb950fbe1a75b8417465f5169"
+    }
+  ]
+}

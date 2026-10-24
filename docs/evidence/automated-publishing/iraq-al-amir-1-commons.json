@@ -1,0 +1,193 @@
+{
+  "retrievedAt": "2026-10-19T17:30:25.372Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AView+of+Qasr+Al-Abd%2C+Amman.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 53101872,
+    "ns": 6,
+    "title": "File:View of Qasr Al-Abd, Amman.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1626673,
+        "width": 3057,
+        "height": 2259,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Qasr_Al-Abd%2C_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53101872",
+        "sha1": "0d82d1f1f49a6790f9172b38173d361f93a5c0b3",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-11-12 21:43:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "View of Qasr Al-Abd, Amman",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Qasr al-Abd|CC-Zero|Amman|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Qasr Al-Abd, Iraq Al-Amir, Amman, Jordan.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-07-14",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Makeandtoss\" title=\"User:Makeandtoss\">Makeandtoss</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1287786500,
+        "parentid": 456341970,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Qasr Al-Abd, Iraq Al-Amir, Amman, Jordan.}}\n|date=2016-07-14\n|source={{own}}\n|author=[[User:Makeandtoss|Makeandtoss]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n[[Category:Qasr al-Abd]]\n[[Category:Amman]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 1626673,
+    "width": 3057,
+    "height": 2259,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/View_of_Qasr_Al-Abd%2C_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53101872",
+    "sha1": "0d82d1f1f49a6790f9172b38173d361f93a5c0b3",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2016-11-12 21:43:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "View of Qasr Al-Abd, Amman",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Qasr al-Abd|CC-Zero|Amman|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Qasr Al-Abd, Iraq Al-Amir, Amman, Jordan.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-07-14",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Makeandtoss\" title=\"User:Makeandtoss\">Makeandtoss</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

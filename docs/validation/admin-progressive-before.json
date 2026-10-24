@@ -1,0 +1,999 @@
+{
+  "scope": "Synthetic authenticated 240-place / 80-image fixtures, real production JS/CSS and Chromium CDP transfers. No real Admin session, hosted writes or realistic Supabase latency. Cold contexts; 1.5s observation after usable heading.",
+  "results": [
+    {
+      "section": "overview",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 2469065,
+        "requests": 40,
+        "jsBytes": 438063,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          },
+          {
+            "path": "/assets/OverviewCharts-C76SSZyh.js",
+            "bytes": 103254
+          }
+        ],
+        "images": 0,
+        "supabase": 14,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_overview",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/places",
+            "method": "GET",
+            "query": {
+              "select": "*,place_categories(category_id,categories(id,name,slug,is_active)),place_images(*),place_reviews(*),place_translations(*)",
+              "order": "id.asc",
+              "offset": "0",
+              "limit": "500"
+            }
+          },
+          {
+            "path": "/rest/v1/categories",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "order": "sort_order.asc,name.asc"
+            }
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          }
+        ],
+        "usableMs": 2114,
+        "cls": 0.16931098913122108
+      }
+    },
+    {
+      "section": "overview",
+      "width": 390,
+      "initial": {
+        "encodedTransfer": 2469065,
+        "requests": 40,
+        "jsBytes": 438063,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          },
+          {
+            "path": "/assets/OverviewCharts-C76SSZyh.js",
+            "bytes": 103254
+          }
+        ],
+        "images": 0,
+        "supabase": 14,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_overview",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/places",
+            "method": "GET",
+            "query": {
+              "select": "*,place_categories(category_id,categories(id,name,slug,is_active)),place_images(*),place_reviews(*),place_translations(*)",
+              "order": "id.asc",
+              "offset": "0",
+              "limit": "500"
+            }
+          },
+          {
+            "path": "/rest/v1/categories",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "order": "sort_order.asc,name.asc"
+            }
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          }
+        ],
+        "usableMs": 1296,
+        "cls": 0.036061538461538464
+      }
+    },
+    {
+      "section": "places",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 2363996,
+        "requests": 21,
+        "jsBytes": 334809,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          }
+        ],
+        "images": 0,
+        "supabase": 5,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/places",
+            "method": "GET",
+            "query": {
+              "select": "*,place_categories(category_id,categories(id,name,slug,is_active)),place_images(*),place_reviews(*),place_translations(*)",
+              "order": "id.asc",
+              "offset": "0",
+              "limit": "500"
+            }
+          },
+          {
+            "path": "/rest/v1/categories",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "order": "sort_order.asc,name.asc"
+            }
+          }
+        ],
+        "usableMs": 1035,
+        "cls": 0.020115801022376544
+      }
+    },
+    {
+      "section": "media",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 10195707,
+        "requests": 101,
+        "jsBytes": 334809,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          }
+        ],
+        "images": 16,
+        "supabase": 53,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/place_images",
+            "method": "GET",
+            "query": {
+              "select": "*,places(name,status)",
+              "order": "created_at.desc",
+              "limit": "500"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-10.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-10.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-13.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-13.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-10.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-9.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-9.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-6.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-13.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-6.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-11.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-11.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-9.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-6.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-11.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-4.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-4.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-15.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-15.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-8.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-4.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-8.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-5.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-5.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-15.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-7.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-7.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-5.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-8.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-12.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-12.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-7.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-14.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-14.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-12.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-14.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          }
+        ],
+        "usableMs": 1143,
+        "cls": 0.02011388888888889
+      }
+    },
+    {
+      "section": "translations",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 2446831,
+        "requests": 22,
+        "jsBytes": 334809,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          }
+        ],
+        "images": 0,
+        "supabase": 4,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/places",
+            "method": "GET",
+            "query": {
+              "select": "*,place_categories(category_id,categories(id,name,slug,is_active)),place_images(*),place_reviews(*),place_translations(*)",
+              "order": "id.asc",
+              "offset": "0",
+              "limit": "500"
+            }
+          }
+        ],
+        "usableMs": 1031,
+        "cls": 0.03253055441020448
+      }
+    },
+    {
+      "section": "places/00000000-0000-4000-8000-000000000010",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 3342262,
+        "requests": 57,
+        "jsBytes": 630020,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          },
+          {
+            "path": "/assets/CoordinatePicker-BiC0Sxg3.js",
+            "bytes": 2088
+          },
+          {
+            "path": "/assets/maplibre-gl-BwuMHCY5.js",
+            "bytes": 293123
+          }
+        ],
+        "images": 6,
+        "supabase": 22,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/categories",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "order": "sort_order.asc,name.asc"
+            }
+          },
+          {
+            "path": "/rest/v1/places",
+            "method": "GET",
+            "query": {
+              "select": "*,place_categories(category_id,categories(id,name,slug,is_active)),place_images(*),place_reviews(*),place_translations(*)",
+              "id": "eq.00000000-0000-4000-8000-000000000010"
+            }
+          },
+          {
+            "path": "/rest/v1/place_reviews",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "place_id": "eq.00000000-0000-4000-8000-000000000010"
+            }
+          },
+          {
+            "path": "/rest/v1/rpc/admin_publication_issues",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_quick_edit_state",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_image_eligibility",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/object/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-1.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-3.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-0.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          },
+          {
+            "path": "/storage/v1/render/image/sign/place-images/00000000-0000-4000-8000-000000000010/photo-2.png",
+            "method": "GET",
+            "query": {
+              "token": "fixture"
+            }
+          }
+        ],
+        "usableMs": 1224,
+        "cls": 0.02227725935570988
+      }
+    },
+    {
+      "section": "audit",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 508366,
+        "requests": 19,
+        "jsBytes": 334809,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          }
+        ],
+        "images": 0,
+        "supabase": 4,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/admin_audit_logs",
+            "method": "GET",
+            "query": {
+              "select": "*",
+              "order": "created_at.desc,id.desc",
+              "offset": "0",
+              "limit": "20"
+            }
+          }
+        ],
+        "usableMs": 1906,
+        "cls": 0.017435747281298226
+      }
+    },
+    {
+      "section": "publishing",
+      "width": 1440,
+      "initial": {
+        "encodedTransfer": 505626,
+        "requests": 17,
+        "jsBytes": 334809,
+        "js": [
+          {
+            "path": "/assets/jsx-runtime-BV8MTj3S.js",
+            "bytes": 75919
+          },
+          {
+            "path": "/assets/index-D8UhtiJs.js",
+            "bytes": 161066
+          },
+          {
+            "path": "/assets/plus-DkoRHPIB.js",
+            "bytes": 503
+          },
+          {
+            "path": "/assets/AdminApp-DxZGHE4H.js",
+            "bytes": 42161
+          },
+          {
+            "path": "/assets/dist-DtuMx0jC.js",
+            "bytes": 55160
+          }
+        ],
+        "images": 0,
+        "supabase": 3,
+        "api": [
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/auth/v1/user",
+            "method": "GET",
+            "query": {}
+          },
+          {
+            "path": "/rest/v1/rpc/admin_cms_status",
+            "method": "POST",
+            "query": {}
+          }
+        ],
+        "usableMs": 1028,
+        "cls": 0.0011235475139853394
+      }
+    }
+  ]
+}

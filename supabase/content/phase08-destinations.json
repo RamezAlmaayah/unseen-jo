@@ -1,0 +1,1794 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "places": [
+    {
+      "slug": "petra",
+      "aliasNames": [
+        "Petra Archaeological Park",
+        "Wadi Musa"
+      ],
+      "aliasSlugs": [
+        "petra-archaeological-park",
+        "wadi-musa"
+      ],
+      "english": {
+        "name": "Petra",
+        "slug": "petra",
+        "description": "Petra brings together Nabataean engineering, carved sandstone façades and the remains of an ancient caravan city. The Siq leads towards the Treasury, while tombs, streets and the Monastery reveal a much larger landscape than a single monument. Its water-management works help explain how settlement flourished in this setting.\n\nChoose a route before setting out: a visit centred on the Treasury differs greatly from a day reaching the Monastery or higher trails. Use the visitor centre for current access and guide arrangements. The archaeological landscape is best understood on foot at a pace suited to the route, with time to observe its changing stone colours and architectural details.",
+        "city": "Wadi Musa",
+        "region": "Ma’an",
+        "address": "Wadi Musa, Ma’an, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/326/",
+        "latitude": 30.3243125,
+        "longitude": 35.4679375,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 240,
+        "duration_max_minutes": 480,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": "Site and visitor centre: 06:30–17:00, 2 October 2026–1 March 2027. Published summer schedule: 06:00–18:00, 2 March–1 October 2026. Confirm closures and trail-specific access before travel.",
+        "activities": "Walk the Siq and main archaeological trail\nObserve the Treasury and rock-cut tombs\nConsider the Monastery only with sufficient time and suitable access",
+        "visitor_information": "PDTRA lists 1 JOD for Jordanians; 10 for qualifying residents; 30 for Arab visitors; accommodated foreign visitors 50/55/60 for 1/2/3 consecutive days; non-accommodated day visitors 90. Eligibility documents apply. Guides, transport and Petra by Night are separate.\nEditorial planning estimate: 240–480 minutes, excluding travel and optional activities. This is not an official required visit duration.\nFollow official weather and flash-flood closures; do not enter a closed trail.\nLong routes include substantial walking and steps. Accessible services do not establish that every trail is step-free.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "البترا",
+        "description": "تجمع البترا بين براعة الأنباط في إدارة المياه والواجهات المنحوتة في الحجر الرملي وبقايا مدينة ازدهرت على طرق القوافل. يقود السيق إلى الخزنة، ثم تكشف المدافن والشوارع والدير عن موقع أوسع بكثير من معلم واحد. وتساعد منشآت المياه على فهم استقرار السكان في هذه البيئة.\n\nاختر مسارك قبل الانطلاق؛ فزيارة تقتصر على الخزنة تختلف كثيراً عن يوم يصل إلى الدير أو المسارات المرتفعة. استعن بمركز الزوار لمعرفة المسارات المتاحة وترتيبات الإرشاد. وخذ وقتك في ملاحظة ألوان الصخور والتفاصيل المعمارية، مع اختيار مسافة تناسب قدرتك على المشي.",
+        "city": "وادي موسى",
+        "region": "معان",
+        "address": "وادي موسى، محافظة معان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": "الموقع ومركز الزوار: 06:30–17:00 من 2 تشرين الأول 2026 إلى 1 آذار 2027. والجدول الصيفي المنشور: 06:00–18:00 من 2 آذار إلى 1 تشرين الأول 2026. تحقق من الإغلاقات وإتاحة المسار قبل السفر.",
+        "activities": "المشي في السيق والمسار الأثري الرئيسي\nتأمل الخزنة والمدافن المنحوتة\nاختيار مسار الدير عند توفر الوقت والقدرة وإمكانية الوصول",
+        "visitor_information": "تعرض سلطة البترا رسماً قدره دينار للأردنيين، و10 دنانير للمقيمين المستوفين للشروط، و30 للزوار العرب. وتبلغ تذاكر الأجانب المبيتِين 50 أو 55 أو 60 ديناراً ليوم أو يومين أو ثلاثة أيام متتالية، و90 ديناراً لزائر اليوم الواحد غير المبيت. تطبق شروط الإثبات، ولا تشمل هذه الأسعار الإرشاد أو النقل أو البترا ليلاً.\nتقدير تحريري للتخطيط: 240–480 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nالتزم بإغلاقات الطقس والسيول الرسمية ولا تدخل مساراً مغلقاً.\nتتضمن المسارات الطويلة مشياً ودرجات كثيرة، ولا تعني الخدمات المساعدة أن جميع المسارات خالية من الدرج.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "التزم بإغلاقات الطقس والسيول الرسمية ولا تدخل مساراً مغلقاً.\nتتضمن المسارات الطويلة مشياً ودرجات كثيرة، ولا تعني الخدمات المساعدة أن جميع المسارات خالية من الدرج."
+      },
+      "summary": "Petra brings together Nabataean engineering, carved sandstone façades and the remains of an ancient caravan city. The Siq leads towards the Treasury, while tombs, streets and the Monastery reveal a much larger landscape than a single monument. Its water-management works help explain how settlement flourished in this setting.",
+      "arSummary": "تجمع البترا بين براعة الأنباط في إدارة المياه والواجهات المنحوتة في الحجر الرملي وبقايا مدينة ازدهرت على طرق القوافل. يقود السيق إلى الخزنة، ثم تكشف المدافن والشوارع والدير عن موقع أوسع بكثير من معلم واحد. وتساعد منشآت المياه على فهم استقرار السكان في هذه البيئة.",
+      "categorySlugs": [
+        "history",
+        "culture",
+        "adventure"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "76c091cd-4de2-4c00-b579-d8470ddc07c1"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/petra/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/326/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://visitpetra.jo/en/Petrafees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://visitpetra.jo/en/Openinghours",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://international.visitjordan.com/wheretogo/petra/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB main-trail visitor-centre reference; not a surveyed entrance.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 240–480 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "89a25c7fb215e89ca0151c6130a263655f6193c208c3dd4d07bbc21b0c7b3eba",
+      "criticalBlockers": [],
+      "photos": [
+        "petra-1",
+        "petra-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "wadi-rum",
+      "aliasNames": [
+        "Wadi Rum",
+        "Wadi Rum Reserve"
+      ],
+      "aliasSlugs": [
+        "wadi-rum",
+        "wadi-rum-reserve"
+      ],
+      "english": {
+        "name": "Wadi Rum Protected Area",
+        "slug": "wadi-rum",
+        "description": "Wadi Rum is a protected desert landscape where sandstone cliffs and natural arches stand alongside traces of long human occupation. Inscriptions and archaeological remains give cultural depth to the scenery; UNESCO recognises the area for both its natural and cultural value.\n\nA visit can focus on landscape interpretation, a guided desert outing or the night sky through an appropriate operator. These are different experiences with separate arrangements and costs. Choose a licensed provider, agree the route and return arrangements, and treat the protected-area reference point as orientation rather than an arrival gate.",
+        "city": "Wadi Rum",
+        "region": "Aqaba",
+        "address": "Wadi Rum, Aqaba, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/1377/",
+        "latitude": 29.639722222222222,
+        "longitude": 35.43388888888889,
+        "primary_category_id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 180,
+        "duration_max_minutes": 360,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Guided landscape interpretation\nDesert vehicle outing with a licensed operator\nLearn about inscriptions and local cultural heritage",
+        "visitor_information": "The Ministry lists site entry at 1 JOD for Jordanians and 5 for foreign visitors. Vehicle tours, guides, camps and transfers are additional; confirm your applicable total.\nEditorial planning estimate: 180–360 minutes, excluding travel and optional activities. This is not an official required visit duration.\nArrange permitted desert access and a reliable return; the reserve-wide pin is not a visitor-centre gate.\nCarry water and sun protection. Do not assume an advertised activity is available on your travel date.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "محمية وادي رم",
+        "description": "وادي رم مشهد صحراوي محمي تتجاور فيه جروف الحجر الرملي والأقواس الطبيعية مع شواهد استيطان بشري طويل. وتضيف النقوش والبقايا الأثرية بعداً ثقافياً إلى جمال المكان، الذي تعترف اليونسكو بقيمته الطبيعية والثقافية معاً.\n\nيمكن أن تركز الزيارة على فهم التضاريس أو جولة صحراوية بإرشاد أو تأمل السماء مع جهة مناسبة. ولكل تجربة ترتيبات وتكاليف مستقلة. اختر جهة مرخصة واتفق على المسار والعودة، واستخدم نقطة المنطقة المحمية للاستدلال العام لا بوصفها بوابة وصول.",
+        "city": "وادي رم",
+        "region": "العقبة",
+        "address": "وادي رم، محافظة العقبة، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "التعرف إلى التضاريس مع مرشد\nجولة صحراوية بمركبة مع جهة مرخصة\nالتعرف إلى النقوش والتراث الثقافي المحلي",
+        "visitor_information": "تدرج الوزارة دخول الموقع بدينار للأردنيين و5 دنانير للأجانب. وتضاف تكاليف جولات المركبات والإرشاد والمخيمات والنقل؛ تحقق من الإجمالي الذي ينطبق عليك.\nتقدير تحريري للتخطيط: 180–360 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nرتب الدخول المسموح والعودة، فنقطة المنطقة المحمية ليست بوابة مركز الزوار.\nاحمل الماء ووسائل الوقاية من الشمس، ولا تفترض توفر النشاط في موعد زيارتك.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "رتب الدخول المسموح والعودة، فنقطة المنطقة المحمية ليست بوابة مركز الزوار.\nاحمل الماء ووسائل الوقاية من الشمس، ولا تفترض توفر النشاط في موعد زيارتك."
+      },
+      "summary": "Wadi Rum is a protected desert landscape where sandstone cliffs and natural arches stand alongside traces of long human occupation. Inscriptions and archaeological remains give cultural depth to the scenery; UNESCO recognises the area for both its natural and cultural value.",
+      "arSummary": "وادي رم مشهد صحراوي محمي تتجاور فيه جروف الحجر الرملي والأقواس الطبيعية مع شواهد استيطان بشري طويل. وتضيف النقوش والبقايا الأثرية بعداً ثقافياً إلى جمال المكان، الذي تعترف اليونسكو بقيمته الطبيعية والثقافية معاً.",
+      "categorySlugs": [
+        "nature",
+        "adventure",
+        "culture"
+      ],
+      "category_ids": [
+        "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "76c091cd-4de2-4c00-b579-d8470ddc07c1",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://whc.unesco.org/en/list/1377/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/1377/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://international.visitjordan.com/where-to-go/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "UNESCO protected-area reference, not the visitor centre or a campsite.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 180–360 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "fedb759dff18d8b7fc2edf037e0a2c00fe316b3c9b0ac02c0afebb3ca2ecb430",
+      "criticalBlockers": [],
+      "photos": [
+        "wadi-rum-1",
+        "wadi-rum-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "jerash-archaeological-city",
+      "aliasNames": [
+        "Jerash",
+        "Gerasa"
+      ],
+      "aliasSlugs": [
+        "jerash",
+        "gerasa"
+      ],
+      "english": {
+        "name": "Jerash Archaeological City",
+        "slug": "jerash-archaeological-city",
+        "description": "Jerash offers a broad archaeological walk through the streets and public spaces of an ancient city. The Oval Plaza, colonnades, theatres and temples help visitors understand how monumental buildings related to everyday urban life. Hadrian’s Arch forms another distinctive part of the archaeological landscape.\n\nRather than treating the site as a quick photograph stop, follow a route linking its main spaces and allow time for architectural details. The open grounds and changes in level make route selection important. Ask the visitor centre about current access, museum arrangements and any separately scheduled performances.",
+        "city": "Jerash",
+        "region": "Jerash",
+        "address": "Jerash, Jerash, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/jerash/",
+        "latitude": 32.2759375,
+        "longitude": 35.8914375,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 120,
+        "duration_max_minutes": 240,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Walk the Oval Plaza and colonnaded streets\nExplore accessible theatres and temple precincts\nObserve Hadrian’s Arch",
+        "visitor_information": "Ministry site-entry listing: Jordanians 0.50 JOD; foreign visitors 10 JOD, including the archaeological museum. Performances may have separate arrangements.\nEditorial planning estimate: 120–240 minutes, excluding travel and optional activities. This is not an official required visit duration.\nWear footwear suitable for uneven stone and steps.\nConfirm the open entrance and seasonal hours; museum and performance times may differ.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "مدينة جرش الأثرية",
+        "description": "تتيح جرش جولة أثرية واسعة في شوارع مدينة قديمة وساحاتها العامة. وتساعد الساحة البيضاوية والأعمدة والمسارح والمعابد على فهم علاقة المباني الكبيرة بالحياة اليومية في المدينة، فيما يشكل قوس هادريان معلماً مميزاً في المشهد الأثري.\n\nامنح الموقع وقتاً يتجاوز التقاط صورة سريعة، واختر مساراً يربط أهم ساحاته ومعالمه. فالمساحات المكشوفة واختلاف المناسيب يجعلان اختيار المسار مهماً. واسأل مركز الزوار عن مناطق الزيارة المتاحة وترتيبات المتحف وأي عروض تقام في مواعيد مستقلة.",
+        "city": "جرش",
+        "region": "جرش",
+        "address": "جرش، محافظة جرش، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "التجول في الساحة البيضاوية والشوارع المعمدة\nاستكشاف المسارح وساحات المعابد المتاحة\nتأمل قوس هادريان",
+        "visitor_information": "تدرج الوزارة دخول الموقع بـ0.50 دينار للأردنيين و10 دنانير للأجانب، شاملاً المتحف الأثري. وقد تخضع العروض لترتيبات مستقلة.\nتقدير تحريري للتخطيط: 120–240 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nارتد حذاء مناسباً للحجارة غير المستوية والدرج.\nتحقق من المدخل المتاح والساعات الموسمية؛ فقد تختلف أوقات المتحف والعروض.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "ارتد حذاء مناسباً للحجارة غير المستوية والدرج.\nتحقق من المدخل المتاح والساعات الموسمية؛ فقد تختلف أوقات المتحف والعروض."
+      },
+      "summary": "Jerash offers a broad archaeological walk through the streets and public spaces of an ancient city. The Oval Plaza, colonnades, theatres and temples help visitors understand how monumental buildings related to everyday urban life. Hadrian’s Arch forms another distinctive part of the archaeological landscape.",
+      "arSummary": "تتيح جرش جولة أثرية واسعة في شوارع مدينة قديمة وساحاتها العامة. وتساعد الساحة البيضاوية والأعمدة والمسارح والمعابد على فهم علاقة المباني الكبيرة بالحياة اليومية في المدينة، فيما يشكل قوس هادريان معلماً مميزاً في المشهد الأثري.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/jerash/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/jerash/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB archaeological-city reference repeated for several nearby attractions; not a surveyed gate.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 120–240 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "23b61849479d8a306fa788fafeb1fda8becb186879c2a6c1c0b48241683f1ad9",
+      "criticalBlockers": [],
+      "photos": [
+        "jerash-archaeological-city-1",
+        "jerash-archaeological-city-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "amman-citadel",
+      "aliasNames": [
+        "Citadel",
+        "Jabal Al Qalaa"
+      ],
+      "aliasSlugs": [
+        "citadel",
+        "jabal-al-qalaa"
+      ],
+      "english": {
+        "name": "Amman Citadel",
+        "slug": "amman-citadel",
+        "description": "Amman Citadel occupies a hill above the capital’s historic centre. Remains from different periods bring the city’s layered history into view, with the Temple of Hercules and the Umayyad Palace among its principal landmarks. Looking out over downtown helps connect the archaeological site with the living city below.\n\nExplore the open grounds at an unhurried pace and use the visible structures to compare different building traditions. Museum access should be checked separately rather than assumed from the outdoor visit. The hilltop setting and uneven surfaces call for a route that suits each visitor’s mobility.",
+        "city": "Amman",
+        "region": "Amman",
+        "address": "Amman, Amman, Jordan",
+        "source_url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+        "latitude": 31.9543125,
+        "longitude": 35.9354375,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Explore the Temple of Hercules remains\nObserve the Umayyad Palace complex\nEnjoy permitted viewpoints over central Amman",
+        "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm ticket conditions and current museum access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nHilltop paths include uneven ground; a full step-free route is not verified.\nConfirm current gate hours before planning an early or late visit.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "جبل القلعة",
+        "description": "يقع جبل القلعة على مرتفع فوق وسط عمّان التاريخي، وتكشف آثاره المتنوعة مراحل متعاقبة من تاريخ المدينة. ومن أبرز معالمه معبد هرقل والقصر الأموي، فيما تساعد الإطلالة على وسط البلد على ربط الموقع الأثري بالمدينة الحية أسفله.\n\nتجول بهدوء بين المعالم المفتوحة ولاحظ اختلاف أساليب البناء عبر العصور. وتحقق من إمكانية دخول المتحف بصورة مستقلة، بدلاً من افتراض توفره مع الجولة الخارجية. ويستدعي الموقع المرتفع والأسطح غير المستوية اختيار مسار يناسب قدرة كل زائر على الحركة.",
+        "city": "عمّان",
+        "region": "العاصمة — عمّان",
+        "address": "عمّان، محافظة العاصمة — عمّان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "استكشاف بقايا معبد هرقل\nتأمل مجمع القصر الأموي\nمشاهدة وسط عمّان من نقاط الإطلالة المسموحة",
+        "visitor_information": "تدرج الوزارة الرسوم بـ0.25 دينار للأردنيين و3 دنانير للأجانب. تحقق من شروط التذكرة وإتاحة المتحف حالياً.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nتتضمن المسارات أرضاً غير مستوية، ولم يُتحقق من مسار كامل خالٍ من الدرج.\nتحقق من ساعات البوابة الحالية قبل ترتيب زيارة مبكرة أو متأخرة.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "تتضمن المسارات أرضاً غير مستوية، ولم يُتحقق من مسار كامل خالٍ من الدرج.\nتحقق من ساعات البوابة الحالية قبل ترتيب زيارة مبكرة أو متأخرة."
+      },
+      "summary": "Amman Citadel occupies a hill above the capital’s historic centre. Remains from different periods bring the city’s layered history into view, with the Temple of Hercules and the Umayyad Palace among its principal landmarks. Looking out over downtown helps connect the archaeological site with the living city below.",
+      "arSummary": "يقع جبل القلعة على مرتفع فوق وسط عمّان التاريخي، وتكشف آثاره المتنوعة مراحل متعاقبة من تاريخ المدينة. ومن أبرز معالمه معبد هرقل والقصر الأموي، فيما تساعد الإطلالة على وسط البلد على ربط الموقع الأثري بالمدينة الحية أسفله.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/amman/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://international.visitjordan.com/wheretogo/amman/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB Citadel section map target; approximate site reference.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "3578ad64e17caa0f8526911cad6464f885f0498d0ebf96fa4efa4ccd92196070",
+      "criticalBlockers": [],
+      "photos": [
+        "amman-citadel-1"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "amman-roman-theatre",
+      "aliasNames": [
+        "Roman Theatre",
+        "Roman Theater Amman"
+      ],
+      "aliasSlugs": [
+        "roman-theatre",
+        "roman-theater-amman"
+      ],
+      "english": {
+        "name": "Amman Roman Theatre",
+        "slug": "amman-roman-theatre",
+        "description": "The Roman Theatre is one of downtown Amman’s most recognisable monuments. Its stone seating climbs into the hillside, illustrating the scale of public entertainment in the Roman city. The theatre dates to the second century CE and was designed for thousands of spectators.\n\nA visit combines close observation of the structure with the atmosphere of the surrounding city. Nearby heritage museums can add context when open, but their ticket and access arrangements should be checked. Choose how far to climb according to your comfort with the steep seating steps.",
+        "city": "Amman",
+        "region": "Amman",
+        "address": "Amman, Amman, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/amman/",
+        "latitude": 31.9516875,
+        "longitude": 35.9393125,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 45,
+        "duration_max_minutes": 90,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe the Roman theatre’s architecture\nExplore downtown surroundings\nVisit nearby heritage museums when access is confirmed",
+        "visitor_information": "The Ministry’s 0.25 JOD Jordanian / 2 JOD foreign listing refers to a theatre-associated museum entry. The current exact theatre ticket bundle is unconfirmed; do not assume that figure covers every access type.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nSeating steps are steep; a complete accessible route is not verified.\nEvents and museum opening arrangements may affect access.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "المدرج الروماني في عمّان",
+        "description": "يعد المدرج الروماني من أبرز معالم وسط عمّان، وتتدرج مقاعده الحجرية على سفح الجبل لتوضح حجم فضاءات العروض العامة في المدينة الرومانية. ويعود المدرج إلى القرن الثاني الميلادي، وقد صُمم لاستقبال آلاف المتفرجين.\n\nتجمع الزيارة بين تأمل البناء عن قرب والاستمتاع بأجواء وسط المدينة. ويمكن للمتاحف التراثية المجاورة أن تضيف سياقاً عند فتحها، مع ضرورة التحقق من تذاكرها وترتيبات دخولها. واختر مستوى الصعود وفق راحتك مع درجات المقاعد الشديدة الانحدار.",
+        "city": "عمّان",
+        "region": "العاصمة — عمّان",
+        "address": "عمّان، محافظة العاصمة — عمّان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "تأمل عمارة المدرج الروماني\nالتجول في محيط وسط البلد\nزيارة المتاحف التراثية المجاورة عند تأكيد إتاحتها",
+        "visitor_information": "يشير إدراج الوزارة البالغ 0.25 دينار للأردنيين ودينارين للأجانب إلى دخول متحف مرتبط بالمدرج. ولم يُؤكد نطاق تذكرة المدرج الحالية؛ فلا تفترض شمولها جميع أنواع الدخول.\nتقدير تحريري للتخطيط: 45–90 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nدرجات المقاعد شديدة الانحدار، ولم يُتحقق من مسار كامل ميسر للحركة.\nقد تؤثر الفعاليات وترتيبات فتح المتاحف في إمكانية الدخول.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "درجات المقاعد شديدة الانحدار، ولم يُتحقق من مسار كامل ميسر للحركة.\nقد تؤثر الفعاليات وترتيبات فتح المتاحف في إمكانية الدخول."
+      },
+      "summary": "The Roman Theatre is one of downtown Amman’s most recognisable monuments. Its stone seating climbs into the hillside, illustrating the scale of public entertainment in the Roman city. The theatre dates to the second century CE and was designed for thousands of spectators.",
+      "arSummary": "يعد المدرج الروماني من أبرز معالم وسط عمّان، وتتدرج مقاعده الحجرية على سفح الجبل لتوضح حجم فضاءات العروض العامة في المدينة الرومانية. ويعود المدرج إلى القرن الثاني الميلادي، وقد صُمم لاستقبال آلاف المتفرجين.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/amman/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/amman/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB Roman Theatre section map target; approximate site reference.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "cbe7839ec4c8458fd6dc211b7695d4c0b94dd7b2244ef3f9f68ec5a82673875c",
+      "criticalBlockers": [],
+      "photos": [
+        "amman-roman-theatre-1",
+        "amman-roman-theatre-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "madaba-st-georges-church",
+      "aliasNames": [
+        "Saint George Church",
+        "St George Church Madaba"
+      ],
+      "aliasSlugs": [
+        "saint-george-church",
+        "st-george-church-madaba"
+      ],
+      "english": {
+        "name": "St. George’s Church (Madaba Map)",
+        "slug": "madaba-st-georges-church",
+        "description": "St. George’s Greek Orthodox Church preserves surviving sections of the Madaba Map, a sixth-century mosaic depicting places in the region. Its small stones turn geography into an intricate work of art, making the church a distinctive introduction to Madaba’s mosaic heritage.\n\nTake time to look at the map’s arrangement and surviving details rather than rushing through the interior. This remains an active place of worship, so visitor access must fit around church practice. Other Madaba archaeological sites have separate management and should not be confused with the church ticket.",
+        "city": "Madaba",
+        "region": "Madaba",
+        "address": "Madaba, Madaba, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/madaba/",
+        "latitude": 31.71765,
+        "longitude": 35.7942,
+        "primary_category_id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 30,
+        "duration_max_minutes": 60,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe the surviving Madaba mosaic map\nLearn about mosaic imagery and regional geography",
+        "visitor_information": "Current church admission is unverified. Madaba Archaeological Park and museum prices do not establish this church’s fee.\nEditorial planning estimate: 30–60 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect worship, dress requirements and instructions about photography.\nConfirm tourist visiting times directly; worship schedules are not tourist opening hours.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "كنيسة القديس جاورجيوس (خارطة مادبا)",
+        "description": "تحتضن كنيسة القديس جاورجيوس للروم الأرثوذكس أجزاء باقية من خارطة مادبا الفسيفسائية التي تعود إلى القرن السادس الميلادي وتصور مواقع في المنطقة. وتحول الحجارة الصغيرة الجغرافيا إلى عمل فني دقيق، لتقدم الكنيسة مدخلاً مميزاً إلى تراث الفسيفساء في مادبا.\n\nتأنَّ في مشاهدة ترتيب الخارطة وتفاصيلها الباقية بدلاً من المرور السريع. وتظل الكنيسة مكان عبادة نشطاً، لذا ترتبط زيارة السياح بترتيباتها الدينية. أما المواقع الأثرية الأخرى في مادبا فلها إدارة وتذاكر مستقلة لا ينبغي الخلط بينها وبين دخول الكنيسة.",
+        "city": "مادبا",
+        "region": "مادبا",
+        "address": "مادبا، محافظة مادبا، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "تأمل الأجزاء الباقية من خارطة مادبا\nالتعرف إلى الصور الفسيفسائية وجغرافيا المنطقة",
+        "visitor_information": "رسوم دخول الكنيسة الحالية غير متحقق منها. ولا تثبت أسعار متنزه مادبا الأثري أو المتاحف رسوم هذه الكنيسة.\nتقدير تحريري للتخطيط: 30–60 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nاحترم العبادة وتعليمات اللباس والتصوير.\nتحقق من أوقات الزيارة السياحية مباشرة؛ فمواعيد الصلاة ليست ساعات فتح للسياح.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "احترم العبادة وتعليمات اللباس والتصوير.\nتحقق من أوقات الزيارة السياحية مباشرة؛ فمواعيد الصلاة ليست ساعات فتح للسياح."
+      },
+      "summary": "St. George’s Greek Orthodox Church preserves surviving sections of the Madaba Map, a sixth-century mosaic depicting places in the region. Its small stones turn geography into an intricate work of art, making the church a distinctive introduction to Madaba’s mosaic heritage.",
+      "arSummary": "تحتضن كنيسة القديس جاورجيوس للروم الأرثوذكس أجزاء باقية من خارطة مادبا الفسيفسائية التي تعود إلى القرن السادس الميلادي وتصور مواقع في المنطقة. وتحول الحجارة الصغيرة الجغرافيا إلى عمل فني دقيق، لتقدم الكنيسة مدخلاً مميزاً إلى تراث الفسيفساء في مادبا.",
+      "categorySlugs": [
+        "culture",
+        "history"
+      ],
+      "category_ids": [
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "2ca78305-d041-4108-b860-8f58d4d67338"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q1346870",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/madaba/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q1346870",
+            "checkedOn": "2026-10-21",
+            "method": "Geographic reference data cross-check"
+          }
+        ],
+        "coordinateQualification": "Mosaic-map reference from the geographic cross-check; approximate church location, not verified door access.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 30–60 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "3cf716ae535ae3805ae2a91f9f44d5590929babd9acc7c751dac1e8daa0fc50b",
+      "criticalBlockers": [],
+      "photos": [
+        "madaba-st-georges-church-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "mount-nebo",
+      "aliasNames": [
+        "Nebo",
+        "Mount Nebo Memorial"
+      ],
+      "aliasSlugs": [
+        "nebo",
+        "mount-nebo-memorial"
+      ],
+      "english": {
+        "name": "Mount Nebo",
+        "slug": "mount-nebo",
+        "description": "Mount Nebo is a hilltop pilgrimage and archaeological destination associated with the biblical tradition of Moses. The memorial church and its mosaics offer a way to explore the site’s religious and artistic heritage, while the outlook connects it to the Jordan Valley landscape.\n\nApproach the religious associations as traditions that give the place meaning to pilgrims, alongside the visible archaeological remains. Spend time with the mosaics before visiting the viewpoints. Distant views vary with visibility, and a clear view of particular landmarks cannot be promised.",
+        "city": "Faysaliyah, near Madaba",
+        "region": "Madaba",
+        "address": "Faysaliyah, near Madaba, Madaba, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/madaba/",
+        "latitude": 31.768088,
+        "longitude": 35.725703,
+        "primary_category_id": "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 90,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": "Operator-published seasonal hours: winter 08:00–16:30; summer 08:00–18:00. Seasonal changeover dates are not specified; confirm the applicable schedule.",
+        "activities": "Visit the Moses memorial church and mosaics when open\nObserve the Jordan Valley from permitted viewpoints",
+        "visitor_information": "The Custody of the Holy Land lists 3 JOD for non-residents and 0.50 JOD for residents. Confirm eligibility and the current charge with the sanctuary.\nEditorial planning estimate: 60–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect the sanctuary and current visiting arrangements.\nA complete accessible route and current parking arrangements are not verified.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "جبل نيبو",
+        "description": "جبل نيبو مقصد ديني وأثري يرتبط بالتقليد الكتابي للنبي موسى. وتتيح الكنيسة التذكارية وفسيفساؤها التعرف إلى التراث الديني والفني للموقع، فيما تربط الإطلالة المكان بمشهد غور الأردن.\n\nتعامل مع الارتباطات الدينية بوصفها تقاليد تمنح المكان معناه لدى الحجاج، إلى جانب الآثار المادية الظاهرة. وخصص وقتاً لمشاهدة الفسيفساء قبل الانتقال إلى نقاط الإطلالة. وتعتمد رؤية المعالم البعيدة على صفاء الجو، ولا يمكن ضمان ظهور معلم بعينه.",
+        "city": "الفيصلية قرب مادبا",
+        "region": "مادبا",
+        "address": "الفيصلية قرب مادبا، محافظة مادبا، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": "الساعات الموسمية المنشورة لدى الجهة المشغلة: شتاءً 08:00–16:30، وصيفاً 08:00–18:00. لم تحدد تواريخ الانتقال بين الموسمين؛ تحقق من الجدول المطبق.",
+        "activities": "زيارة كنيسة موسى التذكارية والفسيفساء عند فتحها\nمشاهدة غور الأردن من نقاط الإطلالة المسموحة",
+        "visitor_information": "تعرض حراسة الأراضي المقدسة رسماً قدره 3 دنانير لغير المقيمين و0.50 دينار للمقيمين. تحقق من شروط الاستحقاق والرسم الحالي لدى إدارة المزار.\nتقدير تحريري للتخطيط: 60–90 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nاحترم قدسية المزار وترتيبات الزيارة الحالية.\nلم يُتحقق من مسار كامل ميسر للحركة أو ترتيبات مواقف المركبات الحالية.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "احترم قدسية المزار وترتيبات الزيارة الحالية.\nلم يُتحقق من مسار كامل ميسر للحركة أو ترتيبات مواقف المركبات الحالية."
+      },
+      "summary": "Mount Nebo is a hilltop pilgrimage and archaeological destination associated with the biblical tradition of Moses. The memorial church and its mosaics offer a way to explore the site’s religious and artistic heritage, while the outlook connects it to the Jordan Valley landscape.",
+      "arSummary": "جبل نيبو مقصد ديني وأثري يرتبط بالتقليد الكتابي للنبي موسى. وتتيح الكنيسة التذكارية وفسيفساؤها التعرف إلى التراث الديني والفني للموقع، فيما تربط الإطلالة المكان بمشهد غور الأردن.",
+      "categorySlugs": [
+        "culture",
+        "history"
+      ],
+      "category_ids": [
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5",
+        "2ca78305-d041-4108-b860-8f58d4d67338"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/madaba/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "Operator embedded map reference agrees with JTB vicinity; not a surveyed gate.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–90 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "a9eb09de332548f118866ca0a6997b9ace2a80275670866efe31156eb74d0efe",
+      "criticalBlockers": [],
+      "photos": [
+        "mount-nebo-1",
+        "mount-nebo-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "al-maghtas-baptism-site",
+      "aliasNames": [
+        "Al Maghtas",
+        "Bethany Beyond the Jordan"
+      ],
+      "aliasSlugs": [
+        "al-maghtas",
+        "bethany-beyond-the-jordan"
+      ],
+      "english": {
+        "name": "Baptism Site (Al-Maghtas)",
+        "slug": "al-maghtas-baptism-site",
+        "description": "Al-Maghtas, also known as Bethany Beyond the Jordan, is a Christian pilgrimage and archaeological site on the Jordan River’s eastern bank. Churches, baptismal remains and other structures preserve the religious history of a landscape associated in Christian tradition with the baptism of Jesus.\n\nVisitor routes link archaeological interpretation with places of pilgrimage. Access is managed through a controlled entrance, so organise the visit with the site rather than attempting to reach the river independently. Religious ceremonies and ordinary sightseeing may require different arrangements.",
+        "city": "Jordan Valley",
+        "region": "Balqa",
+        "address": "Jordan Valley, Balqa, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/1446/",
+        "latitude": 31.83722222222222,
+        "longitude": 35.55277777777778,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 90,
+        "duration_max_minutes": 150,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": "Operator homepage: entry from 08:00; last entry 16:00 November–March and 17:00 April–October. Its contact page gives a generic 16:00 last entry; confirm the seasonal cut-off directly.",
+        "activities": "Follow the designated visitor or pilgrimage route\nObserve archaeological churches and baptismal remains",
+        "visitor_information": "Ministry baseline: Jordanians 3 JOD, other Arab nationalities 5 JOD, other foreign visitors 12 JOD. Confirm current visit type, inclusions and booking terms with the site.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse the controlled visitor entrance; the heritage reference pin is not its gate.\nWear modest clothing and follow the operator’s no-smoking and access instructions.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "موقع المغطس — بيت عنيا عبر الأردن",
+        "description": "المغطس، أو بيت عنيا عبر الأردن، موقع حج مسيحي وأثري على الضفة الشرقية لنهر الأردن. وتحفظ الكنائس وبقايا منشآت المعمودية وغيرها تاريخاً دينياً لمشهد يرتبط في التقليد المسيحي بمعمودية السيد المسيح.\n\nتربط مسارات الزوار بين فهم الآثار وأماكن الحج. ويُنظّم الدخول عبر بوابة مراقبة، لذلك رتب الزيارة مع إدارة الموقع بدلاً من محاولة الوصول إلى النهر بصورة مستقلة. وقد تختلف ترتيبات الطقوس الدينية عن الزيارة السياحية المعتادة.",
+        "city": "غور الأردن",
+        "region": "البلقاء",
+        "address": "غور الأردن، محافظة البلقاء، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": "تعرض الصفحة الرئيسية للمشغل بدء الدخول عند 08:00، وآخر دخول عند 16:00 من تشرين الثاني إلى آذار، و17:00 من نيسان إلى تشرين الأول. وتذكر صفحة التواصل آخر دخول عاماً عند 16:00؛ تحقق مباشرة من الحد الموسمي.",
+        "activities": "اتباع مسار الزوار أو الحج المعتمد\nتأمل الكنائس الأثرية وبقايا منشآت المعمودية",
+        "visitor_information": "الأساس المنشور لدى الوزارة: 3 دنانير للأردنيين و5 للجنسيات العربية الأخرى و12 للأجانب الآخرين. تحقق من نوع الزيارة ومشتملاتها وشروط الحجز الحالية.\nتقدير تحريري للتخطيط: 90–150 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nاستخدم بوابة الزوار المعتمدة؛ فنقطة التراث المرجعية لا تحدد البوابة.\nالتزم باللباس المحتشم وتعليمات منع التدخين والدخول لدى الإدارة.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "استخدم بوابة الزوار المعتمدة؛ فنقطة التراث المرجعية لا تحدد البوابة.\nالتزم باللباس المحتشم وتعليمات منع التدخين والدخول لدى الإدارة."
+      },
+      "summary": "Al-Maghtas, also known as Bethany Beyond the Jordan, is a Christian pilgrimage and archaeological site on the Jordan River’s eastern bank. Churches, baptismal remains and other structures preserve the religious history of a landscape associated in Christian tradition with the baptism of Jesus.",
+      "arSummary": "المغطس، أو بيت عنيا عبر الأردن، موقع حج مسيحي وأثري على الضفة الشرقية لنهر الأردن. وتحفظ الكنائس وبقايا منشآت المعمودية وغيرها تاريخاً دينياً لمشهد يرتبط في التقليد المسيحي بمعمودية السيد المسيح.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://whc.unesco.org/en/list/1446/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/1446/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://baptismsite.com/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://baptismsite.com/contact/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "UNESCO property reference; access is through a separate controlled visitor entrance.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation"
+        ],
+        "conflicts": [
+          "Homepage seasonal last-entry time differs from generic contact-page time."
+        ]
+      },
+      "contentHash": "1754cefe761b04e2d8ceaa096216b23d69f0a0899f9cde21e9bd4e7d51434d89",
+      "criticalBlockers": [],
+      "photos": [
+        "al-maghtas-baptism-site-1",
+        "al-maghtas-baptism-site-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "karak-castle",
+      "aliasNames": [
+        "Kerak Castle",
+        "Al Karak Castle"
+      ],
+      "aliasSlugs": [
+        "kerak-castle",
+        "al-karak-castle"
+      ],
+      "english": {
+        "name": "Karak Castle",
+        "slug": "karak-castle",
+        "description": "Karak Castle dominates the old town from a commanding hilltop position. Its vaulted halls, stone passages and defensive spaces invite visitors to consider how medieval fortifications were built into the landscape. The surrounding views help explain the importance of the site’s location.\n\nExplore the permitted areas slowly, paying attention to changes in level and light within the passages. A museum visit can add context when available, but museum hours should not be treated as the castle’s operating schedule. The experience suits a deliberate architectural walk rather than unsupervised exploration of every opening.",
+        "city": "Karak",
+        "region": "Karak",
+        "address": "Karak, Karak, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/karak/",
+        "latitude": 31.1809375,
+        "longitude": 35.7016875,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Explore open vaulted halls and passages\nObserve fortifications and surrounding views",
+        "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors, including the archaeological museum. Confirm current access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse designated routes; passages may be dim and surfaces uneven.\nCurrent castle hours, parking and a complete step-free route are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "قلعة الكرك",
+        "description": "تهيمن قلعة الكرك على البلدة القديمة من موقع مرتفع. وتدعو قاعاتها المقببة وممراتها الحجرية وفضاءاتها الدفاعية إلى تأمل كيفية توظيف التضاريس في بناء التحصينات خلال العصور الوسطى. وتوضح الإطلالات المحيطة أهمية اختيار موقعها.\n\nتجول ببطء في الأجزاء المسموحة، مع الانتباه إلى اختلاف المناسيب والإضاءة داخل الممرات. ويمكن للمتحف أن يضيف سياقاً عند إتاحته، لكن أوقاته لا تمثل بالضرورة ساعات فتح القلعة. والزيارة جولة معمارية مدروسة، لا استكشافاً غير مراقب لكل فتحة أو ممر.",
+        "city": "الكرك",
+        "region": "الكرك",
+        "address": "الكرك، محافظة الكرك، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "استكشاف القاعات المقببة والممرات المفتوحة\nتأمل التحصينات والإطلالات المحيطة",
+        "visitor_information": "تدرج الوزارة الرسوم بـ0.25 دينار للأردنيين ودينارين للأجانب، شاملاً المتحف الأثري. تحقق من إمكانية الدخول الحالية.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nاتبع المسارات المحددة؛ فقد تكون الممرات معتمة والأسطح غير مستوية.\nساعات القلعة الحالية والمواقف والمسار الكامل الخالي من الدرج غير متحقق منها.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "اتبع المسارات المحددة؛ فقد تكون الممرات معتمة والأسطح غير مستوية.\nساعات القلعة الحالية والمواقف والمسار الكامل الخالي من الدرج غير متحقق منها."
+      },
+      "summary": "Karak Castle dominates the old town from a commanding hilltop position. Its vaulted halls, stone passages and defensive spaces invite visitors to consider how medieval fortifications were built into the landscape. The surrounding views help explain the importance of the site’s location.",
+      "arSummary": "تهيمن قلعة الكرك على البلدة القديمة من موقع مرتفع. وتدعو قاعاتها المقببة وممراتها الحجرية وفضاءاتها الدفاعية إلى تأمل كيفية توظيف التضاريس في بناء التحصينات خلال العصور الوسطى. وتوضح الإطلالات المحيطة أهمية اختيار موقعها.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/karak/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/karak/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB castle section map target; museum and castle schedules must remain separate.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "daf6201a799de40dd7878c642fce652ca364bbeed11235ea925911d19b248cfa",
+      "criticalBlockers": [],
+      "photos": [
+        "karak-castle-1",
+        "karak-castle-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "shobak-castle",
+      "aliasNames": [
+        "Shoubak Castle",
+        "Montreal Castle"
+      ],
+      "aliasSlugs": [
+        "shoubak-castle",
+        "montreal-castle"
+      ],
+      "english": {
+        "name": "Shobak Castle",
+        "slug": "shobak-castle",
+        "description": "Shobak Castle, historically known as Montreal or Mont Royal, occupies a hilltop in southern Jordan. Founded in the medieval period, it preserves defensive walls and architectural remains that reward careful observation. Its exposed setting makes the surrounding landscape part of the experience.\n\nFollow the managed visitor route and compare the surviving spaces rather than assuming all passages are open. A visit can combine the castle’s history with photography from safe, permitted viewpoints. Check local access before arrival, particularly if planning to explore beyond the main open areas.",
+        "city": "Shobak",
+        "region": "Ma’an",
+        "address": "Shobak, Ma’an, Jordan",
+        "source_url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+        "latitude": 30.531389,
+        "longitude": 35.560833,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Explore open castle remains\nPhotograph the hilltop landscape from permitted paths",
+        "visitor_information": "Ministry listing: Jordanians 0.25 JOD; foreign visitors 1 JOD. Confirm the current ticket and access conditions.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not enter unmarked tunnels or unstable areas.\nCurrent gate hours, parking and accessible routes are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "قلعة الشوبك",
+        "description": "تقع قلعة الشوبك، المعروفة تاريخياً باسم مونتريال أو مونت رويال، على مرتفع في جنوب الأردن. ويرجع تأسيسها إلى العصور الوسطى، وتحتفظ بجدران دفاعية وبقايا معمارية تستحق التأمل. ويجعل موقعها المكشوف المشهد المحيط جزءاً من تجربة الزيارة.\n\nاتبع مسار الزوار المنظم وقارن بين الفراغات الباقية، بدلاً من افتراض فتح جميع الممرات. ويمكن الجمع بين التعرف إلى تاريخ القلعة والتصوير من نقاط آمنة ومسموحة. وتحقق من إتاحة الموقع قبل الوصول، خصوصاً إذا كنت تخطط لتجاوز الأجزاء الرئيسية المفتوحة.",
+        "city": "الشوبك",
+        "region": "معان",
+        "address": "الشوبك، محافظة معان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "استكشاف بقايا القلعة المفتوحة\nتصوير المشهد من المسارات المسموحة",
+        "visitor_information": "تدرج الوزارة الرسوم بـ0.25 دينار للأردنيين ودينار للأجانب. تحقق من التذكرة وشروط الدخول الحالية.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nلا تدخل الأنفاق غير المحددة أو الأجزاء غير المستقرة.\nساعات البوابة الحالية والمواقف والمسارات الميسرة غير متحقق منها.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "لا تدخل الأنفاق غير المحددة أو الأجزاء غير المستقرة.\nساعات البوابة الحالية والمواقف والمسارات الميسرة غير متحقق منها."
+      },
+      "summary": "Shobak Castle, historically known as Montreal or Mont Royal, occupies a hilltop in southern Jordan. Founded in the medieval period, it preserves defensive walls and architectural remains that reward careful observation. Its exposed setting makes the surrounding landscape part of the experience.",
+      "arSummary": "تقع قلعة الشوبك، المعروفة تاريخياً باسم مونتريال أو مونت رويال، على مرتفع في جنوب الأردن. ويرجع تأسيسها إلى العصور الوسطى، وتحتفظ بجدران دفاعية وبقايا معمارية تستحق التأمل. ويجعل موقعها المكشوف المشهد المحيط جزءاً من تجربة الزيارة.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q1362749",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q1362749",
+            "checkedOn": "2026-10-21",
+            "method": "Geographic reference data cross-check"
+          }
+        ],
+        "coordinateQualification": "Community geographic reference agrees with the vicinity of Jordan Pass castle imagery; not an entrance survey.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "7c115006dadd63ff90b4cb205da4c7a138d24eaed7352a717a0a5e2c23393342",
+      "criticalBlockers": [],
+      "photos": [
+        "shobak-castle-1",
+        "shobak-castle-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "quseir-amra",
+      "aliasNames": [
+        "Qusayr Amra",
+        "Qasr Amra"
+      ],
+      "aliasSlugs": [
+        "qusayr-amra",
+        "qasr-amra"
+      ],
+      "english": {
+        "name": "Quseir Amra",
+        "slug": "quseir-amra",
+        "description": "Quseir Amra is an Umayyad desert complex whose reception hall and bath preserve remarkable figurative wall paintings. The building offers an intimate encounter with early Islamic architecture and artistic life, and is recognised as a UNESCO World Heritage property.\n\nIts significance lies in details that require attentive viewing, not a long circuit of buildings. Observe the paintings from the permitted positions and follow conservation instructions. Access to individual rooms or photography may change with conservation work, so confirm what can be visited on the day.",
+        "city": "Eastern desert",
+        "region": "Zarqa",
+        "address": "Eastern desert, Zarqa, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/327",
+        "latitude": 31.801805555555557,
+        "longitude": 36.58730555555556,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 45,
+        "duration_max_minutes": 90,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe Umayyad architecture\nView conserved murals where access permits",
+        "visitor_information": "The Ministry groups Qasr Amra with desert castles at 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm the ticket’s current site coverage.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not touch painted surfaces; follow room-access and photography instructions.\nCurrent opening hours and step-free access have not been verified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "قصير عمرة",
+        "description": "قصير عمرة مجمع أموي صحراوي تحتفظ قاعة استقباله وحمّامه برسوم جدارية تصويرية مميزة. ويتيح المبنى التعرف عن قرب إلى العمارة والحياة الفنية في العصر الإسلامي المبكر، وهو مدرج على قائمة التراث العالمي لليونسكو.\n\nتكمن أهميته في تفاصيل تستحق المشاهدة المتأنية، لا في طول مسار بين مبانٍ كثيرة. تأمل الرسوم من المواضع المسموحة واتبع تعليمات الحفاظ عليها. وقد تتغير إتاحة بعض الغرف أو قواعد التصوير بسبب أعمال الصيانة، لذا تحقق مما يمكن زيارته في يوم وصولك.",
+        "city": "البادية الشرقية",
+        "region": "الزرقاء",
+        "address": "البادية الشرقية، محافظة الزرقاء، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "تأمل العمارة الأموية\nمشاهدة الرسوم المصانة حيث يسمح بالدخول",
+        "visitor_information": "تدرج الوزارة قصر عمرة ضمن القصور الصحراوية برسم 0.25 دينار للأردنيين و3 دنانير للأجانب. تحقق من المواقع التي تشملها التذكرة الحالية.\nتقدير تحريري للتخطيط: 45–90 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nلا تلمس الأسطح المرسومة، واتبع تعليمات الغرف والتصوير.\nلم يُتحقق من ساعات الفتح الحالية أو الدخول الخالي من الدرج.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "لا تلمس الأسطح المرسومة، واتبع تعليمات الغرف والتصوير.\nلم يُتحقق من ساعات الفتح الحالية أو الدخول الخالي من الدرج."
+      },
+      "summary": "Quseir Amra is an Umayyad desert complex whose reception hall and bath preserve remarkable figurative wall paintings. The building offers an intimate encounter with early Islamic architecture and artistic life, and is recognised as a UNESCO World Heritage property.",
+      "arSummary": "قصير عمرة مجمع أموي صحراوي تحتفظ قاعة استقباله وحمّامه برسوم جدارية تصويرية مميزة. ويتيح المبنى التعرف عن قرب إلى العمارة والحياة الفنية في العصر الإسلامي المبكر، وهو مدرج على قائمة التراث العالمي لليونسكو.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://whc.unesco.org/en/list/327/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/327",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://whc.unesco.org/en/list/327/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "UNESCO reference converted from DMS; no exact visitor entrance asserted.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "f94eea3cb3939f0b26ac5b0e4d40e57f0fc0216df6180669909241794cc5cab6",
+      "criticalBlockers": [],
+      "photos": [
+        "quseir-amra-1",
+        "quseir-amra-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "um-er-rasas",
+      "aliasNames": [
+        "Umm er Rasas",
+        "Umm ar Rasas"
+      ],
+      "aliasSlugs": [
+        "umm-er-rasas",
+        "umm-ar-rasas"
+      ],
+      "english": {
+        "name": "Um er-Rasas (Kastrom Mefa’a)",
+        "slug": "um-er-rasas",
+        "description": "Um er-Rasas preserves an archaeological landscape shaped by Roman, Byzantine and early Islamic occupation. The mosaics of St Stephen’s Church are a principal highlight, while church remains and the distinctive stylite towers reveal different aspects of religious life. UNESCO recognises the site’s exceptional heritage.\n\nThe site lies southeast of Madaba but administratively belongs to Amman Governorate’s Al-Jizah district. Follow the managed route to the mosaics and ruins, leaving unexcavated areas undisturbed. Access conditions and conservation work may limit particular structures; the reference point does not identify every entrance.",
+        "city": "Um er-Rasas",
+        "region": "Amman",
+        "address": "Um er-Rasas, Amman, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/1093/",
+        "latitude": 31.5013125,
+        "longitude": 35.9191875,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "View protected mosaics when open\nInterpret church remains and the stylite-tower landscape",
+        "visitor_information": "A current site-specific admission fee has not been verified. Do not assume free entry or substitute a Madaba museum ticket.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay on managed routes; UNESCO identifies structural risks and open trenches in parts of the property.\nDo not climb towers or enter unstable structures.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "أم الرصاص",
+        "description": "تحفظ أم الرصاص مشهداً أثرياً تشكل خلال العصور الرومانية والبيزنطية والإسلامية المبكرة. وتعد فسيفساء كنيسة القديس إسطفانوس من أبرز معالمها، فيما تكشف بقايا الكنائس وأبراج الرهبان النسّاك جوانب مختلفة من الحياة الدينية. وتعترف اليونسكو بقيمتها التراثية الاستثنائية.\n\nيقع الموقع جنوب شرقي مادبا، لكنه يتبع إدارياً لواء الجيزة في محافظة العاصمة عمّان. اتبع المسار المنظم نحو الفسيفساء والآثار، واترك الأجزاء غير المنقبة دون عبث. وقد تحد أعمال الحفاظ أو ظروف الموقع من زيارة بعض المباني؛ كما أن النقطة المرجعية لا تحدد جميع المداخل.",
+        "city": "أم الرصاص",
+        "region": "العاصمة — عمّان",
+        "address": "أم الرصاص، محافظة العاصمة — عمّان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "مشاهدة الفسيفساء المحمية عند فتحها\nالتعرف إلى بقايا الكنائس ومشهد أبراج النسّاك",
+        "visitor_information": "لم يُتحقق من رسم دخول حالي خاص بالموقع. لا تفترض مجانية الدخول ولا تستبدل به تذكرة متحف في مادبا.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nابقَ على المسارات المنظمة؛ إذ تشير اليونسكو إلى مخاطر إنشائية وحفر مكشوفة في أجزاء من الموقع.\nلا تتسلق الأبراج ولا تدخل المباني غير المستقرة.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "ابقَ على المسارات المنظمة؛ إذ تشير اليونسكو إلى مخاطر إنشائية وحفر مكشوفة في أجزاء من الموقع.\nلا تتسلق الأبراج ولا تدخل المباني غير المستقرة."
+      },
+      "summary": "Um er-Rasas preserves an archaeological landscape shaped by Roman, Byzantine and early Islamic occupation. The mosaics of St Stephen’s Church are a principal highlight, while church remains and the distinctive stylite towers reveal different aspects of religious life. UNESCO recognises the site’s exceptional heritage.",
+      "arSummary": "تحفظ أم الرصاص مشهداً أثرياً تشكل خلال العصور الرومانية والبيزنطية والإسلامية المبكرة. وتعد فسيفساء كنيسة القديس إسطفانوس من أبرز معالمها، فيما تكشف بقايا الكنائس وأبراج الرهبان النسّاك جوانب مختلفة من الحياة الدينية. وتعترف اليونسكو بقيمتها التراثية الاستثنائية.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://international.visitjordan.com/wheretogo/madaba/",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/1093/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://international.visitjordan.com/wheretogo/madaba/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://um-arrassas.gov.jo/ar/about-us/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.doa.gov.jo/AR/ListDetails/مواقع_أثرية/1145/8",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "JTB site reference; administrative governorate corrected using Jordanian government sources.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": [
+          "Dossier Madaba governorate corrected to Amman using municipality/Department of Antiquities."
+        ]
+      },
+      "contentHash": "ff856e1b117326a693a9793ee4d35930ec385fc669b01b1a2c6c7f9e558771ba",
+      "criticalBlockers": [],
+      "photos": [
+        "um-er-rasas-1",
+        "um-er-rasas-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "azraq-wetland-reserve",
+      "aliasNames": [
+        "Azraq Reserve"
+      ],
+      "aliasSlugs": [
+        "azraq-reserve"
+      ],
+      "english": {
+        "name": "Azraq Wetland Reserve",
+        "slug": "azraq-wetland-reserve",
+        "description": "Azraq Wetland Reserve protects an oasis ecosystem in Jordan’s eastern desert. Established by RSCN in 1978, it is an important place to understand wetland conservation and the movements of migratory birds. Water, vegetation and desert surroundings create a landscape unlike the country’s highland reserves.\n\nUse the approved wetland paths and observation points that are open during your visit. A slow, quiet approach gives more room for observing habitat and learning about restoration. Bird numbers and species vary; neither a particular sighting nor access to every route can be guaranteed.",
+        "city": "Azraq",
+        "region": "Zarqa",
+        "address": "Azraq, Zarqa, Jordan",
+        "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "latitude": 31.833909,
+        "longitude": 36.820555,
+        "primary_category_id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe wetland habitat and migratory birds\nWalk approved open paths\nLearn about oasis conservation",
+        "visitor_information": "Ministry entrance baseline: Jordanians 2.50 JOD, residents 6 JOD, foreign visitors 8 JOD, plus 16% tax. Confirm the current RSCN total and whether your chosen activity costs extra.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nBird sightings vary naturally; remain quiet and do not disturb wildlife.\nConfirm open paths, reservations, current hours and boardwalk accessibility with RSCN.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "محمية الأزرق المائية",
+        "description": "تحمي محمية الأزرق المائية نظام واحة رطبة في البادية الشرقية الأردنية. وقد أنشأتها الجمعية الملكية لحماية الطبيعة عام 1978، وهي مكان مهم لفهم حماية الأراضي الرطبة وحركة الطيور المهاجرة. وتمنح المياه والنباتات وسط الصحراء مشهداً يختلف عن محميات المرتفعات.\n\nاستخدم مسارات الأراضي الرطبة ونقاط المشاهدة المعتمدة المفتوحة أثناء زيارتك. فالتجول البطيء والهادئ يتيح ملاحظة الموائل والتعرف إلى جهود استعادتها. وتتغير أعداد الطيور وأنواعها، لذلك لا يمكن ضمان مشاهدة نوع محدد أو فتح جميع المسارات.",
+        "city": "الأزرق",
+        "region": "الزرقاء",
+        "address": "الأزرق، محافظة الزرقاء، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "مراقبة موائل الأراضي الرطبة والطيور المهاجرة\nالمشي على المسارات المعتمدة المفتوحة\nالتعرف إلى حماية الواحة",
+        "visitor_information": "الأساس المنشور لدى الوزارة: 2.50 دينار للأردنيين، و6 للمقيمين، و8 للأجانب، إضافة إلى ضريبة 16%. تحقق من الإجمالي الحالي لدى الجمعية وأي رسم مستقل للنشاط المختار.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nتختلف مشاهدة الطيور طبيعياً؛ حافظ على الهدوء ولا تزعج الحياة البرية.\nتحقق مع الجمعية من المسارات والحجز والساعات الحالية وسهولة استخدام الممرات الخشبية.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "تختلف مشاهدة الطيور طبيعياً؛ حافظ على الهدوء ولا تزعج الحياة البرية.\nتحقق مع الجمعية من المسارات والحجز والساعات الحالية وسهولة استخدام الممرات الخشبية."
+      },
+      "summary": "Azraq Wetland Reserve protects an oasis ecosystem in Jordan’s eastern desert. Established by RSCN in 1978, it is an important place to understand wetland conservation and the movements of migratory birds. Water, vegetation and desert surroundings create a landscape unlike the country’s highland reserves.",
+      "arSummary": "تحمي محمية الأزرق المائية نظام واحة رطبة في البادية الشرقية الأردنية. وقد أنشأتها الجمعية الملكية لحماية الطبيعة عام 1978، وهي مكان مهم لفهم حماية الأراضي الرطبة وحركة الطيور المهاجرة. وتمنح المياه والنباتات وسط الصحراء مشهداً يختلف عن محميات المرتفعات.",
+      "categorySlugs": [
+        "nature",
+        "photography"
+      ],
+      "category_ids": [
+        "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "cf40fa94-1b34-4096-b520-b36b25752fdb"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://edutravel.visitjordan.com/en",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://edutravel.visitjordan.com/en",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "Named JTB educational reserve link resolves to this location; reference only.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "5f986efb1510b6a490c23bbce5341107769c8a39917b83268e2a6d6bfc6ac274",
+      "criticalBlockers": [],
+      "photos": [
+        "azraq-wetland-reserve-1",
+        "azraq-wetland-reserve-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "shaumari-wildlife-reserve",
+      "aliasNames": [
+        "Shawmari Wildlife Reserve",
+        "Shaumari Reserve"
+      ],
+      "aliasSlugs": [
+        "shawmari-wildlife-reserve",
+        "shaumari-reserve"
+      ],
+      "english": {
+        "name": "Shaumari Wildlife Reserve",
+        "slug": "shaumari-wildlife-reserve",
+        "description": "Shaumari Wildlife Reserve is closely associated with Jordan’s efforts to conserve threatened desert wildlife, including the Arabian oryx. RSCN began establishing the reserve in 1975, creating a protected setting for conservation and breeding programmes.\n\nPlan a visit around an officially offered activity rather than assuming unrestricted access to the reserve. Guided observation and safari programmes provide different experiences and booking conditions. The opportunity is to learn about conservation and desert animals; sightings, encounters and a particular route remain subject to the operator’s arrangements.",
+        "city": "Azraq area",
+        "region": "Zarqa",
+        "address": "Azraq area, Zarqa, Jordan",
+        "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "latitude": 31.7448424,
+        "longitude": 36.7818916,
+        "primary_category_id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Join an available official guided wildlife activity\nLearn about Arabian oryx conservation",
+        "visitor_information": "RSCN’s 2026 tax-inclusive short safari lists 8/13/18 JOD and long safari 12/17/22 JOD for Jordanian/resident/non-Jordanian visitors respectively, including guiding and entry. These are activity packages, not the Ministry’s older entrance-only rates; confirm booking and availability.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nReserve the specific activity and confirm group requirements directly with RSCN.\nDo not approach or feed animals. Wildlife sightings are not guaranteed.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "محمية الشومري للأحياء البرية",
+        "description": "ترتبط محمية الشومري للأحياء البرية بجهود الأردن لحماية الأنواع الصحراوية المهددة، ومنها المها العربي. وبدأت الجمعية الملكية لحماية الطبيعة إنشاء المحمية عام 1975، لتوفر بيئة محمية لبرامج الحماية والإكثار.\n\nخطط للزيارة وفق نشاط تعرضه الإدارة رسمياً، بدلاً من افتراض حرية التجول في المحمية كلها. فلجولات المراقبة والسفاري المصحوبة بمرشد تجارب وشروط حجز مختلفة. والهدف التعرف إلى الحماية والحيوانات الصحراوية؛ أما المشاهدات والاقتراب والمسار المحدد فتخضع لترتيبات المشغل.",
+        "city": "منطقة الأزرق",
+        "region": "الزرقاء",
+        "address": "منطقة الأزرق، محافظة الزرقاء، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "المشاركة في نشاط رسمي متاح لمشاهدة الحياة البرية بإرشاد\nالتعرف إلى حماية المها العربي",
+        "visitor_information": "تدرج أسعار الجمعية لعام 2026، شاملة الضريبة، السفاري القصير بـ8 و13 و18 ديناراً، والطويل بـ12 و17 و22 ديناراً للأردني والمقيم وغير الأردني على الترتيب، مع الإرشاد والدخول. هذه باقات نشاط وليست رسوم الدخول الأقدم لدى الوزارة؛ تحقق من الحجز والتوفر.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nاحجز النشاط المحدد وتحقق من شروط المجموعة مباشرة مع الجمعية.\nلا تقترب من الحيوانات ولا تطعمها، ولا تُضمن مشاهدات بعينها.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "احجز النشاط المحدد وتحقق من شروط المجموعة مباشرة مع الجمعية.\nلا تقترب من الحيوانات ولا تطعمها، ولا تُضمن مشاهدات بعينها."
+      },
+      "summary": "Shaumari Wildlife Reserve is closely associated with Jordan’s efforts to conserve threatened desert wildlife, including the Arabian oryx. RSCN began establishing the reserve in 1975, creating a protected setting for conservation and breeding programmes.",
+      "arSummary": "ترتبط محمية الشومري للأحياء البرية بجهود الأردن لحماية الأنواع الصحراوية المهددة، ومنها المها العربي. وبدأت الجمعية الملكية لحماية الطبيعة إنشاء المحمية عام 1975، لتوفر بيئة محمية لبرامج الحماية والإكثار.",
+      "categorySlugs": [
+        "nature",
+        "photography"
+      ],
+      "category_ids": [
+        "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "cf40fa94-1b34-4096-b520-b36b25752fdb"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.rscn.org.jo/history?lang=en",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.rscn.org.jo/public/uploaded_files/reservation/Shaumari%20Wildlife%20Reserve%20Trails%202026.pdf",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "Named operator map target agrees with JTB reserve vicinity; reference only.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": [
+          "2026 tax-inclusive activity packages must not be replaced with Ministry entrance-only prices."
+        ]
+      },
+      "contentHash": "07e471dc0eac96fbca1dfb6fff17ab05df34d7638a1378d02222fa1f2e5191a5",
+      "criticalBlockers": [],
+      "photos": [
+        "shaumari-wildlife-reserve-1",
+        "shaumari-wildlife-reserve-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "pella-tabaqat-fahl",
+      "aliasNames": [
+        "Pella",
+        "Tabaqat Fahl"
+      ],
+      "aliasSlugs": [
+        "pella",
+        "tabaqat-fahl"
+      ],
+      "english": {
+        "name": "Pella (Tabaqat Fahl)",
+        "slug": "pella-tabaqat-fahl",
+        "description": "Pella, at Tabaqat Fahl in northern Jordan, is an archaeological landscape overlooking the Jordan Valley. Its layers of settlement include classical buildings, churches and early Islamic remains, offering a different experience from a single, fully reconstructed monument.\n\nA careful walk can connect the visible ruins with the hills and valley that shaped the settlement. Allow time to distinguish structures and read available interpretation rather than expecting every feature to be restored. The general site reference is not a verified entrance, and local access should be checked before travelling.",
+        "city": "Tabaqat Fahl",
+        "region": "Irbid",
+        "address": "Tabaqat Fahl, Irbid, Jordan",
+        "source_url": "https://international.visitjordan.com/wheretogo/pella/",
+        "latitude": 32.449809,
+        "longitude": 35.613423,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe archaeological layers and church remains\nPhotograph the Jordan Valley setting from permitted routes",
+        "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors. Confirm the current charge locally.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nThe map point is an approximate site reference; confirm the visitor entrance before setting out.\nUse established paths on uneven, exposed archaeological ground.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "طبقة فحل (بيلا)",
+        "description": "طبقة فحل، المعروفة أيضاً باسم بيلا، مشهد أثري في شمال الأردن يطل على وادي الأردن. وتضم طبقاته الاستيطانية مباني كلاسيكية وكنائس وآثاراً إسلامية مبكرة، لتقدم تجربة تختلف عن زيارة معلم واحد أعيد بناؤه بالكامل.\n\nتربط جولة متأنية بين الآثار الظاهرة والتلال والوادي اللذين شكلا الاستيطان. وخصص وقتاً لتمييز المباني وقراءة الشروح المتاحة، بدلاً من توقع ترميم كل معلم. والنقطة العامة للموقع ليست مدخلاً متحققاً منه؛ لذا تحقق من الدخول محلياً قبل السفر.",
+        "city": "طبقة فحل",
+        "region": "إربد",
+        "address": "طبقة فحل، محافظة إربد، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "تأمل الطبقات الأثرية وبقايا الكنائس\nتصوير مشهد وادي الأردن من المسارات المسموحة",
+        "visitor_information": "تدرج الوزارة الرسوم بـ0.25 دينار للأردنيين ودينارين للأجانب. تحقق من الرسم الحالي محلياً.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nنقطة الخريطة مرجع تقريبي للموقع؛ تحقق من مدخل الزوار قبل الانطلاق.\nاستخدم المسارات المعروفة في الأرض الأثرية المكشوفة وغير المستوية.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "نقطة الخريطة مرجع تقريبي للموقع؛ تحقق من مدخل الزوار قبل الانطلاق.\nاستخدم المسارات المعروفة في الأرض الأثرية المكشوفة وغير المستوية."
+      },
+      "summary": "Pella, at Tabaqat Fahl in northern Jordan, is an archaeological landscape overlooking the Jordan Valley. Its layers of settlement include classical buildings, churches and early Islamic remains, offering a different experience from a single, fully reconstructed monument.",
+      "arSummary": "طبقة فحل، المعروفة أيضاً باسم بيلا، مشهد أثري في شمال الأردن يطل على وادي الأردن. وتضم طبقاته الاستيطانية مباني كلاسيكية وكنائس وآثاراً إسلامية مبكرة، لتقدم تجربة تختلف عن زيارة معلم واحد أعيد بناؤه بالكامل.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q167993",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://international.visitjordan.com/wheretogo/pella/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q167993",
+            "checkedOn": "2026-10-21",
+            "method": "Geographic reference data cross-check"
+          }
+        ],
+        "coordinateQualification": "Approximate archaeological-area reference. JTB directions target near Amman was rejected; exact visitor arrival still needs confirmation.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": [
+          "JTB directions coordinates point near Amman and were rejected."
+        ]
+      },
+      "contentHash": "5c0cbc081af74592bd7ca3ec27a9d4d5f9369276c790ce7a13c9ba4a7a8a673c",
+      "criticalBlockers": [],
+      "photos": [
+        "pella-tabaqat-fahl-1"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "umm-al-jimal",
+      "aliasNames": [
+        "Umm el Jimal",
+        "Umm al Jamal"
+      ],
+      "aliasSlugs": [
+        "umm-el-jimal",
+        "umm-al-jamal"
+      ],
+      "english": {
+        "name": "Umm Al-Jimāl",
+        "slug": "umm-al-jimal",
+        "description": "Umm Al-Jimal’s dark basalt buildings preserve the character of a rural settlement that developed during the Byzantine and early Islamic periods. Houses, courtyards and religious structures illustrate local building traditions, while water-collection works reveal how the community adapted to its setting. The property entered the UNESCO World Heritage List in 2024.\n\nExplore the permitted routes with attention to the relationship between ordinary domestic spaces and larger structures. House 119 has been reconstructed as a visitor centre and museum, though current access needs confirmation. Fragile ruins require care: not every standing wall or upper storey is safe to approach.",
+        "city": "Umm Al-Jimal",
+        "region": "Mafraq",
+        "address": "Umm Al-Jimal, Mafraq, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/1721",
+        "latitude": 32.32694444444445,
+        "longitude": 36.37,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 90,
+        "duration_max_minutes": 150,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Observe basalt architecture and courtyards\nLearn about historic water collection\nVisit House 119 only when open",
+        "visitor_information": "The Ministry groups Umm Al-Jimal with other Mafraq sites at 0.25 JOD Jordanian / 2 JOD foreign entry. Exact applicability at this gate remains to be confirmed.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay out of unstable buildings and do not climb basalt walls.\nConfirm visitor-centre opening, route access and the current entrance.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "أم الجمال",
+        "description": "تحفظ مباني أم الجمال البازلتية الداكنة طابع مستوطنة ريفية تطورت في العصرين البيزنطي والإسلامي المبكر. وتوضح البيوت والأفنية والمباني الدينية تقاليد البناء المحلية، فيما تكشف منشآت جمع المياه تكيف المجتمع مع بيئته. وأدرج الموقع على قائمة التراث العالمي عام 2024.\n\nتجول في المسارات المسموحة ولاحظ العلاقة بين الفراغات المنزلية اليومية والمباني الأكبر. وقد أعيد بناء البيت 119 ليكون مركز زوار ومتحفاً، مع ضرورة تأكيد إتاحته حالياً. وتتطلب الآثار الهشة الحذر؛ فليس كل جدار قائم أو طابق علوي آمناً للاقتراب.",
+        "city": "أم الجمال",
+        "region": "المفرق",
+        "address": "أم الجمال، محافظة المفرق، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "تأمل العمارة البازلتية والأفنية\nالتعرف إلى جمع المياه تاريخياً\nزيارة البيت 119 عند فتحه فقط",
+        "visitor_information": "تدرج الوزارة أم الجمال ضمن مجموعة مواقع في المفرق برسم 0.25 دينار للأردنيين ودينارين للأجانب. وتبقى قابلية تطبيقه عند هذه البوابة بحاجة إلى تأكيد.\nتقدير تحريري للتخطيط: 90–150 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nابتعد عن المباني غير المستقرة ولا تتسلق الجدران البازلتية.\nتحقق من فتح مركز الزوار والمسارات والمدخل الحالي.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "ابتعد عن المباني غير المستقرة ولا تتسلق الجدران البازلتية.\nتحقق من فتح مركز الزوار والمسارات والمدخل الحالي."
+      },
+      "summary": "Umm Al-Jimal’s dark basalt buildings preserve the character of a rural settlement that developed during the Byzantine and early Islamic periods. Houses, courtyards and religious structures illustrate local building traditions, while water-collection works reveal how the community adapted to its setting. The property entered the UNESCO World Heritage List in 2024.",
+      "arSummary": "تحفظ مباني أم الجمال البازلتية الداكنة طابع مستوطنة ريفية تطورت في العصرين البيزنطي والإسلامي المبكر. وتوضح البيوت والأفنية والمباني الدينية تقاليد البناء المحلية، فيما تكشف منشآت جمع المياه تكيف المجتمع مع بيئته. وأدرج الموقع على قائمة التراث العالمي عام 2024.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://whc.unesco.org/en/list/1721",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/1721",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "UNESCO property reference converted from DMS; not the House 119 entrance.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "0a0ae7432245e0749ecbb25a84f417194ee715dcdc6cfeb720178c35b37b8eb1",
+      "criticalBlockers": [],
+      "photos": [
+        "umm-al-jimal-3"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "little-petra-siq-al-barid",
+      "aliasNames": [
+        "Little Petra",
+        "Siq al Barid"
+      ],
+      "aliasSlugs": [
+        "little-petra",
+        "siq-al-barid"
+      ],
+      "english": {
+        "name": "Little Petra (Siq Al-Barid)",
+        "slug": "little-petra-siq-al-barid",
+        "description": "Little Petra, or Siq Al-Barid, lies in Petra’s northern surroundings and is associated with Nabataean caravan activity. A smaller rock cleft leads among carved façades, dining halls and water-storage works, showing how travellers were accommodated outside the main city.\n\nThe compact setting invites close observation of architecture and the way rock, shade and water shaped the site. Treat this as a distinct visit rather than a substitute ticket for the main Petra park. Access to routes connecting towards the Monastery is a separate planning question requiring current operator guidance.",
+        "city": "Al-Bayda",
+        "region": "Ma’an",
+        "address": "Al-Bayda, Ma’an, Jordan",
+        "source_url": "https://visitpetra.jo/en/Location/137",
+        "latitude": 30.37527847,
+        "longitude": 35.45138931,
+        "primary_category_id": "2ca78305-d041-4108-b860-8f58d4d67338",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": 60,
+        "duration_max_minutes": 120,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": "Published schedules distinguish a general site listing of 06:30–17:00 from the Little Petra ticket office’s winter 07:00–14:00 (2 October 2026–1 March 2027). They are not interchangeable; confirm both access and ticket services with PDTRA.",
+        "activities": "Explore open rock-cut façades and dining halls\nObserve Nabataean water-storage features",
+        "visitor_information": "A current separate Little Petra admission fee has not been verified. Main Petra admission and any Back Trail or transfer arrangements must not be assumed to apply here.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nConfirm the site and ticket-office schedules separately before travelling.\nDo not enter onward trails without confirming ticket, guide and transport requirements.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "البترا الصغيرة (سيق البارد)",
+        "description": "تقع البترا الصغيرة، أو سيق البارد، في محيط البترا الشمالي وترتبط بنشاط القوافل النبطية. ويقود ممر صخري أصغر بين واجهات منحوتة وقاعات طعام ومنشآت لتخزين المياه، توضح كيفية استقبال المسافرين خارج المدينة الرئيسية.\n\nتدعو المساحة المتقاربة إلى تأمل العمارة ودور الصخور والظل والمياه في تشكيل الموقع. وتعامل معها كزيارة مستقلة، لا كتذكرة بديلة لمنتزه البترا الرئيسي. أما المسارات المتصلة باتجاه الدير فتحتاج إلى تخطيط منفصل وإرشاد حالي من المشغل.",
+        "city": "البيضاء",
+        "region": "معان",
+        "address": "البيضاء، محافظة معان، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": "تميز الجداول المنشورة بين ساعات عامة للموقع 06:30–17:00 وساعات مكتب تذاكر البترا الصغيرة شتاءً 07:00–14:00 من 2 تشرين الأول 2026 إلى 1 آذار 2027. لا يمثل أحدهما الآخر؛ تحقق من الدخول وخدمات التذاكر لدى السلطة.",
+        "activities": "استكشاف الواجهات وقاعات الطعام المفتوحة\nتأمل منشآت تخزين المياه النبطية",
+        "visitor_information": "لم يُتحقق من رسم دخول حالي مستقل للبترا الصغيرة. ولا يجوز افتراض انطباق تذكرة البترا الرئيسية أو ترتيبات المسار الخلفي والنقل هنا.\nتقدير تحريري للتخطيط: 60–120 دقيقة، دون وقت التنقل والأنشطة الاختيارية. وليست هذه مدة رسمية ملزمة للزيارة.\nتحقق من ساعات الموقع ومكتب التذاكر بصورة منفصلة قبل السفر.\nلا تدخل المسارات الممتدة دون التأكد من متطلبات التذكرة والإرشاد والنقل.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "تحقق من ساعات الموقع ومكتب التذاكر بصورة منفصلة قبل السفر.\nلا تدخل المسارات الممتدة دون التأكد من متطلبات التذكرة والإرشاد والنقل."
+      },
+      "summary": "Little Petra, or Siq Al-Barid, lies in Petra’s northern surroundings and is associated with Nabataean caravan activity. A smaller rock cleft leads among carved façades, dining halls and water-storage works, showing how travellers were accommodated outside the main city.",
+      "arSummary": "تقع البترا الصغيرة، أو سيق البارد، في محيط البترا الشمالي وترتبط بنشاط القوافل النبطية. ويقود ممر صخري أصغر بين واجهات منحوتة وقاعات طعام ومنشآت لتخزين المياه، توضح كيفية استقبال المسافرين خارج المدينة الرئيسية.",
+      "categorySlugs": [
+        "history",
+        "culture"
+      ],
+      "category_ids": [
+        "2ca78305-d041-4108-b860-8f58d4d67338",
+        "6ac69bce-0264-4cef-b6c7-438772b75ee5"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q2284751",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://visitpetra.jo/en/Location/137",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://visitpetra.jo/en/Openinghours",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://www.wikidata.org/wiki/Q2284751",
+            "checkedOn": "2026-10-21",
+            "method": "Geographic reference data cross-check"
+          }
+        ],
+        "coordinateQualification": "Community geographic reference for Siq Al-Barid; not a verified ticket office.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Editorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation"
+        ],
+        "conflicts": [
+          "Site hours and ticket-office hours differ; exact same-day availability remains operator-dependent."
+        ]
+      },
+      "contentHash": "9eddaeaf02019f46685512ebd6ff430f5b61ec0d31821b6a6105d183488e3f73",
+      "criticalBlockers": [],
+      "photos": [
+        "little-petra-siq-al-barid-1",
+        "little-petra-siq-al-barid-2"
+      ],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    },
+    {
+      "slug": "aqaba-marine-reserve",
+      "aliasNames": [
+        "Aqaba Marine Park"
+      ],
+      "aliasSlugs": [
+        "aqaba-marine-park"
+      ],
+      "english": {
+        "name": "Aqaba Marine Reserve",
+        "slug": "aqaba-marine-reserve",
+        "description": "Aqaba Marine Reserve protects a Red Sea landscape of coral reefs, seagrass and deeper reef habitats. UNESCO inscribed the property in 2026, recognising its ecological importance. It is a managed conservation area, not a single beach with one universal visitor entrance.\n\nUnderstanding the reserve means respecting the different purposes of its marine zones. Snorkelling or diving must be planned through authorised access points and suitable licensed services, with current rules confirmed before entering the water. An offshore heritage reference point is useful for understanding the area but must never be used as driving directions to a beach.",
+        "city": "South Aqaba coast",
+        "region": "Aqaba",
+        "address": "South Aqaba coast, Aqaba, Jordan",
+        "source_url": "https://whc.unesco.org/en/list/1742",
+        "latitude": 29.429722222222225,
+        "longitude": 34.97555555555556,
+        "primary_category_id": "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "price_min_jod": null,
+        "price_max_jod": null,
+        "duration_min_minutes": null,
+        "duration_max_minutes": null,
+        "best_time_to_visit": null,
+        "transportation_notes": "Current public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel.",
+        "suitable_groups": null,
+        "opening_hours": null,
+        "activities": "Learn about coral and seagrass conservation\nConsider permitted snorkelling or diving only after access is confirmed",
+        "visitor_information": "No universal reserve admission or activity price is verified. Charges depend on the authorised access point and chosen service.\nVisit duration depends on the authorised activity; no reserve-wide duration is established.\nUse a confirmed legal visitor access point and check the rules for the specific marine zone.\nDo not touch or collect coral or marine life. Use qualified guidance and observe marine restrictions.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+      },
+      "arabic": {
+        "name": "محمية العقبة البحرية",
+        "description": "تحمي محمية العقبة البحرية مشهداً من الشعاب المرجانية ومروج الأعشاب البحرية وموائل شعابية أعمق في البحر الأحمر. وقد أدرجتها اليونسكو عام 2026 تقديراً لأهميتها البيئية. وهي منطقة حفظ منظمة، وليست شاطئاً واحداً له مدخل موحد لجميع الزوار.\n\nيبدأ فهم المحمية باحترام الأغراض المختلفة لمناطقها البحرية. ويجب ترتيب السباحة بقناع الغطس أو الغوص عبر نقاط دخول معتمدة وخدمات مرخصة مناسبة، مع تأكيد القواعد الحالية قبل النزول إلى الماء. وتفيد النقطة التراثية البحرية في تحديد المنطقة عموماً، لكنها ليست اتجاهات قيادة إلى شاطئ.",
+        "city": "الساحل الجنوبي للعقبة",
+        "region": "العقبة",
+        "address": "الساحل الجنوبي للعقبة، محافظة العقبة، الأردن",
+        "best_time_to_visit": null,
+        "transportation_notes": "لم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "opening_hours": null,
+        "activities": "التعرف إلى حماية المرجان والأعشاب البحرية\nاختيار السباحة بقناع الغطس أو الغوص بعد تأكيد السماح بالدخول فقط",
+        "visitor_information": "لم يُتحقق من رسم موحد لدخول المحمية أو ممارسة الأنشطة. وتعتمد التكلفة على نقطة الدخول المعتمدة والخدمة المختارة.\nتعتمد مدة الزيارة على النشاط المسموح؛ ولم تُحدد مدة موحدة للمحمية.\nاستخدم نقطة دخول قانونية متحققاً منها، وراجع قواعد المنطقة البحرية المحددة.\nلا تلمس المرجان أو الكائنات البحرية ولا تجمعها، واستعن بإرشاد مؤهل والتزم بالقيود البحرية.\nساعات الزيارة السياحية الحالية غير متحقق منها؛ تحقق مع إدارة الموقع قبل السفر.\nلم يُتحقق بصورة مستقلة من خدمات النقل العام الحالية أو ترتيبات المواقف أو مسار كامل ميسر للحركة. تحقق مع إدارة الموقع قبل السفر.",
+        "visitor_guidance": "استخدم نقطة دخول قانونية متحققاً منها، وراجع قواعد المنطقة البحرية المحددة.\nلا تلمس المرجان أو الكائنات البحرية ولا تجمعها، واستعن بإرشاد مؤهل والتزم بالقيود البحرية."
+      },
+      "summary": "Aqaba Marine Reserve protects a Red Sea landscape of coral reefs, seagrass and deeper reef habitats. UNESCO inscribed the property in 2026, recognising its ecological importance. It is a managed conservation area, not a single beach with one universal visitor entrance.",
+      "arSummary": "تحمي محمية العقبة البحرية مشهداً من الشعاب المرجانية ومروج الأعشاب البحرية وموائل شعابية أعمق في البحر الأحمر. وقد أدرجتها اليونسكو عام 2026 تقديراً لأهميتها البيئية. وهي منطقة حفظ منظمة، وليست شاطئاً واحداً له مدخل موحد لجميع الزوار.",
+      "categorySlugs": [
+        "nature",
+        "adventure"
+      ],
+      "category_ids": [
+        "437effb5-2dff-4123-ab4f-a1bdbc275253",
+        "76c091cd-4de2-4c00-b579-d8470ddc07c1"
+      ],
+      "location_kind": "approximate_center",
+      "coordinateSource": "https://whc.unesco.org/en/list/1742",
+      "evidence": {
+        "method": "Automated primary-source research and bilingual editorial preparation; not personal administrator review",
+        "importBatch": "phase08-lite-20261021",
+        "dossierSha256": "3774a64ce4b0fffcc930123f69ceb89b58c99e2d62cf9ecd9b25921c92383d4a",
+        "sources": [
+          {
+            "url": "https://whc.unesco.org/en/list/1742",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://international.visitjordan.com/where-to-go/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://iucngreenlist.org/sites/aqaba-marine-reserve/",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          },
+          {
+            "url": "https://aseza.jo/EBV4.0/Root_Storage/AR/Aqaba_Marine_Reserve_Management_Plan_2022-2026.pdf",
+            "checkedOn": "2026-10-21",
+            "method": "Primary-source content inspection; retrieval failures and operator conflicts recorded in source register"
+          }
+        ],
+        "coordinateQualification": "UNESCO marine-property reference. Not usable as a road destination; publication remains blocked pending legal visitor access.",
+        "coordinateAccuracy": "Approximate reference; no surveyed metre accuracy or exact public entrance established",
+        "ratesQualification": "Published categories retained in visitor information; numeric prices remain NULL because one universal applicable price/total cost is not established",
+        "durationQualification": "Visit duration depends on the authorised activity; no reserve-wide duration is established.",
+        "unknowns": [
+          "Current public-transport timetable",
+          "Parking arrangements",
+          "Complete accessible route",
+          "Verified seasonal recommendation",
+          "Current tourist opening hours"
+        ],
+        "conflicts": []
+      },
+      "contentHash": "8332ddbab2d4fb967e290d47844a40fe864ee9844713493e20d773108d235919",
+      "criticalBlockers": [
+        "A legal visitor arrival point and the applicable marine zone/access rules have not been independently established.",
+        "No acquired, visually checked and rights-documented cover is ready."
+      ],
+      "photos": [],
+      "publicationPolicy": "Requires explicit batch review attestation and all backend checks; imported drafts have no review/rights approvals."
+    }
+  ]
+}

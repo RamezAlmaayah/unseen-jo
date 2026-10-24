@@ -1,0 +1,53 @@
+{
+  "scope": "Real browser + isolated Auth/REST/Storage fixtures. Does not claim genuine Admin acceptance or hosted publication.",
+  "results": [
+    {
+      "name": "One-click complete/resume/retry enables 24 private overlays with real browser WebP generation and byte checks",
+      "status": "passed",
+      "scope": "Isolated Auth/REST/Storage fixture; original-six fixture image bytes intentionally synthetic, not destination identity acceptance",
+      "overlays": 24,
+      "actuallyPublished": 6,
+      "uploads": 158,
+      "storageObjects": 192
+    },
+    {
+      "name": "Private Home/Explore/header+Arabic search/24 markers/details/favorites/My Discoveries/Surprise Me/Axe en 1366",
+      "status": "passed",
+      "detailPages": 24,
+      "scope": "Real UI; isolated authenticated Admin and hosted-shaped private catalog"
+    },
+    {
+      "name": "Private Home/Explore/header+Arabic search/24 markers/details/favorites/My Discoveries/Surprise Me/Axe en 390",
+      "status": "passed",
+      "detailPages": 4,
+      "scope": "Real UI; isolated authenticated Admin and hosted-shaped private catalog"
+    },
+    {
+      "name": "Private Home/Explore/header+Arabic search/24 markers/details/favorites/My Discoveries/Surprise Me/Axe ar-JO 1366",
+      "status": "passed",
+      "detailPages": 24,
+      "scope": "Real UI; isolated authenticated Admin and hosted-shaped private catalog"
+    },
+    {
+      "name": "Private Home/Explore/header+Arabic search/24 markers/details/favorites/My Discoveries/Surprise Me/Axe ar-JO 390",
+      "status": "passed",
+      "detailPages": 4,
+      "scope": "Real UI; isolated authenticated Admin and hosted-shaped private catalog"
+    },
+    {
+      "name": "Tab return preserves document/search/MapLibre/cache; Admin logout removes private records and restores public six",
+      "status": "passed",
+      "scope": "Isolated session; actual UI and Auth SDK sign-out, no real account logout"
+    },
+    {
+      "name": "Ordinary/denied Admin session cannot activate private catalog",
+      "status": "passed",
+      "scope": "Isolated browser/Auth/API fixtures"
+    },
+    {
+      "name": "Production preview ignores local prototype flag even with an Admin-shaped session",
+      "status": "passed",
+      "scope": "Isolated browser/Auth/API fixtures"
+    }
+  ]
+}

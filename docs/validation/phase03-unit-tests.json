@@ -1,0 +1,42 @@
+{
+  "scope": "Local mathematical, configuration and provenance assertions; not GPS/provider integration.",
+  "passed": 9,
+  "results": [
+    {
+      "name": "coordinates reject missing, strings, NaN, Infinity and out-of-map-range values",
+      "status": "passed"
+    },
+    {
+      "name": "Haversine identity, symmetry and sourced Amman–Salt straight-line distance",
+      "status": "passed"
+    },
+    {
+      "name": "nearby filtering excludes missing locations, sorts, handles no matches and preserves original array",
+      "status": "passed"
+    },
+    {
+      "name": "directions contain destination only and never generate travel times or unknown points",
+      "status": "passed"
+    },
+    {
+      "name": "all seven actual categories have custom marker configuration",
+      "status": "passed"
+    },
+    {
+      "name": "manual city centres have primary source provenance and map-valid points",
+      "status": "passed"
+    },
+    {
+      "name": "demo points are limited to sourced locations, never invented for missing reserves",
+      "status": "passed"
+    },
+    {
+      "name": "all geolocation failure codes offer a manual fallback",
+      "status": "passed"
+    },
+    {
+      "name": "custom style retains real vector/terrain/roads/POI/label sources and attribution",
+      "status": "passed"
+    }
+  ]
+}

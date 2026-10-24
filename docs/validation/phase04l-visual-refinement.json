@@ -1,0 +1,31 @@
+{
+  "scope": "Arabic public text placement within existing unmirrored artwork; scoped refinement after full bilingual suite",
+  "passed": 6,
+  "results": [
+    {
+      "name": "ar-JO-home-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-1440",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-home-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-820",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-home-390",
+      "status": "passed"
+    },
+    {
+      "name": "ar-JO-explore-390",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

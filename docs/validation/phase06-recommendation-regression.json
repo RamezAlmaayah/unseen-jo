@@ -1,0 +1,51 @@
+{
+  "base": "http://127.0.0.1:4190",
+  "results": [
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "en",
+      "width": 390,
+      "usableJourneyMs": 4779.3684,
+      "recommendationMs": 1920.7037000000005,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "genuine anonymous live Supabase, zero API mocking",
+      "language": "ar-JO",
+      "width": 390,
+      "usableJourneyMs": 3496.6040999999987,
+      "recommendationMs": 1386.562600000001,
+      "candidateRequests": 1,
+      "checks": "preferences → real result → favorite → live details → retained result → diverse again → strict unknown → explicit alternative → impossible constraints; tab stability; four axe scans",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "network",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "empty",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "single",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "sparse",
+      "status": "passed"
+    },
+    {
+      "scope": "intercepted fixture",
+      "kind": "expiry",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

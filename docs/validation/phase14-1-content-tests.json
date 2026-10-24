@@ -1,0 +1,25 @@
+{
+  "scope": "Local evidence/proposal integrity; semantic Arabic review is separately documented; no hosted writes",
+  "results": [
+    {
+      "name": "all 24 Published IDs/slugs and their relationships remain represented",
+      "status": "PASS"
+    },
+    {
+      "name": "exactly 18 pending and one stale Arabic proposal; five already-current rows excluded",
+      "status": "PASS"
+    },
+    {
+      "name": "complete bilingual field coverage, null parity, readable Arabic and retained paragraphs",
+      "status": "PASS"
+    },
+    {
+      "name": "no replacement characters, executable HTML, credentials or unsafe source URLs in proposals",
+      "status": "PASS"
+    },
+    {
+      "name": "all 17 missing public covers have a matching existing private, evidenced photo",
+      "status": "PASS"
+    }
+  ]
+}

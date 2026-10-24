@@ -1,0 +1,33 @@
+{
+  "scope": "Local genuine PostgreSQL migrations/RLS with synthetic test accounts/images; not hosted acceptance",
+  "results": [
+    {
+      "name": "24 distinct bilingual payloads contain every supported visitor field and explicit synthetic provenance",
+      "status": "passed"
+    },
+    {
+      "name": "JSONB comparison is order-independent but never ignores changed bilingual text or array order",
+      "status": "passed"
+    },
+    {
+      "name": "guest and ordinary users cannot save or read private prototype content; revoked Admin sessions fail",
+      "status": "passed"
+    },
+    {
+      "name": "real guarded RPC enables 24 complete overlays without changing source rows, translations or publication states",
+      "status": "passed"
+    },
+    {
+      "name": "stale source versions, incomplete translations, missing media and cross-place variants are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "24 private projections support Arabic/English search, complete cards and strict budget/time/transport/group matching",
+      "status": "passed"
+    },
+    {
+      "name": "private overlay rows remain invisible to ordinary accounts after Admin writes",
+      "status": "passed"
+    }
+  ]
+}

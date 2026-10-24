@@ -1,0 +1,7 @@
+{
+  "base": "http://127.0.0.1:4173",
+  "results": [],
+  "errors": [
+    "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('form button[type=\"submit\"]:not([disabled])') to be visible\u001b[22m\n"
+  ]
+}

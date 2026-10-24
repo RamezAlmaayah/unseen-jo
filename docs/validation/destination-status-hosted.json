@@ -1,0 +1,163 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "migration": {
+    "name": "simple_destination_status",
+    "version": "20261022174408",
+    "applied": true
+  },
+  "verification": {
+    "scope": "Hosted PostgreSQL authenticated-role/RLS verification; existing admin context set inside SQL, not a browser JWT session",
+    "results": [
+      {
+        "slug": "ajloun-forest",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "al-maghtas-baptism-site",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "amman-citadel",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "amman-roman-theatre",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "aqaba-marine-reserve",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "azraq-wetland-reserve",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "dana-reserve",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "iraq-al-amir",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "jerash-archaeological-city",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "karak-castle",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "little-petra-siq-al-barid",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "madaba-st-georges-church",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "mount-nebo",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "pella-tabaqat-fahl",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "petra",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "quseir-amra",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "salt-historic",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "shaumari-wildlife-reserve",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "shobak-castle",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "um-er-rasas",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "umm-al-jimal",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "umm-qais",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "wadi-mujib",
+        "passed": true,
+        "transitions": 7
+      },
+      {
+        "slug": "wadi-rum",
+        "passed": true,
+        "transitions": 7
+      }
+    ],
+    "transitions": 168,
+    "destinations": 24,
+    "originalPlacesHash": "435b07046f1f6d1038bca9966649fc70",
+    "testWritesRolledBack": true,
+    "publicVisibilityChecked": true,
+    "allSixDirectedTransitions": true
+  },
+  "preservation": {
+    "before": {
+      "count": 24,
+      "images": "f1f0e47d40e8ffa2de6e65a01cd52292",
+      "places": "435b07046f1f6d1038bca9966649fc70",
+      "reviews": "5c40d8a8aed1e7a67f058b113fbfee1e",
+      "storage": "29a3fd5212f016d73f0b2966bd0fbd21",
+      "overlays": "92277e9a8ea9bbf9a1e137cbcd64e9f7",
+      "categories": "b3ea1d69007e2b10774701703d7e8070",
+      "translations": "7d72732ee0d1897a9ae98ea138342611"
+    },
+    "after": {
+      "count": 24,
+      "images": "f1f0e47d40e8ffa2de6e65a01cd52292",
+      "places": "435b07046f1f6d1038bca9966649fc70",
+      "reviews": "5c40d8a8aed1e7a67f058b113fbfee1e",
+      "storage": "29a3fd5212f016d73f0b2966bd0fbd21",
+      "overlays": "92277e9a8ea9bbf9a1e137cbcd64e9f7",
+      "categories": "b3ea1d69007e2b10774701703d7e8070",
+      "translations": "7d72732ee0d1897a9ae98ea138342611"
+    },
+    "allIdentical": true
+  },
+  "browserScope": "Actual React/Chromium with isolated Auth/API fixtures; no connected signed-in Admin browser available"
+}

@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-24T15:59:38.559Z",
+  "scope": "Offline disposable PostgreSQL/PostGIS and local source restoration; synthetic users only. NOT a full hosted backup/restore drill.",
+  "hosted_writes": 0,
+  "results": [
+    {
+      "name": "current hosted legal dependencies, permissions and install fingerprints still match the audited baseline",
+      "status": "PASS"
+    },
+    {
+      "name": "failure injected after complete initialization rolls back all new legal objects and leaves existing fixture data unchanged",
+      "status": "PASS"
+    },
+    {
+      "name": "exact unchanged install succeeds after rollback, preserves existing data and seeds complete unapproved bilingual version-one drafts",
+      "status": "PASS"
+    },
+    {
+      "name": "scoped source recovery copies restore byte-for-byte into a disposable local directory",
+      "status": "PASS"
+    }
+  ]
+}

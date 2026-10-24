@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-21",
+  "scope": "Genuine hosted SELECT only. No migrations, writes or permission changes performed for search.",
+  "formula": "md5(jsonb_agg(to_jsonb(row) order by primary key)::text); Admin role filtered to role=admin",
+  "query": "select jsonb_build_object(\n'project','dkhwwvoplhfjccvjegty',\n'published',(select count(*) from public.places where status='published' and not is_demo),\n'drafts',(select count(*) from public.places where status='draft'),\n'images',(select count(*) from public.place_images),\n'roles',(select count(*) from public.user_roles),\n'admin_roles',(select count(*) from public.user_roles where role='admin'),\n'storage_objects',(select count(*) from storage.objects),\n'published_slugs',(select jsonb_agg(slug order by slug) from public.places where status='published' and not is_demo),\n'fingerprints',jsonb_build_object(\n'places',(select md5(jsonb_agg(to_jsonb(t) order by id)::text) from public.places t),\n'images',(select md5(jsonb_agg(to_jsonb(t) order by id)::text) from public.place_images t),\n'admin_roles',(select md5(jsonb_agg(to_jsonb(t) order by user_id)::text) from public.user_roles t where role='admin'),\n'storage_objects',(select md5(jsonb_agg(to_jsonb(t) order by id)::text) from storage.objects t),\n'storage_buckets',(select md5(jsonb_agg(to_jsonb(t) order by id)::text) from storage.buckets t),\n'translations',(select md5(jsonb_agg(to_jsonb(t) order by place_id,locale)::text) from public.place_translations t)),\n'rls',(select jsonb_object_agg(tablename,rowsecurity) from pg_tables where schemaname='public' and tablename in ('places','place_translations','profiles','user_roles','saved_places','user_visited_places','user_discovery_history'))) as preservation;",
+  "records": [
+    {
+      "preservation": {
+        "rls": {
+          "places": true,
+          "profiles": true,
+          "user_roles": true,
+          "saved_places": true,
+          "place_translations": true,
+          "user_visited_places": true,
+          "user_discovery_history": true
+        },
+        "roles": 3,
+        "drafts": 0,
+        "images": 13,
+        "project": "dkhwwvoplhfjccvjegty",
+        "published": 6,
+        "admin_roles": 1,
+        "fingerprints": {
+          "images": "cffd3bf3d2371f68682c346548f619b3",
+          "places": "f98a74f3b163c705ebc4051a913599d1",
+          "admin_roles": "1325eb35e9e9b1b13d6234de021d8021",
+          "translations": "ab50b2ddf3c7272b5395257266d15b20",
+          "storage_buckets": "15bde790cf4caaedda888be0cc19ee04",
+          "storage_objects": "ccab813c6f2dd36dbde4175dc67ae701"
+        },
+        "published_slugs": [
+          "ajloun-forest",
+          "dana-reserve",
+          "iraq-al-amir",
+          "salt-historic",
+          "umm-qais",
+          "wadi-mujib"
+        ],
+        "storage_objects": 15
+      }
+    }
+  ],
+  "comparison": {
+    "priorPhase06MatchingEntities": [
+      "places",
+      "images",
+      "admin_roles",
+      "storage_objects",
+      "storage_buckets"
+    ],
+    "translations": "Final validation fingerprint ab50b2ddf3c7272b5395257266d15b20 matches the earlier SELECT in this validation session. Historical reports used other aggregation formats/orderings; no cross-format comparison asserted."
+  }
+}

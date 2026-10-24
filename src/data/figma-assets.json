@@ -1,0 +1,1653 @@
+[
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/preferences/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "9:75",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle17",
+    "path": "/assets/figma/preferences/nature.png",
+    "placements": [
+      {
+        "nodeId": "10:190",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 23790,
+    "sha256": "d9c9ca40d1cd3e00b1311c103891329016ce285930fd7853cfcb048c373aa5f6",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle18",
+    "path": "/assets/figma/preferences/food.png",
+    "placements": [
+      {
+        "nodeId": "10:191",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 511,
+    "format": "png",
+    "bytes": 31678,
+    "sha256": "53946b638e6f6719831e28dc0c2a6402c41d7910c0f8b2450616091acdd4a6d0",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle19",
+    "path": "/assets/figma/preferences/history.png",
+    "placements": [
+      {
+        "nodeId": "10:192",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 16123,
+    "sha256": "4a901053068700b4f2bdcf8d20a4906dc0a05424d0bc5d5b29f49c977ab127f0",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle20",
+    "path": "/assets/figma/preferences/culture.png",
+    "placements": [
+      {
+        "nodeId": "10:193",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 23580,
+    "sha256": "2c2931ada186ef27fcf97a9578e1fd57d33c3115808b39a588290d0b52863b07",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle21",
+    "path": "/assets/figma/preferences/adventure.png",
+    "placements": [
+      {
+        "nodeId": "10:194",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13768,
+    "sha256": "57fcb648d60c77f83aa7ac8d0ddd9f8ba520d7792d5da65d39402fb3bb27667b",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle22",
+    "path": "/assets/figma/preferences/photography.png",
+    "placements": [
+      {
+        "nodeId": "10:195",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 19606,
+    "sha256": "82d45f8b0ee9c8caaf98c9be1deda44a5d7142b3da85bf861fbcb17f2eb4371d",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle23",
+    "path": "/assets/figma/preferences/family.png",
+    "placements": [
+      {
+        "nodeId": "10:196",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 29390,
+    "sha256": "300503eb969775ddeebb7054e62964f3254f6b53c4d5a81e5e47c259aeb60003",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle25",
+    "path": "/assets/figma/preferences/stopwatch.png",
+    "placements": [
+      {
+        "nodeId": "12:210",
+        "imageClass": "absolute h-[92.16%] left-0 max-w-none top-[3.92%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13943,
+    "sha256": "6d828696f724958b3c9f24574cd92d54b2c8c5d1b63e6f98b03a744cba82173c",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle26",
+    "path": "/assets/figma/preferences/companion.png",
+    "placements": [
+      {
+        "nodeId": "14:250",
+        "imageClass": "absolute h-[92.16%] left-0 max-w-none top-[3.92%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 14297,
+    "sha256": "f1f860587c9201580058fb850b0f344b399b188ec422a28b5f27d5040d764991",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle27",
+    "path": "/assets/figma/preferences/car.png",
+    "placements": [
+      {
+        "nodeId": "14:261",
+        "imageClass": "absolute h-[92.16%] left-0 max-w-none top-[3.92%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 11932,
+    "sha256": "053e3e90f2f337b5dacf12b7155fa1d3e46eec6d06b9bfd4b5d2402a064d60d8",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Rectangle9",
+    "path": "/assets/figma/preferences/location.png",
+    "placements": [
+      {
+        "nodeId": "10:143",
+        "imageClass": "absolute h-[94.2%] left-0 max-w-none top-[-0.72%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 10969,
+    "sha256": "7b5748d85ee07db5703ff24de411e55f3efa5e9d9092a910a40ce0accc5d1e11",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/preferences/profile.svg",
+    "placements": [
+      {
+        "nodeId": "9:83",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/preferences/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "9:117",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 247,
+    "sha256": "32ab90549878c6843ca98a67d36b788ef7522b54bf4a473b161e4e3fe484321a",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Line2",
+    "path": "/assets/figma/preferences/location-divider.svg",
+    "placements": [
+      {
+        "nodeId": "10:142",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 249,
+    "sha256": "e441d55f7b68ba5afdecd168ee4d4ed78805fa368dbcac08cc7a1a5442625284",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "preferences",
+    "frameId": "9:70",
+    "sourceLayer": "Line3",
+    "path": "/assets/figma/preferences/option-divider.svg",
+    "placements": [
+      {
+        "nodeId": "12:212",
+        "imageClass": "block max-w-none size-full"
+      },
+      {
+        "nodeId": "13:234",
+        "imageClass": "block max-w-none size-full"
+      },
+      {
+        "nodeId": "14:248",
+        "imageClass": "block max-w-none size-full"
+      },
+      {
+        "nodeId": "14:262",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 249,
+    "sha256": "094a67c3ac01cbd286a35d4ed9f2c0dd1fe3072f3e8d49c2b808e06637b76f10",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle44",
+    "path": "/assets/figma/explore/ajloun-card-original.jpg",
+    "placements": [
+      {
+        "nodeId": "14:452",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[15px] rounded-tr-[15px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 16429485,
+    "sha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 2731,
+    "height": 4096
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle45",
+    "path": "/assets/figma/explore/favorite.png",
+    "placements": [
+      {
+        "nodeId": "14:454",
+        "imageClass": "absolute h-[95.08%] left-[7.89%] max-w-none top-0 w-[78.95%]"
+      },
+      {
+        "nodeId": "I14:463;14:454",
+        "imageClass": "absolute h-[95.08%] left-[7.89%] max-w-none top-0 w-[78.95%]"
+      },
+      {
+        "nodeId": "I14:496;14:454",
+        "imageClass": "absolute h-[95.08%] left-[7.89%] max-w-none top-0 w-[78.95%]"
+      },
+      {
+        "nodeId": "I14:474;14:454",
+        "imageClass": "absolute h-[95.08%] left-[7.89%] max-w-none top-0 w-[78.95%]"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 17924,
+    "sha256": "2f513be6991d741169c1bf6babb038402e3ddf914066897b66089adfca4546a2",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle46",
+    "path": "/assets/figma/explore/travel-time.png",
+    "placements": [
+      {
+        "nodeId": "14:455",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:463;14:455",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:496;14:455",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:474;14:455",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13943,
+    "sha256": "6d828696f724958b3c9f24574cd92d54b2c8c5d1b63e6f98b03a744cba82173c",
+    "duplicateOf": "/assets/figma/preferences/stopwatch.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle47",
+    "path": "/assets/figma/explore/duration.png",
+    "placements": [
+      {
+        "nodeId": "14:456",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:463;14:456",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:496;14:456",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:474;14:456",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 12876,
+    "sha256": "40b5477c9d844df76fb904f8480f1903d9b915aa5632e75ed03758159a93989f",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle48",
+    "path": "/assets/figma/explore/cost.png",
+    "placements": [
+      {
+        "nodeId": "14:457",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:463;14:457",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:496;14:457",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      },
+      {
+        "nodeId": "I14:474;14:457",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 31844,
+    "sha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/explore/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "14:277",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle39",
+    "path": "/assets/figma/explore/jordan-map.png",
+    "placements": [
+      {
+        "nodeId": "14:378",
+        "imageClass": "absolute h-[129.85%] left-[-32.37%] max-w-none top-[-9.9%] w-[180.51%]"
+      }
+    ],
+    "width": 916,
+    "height": 1717,
+    "format": "png",
+    "bytes": 1146979,
+    "sha256": "95b96430d4188cb125e1cbf8f067bcaf76d88c9f893a8e985e3cac6bc4560309",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle41",
+    "path": "/assets/figma/explore/filters.png",
+    "placements": [
+      {
+        "nodeId": "14:394",
+        "imageClass": "absolute h-[86.96%] left-0 max-w-none top-[0.72%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 16184,
+    "sha256": "2d600b6d9450b85ab6c55c3da821c637e9a2373cf92a3f888a382611fdc5873c",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle49",
+    "path": "/assets/figma/explore/salt-historic.jpg",
+    "placements": [
+      {
+        "nodeId": "I14:463;14:452",
+        "imageClass": "absolute h-[192.18%] left-0 max-w-none top-[-62.07%] w-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 180486,
+    "sha256": "152ad7c022a81b692775ac144c594a8c6b4dd0bf6197663ba85e44fff030d2fa",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle50",
+    "path": "/assets/figma/explore/dana-biosphere-reserve.jpg",
+    "placements": [
+      {
+        "nodeId": "I14:496;14:452",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[15px] rounded-tr-[15px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 375223,
+    "sha256": "9ce701ea53a6698c2e77f7eadc8bfb2a2312356d1cb26d7a5cc1b78b637334c9",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 2048,
+    "height": 1365
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle51",
+    "path": "/assets/figma/explore/wadi-mujib-adventure.jpg",
+    "placements": [
+      {
+        "nodeId": "I14:474;14:452",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[15px] rounded-tr-[15px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 386101,
+    "sha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Rectangle6",
+    "path": "/assets/figma/explore/petra-promo-banner.png",
+    "placements": [
+      {
+        "nodeId": "14:507",
+        "imageClass": "absolute h-[158.81%] left-0 max-w-none top-[-33.41%] w-[99.95%]"
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "format": "png",
+    "bytes": 1665052,
+    "sha256": "d27dbca6fa73d469af46fcfcc2fe2da7cd01ff3bf016963d9711a4e7588db28e",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Ellipse2",
+    "path": "/assets/figma/explore/compass.png",
+    "placements": [
+      {
+        "nodeId": "14:508",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "width": 240,
+    "height": 216,
+    "format": "png",
+    "bytes": 62120,
+    "sha256": "71d3ac49e19cf1d0654d21b6fdd35d619a65ec083e80a27303e83aceb1adb771",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/explore/profile.svg",
+    "placements": [
+      {
+        "nodeId": "14:285",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "explore",
+    "frameId": "14:272",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/explore/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "14:288",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 247,
+    "sha256": "32ab90549878c6843ca98a67d36b788ef7522b54bf4a473b161e4e3fe484321a",
+    "duplicateOf": "/assets/figma/preferences/active-navigation.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle53",
+    "path": "/assets/figma/surprise/location.png",
+    "placements": [
+      {
+        "nodeId": "30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 10969,
+    "sha256": "7b5748d85ee07db5703ff24de411e55f3efa5e9d9092a910a40ce0accc5d1e11",
+    "duplicateOf": "/assets/figma/preferences/location.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/surprise/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "14:519",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle49",
+    "path": "/assets/figma/surprise/waterfall-hero.png",
+    "placements": [
+      {
+        "nodeId": "27:624",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-bl-[100px] rounded-br-[100px] size-full"
+      }
+    ],
+    "width": 824,
+    "height": 1024,
+    "format": "png",
+    "bytes": 1627763,
+    "sha256": "27229899d8d758e7a383e290aca75faafc18d0d0cf1c8dfb1262b7785ab6db19",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle54",
+    "path": "/assets/figma/surprise/stopwatch.png",
+    "placements": [
+      {
+        "nodeId": "I30:648;30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13943,
+    "sha256": "6d828696f724958b3c9f24574cd92d54b2c8c5d1b63e6f98b03a744cba82173c",
+    "duplicateOf": "/assets/figma/preferences/stopwatch.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle55",
+    "path": "/assets/figma/surprise/budget.png",
+    "placements": [
+      {
+        "nodeId": "I30:664;30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 11268,
+    "sha256": "18fd95d91734d08631058f35b49c3bf3eca1e888f42104973531626676ec7b20",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle56",
+    "path": "/assets/figma/surprise/interest.png",
+    "placements": [
+      {
+        "nodeId": "I30:680;30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 9212,
+    "sha256": "5644f13811c2a57b31896e6754208ef2f2fd79da94ed007de1ea767d4369f2c9",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle57",
+    "path": "/assets/figma/surprise/transportation.png",
+    "placements": [
+      {
+        "nodeId": "I30:688;30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 15224,
+    "sha256": "08b21eb43ab0cd3e98e1559233fbe254ff8de377691dc5c3e94b738ebc51ba7f",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle58",
+    "path": "/assets/figma/surprise/companions.png",
+    "placements": [
+      {
+        "nodeId": "I30:696;30:637",
+        "imageClass": "absolute h-[90.91%] left-0 max-w-none top-[9.09%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 29390,
+    "sha256": "300503eb969775ddeebb7054e62964f3254f6b53c4d5a81e5e47c259aeb60003",
+    "duplicateOf": "/assets/figma/preferences/family.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Rectangle59",
+    "path": "/assets/figma/surprise/surprise-action.png",
+    "placements": [
+      {
+        "nodeId": "30:759",
+        "imageClass": "absolute left-[5.56%] max-w-none size-[88.89%] top-[3.7%]"
+      }
+    ],
+    "width": 256,
+    "height": 256,
+    "format": "png",
+    "bytes": 16640,
+    "sha256": "433d085c7ef3d9acab0b5ac677a952ed0de8f35f714a2c1d0466f1332cf2f701",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/surprise/profile.svg",
+    "placements": [
+      {
+        "nodeId": "14:527",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "surprise",
+    "frameId": "14:514",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/surprise/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "14:530",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 247,
+    "sha256": "32ab90549878c6843ca98a67d36b788ef7522b54bf4a473b161e4e3fe484321a",
+    "duplicateOf": "/assets/figma/preferences/active-navigation.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/result/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "30:986",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle45",
+    "path": "/assets/figma/result/favorite.png",
+    "placements": [
+      {
+        "nodeId": "30:1102",
+        "imageClass": "absolute h-[95.08%] left-[7.89%] max-w-none top-0 w-[78.95%]"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 17924,
+    "sha256": "2f513be6991d741169c1bf6babb038402e3ddf914066897b66089adfca4546a2",
+    "duplicateOf": "/assets/figma/explore/favorite.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle56",
+    "path": "/assets/figma/result/ajloun-card-original.jpg",
+    "placements": [
+      {
+        "nodeId": "30:1100",
+        "imageClass": "absolute h-[137.81%] left-[-1.01%] max-w-none top-[-13.58%] w-[102.09%]"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 16429485,
+    "sha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "duplicateOf": "/assets/figma/explore/ajloun-card-original.jpg",
+    "status": "downloaded",
+    "width": 2731,
+    "height": 4096
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle46",
+    "path": "/assets/figma/result/travel-time.png",
+    "placements": [
+      {
+        "nodeId": "31:1104",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13943,
+    "sha256": "6d828696f724958b3c9f24574cd92d54b2c8c5d1b63e6f98b03a744cba82173c",
+    "duplicateOf": "/assets/figma/preferences/stopwatch.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle47",
+    "path": "/assets/figma/result/duration.png",
+    "placements": [
+      {
+        "nodeId": "31:1105",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 12876,
+    "sha256": "40b5477c9d844df76fb904f8480f1903d9b915aa5632e75ed03758159a93989f",
+    "duplicateOf": "/assets/figma/explore/duration.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Rectangle48",
+    "path": "/assets/figma/result/cost.png",
+    "placements": [
+      {
+        "nodeId": "31:1106",
+        "imageClass": "absolute h-[77.5%] left-[7.59%] max-w-none top-[14.37%] w-[78.48%]"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 31844,
+    "sha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "duplicateOf": "/assets/figma/explore/cost.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/result/profile.svg",
+    "placements": [
+      {
+        "nodeId": "30:994",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "result",
+    "frameId": "30:981",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/result/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "30:997",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 250,
+    "sha256": "386303f007c431053548097d91b1aa35d0af848d8125839d16207bd92ed48bc1",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/details/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "32:1133",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle58",
+    "path": "/assets/figma/details/ajloun-main.png",
+    "placements": [
+      {
+        "nodeId": "32:1226",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full"
+      }
+    ],
+    "width": 1920,
+    "height": 1080,
+    "format": "png",
+    "bytes": 4277947,
+    "sha256": "17a72745bc5ed48f7ebd412fe8e5fcb06c62f0d566c524855ef07f7ce991eb7a",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle59",
+    "path": "/assets/figma/details/ajloun-gallery-top.jpg",
+    "placements": [
+      {
+        "nodeId": "32:1227",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 12558332,
+    "sha256": "9e68c6794416b7f44df1492f28daf49238ee25ebcbec68bc9a861e0d296bbcc5",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 4096,
+    "height": 2731
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle60",
+    "path": "/assets/figma/details/ajloun-gallery-bottom.jpg",
+    "placements": [
+      {
+        "nodeId": "32:1230",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 12747711,
+    "sha256": "277ed9759e0f10730668bfb17e886070e68ec07065d8adb84923f092a9492543",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 4096,
+    "height": 2731
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle67",
+    "path": "/assets/figma/details/ajloun-location-map.png",
+    "placements": [
+      {
+        "nodeId": "34:1244",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-[30px] size-full"
+      }
+    ],
+    "width": 655,
+    "height": 406,
+    "format": "png",
+    "bytes": 406105,
+    "sha256": "5d480f04f0fdda97cbe3e422a84c355560e932c88d8fb7841095de738b240714",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle69",
+    "path": "/assets/figma/details/hidden-trails.jpg",
+    "placements": [
+      {
+        "nodeId": "34:1263",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 130262,
+    "sha256": "522a607237b2e9a1b5b753e236ac10b4a4bb0c7edbbd9cabf7a8f62fb6786b2f",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 923,
+    "height": 615
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle71",
+    "path": "/assets/figma/details/scenic-viewpoints.jpg",
+    "placements": [
+      {
+        "nodeId": "34:1267",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 37099,
+    "sha256": "99caa87181f9e137797ac3864f535095a2db8e61adaa96638612847f1486521c",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 820,
+    "height": 615
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Rectangle73",
+    "path": "/assets/figma/details/local-experiences.jpg",
+    "placements": [
+      {
+        "nodeId": "34:1272",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[20px] rounded-tr-[20px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 1243745,
+    "sha256": "e929a369e7bed7d936b352c3954bb443818247eafbad5503ba00cb85f778dc3d",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 3867,
+    "height": 2659
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/details/profile.svg",
+    "placements": [
+      {
+        "nodeId": "32:1141",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "details",
+    "frameId": "32:1128",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/details/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "32:1144",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 247,
+    "sha256": "32ab90549878c6843ca98a67d36b788ef7522b54bf4a473b161e4e3fe484321a",
+    "duplicateOf": "/assets/figma/preferences/active-navigation.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/discoveries/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "34:1288",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle75",
+    "path": "/assets/figma/discoveries/explorer-avatar.png",
+    "placements": [
+      {
+        "nodeId": "34:1321",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 1261,
+    "height": 1247,
+    "format": "png",
+    "bytes": 891548,
+    "sha256": "71030d66f4c57910271f31dc8f8467ed0761da09edc3b0306e44695a984323fc",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle76",
+    "path": "/assets/figma/discoveries/achievement-badges.png",
+    "placements": [
+      {
+        "nodeId": "36:1656",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none size-full"
+      }
+    ],
+    "width": 2172,
+    "height": 724,
+    "format": "png",
+    "bytes": 889911,
+    "sha256": "92349186a0d75476ac4c2e3a4049449445366efb268762170d29780af279335b",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle80",
+    "path": "/assets/figma/discoveries/ajloun-card-original.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1665",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[30px] rounded-tr-[30px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 85982,
+    "sha256": "b10c47fd2e60c65800c8b8ab348ed5a99a6804d16b47a4c5ae2e4b4eb80d6d3b",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 750,
+    "height": 750
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle86",
+    "path": "/assets/figma/discoveries/iraq-al-amir.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1672",
+        "imageClass": "absolute h-[184.7%] left-[0.09%] max-w-none top-[-74.99%] w-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 183018,
+    "sha256": "d8256e7a034cc05ad21fbde7659ebe3ce83cb2db04344eed81c666cc606ae692",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 1000,
+    "height": 666
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle81",
+    "path": "/assets/figma/discoveries/salt-historic.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1666",
+        "imageClass": "absolute h-[277.33%] left-[0.04%] max-w-none top-[-119%] w-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 180486,
+    "sha256": "152ad7c022a81b692775ac144c594a8c6b4dd0bf6197663ba85e44fff030d2fa",
+    "duplicateOf": "/assets/figma/explore/salt-historic.jpg",
+    "status": "downloaded",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle87",
+    "path": "/assets/figma/discoveries/dana-biosphere-reserve.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1673",
+        "imageClass": "absolute h-[184.84%] left-[0.09%] max-w-none top-[-14.52%] w-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 375223,
+    "sha256": "9ce701ea53a6698c2e77f7eadc8bfb2a2312356d1cb26d7a5cc1b78b637334c9",
+    "duplicateOf": "/assets/figma/explore/dana-biosphere-reserve.jpg",
+    "status": "downloaded",
+    "width": 2048,
+    "height": 1365
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle82",
+    "path": "/assets/figma/discoveries/wadi-mujib-adventure.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1668",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[30px] rounded-tr-[30px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 386101,
+    "sha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "duplicateOf": "/assets/figma/explore/wadi-mujib-adventure.jpg",
+    "status": "downloaded",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle88",
+    "path": "/assets/figma/discoveries/umm-qais.jpg",
+    "placements": [
+      {
+        "nodeId": "36:1674",
+        "imageClass": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[30px] rounded-tr-[30px] size-full"
+      }
+    ],
+    "format": "jpeg",
+    "bytes": 970627,
+    "sha256": "063ce7bf812f2afcd707bc1a22dbc61b9e58e5c242a40af8228e8fbdb7e9e1e5",
+    "duplicateOf": null,
+    "status": "downloaded",
+    "width": 2560,
+    "height": 1707
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle89",
+    "path": "/assets/figma/discoveries/duration.png",
+    "placements": [
+      {
+        "nodeId": "36:1676",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1683",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1685",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1690",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1695",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1700",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 13943,
+    "sha256": "6d828696f724958b3c9f24574cd92d54b2c8c5d1b63e6f98b03a744cba82173c",
+    "duplicateOf": "/assets/figma/preferences/stopwatch.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Rectangle90",
+    "path": "/assets/figma/discoveries/cost.png",
+    "placements": [
+      {
+        "nodeId": "36:1677",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1684",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1686",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1691",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1696",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      },
+      {
+        "nodeId": "36:1701",
+        "imageClass": "absolute h-[80.39%] left-0 max-w-none top-[12.75%] w-full"
+      }
+    ],
+    "width": 512,
+    "height": 512,
+    "format": "png",
+    "bytes": 31844,
+    "sha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "duplicateOf": "/assets/figma/explore/cost.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/discoveries/profile.svg",
+    "placements": [
+      {
+        "nodeId": "34:1296",
+        "imageClass": "absolute block inset-0 max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Line1",
+    "path": "/assets/figma/discoveries/active-navigation.svg",
+    "placements": [
+      {
+        "nodeId": "34:1299",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 250,
+    "sha256": "386303f007c431053548097d91b1aa35d0af848d8125839d16207bd92ed48bc1",
+    "duplicateOf": "/assets/figma/result/active-navigation.svg",
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Line7",
+    "path": "/assets/figma/discoveries/tab-divider.svg",
+    "placements": [
+      {
+        "nodeId": "36:1659",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 262,
+    "sha256": "d028c866c1829f53469f5b01d74c38b01b5725a554636de0623241cb4b3d5e7f",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "discoveries",
+    "frameId": "34:1283",
+    "sourceLayer": "Line2",
+    "path": "/assets/figma/discoveries/active-tab.svg",
+    "placements": [
+      {
+        "nodeId": "36:1660",
+        "imageClass": "block max-w-none size-full"
+      }
+    ],
+    "format": "svg",
+    "bytes": 262,
+    "sha256": "abcb413e8d310d301f1c96e978a64a635632ef2a1acd5a42332e3733af71322a",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle1",
+    "path": "/assets/figma/landing/brand-logo.png",
+    "placements": [
+      {
+        "nodeId": "2:2",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "bytes": 639938,
+    "sha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "duplicateOf": "/assets/figma/preferences/brand-logo.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle2",
+    "path": "/assets/figma/landing/landscape-hero.png",
+    "placements": [
+      {
+        "nodeId": "6:30",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "width": 1859,
+    "height": 846,
+    "format": "png",
+    "bytes": 1537207,
+    "sha256": "88959fa63ce5221bc2d3ecc377ff6074178088c7dc132a5265ceba4e60f520ea",
+    "duplicateOf": null,
+    "status": "downloaded"
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle5",
+    "path": "/assets/figma/landing/wadi-mujib-card-first-original.jpg",
+    "placements": [
+      {
+        "nodeId": "8:45",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "format": "jpeg",
+    "bytes": 16429485,
+    "sha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "duplicateOf": "/assets/figma/explore/ajloun-card-original.jpg",
+    "status": "downloaded",
+    "width": 2731,
+    "height": 4096
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle6",
+    "path": "/assets/figma/landing/iraq-al-amir.jpg",
+    "placements": [
+      {
+        "nodeId": "I8:50;8:45",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "format": "jpeg",
+    "bytes": 183018,
+    "sha256": "d8256e7a034cc05ad21fbde7659ebe3ce83cb2db04344eed81c666cc606ae692",
+    "duplicateOf": "/assets/figma/discoveries/iraq-al-amir.jpg",
+    "status": "downloaded",
+    "width": 1000,
+    "height": 666
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle7",
+    "path": "/assets/figma/landing/wadi-mujib-card-third-original.jpg",
+    "placements": [
+      {
+        "nodeId": "I8:55;8:45",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "format": "jpeg",
+    "bytes": 386101,
+    "sha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "duplicateOf": "/assets/figma/explore/wadi-mujib-adventure.jpg",
+    "status": "downloaded",
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Rectangle8",
+    "path": "/assets/figma/landing/petra-promo-banner.png",
+    "placements": [
+      {
+        "nodeId": "9:61",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "width": 2172,
+    "height": 724,
+    "format": "png",
+    "bytes": 1665052,
+    "sha256": "d27dbca6fa73d469af46fcfcc2fe2da7cd01ff3bf016963d9711a4e7588db28e",
+    "duplicateOf": "/assets/figma/explore/petra-promo-banner.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Ellipse2",
+    "path": "/assets/figma/landing/compass.png",
+    "placements": [
+      {
+        "nodeId": "9:63",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "width": 240,
+    "height": 216,
+    "format": "png",
+    "bytes": 62120,
+    "sha256": "71d3ac49e19cf1d0654d21b6fdd35d619a65ec083e80a27303e83aceb1adb771",
+    "duplicateOf": "/assets/figma/explore/compass.png",
+    "status": "downloaded"
+  },
+  {
+    "screen": "landing",
+    "frameId": "1:2",
+    "sourceLayer": "Group1",
+    "path": "/assets/figma/landing/profile.svg",
+    "placements": [
+      {
+        "nodeId": "3:27",
+        "imageClass": null
+      }
+    ],
+    "note": "Source captured during earlier successful MCP inspection in this conversation.",
+    "format": "svg",
+    "bytes": 772,
+    "sha256": "78a292463f0780011572bda5c58a525bcb2221f16b6d65a40c8ea5ccf1ce0fa2",
+    "duplicateOf": "/assets/figma/preferences/profile.svg",
+    "status": "downloaded"
+  }
+]

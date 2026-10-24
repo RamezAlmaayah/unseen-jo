@@ -1,0 +1,924 @@
+{
+  "slug": "karak-castle",
+  "query": "Karak Castle",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Karak+Castle+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:20.947Z",
+  "rows": [
+    {
+      "title": "File:Kerak BW 1.JPG",
+      "pageid": 8536075,
+      "revision": 1163793603,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Kerak}}\n{{fr|Château fort et ville d'Al-Karak en Jordanie}}\n{{de|Kerak}}\n{{ar|1= [[:ar:قلعة الكرك|قلعة الكرك]] في [[:ar:الكرك|الكرك]] - [[الأردن|الأردن]].}}\n|Source={{own}}\n|Date=2009-11-09\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions={{Image extracted|1=Kerak BW 1 (cropped).JPG}}\n|other fields={{OSMLink|type=way|OSM_ID=350877997}}\n}}\n{{Object location|31.1804841|35.7016692|source:OSM}}\n{{Location|31|10|50.44|N|35|42|36.24|E|alt:986.48_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n{{VI|[[:Category:Karak castle|Karak castle]]|00:12, 30 December 2009 (UTC)|\nsubpage=Kerak BW 1.JPG}}\n\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Burgen Festungen Schlösser Villen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:External of Karak castle]]\n[[Category:Valued images of Jordan]]\n\n[[Category:Unassessed QI candidates by User:Berthold Werner]]\n[[Category:Valued images by User:Berthold Werner]]\n[[Category:Jordan photographs taken on 2009-11-09]]\n[[Category:Karak]]",
+      "size": 4311111,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kerak_BW_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kerak_BW_1.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8536075",
+      "sha1": "79942eb6a35b88e682c52ff57e9a472577a97a8c",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-11-22 16:40:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kerak BW 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|Karak|License migration redundant|Self-published work|Images with extracted images|Unassessed QI candidates by User:Berthold Werner|On OSM|Files with coordinates missing SDC location of creation|Jordan photographs taken on 2009-11-09|Photographs by User:Berthold Werner/Themen/Burgen Festungen Schlösser Villen|External of Karak castle|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.180484",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.701669",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Kerak",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Z Karak Castle 11.jpg",
+      "pageid": 28760674,
+      "revision": 1232620699,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description=\n|date=2013-06-07 14:17:45\n|source={{own}}\n|author=[[User:Freedom's Falcon|Freedom's Falcon]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n{{Wiki Loves Monuments 2013|jo}}\n[[Category:Karak castle]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Taken with Samsung GT-I9100]]\n[[Category:Jordan photographs taken on 2013-06-07]]",
+      "size": 3003944,
+      "width": 2448,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Z_Karak_Castle_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Z_Karak_Castle_11.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28760674",
+      "sha1": "5c0a0f634445a4fe31b2b2225e4ce7adce95721b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-30 16:27:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Z Karak Castle 11",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media lacking a description|Karak castle|Self-published work|Taken with Samsung GT-I9100|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2013-06-07|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "DateTimeOriginal": {
+          "value": "2013-06-07 14:17:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Freedom%27s_Falcon\" title=\"User:Freedom's Falcon\">Freedom's Falcon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Karak Castle 4.jpg",
+      "pageid": 28776556,
+      "revision": 1225987812,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description=\n|date=2008-01-07 06:30:30\n|source={{own}}\n|author=[[User:JoTB|JoTB]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n{{Wiki Loves Monuments 2013|jo}}\n[[Category:Karak castle]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Jordan photographs taken on 2008-01-07]]",
+      "size": 6774786,
+      "width": 1295,
+      "height": 2008,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Karak_Castle_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karak_Castle_4.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28776556",
+      "sha1": "6998b847eb0fed8bff9798b1fbb482da5a49898d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-30 19:55:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karak Castle 4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media lacking a description|Karak castle|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2008-01-07|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "DateTimeOriginal": {
+          "value": "2008-01-07 06:30:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Karak Castle 2.jpg",
+      "pageid": 28777208,
+      "revision": 1225987797,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1= قلعة الكرك في الأردن}}\n{{Cultural Heritage Jordan|KA-01}}\n|date=2008-01-07 06:34:05\n|source={{own}}\n|author=[[User:JoTB|JoTB]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n{{Wiki Loves Monuments 2013|jo}}\n[[Category:External of Karak castle]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Winners of Wiki Loves Monuments 2013 in Jordan]]",
+      "size": 2385371,
+      "width": 2008,
+      "height": 1340,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Karak_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karak_Castle_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28777208",
+      "sha1": "0c25eac59e10baf62d96e24afa566d6fa8af5446",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-07-15 18:35:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karak Castle 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images from Wiki Loves Monuments 2013|Cultural heritage monuments in Jordan with known IDs|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Images from Wiki Loves Monuments missing SDC location of creation|Winners of Wiki Loves Monuments 2013 in Jordan|External of Karak castle",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This is a photo of a monument in Jordan identified by the ID",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-01-07 06:34:05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Karak Castle (11).jpg",
+      "pageid": 56838753,
+      "revision": 1177512988,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Karak Castle}}\n|date=2016-03-13 13:00:50\n|source={{own}}\n|author=[[User:Khaled|Khaled]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Karak castle]]",
+      "size": 2191497,
+      "width": 2448,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Karak_Castle_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karak_Castle_(11).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56838753",
+      "sha1": "9e87af746c4ee382c3a0773b1d368643ba4c21ec",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-03-06 00:40:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karak Castle (11)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Karak castle|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Karak Castle",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-03-13 13:00:50",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Khaled\" title=\"User:Khaled\">Khaled</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20 Karak Castle (25) (13251536945).jpg",
+      "pageid": 67549437,
+      "revision": 971143243,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Une vue de la Jordanie.\n| Source      = [https://www.flickr.com/photos/68469607@N00/13251536945/ 20 Karak Castle (25)]\n| Date        = 2012-12-15 11:25\n| Author      = [https://www.flickr.com/people/68469607@N00 xorge]\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=xorge|sourceurl=https://flickr.com/photos/68469607@N00/13251536945|archive=https://web.archive.org/web/20200322051842/https://flickr.com/photos/68469607@N00/13251536945|reviewdate=2018-03-21 08:23:29|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Karak castle]]",
+      "size": 2654770,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/20_Karak_Castle_%2825%29_%2813251536945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20_Karak_Castle_(25)_(13251536945).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67549437",
+      "sha1": "e0405e67daeb60b55bfce6a8f2849c3eb8cd7be2",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-03-21 08:19:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20 Karak Castle (25) (13251536945)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Karak castle|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Une vue de la Jordanie.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-12-15 11:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/68469607@N00/13251536945/\">20 Karak Castle (25)</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/68469607@N00\">xorge</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20 Karak Castle (38) (13251863094).jpg",
+      "pageid": 67549441,
+      "revision": 971143252,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Une vue de la Jordanie.\n| Source      = [https://www.flickr.com/photos/68469607@N00/13251863094/ 20 Karak Castle (38)]\n| Date        = 2012-12-15 11:36\n| Author      = [https://www.flickr.com/people/68469607@N00 xorge]\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=xorge|sourceurl=https://flickr.com/photos/68469607@N00/13251863094|archive=http://web.archive.org/web/20190113203724/https://flickr.com/photos/68469607@N00/13251863094|reviewdate=2018-03-21 08:23:38|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Karak castle]]",
+      "size": 3325898,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/20_Karak_Castle_%2838%29_%2813251863094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20_Karak_Castle_(38)_(13251863094).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67549441",
+      "sha1": "09b24d118ed1c9311ef644c80d4f609ab34ef657",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-03-21 08:19:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20 Karak Castle (38) (13251863094)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Karak castle|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Une vue de la Jordanie.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-12-15 11:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/68469607@N00/13251863094/\">20 Karak Castle (38)</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/68469607@N00\">xorge</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Karak Castle (36735195705).jpg",
+      "pageid": 96716776,
+      "revision": 898600574,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = The east wall and upper court of Karak Castle, 125 kilometers south of Amman, Jordan, were built by Crusaders in the 12th century.\n| Source      = [https://www.flickr.com/photos/davidstanleytravel/36735195705/ Karak Castle]\n| Date        = {{Exif date|2017-03-25 14:53|location=Jordan}}\n| Author      = [https://www.flickr.com/people/79721788@N00 David Stanley] from Nanaimo, Canada\n| Permission  = \n| other_versions=\n}}\n{{Location dec|31.180236|35.701725|source:Flickr}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{FlickreviewR|status=passed|author=D-Stanley|sourceurl=https://flickr.com/photos/79721788@N00/36735195705|archive=|reviewdate=2020-11-24 05:49:48|reviewlicense=cc-by-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Karak castle]]\n[[Category:Photographs by David Stanley]]\n[[Category:Uploads by Matlin]]",
+      "size": 152877,
+      "width": 1024,
+      "height": 768,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Karak_Castle_%2836735195705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karak_Castle_(36735195705).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96716776",
+      "sha1": "4a12fd2e1fe2efed5ff1c70ff0413e314b0715d0",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-11-24 05:48:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karak Castle (36735195705)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Karak castle|Photographs by David Stanley|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-03-25",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.180236",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.701725",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The east wall and upper court of Karak Castle, 125 kilometers south of Amman, Jordan, were built by Crusaders in the 12th century.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "25 March 2017, 14:53 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/davidstanleytravel/36735195705/\">Karak Castle</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79721788@N00\">David Stanley</a> from Nanaimo, Canada",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Kerak Castle from away.jpg",
+      "pageid": 147964171,
+      "revision": 1107447520,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=قلعة الكرك من بعيد}}\n|date=2024-04-09\n|source={{own}}\n|author=[[User:Justwiki|Justwiki]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Castles in Jordan]]\n[[Category:Karak castle]]\n[[Category:Uploads by JDACA volunteers 2024]]",
+      "size": 1566352,
+      "width": 3297,
+      "height": 3024,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kerak_Castle_from_away.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kerak_Castle_from_away.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147964171",
+      "sha1": "a805efed1f48c7387aa3ca20f4ab30b0a2749060",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-05-02 11:23:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kerak Castle from away",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Castles in Jordan|Karak castle|Self-published work|Uploads by JDACA volunteers 2024",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "قلعة الكرك من بعيد",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-04-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Justwiki\" title=\"User:Justwiki\">Justwiki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Karak Castle, Jordan (قلعة الكرك).jpg",
+      "pageid": 154667192,
+      "revision": 1041383908,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Karak Castle, Jordan (قلعة الكرك)}}\n{{ary|1=قلعة الكرك}}\n|date=2023-03-28 10:56:38\n|source={{own}}\n|author=[[User:PetarM|Petar Milošević]]\n|permission={{PetarM/license}}\n|other versions=\n}}\n{{Location|31.180556|35.701389}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2024|jo}}\n\n[[Category:Cultural heritage monuments in Jordan]]\n[[Category:Karak castle]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Quality images from Wiki Loves Monuments Jordan 2024]]\n{{QualityImage}}",
+      "size": 29151972,
+      "width": 10782,
+      "height": 4251,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Karak_Castle%2C_Jordan_%28%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%83%D8%B1%D9%83%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karak_Castle,_Jordan_(%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%83%D8%B1%D9%83).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154667192",
+      "sha1": "816ad5b9eab24efe39c3825a3fff4de9bbff0b7f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-10-30 19:40:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karak Castle, Jordan (قلعة الكرك)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Karak castle|Self-published work|Cultural heritage monuments in Jordan|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-jo|Files with coordinates missing SDC location of creation|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.180556",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.701389",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Karak Castle, Jordan (قلعة الكرك)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-03-28 10:56:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div style=\"clear:both; border: var(--border-style-base, 1px solid #999); margin: 1em; padding: 1em; background-color: var(--background-color-progressive-subtle, #F0F8FF); color: inherit;\">\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Right-pointing_hand_in_green_octagon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/40px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"38\" height=\"38\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Right-pointing_hand_in_green_octagon.svg/120px-Right-pointing_hand_in_green_octagon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span> You can use this picture according to license. For use outside of Wikipedia I would appreciate it if you let me know by sending e-mail to <b><a rel=\"nofollow\" class=\"external text\" href=\"mailto:petarmslo@gmail.com\">petarmslo@gmail.com</a></b> <span typeof=\"mw:File\"><a href=\"mailto:petarmslo@gmail.com\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/40px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Nuvola_apps_email.png/60px-Nuvola_apps_email.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>.  Thank you in advance.\n</p>\n<div align=\"right\"><i><a href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\">Petar Milošević</a> <small> (author)</small></i></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

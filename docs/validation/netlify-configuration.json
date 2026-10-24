@@ -1,0 +1,135 @@
+{
+  "checkedAt": "2026-10-24T16:26:33.385Z",
+  "hostedWrites": 0,
+  "authSettings": {
+    "http": 200,
+    "emailEnabled": true,
+    "googleEnabled": false,
+    "emailAutoconfirm": false,
+    "signupDisabled": false
+  },
+  "emailLogo": {
+    "url": "https://dkhwwvoplhfjccvjegty.supabase.co/storage/v1/object/public/brand-assets/unseen-jo-email-logo-v1.png",
+    "http": 200,
+    "mime": "image/png",
+    "bytes": 10952,
+    "actualPng": true
+  },
+  "map": {
+    "glyphs": "https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf",
+    "sprite": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm",
+    "sources": {
+      "ne2_shaded": {
+        "tiles": [
+          "https://tiles.openfreemap.org/natural_earth/ne2sr/{z}/{x}/{y}.png"
+        ]
+      },
+      "openmaptiles": {
+        "url": "https://tiles.openfreemap.org/planet",
+        "attribution": "<a href=\"https://openfreemap.org/\">OpenFreeMap</a> · © <a href=\"https://openmaptiles.org/\">OpenMapTiles</a> · © <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>"
+      }
+    }
+  },
+  "hostedTemplates": "NOT VERIFIED: hosted email template configuration was not inspected or modified",
+  "hostedBackup": "UNCONFIRMED: scoped recovery pack is not a full database backup",
+  "directRoutes": [
+    {
+      "path": "/",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/explore",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/map",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/surprise-me",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/places/ajloun-forest",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/privacy-policy",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/terms-of-service",
+      "http": 200,
+      "html": true,
+      "robots": null
+    },
+    {
+      "path": "/auth/callback?flow=recovery&returnTo=%2Fprofile",
+      "http": 200,
+      "html": true,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/admin/recovery",
+      "http": 200,
+      "html": true,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/admin/accept-invite",
+      "http": 200,
+      "html": true,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/profile",
+      "http": 200,
+      "html": true,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/my-discoveries",
+      "http": 200,
+      "html": true,
+      "robots": "noindex, nofollow"
+    }
+  ],
+  "localAssets": [
+    {
+      "path": "/assets/branding/unseen-jo-email-logo-v1.png",
+      "http": 200,
+      "mime": "image/png",
+      "bytes": 10952
+    },
+    {
+      "path": "/assets/branding/unseen-jo-social-preview.png",
+      "http": 200,
+      "mime": "image/png",
+      "bytes": 61430
+    },
+    {
+      "path": "/maps/unseen-nature.json",
+      "http": 200,
+      "mime": "application/json",
+      "bytes": 43449
+    },
+    {
+      "path": "/robots.txt",
+      "http": 200,
+      "mime": "text/plain",
+      "bytes": 187
+    }
+  ]
+}

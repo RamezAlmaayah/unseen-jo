@@ -1,0 +1,901 @@
+{
+  "slug": "mount-nebo",
+  "query": "Mount Nebo memorial church",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Mount+Nebo+memorial+church+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:19.310Z",
+  "rows": [
+    {
+      "title": "File:Memorial Church of Moses, Mount Nebo, Jordan (26804136468).jpg",
+      "pageid": 67158167,
+      "revision": 1111221649,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Memorial Church of Moses, Mount Nebo, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/26804136468/ Memorial Church of Moses, Mount Nebo, Jordan]\n| Date        = {{Exif date|2017-04-17 08:09|location=Jordan}}\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from Frankfurt, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/26804136468|archive=https://web.archive.org/web/20190118045107/https://www.flickr.com/photos/41523983@N08/26804136468/|reviewdate=2018-03-08 13:30:51|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 8311652,
+      "width": 4889,
+      "height": 3238,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan_%2826804136468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(26804136468).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67158167",
+      "sha1": "2540392e3ad78d11c9c560dfbf68c9ec750f8ef3",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-03-08 13:29:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan (26804136468)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-17",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "17 April 2017, 08:09 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/26804136468/\">Memorial Church of Moses, Mount Nebo, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from Frankfurt, Germany",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Memorial Church of Moses, Mount Nebo, Jordan (26804133858).jpg",
+      "pageid": 67158168,
+      "revision": 898260823,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Memorial Church of Moses, Mount Nebo, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/26804133858/ Memorial Church of Moses, Mount Nebo, Jordan]\n| Date        = {{Exif date|2017-04-17 08:20|location=Jordan}}\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from Frankfurt, Germany\n| Permission  = \n| other_versions=\n| other fields= {{OSMLink |type=way |OSM_ID=115677147 }}\n}}\n{{Object location |1=31.7679662 |2=35.7256743 |3=source:OSM}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/26804133858|archive=https://web.archive.org/web/20200528153705/https://www.flickr.com/photos/41523983@N08/26804133858|reviewdate=2018-03-08 13:30:44|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 7847843,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan_%2826804133858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(26804133858).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67158168",
+      "sha1": "d4473f52bc844c47139ccfa5aea8b02b30eed676",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-03-08 13:29:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan (26804133858)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|On OSM|Photographs by Carole Raddato|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-17",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.767966",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.725674",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "17 April 2017, 08:20 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/26804133858/\">Memorial Church of Moses, Mount Nebo, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from Frankfurt, Germany",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Memorial Church of Moses, Mount Nebo, Jordan (40633713832).jpg",
+      "pageid": 67158176,
+      "revision": 1206838262,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Memorial Church of Moses, Mount Nebo, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/40633713832/ Memorial Church of Moses, Mount Nebo, Jordan]\n| Date        = {{Exif date|2017-04-17 08:15|location=Jordan}}\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from Frankfurt, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/40633713832|archive=https://web.archive.org/web/20200528153710/https://www.flickr.com/photos/41523983@N08/40633713832|reviewdate=2018-03-08 13:30:49|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 8226092,
+      "width": 4770,
+      "height": 3120,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan_%2840633713832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(40633713832).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67158176",
+      "sha1": "dfc46ec2983a1341bbb6427fc87bc3bb86912d63",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-03-08 13:29:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan (40633713832)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-17",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "17 April 2017, 08:15 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/40633713832/\">Memorial Church of Moses, Mount Nebo, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from Frankfurt, Germany",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Mosaics of the lateral chapels, end of 6th century to early 7t century CE, Basilica or Memorial Church of Moses, Mount Nebo, Jordan.jpg",
+      "pageid": 100317299,
+      "revision": 710111362,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Mosaics of the lateral chapels (floor), end of 6th century to early 7ht century CE. Mosaics of the primitive sanctuary of Moses (on the right; wall) date to the 4th-5th century CE. Basilica or Memorial Church of Moses, Mount Nebo, Jordan.}}\n|date=2019-01-18 14:49:05\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Mosaics in Mount Nebo]]",
+      "size": 19956217,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mosaics_of_the_lateral_chapels%2C_end_of_6th_century_to_early_7t_century_CE%2C_Basilica_or_Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mosaics_of_the_lateral_chapels,_end_of_6th_century_to_early_7t_century_CE,_Basilica_or_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317299",
+      "sha1": "44d5f4904fcea4c5d4de4665380b2400503589ff",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:32:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mosaics of the lateral chapels, end of 6th century to early 7t century CE, Basilica or Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work|Mosaics in Mount Nebo",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mosaics of the lateral chapels (floor), end of 6th century to early 7ht century CE. Mosaics of the primitive sanctuary of Moses (on the right; wall) date to the 4th-5th century CE. Basilica or Memorial Church of Moses, Mount Nebo, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:49:05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Inside the Memorial Church of Moses, mid-6th century CE. Mount Nebo, Jordan.jpg",
+      "pageid": 100317300,
+      "revision": 1214925317,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Inside the Memorial Church of Moses, mid-6th century CE. Mount Nebo, Jordan.}}\n|date=2019-01-18 14:44:29\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]",
+      "size": 19813117,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Inside_the_Memorial_Church_of_Moses%2C_mid-6th_century_CE._Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_the_Memorial_Church_of_Moses,_mid-6th_century_CE._Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317300",
+      "sha1": "1c91972b642179c156f8ce5d8530d3d53dbd3110",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:32:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Inside the Memorial Church of Moses, mid-6th century CE. Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Inside the Memorial Church of Moses, mid-6th century CE. Mount Nebo, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:44:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Central part of the Memorial Church of Moses at Mount Nebo, Jordan.jpg",
+      "pageid": 100317329,
+      "revision": 852606768,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Central part of the Memorial Church of Moses at Mount Nebo, Jordan.}}\n|date=2019-01-18 14:43:09\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]",
+      "size": 18400848,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Central_part_of_the_Memorial_Church_of_Moses_at_Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Central_part_of_the_Memorial_Church_of_Moses_at_Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317329",
+      "sha1": "67b3d874567fb399553d0c07e6b2d3ff44815ece",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:33:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Central part of the Memorial Church of Moses at Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Central part of the Memorial Church of Moses at Mount Nebo, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:43:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.jpg",
+      "pageid": 100317350,
+      "revision": 1210658379,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.}}\n|date=2019-01-18 14:42:32\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]",
+      "size": 18991747,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Inside_the_Basilica%2C_the_Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_the_Basilica,_the_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317350",
+      "sha1": "ffea478201983aac47516032840e04664d6ed81d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:33:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:42:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Inside the Memorial Church of Moses. On the right (floor), mosaics of the Basilica, mid-6th century CE. Mount Nebo, Jordan.jpg",
+      "pageid": 100317354,
+      "revision": 1207391105,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Inside the Memorial Church of Moses. On the right (floor), mosaics of the Basilica, mid-6th century CE. Mount Nebo, Jordan.}}\n|date=2019-01-18 14:39:58\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Mosaics in Mount Nebo]]\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]",
+      "size": 20614799,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Inside_the_Memorial_Church_of_Moses._On_the_right_%28floor%29%2C_mosaics_of_the_Basilica%2C_mid-6th_century_CE._Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_the_Memorial_Church_of_Moses._On_the_right_(floor),_mosaics_of_the_Basilica,_mid-6th_century_CE._Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317354",
+      "sha1": "1b49ba650c7a325a7b3d4f9f3711bd83a5f8adc5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:33:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Inside the Memorial Church of Moses. On the right (floor), mosaics of the Basilica, mid-6th century CE. Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work|Mosaics in Mount Nebo",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Inside the Memorial Church of Moses. On the right (floor), mosaics of the Basilica, mid-6th century CE. Mount Nebo, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:39:58",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wall and floor mosaics inside the Memorial Church of Moses. Mount Nebo, Jordan.jpg",
+      "pageid": 100317399,
+      "revision": 1215700224,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan. Wall: mosaics of the lateral chapels, end of 6th century to early 7th century CE. Floor: Mosaics of restorative work carried out before the construction of the Basilica, early 5th century CE to 530 CE.}}\n|date=2019-01-18 14:38:09\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Moses Church (Madaba) - Diakonikon Baptistry mosaic floor]]",
+      "size": 20786087,
+      "width": 4016,
+      "height": 6016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Wall_and_floor_mosaics_inside_the_Memorial_Church_of_Moses._Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wall_and_floor_mosaics_inside_the_Memorial_Church_of_Moses._Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317399",
+      "sha1": "de7299995ef4cd4f5bbcac11df24753036f2cedc",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:34:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wall and floor mosaics inside the Memorial Church of Moses. Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work|Moses Church (Madaba) - Diakonikon Baptistry mosaic floor",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan. Wall: mosaics of the lateral chapels, end of 6th century to early 7th century CE. Floor: Mosaics of restorative work carried out before the construction of the Basilica, early 5th century CE to 530 CE.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:38:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wall and floor mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan.jpg",
+      "pageid": 100317401,
+      "revision": 1034795812,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan. Wall: mosaics of the lateral chapels, end of 6th century to early 7th century CE. Floor: Mosaics of restorative work carried out before the construction of the Basilica, early 5th century CE to 530 CE.}}\n|date=2019-01-18 14:38:12\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Mosaics in Mount Nebo]]",
+      "size": 22034283,
+      "width": 4016,
+      "height": 6016,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wall_and_floor_mosaics_inside_the_Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wall_and_floor_mosaics_inside_the_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317401",
+      "sha1": "43e55e059b03e27141e793a0bd0fec3b158b4f7b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-25 17:34:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wall and floor mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work|Mosaics in Mount Nebo",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mosaics inside the Memorial Church of Moses, Mount Nebo, Jordan. Wall: mosaics of the lateral chapels, end of 6th century to early 7th century CE. Floor: Mosaics of restorative work carried out before the construction of the Basilica, early 5th century CE to 530 CE.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-18 14:38:12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

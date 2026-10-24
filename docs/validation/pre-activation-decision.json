@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-24T16:02:31.207Z",
+  "project": "dkhwwvoplhfjccvjegty",
+  "decision": "BLOCKED",
+  "backup": "BLOCKED: full hosted recovery readiness unconfirmed",
+  "legal_migration": "PASS technical safety only; execution blocked by backup",
+  "destination_publication": "BLOCKED",
+  "published": 24,
+  "draft": 0,
+  "archived": 0,
+  "original_archive_targets_still_published": 17,
+  "local_repository_eligible": 8,
+  "local_repository_hidden": 16,
+  "approved_public_image_rows": 14,
+  "changed_since_previous_report": [
+    {
+      "slug": "umm-al-jimal",
+      "name": "Umm Al-Jimāl",
+      "approved_images": 1
+    }
+  ],
+  "hosted_writes": 0
+}

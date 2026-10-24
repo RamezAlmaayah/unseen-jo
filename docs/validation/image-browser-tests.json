@@ -1,0 +1,119 @@
+{
+  "scope": "Genuine live anonymous data and media except the explicitly isolated GET fallback test; controlled visibility events, not owner Chrome",
+  "results": [
+    {
+      "base": "http://127.0.0.1:4184",
+      "mobile": false,
+      "status": "passed",
+      "observations": [
+        {
+          "action": "English to Arabic and back",
+          "responses": []
+        },
+        {
+          "action": "query filter and reset",
+          "responses": []
+        },
+        {
+          "action": "five-second controlled visibility return",
+          "responses": []
+        }
+      ],
+      "sameSignedSourcesAcrossHomeExplore": true,
+      "navigation": {
+        "newImages": 3,
+        "repeatedRequests": 0,
+        "repeatedBodyDownloads": 0
+      },
+      "originalViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "mobile": true,
+      "status": "passed",
+      "observations": [
+        {
+          "action": "English to Arabic and back",
+          "responses": []
+        },
+        {
+          "action": "query filter and reset",
+          "responses": []
+        },
+        {
+          "action": "five-second controlled visibility return",
+          "responses": []
+        }
+      ],
+      "sameSignedSourcesAcrossHomeExplore": true,
+      "navigation": {
+        "newImages": 3,
+        "repeatedRequests": 0,
+        "repeatedBodyDownloads": 0
+      },
+      "originalViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "mobile": false,
+      "status": "passed",
+      "observations": [
+        {
+          "action": "English to Arabic and back",
+          "responses": []
+        },
+        {
+          "action": "query filter and reset",
+          "responses": []
+        },
+        {
+          "action": "five-second controlled visibility return",
+          "responses": []
+        },
+        {
+          "action": "thirty-second controlled visibility return",
+          "responses": []
+        }
+      ],
+      "sameSignedSourcesAcrossHomeExplore": true,
+      "navigation": {
+        "newImages": 3,
+        "repeatedRequests": 0,
+        "repeatedBodyDownloads": 0
+      },
+      "originalViewer": true
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "mobile": true,
+      "status": "passed",
+      "observations": [
+        {
+          "action": "English to Arabic and back",
+          "responses": []
+        },
+        {
+          "action": "query filter and reset",
+          "responses": []
+        },
+        {
+          "action": "five-second controlled visibility return",
+          "responses": []
+        }
+      ],
+      "sameSignedSourcesAcrossHomeExplore": true,
+      "navigation": {
+        "newImages": 3,
+        "repeatedRequests": 0,
+        "repeatedBodyDownloads": 0
+      },
+      "originalViewer": true
+    },
+    {
+      "name": "Transform GET failure falls back to authorized original",
+      "status": "passed",
+      "fixtureScope": "Only transform GET intentionally intercepted; genuine anonymous signing and original Storage GET"
+    }
+  ],
+  "errors": []
+}

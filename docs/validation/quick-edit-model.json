@@ -1,0 +1,22 @@
+{
+  "scope": "Local model/resources/adapters and real SDK builders with fake transport; no hosted mutations",
+  "passed": 4,
+  "results": [
+    {
+      "name": "incomplete private drafts preserve independent manual text and never carry rights attestations",
+      "status": "passed"
+    },
+    {
+      "name": "Quick Edit resources contain actual Arabic text and every bilingual field is translated",
+      "status": "passed"
+    },
+    {
+      "name": "private autosaves do not invalidate public caches; apply invalidates and binds to the original account",
+      "status": "passed"
+    },
+    {
+      "name": "new visitor fields reach public adapters in both languages without rewriting saved data",
+      "status": "passed"
+    }
+  ]
+}

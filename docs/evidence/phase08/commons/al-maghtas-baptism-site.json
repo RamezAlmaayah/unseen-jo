@@ -1,0 +1,952 @@
+{
+  "slug": "al-maghtas-baptism-site",
+  "query": "Baptism Site Jordan Al Maghtas",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Baptism+Site+Jordan+Al+Maghtas+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:20.264Z",
+  "rows": [
+    {
+      "title": "File:Bethany (5).JPG",
+      "pageid": 6620561,
+      "revision": 909290690,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=The supposed location where John baptized Jesus Christ East of the River Jordan.}}\n{{ar|1=  موقع المغطس،  شرق نهر الأردن، الأردن، حيث من المفترض أن يكون موقع عماد المسيح}}\n|Source={{Own}}\n|Date=2009-04-23\n|Author=[[User:Producer|Producer]] ([[User talk:Producer|<span class=\"signature-talk\">talk</span>]])\n|Permission= look below\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-2.5|author=I, [[User:Producer|Producer]]}}\n\n[[Category:User:Producer]]\n[[Category:Baptism place]]\n[[Category:Taken with Sony DSC-T700]]",
+      "size": 3495917,
+      "width": 3648,
+      "height": 2736,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bethany_%285%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bethany_(5).JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6620561",
+      "sha1": "e25501606beea68b04aa5d2d6c3de34098deac7c",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-04-24 21:00:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bethany (5)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Sony DSC-T700|Baptism place|License migration redundant|Self-published work|User:Producer",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The supposed location where John baptized Jesus Christ East of the River Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-04-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Producer\" title=\"User:Producer\">Producer</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Producer\" title=\"User talk:Producer\"><span class=\"signature-talk\">talk</span></a>)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "look below",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "I, <a href=\"//commons.wikimedia.org/wiki/User:Producer\" title=\"User:Producer\">Producer</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan Baptism site BW 2.JPG",
+      "pageid": 8535197,
+      "revision": 1256964958,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an der Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|11.94|N|35|32|48.54|E|alt:-368.68_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n{{QualityImage}}\n\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Church towers in Jordan]]\n[[Category:Quality images of church towers]]\n[[Category:Quality images of Jordan]]",
+      "size": 2330638,
+      "width": 1940,
+      "height": 2567,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jordan_Baptism_site_BW_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_2.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535197",
+      "sha1": "c8551ebd0c34ace8b7f22a3d9c3ada692badfee9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-11-22 14:54:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan Baptism site BW 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Church towers in Jordan|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.836650",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.546817",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Modern church at the baptism site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan Baptism site BW 3.JPG",
+      "pageid": 8535264,
+      "revision": 1260279871,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an der Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|12.29|N|35|32|48.63|E|alt:-370.49_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n{{QualityImage}}\n\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Church towers in Jordan]]\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Quality images of Jordan]]",
+      "size": 3654059,
+      "width": 3357,
+      "height": 2248,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jordan_Baptism_site_BW_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_3.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535264",
+      "sha1": "93c90ac5707c914c27aa67edc36269c57aef4e76",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-02-22 12:59:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan Baptism site BW 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Church towers in Jordan|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.836747",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.546842",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Modern church at the baptism site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan Baptism site BW 6.JPG",
+      "pageid": 8535368,
+      "revision": 1260508924,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|12.45|N|35|32|48.67|E|alt:-369.62_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n{{QualityImage}}\n\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Church towers in Jordan]]\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Quality images of church towers]]\n[[Category:Quality images of Jordan]]",
+      "size": 3507052,
+      "width": 3220,
+      "height": 2544,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Jordan_Baptism_site_BW_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_6.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535368",
+      "sha1": "d97608dfb2c5521005e0f49f0ea191666956715b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-03-16 19:58:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan Baptism site BW 6",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Church towers in Jordan|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.836792",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.546853",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Modern church at the baptism site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan Baptism site BW 7.JPG",
+      "pageid": 8535376,
+      "revision": 1256965310,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|12.45|N|35|32|48.68|E|alt:-369.58_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n{{QualityImage}}\n\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Quality images of Jordan]]",
+      "size": 3318265,
+      "width": 2260,
+      "height": 3147,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Jordan_Baptism_site_BW_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_7.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535376",
+      "sha1": "e92c77b38f6a31b2e248b3ab2e9346686f2e542a",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-11-22 15:17:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan Baptism site BW 7",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.836792",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.546856",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Modern church at the baptism site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan Baptism site BW 8.JPG",
+      "pageid": 8535393,
+      "revision": 1256965335,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|12.74|N|35|32|49.41|E|alt:-368.51_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n{{QualityImage}}\n\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Quality images of Jordan]]",
+      "size": 3178118,
+      "width": 2975,
+      "height": 2540,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Jordan_Baptism_site_BW_8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_8.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535393",
+      "sha1": "e5b96e3c167317878fc123e88d0386839b336407",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-11-22 15:20:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan Baptism site BW 8",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.836872",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.547058",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Modern church at the baptism site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-11-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:PikiWiki Israel 15208 Jordan River baptism site.jpg",
+      "pageid": 17173021,
+      "revision": 1219852066,
+      "wikitext": "{{Information\n|Description={{en|Church site}} {{he|הכנסיה באתר  הטבילה &quot;קוסרא&quot; שבנוי מעל נהר הירדן., Original Image Name:אתר הטבילה בנהר הירדן, Location:בקעת הירדן}}\n|Source= {{pikiwikisource|user=sharon shlomo|id=15208}}\n|Date={{other date|between|2011|2011}}\n|Author=נח שלמה\n|Permission={{PD-author|sharon shlomo}}\n|other_versions=\n}}\n\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n{{pikiwiki}}",
+      "size": 50014,
+      "width": 720,
+      "height": 477,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/PikiWiki_Israel_15208_Jordan_River_baptism_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_15208_Jordan_River_baptism_site.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17173021",
+      "sha1": "bea58781cf82cae4e9eb35f3101eae46bc8d3a4d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2011-10-30 01:02:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PikiWiki Israel 15208 Jordan River baptism site",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-author|Images from the Pikiwiki project|St. John the Baptist Church (Al-Maghtas)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Church site",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 2011 and 2011<div style=\"display: none;\">date QS:P,+2011-00-00T00:00:00Z/10,P1319,+2011-00-00T00:00:00Z/9,P1326,+2011-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "sharon shlomo via the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.pikiwiki.org.il?action=gallery&amp;img_id=15208\">PikiWiki - Israel free image collection project</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "נח שלמה",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>This work has been released into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b> by its author, <b>sharon shlomo</b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>sharon shlomo grants anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n<p><span class=\"licensetpl_short\" style=\"display:none;\">Public domain</span><span class=\"licensetpl_long\" style=\"display:none;\">Public domain</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913.jpg",
+      "pageid": 60730929,
+      "revision": 1040921106,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913}}\n|date=1913-01-01\n|source=http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&page=11240\n|author={{unknown|author}}\n|permission=\n|other versions={{Image extracted|Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped).jpg}}\n}}\n\n=={{int:license-header}}==\n{{PD-1923}}\n\n[[Category:Jordan River]]\n[[Category:1913 in Jordan]]\n[[Category:Al-Maghtas]]\n[[Category:Christian women]]\n[[Category:Christians from Jordan]]",
+      "size": 89395,
+      "width": 604,
+      "height": 720,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Jordanian_Christian_women_visiting_Al-Maghtas%2C_Jordan_River%2C_1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordanian_Christian_women_visiting_Al-Maghtas,_Jordan_River,_1913.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60730929",
+      "sha1": "50cae428af7e72dbdbd6bcb9015d3ce4181c816f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-07-07 14:23:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan River|Christians from Jordan|Images with extracted images|PD US expired|1913 in Jordan|Template Unknown (author)|Christian women|PD-US missing SDC copyright status|Al-Maghtas",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1913-01-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240\">http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped).jpg",
+      "pageid": 60730946,
+      "revision": 1040921201,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913}}\n|date=1913-01-01\n|source=http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&page=11240\n|author={{unknown|author}}\n|permission=\n|other versions={{Image extracted|Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped) (cropped).jpg}}{{Extracted from|Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913.jpg}}\n}}\n\n=={{int:license-header}}==\n{{PD-1923}}\n\n[[Category:Jordan River]]\n[[Category:1913 in Jordan]]\n[[Category:Al-Maghtas]]\n[[Category:Christians from Jordan]]",
+      "size": 73658,
+      "width": 604,
+      "height": 547,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jordanian_Christian_women_visiting_Al-Maghtas%2C_Jordan_River%2C_1913_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordanian_Christian_women_visiting_Al-Maghtas,_Jordan_River,_1913_(cropped).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60730946",
+      "sha1": "73e1220674e20a08c76bc3803c40f5e13de502b4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-07-07 14:24:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan River|Christians from Jordan|Images with extracted images|Extracted images|PD US expired|1913 in Jordan|Template Unknown (author)|PD-US missing SDC copyright status|Al-Maghtas",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1913-01-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240\">http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped) (cropped).jpg",
+      "pageid": 60730958,
+      "revision": 1134208111,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913}}\n|date=1913-01-01\n|source=http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&page=11240\n|author={{unknown|author}}\n|permission=\n|other versions={{Extracted from|Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped).jpg}}{{Extracted from|Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913.jpg}}\n}}\n\n=={{int:license-header}}==\n{{PD-1923}}\n\n[[Category:Jordan River]]\n[[Category:1913 in Jordan]]\n[[Category:Al-Maghtas]]\n[[Category:Christians from Jordan]]",
+      "size": 61506,
+      "width": 596,
+      "height": 438,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jordanian_Christian_women_visiting_Al-Maghtas%2C_Jordan_River%2C_1913_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordanian_Christian_women_visiting_Al-Maghtas,_Jordan_River,_1913_(cropped)_(cropped).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60730958",
+      "sha1": "26eda676c9c2c18818bdbb181de7751f47938459",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-07-07 14:25:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordanian Christian women visiting Al-Maghtas, Jordan River, 1913 (cropped) (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan River|Christians from Jordan|Extracted images|PD US expired|1913 in Jordan|Template Unknown (author)|PD-US missing SDC copyright status|Al-Maghtas",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jordanian Christian women visiting Al-Maghtas (baptism site of Christ), 1913",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1913-01-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240\">http://www.historyofjordan.com/jordan2/jh/collection1.php?id=138&amp;page=11240</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

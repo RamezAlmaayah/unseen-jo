@@ -1,0 +1,162 @@
+[
+  {
+    "name": "check-phase01a",
+    "exitCode": 0,
+    "durationMs": 23158
+  },
+  {
+    "name": "check-phase01b",
+    "exitCode": 0,
+    "durationMs": 20881
+  },
+  {
+    "name": "check-phase01c",
+    "exitCode": 0,
+    "durationMs": 28200
+  },
+  {
+    "name": "check-landing-refinement",
+    "exitCode": 0,
+    "durationMs": 13685
+  },
+  {
+    "name": "check-global-ui-scale",
+    "exitCode": 0,
+    "durationMs": 63575
+  },
+  {
+    "name": "check-phase02a",
+    "exitCode": 0,
+    "durationMs": 34192
+  },
+  {
+    "name": "check-phase02b",
+    "exitCode": 0,
+    "durationMs": 16287
+  },
+  {
+    "name": "check-phase02b-hosted",
+    "exitCode": 0,
+    "durationMs": 6346
+  },
+  {
+    "name": "check-phase02b-browser",
+    "exitCode": 0,
+    "durationMs": 24758
+  },
+  {
+    "name": "check-phase03",
+    "exitCode": 0,
+    "durationMs": 757
+  },
+  {
+    "name": "check-phase03-browser",
+    "exitCode": 0,
+    "durationMs": 95749
+  },
+  {
+    "name": "check-phase03-refinement",
+    "exitCode": 0,
+    "durationMs": 43711
+  },
+  {
+    "name": "check-phase03-details-controls",
+    "exitCode": 0,
+    "durationMs": 14681
+  },
+  {
+    "name": "check-phase03-quality",
+    "exitCode": 0,
+    "durationMs": 55264
+  },
+  {
+    "name": "check-phase04",
+    "exitCode": 0,
+    "durationMs": 17763
+  },
+  {
+    "name": "check-phase04-hosted",
+    "exitCode": 0,
+    "durationMs": 3913
+  },
+  {
+    "name": "check-admin-invitation",
+    "exitCode": 0,
+    "durationMs": 25186
+  },
+  {
+    "name": "check-admin-acceptance-runner",
+    "exitCode": 0,
+    "durationMs": 749
+  },
+  {
+    "name": "check-admin-refinement",
+    "exitCode": 0,
+    "durationMs": 32048
+  },
+  {
+    "name": "check-phase04-browser",
+    "exitCode": 0,
+    "durationMs": 9644
+  },
+  {
+    "name": "check-localization",
+    "exitCode": 0,
+    "durationMs": 579
+  },
+  {
+    "name": "check-localization-database",
+    "exitCode": 0,
+    "durationMs": 13388
+  },
+  {
+    "name": "check-localization-hosted",
+    "exitCode": 0,
+    "durationMs": 1872
+  },
+  {
+    "name": "check-localization-browser",
+    "exitCode": 0,
+    "durationMs": 138037
+  },
+  {
+    "name": "check-localization-destinations-browser",
+    "exitCode": 0,
+    "durationMs": 16200
+  },
+  {
+    "name": "check-localization-accessibility",
+    "exitCode": 0,
+    "durationMs": 30477
+  },
+  {
+    "name": "check-localization-interactions",
+    "exitCode": 0,
+    "durationMs": 14700
+  },
+  {
+    "name": "check-bilingual-review",
+    "exitCode": 0,
+    "durationMs": 754
+  },
+  {
+    "name": "check-bilingual-review-database",
+    "exitCode": 0,
+    "durationMs": 16505
+  },
+  {
+    "name": "check-bilingual-review-browser",
+    "exitCode": 0,
+    "durationMs": 19945
+  },
+  {
+    "name": "check-tourism-completion",
+    "exitCode": 0,
+    "durationMs": 986
+  },
+  {
+    "name": "check-tourism-completion-browser",
+    "exitCode": 0,
+    "durationMs": 29985
+  }
+]

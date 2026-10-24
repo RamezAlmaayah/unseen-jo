@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-19T16:16:40.87186+00:00",
+  "project": "dkhwwvoplhfjccvjegty",
+  "dedicatedMcpVerified": true,
+  "preservation": {
+    "places": true,
+    "images": true,
+    "roles": true,
+    "objects": true,
+    "policies": true,
+    "grants": true,
+    "buckets": true,
+    "existingTranslationFields": true,
+    "newReviewFieldsNull": true
+  },
+  "counts": {
+    "drafts": 6,
+    "published": 0,
+    "unapprovedImages": 12,
+    "storageReferences": 13,
+    "roleRows": 2,
+    "pendingTranslations": 6,
+    "approvedTranslations": 0
+  },
+  "schemaChanges": [
+    "20261019160227_phase04l_bilingual_review.sql",
+    "20261019161125_phase04l_private_review_feedback.sql"
+  ],
+  "hostedContentWritesPerformed": false,
+  "hostedApprovalsPerformed": false,
+  "originalConnectionChanged": false,
+  "storageBytesReadOrWritten": false,
+  "realAuthenticatedAcceptance": {
+    "status": "blocked",
+    "reason": "cua.getState returned no apps or browsers twice; Chrome tab creation returned Browser is not available: chrome. No session or credential was exported. No synthetic JWT was used for hosted operations.",
+    "saveVerified": false,
+    "reviewVerified": false
+  },
+  "phase05Started": false
+}

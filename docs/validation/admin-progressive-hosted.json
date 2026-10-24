@@ -1,0 +1,28 @@
+{
+  "scope": "Genuine anonymous hosted reads only; public name/covers/incomplete filter syntax, plus protected Admin RPC denial. This is not authenticated Admin acceptance.",
+  "tests": [
+    {
+      "name": "names",
+      "count": 1,
+      "returned": 1,
+      "status": "passed"
+    },
+    {
+      "name": "covers",
+      "count": 0,
+      "returned": 0,
+      "status": "passed"
+    },
+    {
+      "name": "incomplete",
+      "count": 0,
+      "returned": 0,
+      "status": "passed"
+    },
+    {
+      "name": "anonymous admin overview denied",
+      "code": "42501",
+      "status": "passed"
+    }
+  ]
+}

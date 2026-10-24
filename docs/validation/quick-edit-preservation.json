@@ -1,0 +1,17 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "before": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "storage": "c00801ec668ad3d1641be0986dc814c5",
+    "translations": "c0a1f6befe62ad042ae19bb7b75e07a5"
+  },
+  "after": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "storage": "c00801ec668ad3d1641be0986dc814c5",
+    "translations": "c0a1f6befe62ad042ae19bb7b75e07a5"
+  },
+  "unchanged": true,
+  "scope": "All pre-existing destination/translation fields (excluding only newly added nullable columns), all image rows, Storage names/metadata/timestamps; no hosted content saves, image uploads, destination creation or publication performed"
+}

@@ -1,0 +1,84 @@
+{
+  "checkedAt": "2026-10-19T18:03:16.634Z",
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Actual hosted anonymous SDK and actual public browser API calls; no API/Auth interception",
+  "publishedCount": 0,
+  "results": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "publiclyReadable": false,
+      "source": "Actual anonymous published-place query"
+    }
+  ],
+  "renders": [
+    {
+      "language": "en",
+      "route": "/",
+      "status": "passed",
+      "fixtureData": false
+    },
+    {
+      "language": "en",
+      "route": "/explore",
+      "status": "passed",
+      "fixtureData": false
+    },
+    {
+      "language": "en",
+      "route": "/map",
+      "status": "passed",
+      "fixtureData": false
+    },
+    {
+      "language": "ar-JO",
+      "route": "/",
+      "status": "passed",
+      "fixtureData": false
+    },
+    {
+      "language": "ar-JO",
+      "route": "/explore",
+      "status": "passed",
+      "fixtureData": false
+    },
+    {
+      "language": "ar-JO",
+      "route": "/map",
+      "status": "passed",
+      "fixtureData": false
+    }
+  ],
+  "anonymousAtomicPublishDenied": true,
+  "errors": []
+}

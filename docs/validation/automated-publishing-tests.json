@@ -1,0 +1,30 @@
+{
+  "scope": "Local actual file hashes and isolated repository/API fixtures; no real Auth, Storage writes or hosted approvals",
+  "passed": 6,
+  "results": [
+    {
+      "name": "all twelve prepared images retain licensed originals and responsive variants",
+      "status": "passed"
+    },
+    {
+      "name": "wrong project, absent real-session authorization, expired or tampered evidence refuse all writes",
+      "status": "passed"
+    },
+    {
+      "name": "eligible batch runs through saved-evidence operations, preserves English and never approves the test upload",
+      "status": "passed"
+    },
+    {
+      "name": "one changed or critically blocked destination does not prevent other eligible records",
+      "status": "passed"
+    },
+    {
+      "name": "explicit Needs Changes feedback prevents automatic translation approval",
+      "status": "passed"
+    },
+    {
+      "name": "account changes stop the next write; newer editorial notes are never overwritten",
+      "status": "passed"
+    }
+  ]
+}

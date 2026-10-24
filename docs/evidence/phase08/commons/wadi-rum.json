@@ -1,0 +1,971 @@
+{
+  "slug": "wadi-rum",
+  "query": "Wadi Rum desert",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Wadi+Rum+desert+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:14.980Z",
+  "rows": [
+    {
+      "title": "File:Desert flowers, Wadi Rum, Jordan.jpg",
+      "pageid": 77542735,
+      "revision": 1201958312,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Desert flowers covering the sand after spring rain, Wadi Rum, Jordan}}\n|date=2019-03-16 09:09:56\n|source={{own}}\n|author=[[User:Gerda Arendt|Gerda Arendt]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Deserts of Jordan]]\n[[Category:Wadi Rum in the 2010s]]",
+      "size": 5473490,
+      "width": 4896,
+      "height": 3672,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Desert_flowers%2C_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Desert_flowers,_Wadi_Rum,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77542735",
+      "sha1": "b311fa5b9f64bdc679ae6084850cabcd758fe6da",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-03-24 18:01:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Desert flowers, Wadi Rum, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Deserts of Jordan|Self-published work|Wadi Rum in the 2010s",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Desert flowers covering the sand after spring rain, Wadi Rum, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-03-16 09:09:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gerda_Arendt\" title=\"User:Gerda Arendt\">Gerda Arendt</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wadi rum desert.jpg",
+      "pageid": 78789274,
+      "revision": 1112617539,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Desert in Wadi Rum, Jordan}}\n|date=2017-08-15\n|source={{own}}\n|author=[[User:E.3|Peter Chisholm]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n{{QualityImage}}\n\n[[Category:Wadi Rum in the 2010s]]\n[[Category:Wadi Rum]]",
+      "size": 3295169,
+      "width": 4608,
+      "height": 3456,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Wadi_rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78789274",
+      "sha1": "a5fb5b7e2cd7d724350a7c5b89c8c9890ef65d57",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-05-08 05:58:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wadi rum desert",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Wadi Rum|Self-published work|Wadi Rum in the 2010s",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Desert in Wadi Rum, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-08-15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:E.3&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:E.3 (page does not exist)\">Peter Chisholm</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan, Wadi Rum Desert, Car.jpg",
+      "pageid": 83484008,
+      "revision": 1236311748,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).}}\n{{ru|1=Вади Рам — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-04 11:01:44\n|source={{own}}\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Wadi Rum]]\n[[Category:Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Deserts of Jordan]]\n[[Category:Vehicles in Wadi Rum]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 5127884,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jordan%2C_Wadi_Rum_Desert%2C_Car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Car.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83484008",
+      "sha1": "49a6333981ad84719fd05457cdfd78bc6c5dd714",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 12:53:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan, Wadi Rum Desert, Car",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Self-published work|Photos by Vyacheslav Argenberg in 2007|Vehicles in Wadi Rum|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-04 11:01:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan, Wadi Rum Desert, Infinite Spaces.jpg",
+      "pageid": 83484009,
+      "revision": 1162023075,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum is Arabic for \"Roman Valley\", or \"Valley of the Rum\", as the Greeks (or East Romans) were called in the early Byzantine era by Arab people, probably referring to Christian Byzantine monastic or ascetic communities in the area. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).}}\n{{ru|1=Вади Рам (وادي رم‎), \"Лунная долина\" — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-04 12:14:13\n|source={{own}}\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{self|cc-by-4.0|author=Vyacheslav Argenberg (https://www.vascoplanet.com/)}}\n\n[[Category:Wadi Rum]]\n[[Category:Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Deserts of Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 4482921,
+      "width": 3072,
+      "height": 1853,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jordan%2C_Wadi_Rum_Desert%2C_Infinite_Spaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Infinite_Spaces.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83484009",
+      "sha1": "2a3c4911b92ee097dc5c03d1994940a7e595807b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 12:53:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan, Wadi Rum Desert, Infinite Spaces",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Self-published work|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum is Arabic for \"Roman Valley\", or \"Valley of the Rum\", as the Greeks (or East Romans) were called in the early Byzantine era by Arab people, probably referring to Christian Byzantine monastic or ascetic communities in the area. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-04 12:14:13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Vyacheslav Argenberg (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.vascoplanet.com/\">https://www.vascoplanet.com/</a>)",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan, Wadi Rum Desert, Camel.jpg",
+      "pageid": 83484010,
+      "revision": 1236311752,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).}}\n{{ru|1=Вади Рам, \"Лунная долина\" — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-04 12:20:52\n|source={{own}}\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Wadi Rum]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Deserts of Jordan]]\n[[Category:Camels in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]\n[[Category:Animals in Wadi Rum]]",
+      "size": 5497000,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jordan%2C_Wadi_Rum_Desert%2C_Camel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Camel.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83484010",
+      "sha1": "2063bec2715beb0962007029d5e75e6498a1ae13",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 12:53:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan, Wadi Rum Desert, Camel",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Self-published work|Camels in Jordan|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan|Animals in Wadi Rum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-04 12:20:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Jordan, Wadi Rum Desert, Khor al Ajram 2.jpg",
+      "pageid": 83484021,
+      "revision": 1236311759,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum is Arabic for \"Roman Valley\", or \"Valley of the Rum\", as the Greeks (or East Romans) were called in the early Byzantine era by Arab people, probably referring to Christian Byzantine monastic or ascetic communities in the area. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).}}\n{{ru|1=Вади Рам (وادي رم‎), \"Лунная долина\" — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-04 15:46:49\n|source={{own}}\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Wadi Rum]]\n[[Category:Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Deserts of Jordan]]\n[[Category:Rock formations in Jordan]]\n[[Category:Plants in Wadi Rum]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 5005145,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jordan%2C_Wadi_Rum_Desert%2C_Khor_al_Ajram_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan,_Wadi_Rum_Desert,_Khor_al_Ajram_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83484021",
+      "sha1": "772aca89f7b73e7ccb334d267e24ca941f29faf4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 12:53:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Jordan, Wadi Rum Desert, Khor al Ajram 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Self-published work|Rock formations in Jordan|Plants in Wadi Rum|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum is Arabic for \"Roman Valley\", or \"Valley of the Rum\", as the Greeks (or East Romans) were called in the early Byzantine era by Arab people, probably referring to Christian Byzantine monastic or ascetic communities in the area. The area has been used as a background setting in a number of films (Red Planet, Prometheus, The Martian, Rogue One: A Star Wars Story, and many more).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-04 15:46:49",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wadi Rum Desert, Jordan, Infinite spaces.jpg",
+      "pageid": 83486166,
+      "revision": 1236311805,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.}}\n{{ru|1=Вади Рам — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-04 16:24:10\n|source=http://www.vascoplanet.com/\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Jordan]]\n[[Category:Wadi Rum]]\n[[Category:Deserts of Jordan]]\n[[Category:Rock formations in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 4686634,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Wadi_Rum_Desert%2C_Jordan%2C_Infinite_spaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_Desert,_Jordan,_Infinite_spaces.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83486166",
+      "sha1": "3eee1422027a562866f43f1ba804470193c2b959",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 14:57:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wadi Rum Desert, Jordan, Infinite spaces",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Self-published work|Rock formations in Jordan|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-04 16:24:10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vascoplanet.com/\">http://www.vascoplanet.com/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wadi Rum Desert, Jordan, The \"Seven Pillars of Wisdom\".jpg",
+      "pageid": 83486167,
+      "revision": 1236311810,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=In the 1980s one of the rock formations in Wadi Rum was named \"The Seven Pillars of Wisdom\" after Thomas Edward Lawrence's book. Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.}}\n{{ru|1=Вади Рам — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-05 10:09:32\n|source=http://www.vascoplanet.com/\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Jordan]]\n[[Category:Wadi Rum]]\n[[Category:Deserts of Jordan]]\n[[Category:Rock formations in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Seven Pillars of Wisdom (Wadi Rum)]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 4672784,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wadi_Rum_Desert%2C_Jordan%2C_The_%22Seven_Pillars_of_Wisdom%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_Desert,_Jordan,_The_%22Seven_Pillars_of_Wisdom%22.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83486167",
+      "sha1": "f0cd1fe8d6989e5a7761cde179e8724943561fa9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 14:57:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wadi Rum Desert, Jordan, The \"Seven Pillars of Wisdom\"",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Seven Pillars of Wisdom (Wadi Rum)|Self-published work|Rock formations in Jordan|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "In the 1980s one of the rock formations in Wadi Rum was named \"The Seven Pillars of Wisdom\" after Thomas Edward Lawrence's book. Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-05 10:09:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vascoplanet.com/\">http://www.vascoplanet.com/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wadi Rum Dry Desert, Jordan.jpg",
+      "pageid": 83486171,
+      "revision": 1236311809,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.}}\n{{ru|1=Вади Рам — пустыня в Иордании. Каменистая пустыня, песчаник и гранит, отдельные сухие деревья и кустарники, горы, каньоны, провалы и возвышенности.}}\n|date=2007-06-05 11:13:34\n|source=http://www.vascoplanet.com/\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=© Vyacheslav Argenberg\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Wadi Rum]]\n[[Category:Deserts of Jordan]]\n[[Category:Rock formations in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Arid climate]]\n[[Category:Photos by Vyacheslav Argenberg in Jordan]]\n[[Category:Photos by Vyacheslav Argenberg in 2007]]",
+      "size": 5257740,
+      "width": 3072,
+      "height": 2048,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wadi_Rum_Dry_Desert%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_Dry_Desert,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83486171",
+      "sha1": "cdf18e1093a21bf5fb5bd47e038c7d4446bfa09f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-29 14:57:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wadi Rum Dry Desert, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Photos by Vyacheslav Argenberg|Deserts of Jordan|Wadi Rum|Arid climate|Self-published work|Rock formations in Jordan|Photos by Vyacheslav Argenberg in 2007|Photos by Vyacheslav Argenberg in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum is a spectacularly scenic desert valley in southern Jordan. Masses of soaring cliffs and sandstone and granite mountains. Wadi Rum rocky formations are made mostly of sandstone (clastic sedimentary rock of quartz or feldspar) and granite rock.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-05 11:13:34",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vascoplanet.com/\">http://www.vascoplanet.com/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© Vyacheslav Argenberg",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "© <a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wadi Rum desert.jpg",
+      "pageid": 130026361,
+      "revision": 744259511,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wadi Rum desert}}\n|date=2022-05-19 11:29:37\n|source={{own}}\n|author=[[User:Pieter van Eekeren|Pieter van Eekeren]]\n|permission=\n|other versions=\n}}\n{{Location|29.624057|35.49592}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Wadi Rum]]\n[[Category:Deserts]]\n[[Category:Jordan]]",
+      "size": 3489976,
+      "width": 4032,
+      "height": 3024,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wadi_Rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_desert.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130026361",
+      "sha1": "d7dbe0f3df9296cfb514fa4c0ae264d977814904",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-03-26 09:07:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wadi Rum desert",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jordan|Deserts|Wadi Rum|Self-published work|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "29.624057",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.495920",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wadi Rum desert",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-05-19 11:29:37",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pieter_van_Eekeren\" title=\"User:Pieter van Eekeren\">Pieter van Eekeren</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "base": "http://127.0.0.1:4195",
+  "scope": "Isolated fixtures, no genuine account accepted or modified.",
+  "results": [
+    {
+      "name": "guest local save, refresh persistence, optional contextual login and merge without loss/duplicates",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure en 1366",
+      "usableMs": 269,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility en 1366",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure en 820",
+      "usableMs": 365,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility en 820",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure en 390",
+      "usableMs": 266,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility en 390",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure en 320",
+      "usableMs": 249,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility en 320",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure ar-JO 1366",
+      "usableMs": 352,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility ar-JO 1366",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure ar-JO 820",
+      "usableMs": 348,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility ar-JO 820",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure ar-JO 390",
+      "usableMs": 354,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility ar-JO 390",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "measure ar-JO 320",
+      "usableMs": 347,
+      "initialVisitsRequests": 1,
+      "initialHistoryRequests": 0,
+      "tabReturnRequests": 0,
+      "documentReloads": 0,
+      "scope": "Fixture timing, not hosted network performance"
+    },
+    {
+      "name": "saved/visited/date/filter/keyboard/RTL/accessibility ar-JO 320",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "visit and save failures retain records/form state; retry works",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "successful recommendations recorded once; browsing is not tracked; history failure retry",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "bounded history pages, clear cancellation/failure/retry and save preservation",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "history localized cards, save synchronization and accessibility en 1366",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "history localized cards, save synchronization and accessibility en 390",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "history localized cards, save synchronization and accessibility ar-JO 1366",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "history localized cards, save synchronization and accessibility ar-JO 390",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "unavailable saved/visited records stay manageable without exposing private destination content",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    },
+    {
+      "name": "logout and account switch isolate and restore favorites, visits and history; Admin session stays separate",
+      "status": "passed",
+      "scope": "Real React/router/browser; intercepted Auth/REST fixtures, synthetic photograph"
+    }
+  ],
+  "errors": []
+}

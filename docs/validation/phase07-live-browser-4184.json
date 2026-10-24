@@ -1,0 +1,105 @@
+{
+  "base": "http://127.0.0.1:4184",
+  "results": [
+    {
+      "lang": "en",
+      "width": 1366,
+      "height": 768,
+      "scope": "Actual anonymous Supabase catalog and Storage. Favorites seeded locally only; no account simulated.",
+      "usableMs": 2197,
+      "resources": 109,
+      "sameOriginTransferBytes": 18285014,
+      "overflow": false,
+      "tabReturnSupabaseRequests": 0,
+      "tabReturnDocumentReloads": 0,
+      "imageInfo": [
+        {
+          "complete": true,
+          "naturalWidth": 296,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 369,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 369,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 369,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 369,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 369,
+          "displayedWidth": 369,
+          "hasResponsiveSources": true
+        }
+      ]
+    },
+    {
+      "lang": "ar-JO",
+      "width": 390,
+      "height": 844,
+      "scope": "Actual anonymous Supabase catalog and Storage. Favorites seeded locally only; no account simulated.",
+      "usableMs": 1309,
+      "resources": 115,
+      "sameOriginTransferBytes": 18450630,
+      "overflow": false,
+      "tabReturnSupabaseRequests": 0,
+      "tabReturnDocumentReloads": 0,
+      "imageInfo": [
+        {
+          "complete": true,
+          "naturalWidth": 286,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 356,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 356,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 356,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 356,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        },
+        {
+          "complete": true,
+          "naturalWidth": 356,
+          "displayedWidth": 356,
+          "hasResponsiveSources": true
+        }
+      ]
+    }
+  ]
+}

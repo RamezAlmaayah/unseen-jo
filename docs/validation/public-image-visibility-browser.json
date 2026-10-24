@@ -1,0 +1,205 @@
+{
+  "scope": "Actual production build in isolated Chromium; real anonymous hosted API/Storage reads, no API fixtures; all content/Auth mutations blocked",
+  "generatedAt": "2026-10-23T20:02:33.307Z",
+  "reusedLanguages": [
+    "en"
+  ],
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/",
+      "cards": 3,
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/explore",
+      "cards": 7,
+      "realPhotos": 7,
+      "axeViolations": 0,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/explore?search",
+      "excludedSearches": 17,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/map",
+      "markers": 7,
+      "mapReady": true,
+      "popupPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/ajloun-forest",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/aqaba-marine-reserve",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/dana-reserve",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/iraq-al-amir",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/salt-historic",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/umm-qais",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/wadi-mujib",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/(image-less)",
+      "unavailableDetails": 17,
+      "status": "PASS"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/discovery-result",
+      "selectedFromQualifiedCatalog": true,
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/",
+      "cards": 3,
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/explore",
+      "cards": 7,
+      "realPhotos": 7,
+      "axeViolations": 0,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/explore?search",
+      "excludedSearches": 17,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/map",
+      "markers": 7,
+      "mapReady": true,
+      "popupPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/ajloun-forest",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/aqaba-marine-reserve",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/dana-reserve",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/iraq-al-amir",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/salt-historic",
+      "realPhotos": 3,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/umm-qais",
+      "realPhotos": 1,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/wadi-mujib",
+      "realPhotos": 2,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/(image-less)",
+      "unavailableDetails": 17,
+      "status": "PASS"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/discovery-result",
+      "selectedFromQualifiedCatalog": true,
+      "realPhotos": 1,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "blockedMutations": []
+}

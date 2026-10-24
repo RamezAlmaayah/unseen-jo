@@ -1,0 +1,51 @@
+{
+  "scope": "Actual production React/SDK/Chromium with isolated Auth/REST fixtures. No real credentials, emails, account updates or permission changes.",
+  "base": "http://127.0.0.1:4198",
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "incorrectPassword": true,
+      "passwordVisibility": true,
+      "enterSubmission": true,
+      "mailCooldownAndReload": true,
+      "adminLoginAndRoleGuard": true,
+      "adminRecovery": true,
+      "accessibility": "passed"
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "incorrectPassword": true,
+      "passwordVisibility": true,
+      "enterSubmission": true,
+      "mailCooldownAndReload": true,
+      "adminLoginAndRoleGuard": true,
+      "adminRecovery": true,
+      "accessibility": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "incorrectPassword": true,
+      "passwordVisibility": true,
+      "enterSubmission": true,
+      "mailCooldownAndReload": true,
+      "adminLoginAndRoleGuard": true,
+      "adminRecovery": true,
+      "accessibility": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 320,
+      "incorrectPassword": true,
+      "passwordVisibility": true,
+      "enterSubmission": true,
+      "mailCooldownAndReload": true,
+      "adminLoginAndRoleGuard": true,
+      "adminRecovery": true,
+      "accessibility": "passed"
+    }
+  ],
+  "errors": []
+}

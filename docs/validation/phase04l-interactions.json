@@ -1,0 +1,51 @@
+{
+  "scope": "Rendered browser interactions with fixture Auth and isolated in-memory translation writes; no remote content/media/approval changes",
+  "passed": 7,
+  "results": [
+    {
+      "name": "Arabic admin search and enum filters use translated names without changing stored values",
+      "status": "passed"
+    },
+    {
+      "name": "language switch preserves unsaved English and Arabic editor fields and makes no request",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic-only save sends no English, publication, source approval or media payload",
+      "status": "passed"
+    },
+    {
+      "name": "private Arabic preview is visibly unreviewed and supports English preview independently",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic public search, real map controls and popups remain interactive",
+      "status": "passed"
+    },
+    {
+      "name": "missing Arabic translation produces an explicit English fallback in real rendering",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic mobile drawer, keyboard focus and reduced-motion preferences work",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "translationFixtureWrites": [
+    {
+      "path": "/rest/v1/place_translations",
+      "body": {
+        "name": "محمية غابات عجلون",
+        "description": "نص عربي غير محفوظ للاختبار",
+        "city": "عجلون",
+        "address": "مرتفعات عجلون، محافظة عجلون، شمال الأردن؛ نقطة مرجعية للمحمية وليست مدخلًا محددًا بالمسح.",
+        "best_time_to_visit": "الربيع لخضرة الغابة وأزهارها البرية؛ تحقق من أحوال المسارات مع الجمعية الملكية لحماية الطبيعة.",
+        "transportation_notes": "استخدم مرجع موقع محمية الغابة، لا قلعة عجلون. تحقق مع الجمعية الملكية لحماية الطبيعة من نقطة الوصول ومواقف السيارات وأي تنقلات للمسارات الإرشادية. لا يُقدَّم ضمان لمدة القيادة أو لإمكانية الوصول دون درج.",
+        "visitor_guidance": "يعرض جدول الوزارة رسوم دخول المحمية: ٢٫٥ دينار للأردني و٦ للمقيم و٨ للأجنبي، إضافة إلى ضريبة ١٦٪، دون تحديد تاريخ سريان. هذه أدلة مصدرية بتاريخ الاطلاع وليست تأكيدًا للمبلغ الحالي المستحق؛ تبقى حقول السعر الموحد فارغة. ساعات العمل وتوافر المسارات حاليًا وملاءمة مجموعات الزوار وإمكانية الوصول غير موثقة. مدة الزيارة توصية تحريرية معلنة.\nالإحداثيات نقطة مرجعية من رابط هيئة تنشيط السياحة، وليست مدخلًا ممسوحًا. نقطة اليونسكو للنطاق الحيوي الأوسع تختلف في المقياس؛ يلزم تأكيد ملاءمة نقطة الوصول مع المسؤول أو المشغّل.",
+        "source_updated_at": "2026-10-19T11:20:48.274507Z",
+        "editorial_status": "pending"
+      }
+    }
+  ]
+}

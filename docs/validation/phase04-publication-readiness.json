@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-19",
+  "timezone": "Asia/Amman",
+  "project": "dkhwwvoplhfjccvjegty",
+  "recommendation": "umm-qais",
+  "placeId": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+  "readyToPublish": false,
+  "backendBlockersDerivedFromLiveRowsAndValidator": [
+    "Source and essential claims require an explicit review",
+    "Choose an active primary category",
+    "Review a sourced Jordan location and its precision",
+    "An uploaded, rights-approved cover image is required"
+  ],
+  "authenticatedChecklistRpcCalledThisReview": false,
+  "coordinateProposal": {
+    "latitude": 32.6556875,
+    "longitude": 35.6780625,
+    "source": "https://www.mota.gov.jo/EN/Pages/Umm_Qays",
+    "corroboratingSource": "https://international.visitjordan.com/wheretogo/umm-qais/",
+    "evidence": "Both official pages link to the same Google Maps target",
+    "precision": "provisional representative site point; entrance not verified",
+    "saved": false
+  },
+  "media": {
+    "imageId": "f30f04d6-804e-4a1b-8ed5-14bb6218b510",
+    "linkedBytes": 63156,
+    "storageMimeType": "image/jpeg",
+    "isCover": false,
+    "rightsApproved": false,
+    "sourceAndRightsEvidence": "missing",
+    "actualIdentity": "not inspected: private bytes unavailable through connected browser",
+    "pixelDimensions": "not available in queried Storage metadata",
+    "unlinkedObjects": 1,
+    "objectsDeleted": 0
+  },
+  "validation": {
+    "isolatedDatabaseGroups": {"passed": 10, "scope": "PGlite/PostGIS; simulated Auth and Storage"},
+    "renderedBrowserGroups": {"passed": 13, "scope": "intercepted CMS fixtures; real MapLibre/OpenFreeMap"},
+    "hostedAnonymousGroups": {"passed": 4, "scope": "genuine read-only hosted SDK"},
+    "lint": "passed",
+    "assetReferences": {"passed": 83},
+    "productionBuild": "passed; existing MapLibre chunk-size warning",
+    "liveValidatorAndTriggerInspection": "confirmed",
+    "actualSignedInUmmQaisPreview": "manual check required"
+  },
+  "preservation": {
+    "placesDigestBefore": "ec60507a2fddb950ef46390a6a2cb94e",
+    "placesDigestAfter": "ec60507a2fddb950ef46390a6a2cb94e",
+    "drafts": 6,
+    "published": 0,
+    "reviewRows": 0,
+    "linkedImages": 1,
+    "privateStorageObjects": 2,
+    "administrators": 1,
+    "remoteMutations": false,
+    "configurationOrConnectionChanges": false,
+    "phase05Started": false
+  },
+  "report": "docs/FIRST_PUBLICATION_READINESS.md",
+  "nextApproval": "content edits only after proposal approval; separate publication approval after all evidence and saved checklist are complete",
+  "ownerImageFollowup": {
+    "instruction": "test upload has unknown rights; do not approve, publish or delete",
+    "authorizedMutation": "existing image license_evidence marked UNVERIFIED - TEST UPLOAD ONLY",
+    "channel": "trusted dedicated project SQL; no Auth user impersonation",
+    "warningVerifiedSaved": true,
+    "approvedImagesAfter": 0,
+    "draftsAfter": 6,
+    "storageObjectsAfter": 2,
+    "placesDigestAfter": "ec60507a2fddb950ef46390a6a2cb94e",
+    "replacementCandidatesUploaded": false,
+    "recommendedCandidate": "Bashar Tabbah - Umm Qais (West Theater), CC BY-SA 4.0",
+    "evidence": "docs/evidence/umm-qais-media/README.md",
+    "additionalPublicationPrerequisite": "browser-verified discoverable photographer credit and source/licence links"
+  }
+}

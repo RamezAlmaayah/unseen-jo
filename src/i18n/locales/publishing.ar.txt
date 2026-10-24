@@ -1,0 +1,33 @@
+RESEARCH & PUBLICATION|البحث والنشر
+Automated publishing|النشر الآلي
+Complete the six existing destinations using checked evidence and the current administrator account.|استكمل الوجهات الست الموجودة باستخدام الأدلة المفحوصة وحساب المسؤول الحالي.
+Verified publishing package|حزمة النشر ذات الأدلة المفحوصة
+This operation can upload eligible photographs, record machine verification, approve checked Arabic and publish only destinations that pass every backend requirement. It preserves English text, destination identities and unverified media.|يمكن لهذه العملية رفع الصور المؤهلة وتسجيل التحقق الآلي واعتماد العربية المفحوصة ونشر الوجهات التي تستوفي جميع متطلبات النظام الخلفي فقط. وتحافظ على النص الإنجليزي ومعرّفات الوجهات والوسائط غير الموثقة.
+Evidence is checked again before each write. Changed content, missing rights or failed checks block that destination while the others continue.|تُفحص الأدلة مجددًا قبل كل عملية حفظ. ويؤدي تغير المحتوى أو نقص الحقوق أو فشل الفحوص إلى إيقاف تلك الوجهة مع متابعة الوجهات الأخرى.
+The account is recorded as the authorized executor. Machine checks are identified in the saved source notes; they are not personal field-by-field review.|يُسجل الحساب بصفته المنفذ المخوّل. وتُحدد الفحوص الآلية في ملاحظات المصادر المحفوظة؛ ولا تُنسب إلى مراجعة شخصية لكل حقل.
+Keep this page open until the run finishes. An interrupted upload is not retried blindly.|أبقِ هذه الصفحة مفتوحة حتى تنتهي العملية. لا تُعاد محاولة الرفع المنقطع دون فحص حالته.
+Run verified publishing|تشغيل النشر وفق الأدلة المفحوصة
+Publishing eligible destinations…|جارٍ نشر الوجهات المؤهلة…
+Run the prepared evidence package from the local development workspace. No private credentials or research files are embedded in the production bundle.|شغّل حزمة الأدلة المعدّة من مساحة التطوير المحلية. لا تتضمن حزمة الإنتاج بيانات اعتماد خاصة أو ملفات البحث.
+Publishing results|نتائج النشر
+Download credential-free publishing report|تنزيل تقرير النشر الخالي من بيانات الاعتماد
+Prepared publishing evidence is unavailable.|أدلة النشر المعدّة غير متوفرة.
+already published|منشورة مسبقًا
+blocked|متوقفة بسبب متطلبات غير مستوفاة
+Canvas-sided campsite cabins among trees and wildflowers at Ajlun Reserve, photographed in 2005.|أكواخ تخييم بجوانب قماشية بين الأشجار والأزهار البرية في محمية عجلون، صُورت عام ٢٠٠٥.
+Turquoise wooden doors beside stone buildings on a stepped street in old As-Salt.|أبواب خشبية فيروزية بجانب مبانٍ حجرية في شارع ذي درج بمدينة السلط القديمة.
+Yellow-stone buildings, balconies and a public square in old As-Salt.|مبانٍ من الحجر الأصفر وشرفات وساحة عامة في السلط القديمة.
+Al-Khader Street stairs between stone buildings in old As-Salt.|درج شارع الخضر بين المباني الحجرية في السلط القديمة.
+Wide view over the dry hills and deeply cut valley of Wadi Mujib.|مشهد واسع للتلال الجافة والوادي العميق في منطقة وادي الموجب.
+Layered valley walls and winding tracks in the Wadi Mujib landscape.|جوانب وادٍ ذات طبقات صخرية ومسارات متعرجة في مشهد وادي الموجب.
+Pale sandstone formations and shrubs in Dana Biosphere Reserve.|تكوينات من الحجر الرملي الفاتح وشجيرات في محمية ضانا للمحيط الحيوي.
+Rounded sandstone outcrops above a wooded valley in Dana Biosphere Reserve.|نتوءات مستديرة من الحجر الرملي فوق وادٍ مشجّر في محمية ضانا للمحيط الحيوي.
+Rocky slopes and a broad mountain valley in Dana Biosphere Reserve.|منحدرات صخرية ووادٍ جبلي واسع في محمية ضانا للمحيط الحيوي.
+Large stone blocks and column remains at Qasr El-Abd near Iraq Al-Amir.|كتل حجرية كبيرة وبقايا أعمدة في قصر العبد قرب عراق الأمير.
+Dark stone seating and arches of the West Theatre at Umm Qais, overlooking green countryside.|مدرجات حجرية داكنة وأقواس في المسرح الغربي بأم قيس تطل على الريف الأخضر.
+Oak woodland and a rocky walking trail in Ajloun Forest Reserve, photographed in May 2026.|غابة سنديان ومسار مشي صخري في محمية غابات عجلون، صُورت في مايو ٢٠٢٦.
+Saved bilingual content and geographic reference match the research package|المحتوى المحفوظ باللغتين والمرجع الجغرافي يطابقان حزمة البحث
+Recorded automated source provenance and independently checked Arabic through the real session|سُجلت منهجية التحقق الآلي من المصادر وفُحص اتساق العربية عبر الجلسة الفعلية
+Backend published English and current reviewed Arabic atomically|نشر النظام الخلفي الإنجليزية والعربية المراجعة المرتبطة بنسختها الحالية ضمن عملية واحدة
+Verified image identity, stored bytes, attribution and saved-rights approval: {{v0}}|فُحصت هوية الصورة وبياناتها المخزنة ونسبتها وإجازة الحقوق المحفوظة: {{v0}}
+Blocked: {{v0}}|متوقفة: {{v0}}

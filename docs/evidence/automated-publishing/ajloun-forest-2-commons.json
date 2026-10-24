@@ -1,0 +1,219 @@
+{
+  "retrievedAt": "2026-10-19T17:32:19.878Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AAjlun+Forest+Reserve+42.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Csha1%7Cextmetadata&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 195284441,
+    "ns": 6,
+    "title": "File:Ajlun Forest Reserve 42.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5161429,
+        "width": 4000,
+        "height": 3000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ajlun_Forest_Reserve_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195284441",
+        "sha1": "d9c46046fe862d2afae05dac7a7277e549e306f6",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-07-07 10:18:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Ajlun Forest Reserve 42",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Ajlun Forest Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "32.381677",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "35.763420",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Some of the living organisms found in Ajloun Forest Reserve, along with its roads and informational signs",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-05-30 14:08:08",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1250184811,
+        "parentid": 1245356891,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=بعض الكائنات الحية المتواجدة في محمية غابات عجلون، والطرق واللوحات الموجودة فيها.}}\n{{en|1=Some of the living organisms found in Ajloun Forest Reserve, along with its roads and informational signs}}\n|date=2026-05-30 14:08:08\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.381677|35.76342}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Ajlun Forest Reserve]]\n[[Category:Visual Jordan Archive Project]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 5161429,
+    "width": 4000,
+    "height": 3000,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ajlun_Forest_Reserve_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195284441",
+    "sha1": "d9c46046fe862d2afae05dac7a7277e549e306f6",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-07-07 10:18:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ajlun Forest Reserve 42",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Ajlun Forest Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "32.381677",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "35.763420",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Some of the living organisms found in Ajloun Forest Reserve, along with its roads and informational signs",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-05-30 14:08:08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

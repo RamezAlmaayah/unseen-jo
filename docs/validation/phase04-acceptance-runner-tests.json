@@ -1,0 +1,18 @@
+{
+  "scope": "In-memory failure and cleanup-scope tests; not real authenticated operations",
+  "passed": 3,
+  "results": [
+    {
+      "name": "successful runner confines writes and cleanup to this run",
+      "status": "passed"
+    },
+    {
+      "name": "partial upload failure still cleans only the created test folder",
+      "status": "passed"
+    },
+    {
+      "name": "authorization failure creates and deletes nothing",
+      "status": "passed"
+    }
+  ]
+}

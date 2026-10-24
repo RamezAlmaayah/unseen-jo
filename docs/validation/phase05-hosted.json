@@ -1,0 +1,224 @@
+{
+  "scope": "Genuine anonymous hosted read APIs and production repository. No API interception, no data/status/Storage writes.",
+  "project": "dkhwwvoplhfjccvjegty",
+  "published": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "slug": "ajloun-forest",
+      "status": "published"
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "slug": "dana-reserve",
+      "status": "published"
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "slug": "iraq-al-amir",
+      "status": "published"
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "slug": "salt-historic",
+      "status": "published"
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "slug": "umm-qais",
+      "status": "published"
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "slug": "wadi-mujib",
+      "status": "published"
+    }
+  ],
+  "retrievalMs": 1539.3609999999999,
+  "profiles": [
+    {
+      "interests": [
+        "nature"
+      ],
+      "processingMs": 1.2243000000000848,
+      "selected": "ajloun-forest",
+      "ranked": [
+        {
+          "slug": "ajloun-forest",
+          "score": 67,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "wadi-mujib",
+          "score": 52,
+          "coverage": 0.6,
+          "scoreSupported": true
+        },
+        {
+          "slug": "dana-reserve",
+          "score": 44,
+          "coverage": 0.55,
+          "scoreSupported": true
+        },
+        {
+          "slug": "iraq-al-amir",
+          "score": 31,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "salt-historic",
+          "score": 30,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "umm-qais",
+          "score": 26,
+          "coverage": 0.75,
+          "scoreSupported": true
+        }
+      ]
+    },
+    {
+      "interests": [
+        "history"
+      ],
+      "processingMs": 0.2357999999999265,
+      "selected": "iraq-al-amir",
+      "ranked": [
+        {
+          "slug": "iraq-al-amir",
+          "score": 71,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "salt-historic",
+          "score": 70,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "umm-qais",
+          "score": 66,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "ajloun-forest",
+          "score": 27,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "wadi-mujib",
+          "score": 12,
+          "coverage": 0.6,
+          "scoreSupported": true
+        },
+        {
+          "slug": "dana-reserve",
+          "score": 4,
+          "coverage": 0.55,
+          "scoreSupported": true
+        }
+      ]
+    },
+    {
+      "interests": [
+        "nature",
+        "adventure"
+      ],
+      "processingMs": 0.08409999999980755,
+      "selected": "wadi-mujib",
+      "ranked": [
+        {
+          "slug": "wadi-mujib",
+          "score": 52,
+          "coverage": 0.6,
+          "scoreSupported": true
+        },
+        {
+          "slug": "ajloun-forest",
+          "score": 47,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "iraq-al-amir",
+          "score": 31,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "salt-historic",
+          "score": 30,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "umm-qais",
+          "score": 26,
+          "coverage": 0.75,
+          "scoreSupported": true
+        },
+        {
+          "slug": "dana-reserve",
+          "score": 24,
+          "coverage": 0.55,
+          "scoreSupported": true
+        }
+      ]
+    },
+    {
+      "interests": [],
+      "processingMs": 0.056599999999889405,
+      "selected": "iraq-al-amir",
+      "ranked": [
+        {
+          "slug": "iraq-al-amir",
+          "score": 52,
+          "coverage": 0.5833333333333334,
+          "scoreSupported": true
+        },
+        {
+          "slug": "salt-historic",
+          "score": 51,
+          "coverage": 0.5833333333333334,
+          "scoreSupported": true
+        },
+        {
+          "slug": "ajloun-forest",
+          "score": 46,
+          "coverage": 0.5833333333333334,
+          "scoreSupported": true
+        },
+        {
+          "slug": "umm-qais",
+          "score": 43,
+          "coverage": 0.5833333333333334,
+          "scoreSupported": true
+        },
+        {
+          "slug": "wadi-mujib",
+          "score": 19,
+          "coverage": 0.3333333333333333,
+          "scoreSupported": false
+        },
+        {
+          "slug": "dana-reserve",
+          "score": 6,
+          "coverage": 0.25,
+          "scoreSupported": false
+        }
+      ]
+    }
+  ],
+  "strict": {
+    "confirmed": 0,
+    "unverifiedAlternatives": 6
+  },
+  "selectedPhotoAvailable": true,
+  "privateReviewsExposed": false
+}

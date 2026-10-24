@@ -1,0 +1,122 @@
+[
+  {
+    "language": "en",
+    "width": 1440,
+    "tiles": [
+      {
+        "height": 336,
+        "text": "Available cost\nCost unavailable"
+      },
+      {
+        "height": 336,
+        "text": "Visit duration\n120–240 min"
+      },
+      {
+        "height": 336,
+        "text": "Travel time unavailable\nInformation unavailable"
+      },
+      {
+        "height": 336,
+        "text": "Best time to visit\nSpring for woodland greenery and wildflowers; confirm trail conditions with RSCN."
+      },
+      {
+        "height": 336,
+        "text": "Suitable travel groups\nInformation unavailable"
+      },
+      {
+        "height": 336,
+        "text": "Transportation\nUse the forest reserve location reference, not Ajloun Castle. Confirm arrival, parking and any guided-route transfers with RSCN. No driving-time or step-free-access guarantee is provided."
+      }
+    ]
+  },
+  {
+    "language": "ar-JO",
+    "width": 1440,
+    "tiles": [
+      {
+        "height": 310,
+        "text": "التكلفة المتاحة\nالتكلفة غير متاحة"
+      },
+      {
+        "height": 310,
+        "text": "مدة الزيارة\n١٢٠–٢٤٠ دقيقة"
+      },
+      {
+        "height": 310,
+        "text": "وقت الرحلة غير متاح\nالمعلومات غير متاحة"
+      },
+      {
+        "height": 310,
+        "text": "أفضل وقت للزيارة\nالربيع لخضرة الغابة وأزهارها البرية؛ تحقق من أحوال المسارات مع الجمعية الملكية لحماية الطبيعة."
+      },
+      {
+        "height": 310,
+        "text": "مجموعات الزوار المناسبة\nالمعلومات غير متاحة"
+      },
+      {
+        "height": 310,
+        "text": "وسيلة التنقل\nاستخدم مرجع موقع محمية الغابة، لا قلعة عجلون. تحقق مع الجمعية الملكية لحماية الطبيعة من نقطة الوصول ومواقف السيارات وأي تنقلات للمسارات الإرشادية. لا يُقدَّم ضمان لمدة القيادة أو لإمكانية الوصول دون درج."
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "width": 820,
+    "tiles": [
+      {
+        "height": 80,
+        "text": "Available cost\nCost unavailable"
+      },
+      {
+        "height": 80,
+        "text": "Visit duration\n120–240 min"
+      },
+      {
+        "height": 80,
+        "text": "Travel time unavailable\nInformation unavailable"
+      },
+      {
+        "height": 232,
+        "text": "Best time to visit\nSpring for woodland greenery and wildflowers; confirm trail conditions with RSCN."
+      },
+      {
+        "height": 232,
+        "text": "Suitable travel groups\nInformation unavailable"
+      },
+      {
+        "height": 232,
+        "text": "Transportation\nUse the forest reserve location reference, not Ajloun Castle. Confirm arrival, parking and any guided-route transfers with RSCN. No driving-time or step-free-access guarantee is provided."
+      }
+    ]
+  },
+  {
+    "language": "ar-JO",
+    "width": 390,
+    "tiles": [
+      {
+        "height": 80,
+        "text": "التكلفة المتاحة\nالتكلفة غير متاحة"
+      },
+      {
+        "height": 80,
+        "text": "مدة الزيارة\n١٢٠–٢٤٠ دقيقة"
+      },
+      {
+        "height": 154,
+        "text": "وقت الرحلة غير متاح\nالمعلومات غير متاحة"
+      },
+      {
+        "height": 154,
+        "text": "أفضل وقت للزيارة\nالربيع لخضرة الغابة وأزهارها البرية؛ تحقق من أحوال المسارات مع الجمعية الملكية لحماية الطبيعة."
+      },
+      {
+        "height": 336,
+        "text": "مجموعات الزوار المناسبة\nالمعلومات غير متاحة"
+      },
+      {
+        "height": 336,
+        "text": "وسيلة التنقل\nاستخدم مرجع موقع محمية الغابة، لا قلعة عجلون. تحقق مع الجمعية الملكية لحماية الطبيعة من نقطة الوصول ومواقف السيارات وأي تنقلات للمسارات الإرشادية. لا يُقدَّم ضمان لمدة القيادة أو لإمكانية الوصول دون درج."
+      }
+    ]
+  }
+]

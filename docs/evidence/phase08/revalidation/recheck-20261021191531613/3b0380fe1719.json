@@ -1,0 +1,13 @@
+{
+  "url": "https://whc.unesco.org/en/list/327/",
+  "checkedAt": "2026-10-21T19:16:26.779Z",
+  "status": 403,
+  "ok": false,
+  "sha256": "aacf681b54e5803de3500e967ae2fe9816978408469d62867b7101fdccf7bed9",
+  "contentType": "text/html; charset=UTF-8",
+  "text": "Just a moment... Enable JavaScript and cookies to continue",
+  "method": "Origin HTTP retrieval and comparison with previously inspected source text",
+  "unchangedInspectedText": false,
+  "previousTextSha256": null,
+  "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/3b0380fe1719.json"
+}

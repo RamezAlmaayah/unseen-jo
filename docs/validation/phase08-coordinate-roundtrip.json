@@ -1,0 +1,149 @@
+{
+  "scope": "Actual hosted SELECT, original float8 wire bytes; no updates",
+  "rows": [
+    {
+      "slug": "al-maghtas-baptism-site",
+      "latitude": 31.8372222222222,
+      "longitude": 35.5527777777778,
+      "latitudebinary": "403fd654320fedcb",
+      "longitudebinary": "4041c6c16c16c16c",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "amman-citadel",
+      "latitude": 31.9543125,
+      "longitude": 35.9354375,
+      "latitudebinary": "403ff44dd2f1a9fc",
+      "longitudebinary": "4041f7bc6a7ef9db",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "amman-roman-theatre",
+      "latitude": 31.9516875,
+      "longitude": 35.9393125,
+      "latitudebinary": "403ff3a1cac08312",
+      "longitudebinary": "4041f83b645a1cac",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "aqaba-marine-reserve",
+      "latitude": 29.4297222222222,
+      "longitude": 34.9755555555556,
+      "latitudebinary": "403d6e02468acf14",
+      "longitudebinary": "40417cdf01234568",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "azraq-wetland-reserve",
+      "latitude": 31.833909,
+      "longitude": 36.820555,
+      "latitudebinary": "403fd57b0f6ad70e",
+      "longitudebinary": "40426907f23cc8de",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "jerash-archaeological-city",
+      "latitude": 32.2759375,
+      "longitude": 35.8914375,
+      "latitudebinary": "40402351eb851eb8",
+      "longitudebinary": "4041f21a9fbe76c9",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "karak-castle",
+      "latitude": 31.1809375,
+      "longitude": 35.7016875,
+      "latitudebinary": "403f2e51eb851eb8",
+      "longitudebinary": "4041d9d0e5604189",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "little-petra-siq-al-barid",
+      "latitude": 30.37527847,
+      "longitude": 35.45138931,
+      "latitudebinary": "403e60123ff38afd",
+      "longitudebinary": "4041b9c71ffa1b65",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "madaba-st-georges-church",
+      "latitude": 31.71765,
+      "longitude": 35.7942,
+      "latitudebinary": "403fb7b7e90ff972",
+      "longitudebinary": "4041e5a858793dd9",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "mount-nebo",
+      "latitude": 31.768088,
+      "longitude": 35.725703,
+      "latitudebinary": "403fc4a16a487336",
+      "longitudebinary": "4041dce3d5fdcdf7",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "pella-tabaqat-fahl",
+      "latitude": 32.449809,
+      "longitude": 35.613423,
+      "latitudebinary": "4040399357603926",
+      "longitudebinary": "4041ce84a515ce9e",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "petra",
+      "latitude": 30.3243125,
+      "longitude": 35.4679375,
+      "latitudebinary": "403e530624dd2f1b",
+      "longitudebinary": "4041bbe560418937",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "quseir-amra",
+      "latitude": 31.8018055555556,
+      "longitude": 36.5873055555556,
+      "latitudebinary": "403fcd4320fedcbb",
+      "longitudebinary": "40424b2cd414ef64",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "shaumari-wildlife-reserve",
+      "latitude": 31.7448424,
+      "longitude": 36.7818916,
+      "latitudebinary": "403fbeadfdd4ac95",
+      "longitudebinary": "4042641506218231",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "shobak-castle",
+      "latitude": 30.531389,
+      "longitude": 35.560833,
+      "latitudebinary": "403e88091c087443",
+      "longitudebinary": "4041c7c96030c240",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "um-er-rasas",
+      "latitude": 31.5013125,
+      "longitude": 35.9191875,
+      "latitudebinary": "403f805604189375",
+      "longitudebinary": "4041f5a7ef9db22d",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "umm-al-jimal",
+      "latitude": 32.3269444444445,
+      "longitude": 36.37,
+      "latitudebinary": "404029d950c83fb8",
+      "longitudebinary": "40422f5c28f5c28f",
+      "extra_float_digits": "0"
+    },
+    {
+      "slug": "wadi-rum",
+      "latitude": 29.6397222222222,
+      "longitude": 35.4338888888889,
+      "latitudebinary": "403da3c4d5e6f809",
+      "longitudebinary": "4041b789abcdf012",
+      "extra_float_digits": "0"
+    }
+  ]
+}

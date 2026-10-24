@@ -1,0 +1,17 @@
+Keep your account connected.
+
+Confirm the email address requested for your Unseen Jo account: {{ .NewEmail }}. Keep both confirmation messages if your current email also needs verification.
+
+{{ .ConfirmationURL }}
+
+If you did not request this change, do not confirm it. Sign in to review your account.
+
+---
+
+ابقَ على اتصال بحسابك.
+
+أكّد البريد الإلكتروني المطلوب لحسابك: {{ .NewEmail }}. احتفظ برسالتَي التأكيد إذا كان بريدك الحالي يحتاج أيضاً إلى التحقّق.
+
+{{ .ConfirmationURL }}
+
+إذا لم تطلب هذا التغيير، فلا تؤكّده. سجّل دخولك لمراجعة حسابك.

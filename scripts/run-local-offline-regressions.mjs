@@ -1,0 +1,7 @@
+// Explicit safe list: in-memory DB/model tests, no hosted network integration scripts.
+import {spawn} from 'node:child_process'
+import {mkdir,writeFile} from 'node:fs/promises'
+const names=['check-phase02a','check-phase02b','check-phase03','check-phase04','check-phase05','check-phase06','check-phase07','check-global-search','check-phase08','check-localization','check-localization-database','check-account-privacy','check-seo']
+const results=[];await mkdir('artifacts/local-privacy',{recursive:true});await mkdir('docs/validation',{recursive:true})
+for(const name of names){const r=await new Promise(resolve=>{const child=spawn(process.execPath,['scripts/'+name+'.mjs'],{windowsHide:true,timeout:180000});let output='';child.stdout.on('data',d=>output+=d);child.stderr.on('data',d=>output+=d);child.on('error',()=>resolve({code:-1,output:'Subprocess failed'}));child.on('close',code=>resolve({code,output}))});await writeFile('artifacts/local-privacy/'+name+'.log',r.output);results.push({name,status:r.code===0?'PASS':'FAIL',exitCode:r.code,outputTail:r.code===0?r.output.slice(-250):r.output.slice(-1800)});await writeFile('docs/validation/local-privacy-offline-regressions.json',JSON.stringify({scope:'Disposable PGlite/model/static checks; not actual Supabase Auth/Storage integration',results},null,2));console.log((r.code===0?'PASS ':'FAIL ')+name)}
+if(results.some(r=>r.status==='FAIL'))process.exitCode=1

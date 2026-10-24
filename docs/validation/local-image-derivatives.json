@@ -1,0 +1,1731 @@
+{
+  "/assets/figma/preferences/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/preferences/nature.png": {
+    "originalSha256": "d9c9ca40d1cd3e00b1311c103891329016ce285930fd7853cfcb048c373aa5f6",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/f745c722fc9520772d83-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 11526,
+        "sha256": "f745c722fc9520772d83d463df92f39098d558bfe9ff27983063290bc82a36ff"
+      },
+      {
+        "src": "/assets/responsive/96830ea6ec95cc171967-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 11646,
+        "sha256": "96830ea6ec95cc1719670f167041bd5d7048ea8162f8d37b64237f1d947a0202"
+      }
+    ]
+  },
+  "/assets/figma/preferences/food.png": {
+    "originalSha256": "53946b638e6f6719831e28dc0c2a6402c41d7910c0f8b2450616091acdd4a6d0",
+    "width": 512,
+    "height": 511,
+    "variants": [
+      {
+        "src": "/assets/responsive/6cbf48f29a57b203c9b5-320.webp",
+        "width": 320,
+        "height": 319,
+        "bytes": 12546,
+        "sha256": "6cbf48f29a57b203c9b583fb08599449fe592e4c937a685eba398947073f01f5"
+      },
+      {
+        "src": "/assets/responsive/feff480f993c5ae6a413-512.webp",
+        "width": 512,
+        "height": 511,
+        "bytes": 13050,
+        "sha256": "feff480f993c5ae6a413076625fe4e46648a1468d9a675b4811c1e3e4afb89dc"
+      }
+    ]
+  },
+  "/assets/figma/preferences/history.png": {
+    "originalSha256": "4a901053068700b4f2bdcf8d20a4906dc0a05424d0bc5d5b29f49c977ab127f0",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/f5c47147befc0dec1121-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 11460,
+        "sha256": "f5c47147befc0dec11216f8338c8b872e859105d37623ac1d18423b866fb5efc"
+      },
+      {
+        "src": "/assets/responsive/0d872d2a301561124bcf-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 8934,
+        "sha256": "0d872d2a301561124bcff17c56470c28d395756503ee54642bf1755818dadbcc"
+      }
+    ]
+  },
+  "/assets/figma/preferences/culture.png": {
+    "originalSha256": "2c2931ada186ef27fcf97a9578e1fd57d33c3115808b39a588290d0b52863b07",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/6a5c5b54617ecf5083bf-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 13932,
+        "sha256": "6a5c5b54617ecf5083bfebd865b1a4f65d4984619c6e4eecfc6780a8ac0e2378"
+      },
+      {
+        "src": "/assets/responsive/fe1fd1521a82b41f4dbc-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 12930,
+        "sha256": "fe1fd1521a82b41f4dbc23705dc392961079d9fe68710fad136bbf38ea6d3970"
+      }
+    ]
+  },
+  "/assets/figma/preferences/photography.png": {
+    "originalSha256": "82d45f8b0ee9c8caaf98c9be1deda44a5d7142b3da85bf861fbcb17f2eb4371d",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/81e0a6e132dba4f45173-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 8636,
+        "sha256": "81e0a6e132dba4f45173894c0070ca2408da08b3622699e1288fb1a3c9b46aa4"
+      },
+      {
+        "src": "/assets/responsive/0e9e9e54bbf6e978b016-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 8876,
+        "sha256": "0e9e9e54bbf6e978b016339e4f2d87139c9695143769a86717813bc9cd0259dc"
+      }
+    ]
+  },
+  "/assets/figma/preferences/family.png": {
+    "originalSha256": "300503eb969775ddeebb7054e62964f3254f6b53c4d5a81e5e47c259aeb60003",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/9d3bbc5155bdb8dc5613-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 16972,
+        "sha256": "9d3bbc5155bdb8dc561316ec117d1f22e2839f66a5b26dafb43d6f5ac936fad9"
+      },
+      {
+        "src": "/assets/responsive/a0e213b2215f6c9e7c00-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 16718,
+        "sha256": "a0e213b2215f6c9e7c007fe916c8696383078efdd6c5dbe0c8d5788556c00e59"
+      }
+    ]
+  },
+  "/assets/figma/explore/ajloun-card-original.jpg": {
+    "originalSha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "width": 2731,
+    "height": 4096,
+    "variants": [
+      {
+        "src": "/assets/responsive/59fb094d54151db35507-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 71644,
+        "sha256": "59fb094d54151db35507c0c0ff389ecaa1c3a27cd2ec321d5e240a6ce359329b"
+      },
+      {
+        "src": "/assets/responsive/3cc3271f9f8791037d98-640.webp",
+        "width": 640,
+        "height": 960,
+        "bytes": 284376,
+        "sha256": "3cc3271f9f8791037d989ac0114dea921a7233f35e18c7ac0cc7d1728633fabf"
+      },
+      {
+        "src": "/assets/responsive/ab8a8bba7f7d4daa45d3-960.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 624870,
+        "sha256": "ab8a8bba7f7d4daa45d345a525f5f74a5934b260ea6bffdd2e4afa2ea6aa5680"
+      },
+      {
+        "src": "/assets/responsive/0059c69996c1598ce982-1280.webp",
+        "width": 1280,
+        "height": 1920,
+        "bytes": 1108866,
+        "sha256": "0059c69996c1598ce982ef7e31610c96d4d4a94c6312612e6800098aa327c66d"
+      },
+      {
+        "src": "/assets/responsive/7fad90afe6501196b6cb-1920.webp",
+        "width": 1920,
+        "height": 2880,
+        "bytes": 2348544,
+        "sha256": "7fad90afe6501196b6cb4c3e834f536e24d86da3fc5fb78d2f0ba1a8ca424f04"
+      },
+      {
+        "src": "/assets/responsive/3a3180922cf7c354b8cc-2560.webp",
+        "width": 2560,
+        "height": 3840,
+        "bytes": 3629408,
+        "sha256": "3a3180922cf7c354b8cce1c898e5e5544e0effd54b3d0869bba4bd953e3de8d7"
+      }
+    ]
+  },
+  "/assets/figma/explore/favorite.png": {
+    "originalSha256": "2f513be6991d741169c1bf6babb038402e3ddf914066897b66089adfca4546a2",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/a3034364763d6b4d5235-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 7508,
+        "sha256": "a3034364763d6b4d5235646a2c3c30ad2ce151bc30e6d0c7dc0e6daa5a5182d7"
+      },
+      {
+        "src": "/assets/responsive/8db0b935beb72b33485d-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 8048,
+        "sha256": "8db0b935beb72b33485d6b0961804e829a9c25a357f0d1e4e1c52b644cce5958"
+      }
+    ]
+  },
+  "/assets/figma/explore/cost.png": {
+    "originalSha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/7fa2003704a0f7594d18-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 15310,
+        "sha256": "7fa2003704a0f7594d18506ce9e447bcff332228e216c040aef11160d8af979d"
+      },
+      {
+        "src": "/assets/responsive/e3b0c44298fc1c149afb-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "/assets/figma/explore/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/explore/jordan-map.png": {
+    "originalSha256": "95b96430d4188cb125e1cbf8f067bcaf76d88c9f893a8e985e3cac6bc4560309",
+    "width": 916,
+    "height": 1717,
+    "variants": [
+      {
+        "src": "/assets/responsive/f3391f05636249cca4eb-320.webp",
+        "width": 320,
+        "height": 600,
+        "bytes": 35764,
+        "sha256": "f3391f05636249cca4eb716f492ebc9ec4d97d8ae3ef3db12151e82931dc0fd8"
+      },
+      {
+        "src": "/assets/responsive/d5eadfbf0036ad293e6e-640.webp",
+        "width": 640,
+        "height": 1200,
+        "bytes": 99560,
+        "sha256": "d5eadfbf0036ad293e6e9d4354b16bff6759bfedc4c6247fe0cbe9ebf4f8695f"
+      },
+      {
+        "src": "/assets/responsive/852fa9fd8ae440fc09d9-916.webp",
+        "width": 916,
+        "height": 1717,
+        "bytes": 158694,
+        "sha256": "852fa9fd8ae440fc09d961497502de79b24762320c60473b938ae475b10f7df5"
+      }
+    ]
+  },
+  "/assets/figma/explore/filters.png": {
+    "originalSha256": "2d600b6d9450b85ab6c55c3da821c637e9a2373cf92a3f888a382611fdc5873c",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/810b8cc1ef3ac03d0bc4-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 9126,
+        "sha256": "810b8cc1ef3ac03d0bc4d166b1095c4bc35407e68704e2db76210ebc73064777"
+      },
+      {
+        "src": "/assets/responsive/8e73ea42f848cf2e4224-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 8224,
+        "sha256": "8e73ea42f848cf2e4224e7cf1463f11680be6d8a0dd0b21ce9cf16e2338d595d"
+      }
+    ]
+  },
+  "/assets/figma/explore/salt-historic.jpg": {
+    "originalSha256": "152ad7c022a81b692775ac144c594a8c6b4dd0bf6197663ba85e44fff030d2fa",
+    "width": 1080,
+    "height": 1080,
+    "variants": [
+      {
+        "src": "/assets/responsive/3706f967f9ec2e6402a6-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 38160,
+        "sha256": "3706f967f9ec2e6402a6ca154c4bd530f711c52c815494f190bb27bc2841f5f1"
+      },
+      {
+        "src": "/assets/responsive/918e79614aef7dafe1d1-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 135684,
+        "sha256": "918e79614aef7dafe1d18c419eb6da8f2c491b656b9f1729f721b5865cb025cf"
+      },
+      {
+        "src": "/assets/responsive/42c82cd330f91a14c614-960.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 267388,
+        "sha256": "42c82cd330f91a14c614ea295ff1ae2f146b39948db5456d9860f2e0749f7eb7"
+      },
+      {
+        "src": "/assets/responsive/221a71670b5bd926a103-1080.webp",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 284812,
+        "sha256": "221a71670b5bd926a1031ebcc1af0daf2ea8ca3f548114fd26edb7a168daa4cc"
+      }
+    ]
+  },
+  "/assets/figma/explore/dana-biosphere-reserve.jpg": {
+    "originalSha256": "9ce701ea53a6698c2e77f7eadc8bfb2a2312356d1cb26d7a5cc1b78b637334c9",
+    "width": 2048,
+    "height": 1365,
+    "variants": [
+      {
+        "src": "/assets/responsive/a9854a566cbed8a900db-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 22190,
+        "sha256": "a9854a566cbed8a900dbc8e3696c4940ecdf9e140bdd35b1a4abdd84f3500ef8"
+      },
+      {
+        "src": "/assets/responsive/5fd8cf3c784886c63e61-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 78840,
+        "sha256": "5fd8cf3c784886c63e61d8b41965e8640084aa84d4ca2ffc76960ad94bfef474"
+      },
+      {
+        "src": "/assets/responsive/1e2641f5da0e86a66253-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 166028,
+        "sha256": "1e2641f5da0e86a66253165596f07c0c5f7bcc9a9e67b5bcfdc977b2752e4d16"
+      },
+      {
+        "src": "/assets/responsive/8da1c0729d57cf1ff720-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 277484,
+        "sha256": "8da1c0729d57cf1ff720f4f52e40410a7728289ca11348d576dde6c1b60236a0"
+      },
+      {
+        "src": "/assets/responsive/113bac8ebf844f2fbd45-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 516372,
+        "sha256": "113bac8ebf844f2fbd457cf214e6d6eedb4f83b36dcc71c17e3522360a4885ff"
+      },
+      {
+        "src": "/assets/responsive/a78b69e4b38d2444edc5-2048.webp",
+        "width": 2048,
+        "height": 1365,
+        "bytes": 538068,
+        "sha256": "a78b69e4b38d2444edc5f3475fed07f95eee6b8b101e145362909b11e23b252a"
+      }
+    ]
+  },
+  "/assets/figma/explore/wadi-mujib-adventure.jpg": {
+    "originalSha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "width": 1920,
+    "height": 1440,
+    "variants": [
+      {
+        "src": "/assets/responsive/8239fbef94c968d3d80d-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 33922,
+        "sha256": "8239fbef94c968d3d80d9876fb0203f0f7321ec99736f58c8aa9932fac763751"
+      },
+      {
+        "src": "/assets/responsive/5f7eaf1a8e82bc58e810-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 114316,
+        "sha256": "5f7eaf1a8e82bc58e81038c11a92dd4c5481216ff684ee6048fcd7963ab50823"
+      },
+      {
+        "src": "/assets/responsive/84d20725fcc94e5dcc50-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 222622,
+        "sha256": "84d20725fcc94e5dcc502084a441277468e10f88af67ef49e44eb5e9aab60a6d"
+      },
+      {
+        "src": "/assets/responsive/4ab85e0ac7689b7f3b55-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 333984,
+        "sha256": "4ab85e0ac7689b7f3b559fbec0da8c12bab877023bacd8de1ca4615ee8c7c305"
+      },
+      {
+        "src": "/assets/responsive/ca546c81de9c9e396353-1920.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 534836,
+        "sha256": "ca546c81de9c9e396353f6ea5c695b2896824cca4928ceb7a88c502fdb0998ac"
+      }
+    ]
+  },
+  "/assets/figma/explore/petra-promo-banner.png": {
+    "originalSha256": "d27dbca6fa73d469af46fcfcc2fe2da7cd01ff3bf016963d9711a4e7588db28e",
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "src": "/assets/responsive/f76d478027033e68cebb-320.webp",
+        "width": 320,
+        "height": 107,
+        "bytes": 6224,
+        "sha256": "f76d478027033e68cebbad7fe217b0dfbeb34f7faa1dc70de6feba21da2ca4c6"
+      },
+      {
+        "src": "/assets/responsive/9ba75f8ec8e0f4571430-640.webp",
+        "width": 640,
+        "height": 213,
+        "bytes": 20896,
+        "sha256": "9ba75f8ec8e0f4571430ed81aca6fef5aa0b9ed641a3f6d2d9092a0e4b92bf3f"
+      },
+      {
+        "src": "/assets/responsive/5bfd0c16669e35ba953b-960.webp",
+        "width": 960,
+        "height": 320,
+        "bytes": 41752,
+        "sha256": "5bfd0c16669e35ba953b2298cdeac9a875b48785eeb0c677d6e2f7f0cd6e1ac5"
+      },
+      {
+        "src": "/assets/responsive/045e5bb0e8708a05c71e-1280.webp",
+        "width": 1280,
+        "height": 427,
+        "bytes": 70348,
+        "sha256": "045e5bb0e8708a05c71ed6c2447d66f938a2931c63e9198df0e5ee15e7ed1d9b"
+      },
+      {
+        "src": "/assets/responsive/e2de98f6cf0d95a60860-1920.webp",
+        "width": 1920,
+        "height": 640,
+        "bytes": 138660,
+        "sha256": "e2de98f6cf0d95a60860ee5073fbb6955a1b267f5bef28f4538e7b8b6338c2d0"
+      },
+      {
+        "src": "/assets/responsive/c9f354be57035cd60dab-2172.webp",
+        "width": 2172,
+        "height": 724,
+        "bytes": 177720,
+        "sha256": "c9f354be57035cd60daba2204813aff7e131ace58482d899cc8b68aac11bfc90"
+      }
+    ]
+  },
+  "/assets/figma/explore/compass.png": {
+    "originalSha256": "71d3ac49e19cf1d0654d21b6fdd35d619a65ec083e80a27303e83aceb1adb771",
+    "width": 240,
+    "height": 216,
+    "variants": [
+      {
+        "src": "/assets/responsive/889708d828bc571f4898-80.webp",
+        "width": 80,
+        "height": 72,
+        "bytes": 6806,
+        "sha256": "889708d828bc571f4898106e8e32206c8e4cd1ecc1ab4030cc86283c83003a78"
+      },
+      {
+        "src": "/assets/responsive/38d1ed5acd4bbaac4804-160.webp",
+        "width": 160,
+        "height": 144,
+        "bytes": 19456,
+        "sha256": "38d1ed5acd4bbaac48042f2a6a94d835f1fd0541474825c92f87e14a887671ea"
+      },
+      {
+        "src": "/assets/responsive/28ea1427fa99b078c6d6-240.webp",
+        "width": 240,
+        "height": 216,
+        "bytes": 33006,
+        "sha256": "28ea1427fa99b078c6d641094193eab053c784f09252f2df15973da497bba52c"
+      }
+    ]
+  },
+  "/assets/figma/surprise/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/surprise/waterfall-hero.png": {
+    "originalSha256": "27229899d8d758e7a383e290aca75faafc18d0d0cf1c8dfb1262b7785ab6db19",
+    "width": 824,
+    "height": 1024,
+    "variants": [
+      {
+        "src": "/assets/responsive/4e396aee56db731b95c5-320.webp",
+        "width": 320,
+        "height": 398,
+        "bytes": 48372,
+        "sha256": "4e396aee56db731b95c59fecb09204a25319c243a3b34ee69550a30be93e8d37"
+      },
+      {
+        "src": "/assets/responsive/007792e75d76ba22082f-640.webp",
+        "width": 640,
+        "height": 795,
+        "bytes": 174502,
+        "sha256": "007792e75d76ba22082f3f3eec760a0c20cb0b5cffa6190b5e07349080194f50"
+      },
+      {
+        "src": "/assets/responsive/c5920fbb17eefed62e63-824.webp",
+        "width": 824,
+        "height": 1024,
+        "bytes": 278898,
+        "sha256": "c5920fbb17eefed62e63e845b3ce3bd2b3cae1df3d54a9afa48f1f0b747e0a4e"
+      }
+    ]
+  },
+  "/assets/figma/surprise/companions.png": {
+    "originalSha256": "300503eb969775ddeebb7054e62964f3254f6b53c4d5a81e5e47c259aeb60003",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/9d3bbc5155bdb8dc5613-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 16972,
+        "sha256": "9d3bbc5155bdb8dc561316ec117d1f22e2839f66a5b26dafb43d6f5ac936fad9"
+      },
+      {
+        "src": "/assets/responsive/a0e213b2215f6c9e7c00-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 16718,
+        "sha256": "a0e213b2215f6c9e7c007fe916c8696383078efdd6c5dbe0c8d5788556c00e59"
+      }
+    ]
+  },
+  "/assets/figma/surprise/surprise-action.png": {
+    "originalSha256": "433d085c7ef3d9acab0b5ac677a952ed0de8f35f714a2c1d0466f1332cf2f701",
+    "width": 256,
+    "height": 256,
+    "variants": [
+      {
+        "src": "/assets/responsive/af7e5fe12197bb9ea639-80.webp",
+        "width": 80,
+        "height": 80,
+        "bytes": 2666,
+        "sha256": "af7e5fe12197bb9ea63935dceb00e5668efd32e5171494cf2218e78fbf5e4923"
+      },
+      {
+        "src": "/assets/responsive/9e19989d034c821398f2-160.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 6722,
+        "sha256": "9e19989d034c821398f2c29b0c61dffaf595a2ed26f7757b5d464f61f149b280"
+      },
+      {
+        "src": "/assets/responsive/5ad1182a118ea00d6d01-256.webp",
+        "width": 256,
+        "height": 256,
+        "bytes": 5868,
+        "sha256": "5ad1182a118ea00d6d018eafffba8d7137aa50c3c4cc6a6ee16318056945df0c"
+      }
+    ]
+  },
+  "/assets/figma/result/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/result/favorite.png": {
+    "originalSha256": "2f513be6991d741169c1bf6babb038402e3ddf914066897b66089adfca4546a2",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/a3034364763d6b4d5235-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 7508,
+        "sha256": "a3034364763d6b4d5235646a2c3c30ad2ce151bc30e6d0c7dc0e6daa5a5182d7"
+      },
+      {
+        "src": "/assets/responsive/8db0b935beb72b33485d-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 8048,
+        "sha256": "8db0b935beb72b33485d6b0961804e829a9c25a357f0d1e4e1c52b644cce5958"
+      }
+    ]
+  },
+  "/assets/figma/result/ajloun-card-original.jpg": {
+    "originalSha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "width": 2731,
+    "height": 4096,
+    "variants": [
+      {
+        "src": "/assets/responsive/59fb094d54151db35507-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 71644,
+        "sha256": "59fb094d54151db35507c0c0ff389ecaa1c3a27cd2ec321d5e240a6ce359329b"
+      },
+      {
+        "src": "/assets/responsive/3cc3271f9f8791037d98-640.webp",
+        "width": 640,
+        "height": 960,
+        "bytes": 284376,
+        "sha256": "3cc3271f9f8791037d989ac0114dea921a7233f35e18c7ac0cc7d1728633fabf"
+      },
+      {
+        "src": "/assets/responsive/ab8a8bba7f7d4daa45d3-960.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 624870,
+        "sha256": "ab8a8bba7f7d4daa45d345a525f5f74a5934b260ea6bffdd2e4afa2ea6aa5680"
+      },
+      {
+        "src": "/assets/responsive/0059c69996c1598ce982-1280.webp",
+        "width": 1280,
+        "height": 1920,
+        "bytes": 1108866,
+        "sha256": "0059c69996c1598ce982ef7e31610c96d4d4a94c6312612e6800098aa327c66d"
+      },
+      {
+        "src": "/assets/responsive/7fad90afe6501196b6cb-1920.webp",
+        "width": 1920,
+        "height": 2880,
+        "bytes": 2348544,
+        "sha256": "7fad90afe6501196b6cb4c3e834f536e24d86da3fc5fb78d2f0ba1a8ca424f04"
+      },
+      {
+        "src": "/assets/responsive/3a3180922cf7c354b8cc-2560.webp",
+        "width": 2560,
+        "height": 3840,
+        "bytes": 3629408,
+        "sha256": "3a3180922cf7c354b8cce1c898e5e5544e0effd54b3d0869bba4bd953e3de8d7"
+      }
+    ]
+  },
+  "/assets/figma/result/cost.png": {
+    "originalSha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/7fa2003704a0f7594d18-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 15310,
+        "sha256": "7fa2003704a0f7594d18506ce9e447bcff332228e216c040aef11160d8af979d"
+      },
+      {
+        "src": "/assets/responsive/e3b0c44298fc1c149afb-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "/assets/figma/details/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/details/ajloun-main.png": {
+    "originalSha256": "17a72745bc5ed48f7ebd412fe8e5fcb06c62f0d566c524855ef07f7ce991eb7a",
+    "width": 1920,
+    "height": 1080,
+    "variants": [
+      {
+        "src": "/assets/responsive/11030c4330acc51f2acc-320.webp",
+        "width": 320,
+        "height": 180,
+        "bytes": 28430,
+        "sha256": "11030c4330acc51f2acce97f64ac84dc55171a4e4ee64c1dea31462f62c254e8"
+      },
+      {
+        "src": "/assets/responsive/02313135d34304a036e9-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 99972,
+        "sha256": "02313135d34304a036e9025183c5430449cf528bc6018c44bd813864814e0db8"
+      },
+      {
+        "src": "/assets/responsive/27050fc89c6b77415cab-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 196232,
+        "sha256": "27050fc89c6b77415cab001178ee6a064451fe44871920dc2436e522a49d7f19"
+      },
+      {
+        "src": "/assets/responsive/636f030e02f48bada117-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 305182,
+        "sha256": "636f030e02f48bada117b548ee448bb92eb7c94fa09759719a0b69a058c9ac8c"
+      },
+      {
+        "src": "/assets/responsive/d3c97fe082f3ba67df1f-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 464460,
+        "sha256": "d3c97fe082f3ba67df1fbd9d7594fcfd2288beea6315981daee218d0cd046981"
+      }
+    ]
+  },
+  "/assets/figma/details/ajloun-gallery-top.jpg": {
+    "originalSha256": "9e68c6794416b7f44df1492f28daf49238ee25ebcbec68bc9a861e0d296bbcc5",
+    "width": 4096,
+    "height": 2731,
+    "variants": [
+      {
+        "src": "/assets/responsive/326fbf30a25a56d924b3-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 34146,
+        "sha256": "326fbf30a25a56d924b3632be10daf4b0ad493795f13e0d17efe24318bb4afdd"
+      },
+      {
+        "src": "/assets/responsive/3994776a190e66820679-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 121326,
+        "sha256": "3994776a190e6682067963b729317f33c631ca69cfa2cd6fc9f98328c5b46474"
+      },
+      {
+        "src": "/assets/responsive/e473fab269b5ed600af7-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 256172,
+        "sha256": "e473fab269b5ed600af767cf3fb20d0baf52956b289bd9ab764e5055d409802f"
+      },
+      {
+        "src": "/assets/responsive/7808ef61f47ba588b234-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 446242,
+        "sha256": "7808ef61f47ba588b2348f5244d7f227e74c7961263cb51eeea139d457948942"
+      },
+      {
+        "src": "/assets/responsive/5cf21b9bad4580662cea-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 987968,
+        "sha256": "5cf21b9bad4580662ceaf91d3b476e874c91491b6f3ac678951c8ea7817d4813"
+      },
+      {
+        "src": "/assets/responsive/ef4f08218d83984c3faa-2560.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 1710160,
+        "sha256": "ef4f08218d83984c3faabac5980ce07dc756354a30c0cee16df1823fb32f8236"
+      }
+    ]
+  },
+  "/assets/figma/details/ajloun-gallery-bottom.jpg": {
+    "originalSha256": "277ed9759e0f10730668bfb17e886070e68ec07065d8adb84923f092a9492543",
+    "width": 4096,
+    "height": 2731,
+    "variants": [
+      {
+        "src": "/assets/responsive/0b1020b6a8797fc41af7-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 25212,
+        "sha256": "0b1020b6a8797fc41af76c3bb5026e5832b359fcecab6d158f8413a1a8741770"
+      },
+      {
+        "src": "/assets/responsive/3e42fa9fb79d7a541da5-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 92258,
+        "sha256": "3e42fa9fb79d7a541da598e94393d5b1f3583fed3cc9cd1927e6017769e53c76"
+      },
+      {
+        "src": "/assets/responsive/071ffacc177380769ae2-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 195814,
+        "sha256": "071ffacc177380769ae28722256a066c0404a0681be953638b372d8e4224cb98"
+      },
+      {
+        "src": "/assets/responsive/014f377cfe62f4de6501-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 336788,
+        "sha256": "014f377cfe62f4de650103937357b46371c566c39267f87b4e7291394a7bf40e"
+      },
+      {
+        "src": "/assets/responsive/292c396a8e84c91ef05a-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 706250,
+        "sha256": "292c396a8e84c91ef05ac0c3fb896078a0cb99794872860a3dcf876b3b8bec5c"
+      },
+      {
+        "src": "/assets/responsive/a8b207e54e413d4e9816-2560.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 1145916,
+        "sha256": "a8b207e54e413d4e981669ae8c748369eeea391963f6c486b05a78e56820c1fa"
+      }
+    ]
+  },
+  "/assets/figma/details/ajloun-location-map.png": {
+    "originalSha256": "5d480f04f0fdda97cbe3e422a84c355560e932c88d8fb7841095de738b240714",
+    "width": 655,
+    "height": 406,
+    "variants": [
+      {
+        "src": "/assets/responsive/bb45d81a89eeee9cd5c5-320.webp",
+        "width": 320,
+        "height": 198,
+        "bytes": 21038,
+        "sha256": "bb45d81a89eeee9cd5c5413290a64752489713df26d854db25d7a0b37e612a0a"
+      },
+      {
+        "src": "/assets/responsive/a09a857c7ca1a977d08e-640.webp",
+        "width": 640,
+        "height": 397,
+        "bytes": 54268,
+        "sha256": "a09a857c7ca1a977d08ee688555d42ef1a80325ef82915d08da4a3356ccc6260"
+      },
+      {
+        "src": "/assets/responsive/8a583d96531dfb10b252-655.webp",
+        "width": 655,
+        "height": 406,
+        "bytes": 56944,
+        "sha256": "8a583d96531dfb10b25225ae08efc2e84810816ae0a26ba5955dd0fc50e3f327"
+      }
+    ]
+  },
+  "/assets/figma/details/hidden-trails.jpg": {
+    "originalSha256": "522a607237b2e9a1b5b753e236ac10b4a4bb0c7edbbd9cabf7a8f62fb6786b2f",
+    "width": 923,
+    "height": 615,
+    "variants": [
+      {
+        "src": "/assets/responsive/04b02f62c6722e2ad26d-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 38084,
+        "sha256": "04b02f62c6722e2ad26d9d37f39945fdad9158afbb7ddb97edcff05f0ed97122"
+      },
+      {
+        "src": "/assets/responsive/fe16d37e7a5b4984f68a-640.webp",
+        "width": 640,
+        "height": 426,
+        "bytes": 125818,
+        "sha256": "fe16d37e7a5b4984f68a1d8f8bbec2bfcd79f7681c9d588b5f0a8f49781ed3f2"
+      },
+      {
+        "src": "/assets/responsive/711a62ff5bfdc9d9a604-923.webp",
+        "width": 923,
+        "height": 615,
+        "bytes": 195448,
+        "sha256": "711a62ff5bfdc9d9a604af8ca249d438cec577d52ebeebed729a5b23f2dfc69f"
+      }
+    ]
+  },
+  "/assets/figma/details/scenic-viewpoints.jpg": {
+    "originalSha256": "99caa87181f9e137797ac3864f535095a2db8e61adaa96638612847f1486521c",
+    "width": 820,
+    "height": 615,
+    "variants": [
+      {
+        "src": "/assets/responsive/d797420cfa7eac37e30c-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 11050,
+        "sha256": "d797420cfa7eac37e30c9920b9953dd8e8933c26a65e54ffa3936e41bc6fc38e"
+      },
+      {
+        "src": "/assets/responsive/78b10b66753253adf396-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 34716,
+        "sha256": "78b10b66753253adf396122f3e33fbb45308927e9462d2f9660f5c8fa082bb26"
+      },
+      {
+        "src": "/assets/responsive/7c6abc24e4e152432417-820.webp",
+        "width": 820,
+        "height": 615,
+        "bytes": 48660,
+        "sha256": "7c6abc24e4e152432417af356bbd10f76abfc77dc4c2a85d4c4f37fb3a52f8a0"
+      }
+    ]
+  },
+  "/assets/figma/details/local-experiences.jpg": {
+    "originalSha256": "e929a369e7bed7d936b352c3954bb443818247eafbad5503ba00cb85f778dc3d",
+    "width": 3867,
+    "height": 2659,
+    "variants": [
+      {
+        "src": "/assets/responsive/3a5fbde2cce0b151126a-320.webp",
+        "width": 320,
+        "height": 220,
+        "bytes": 31010,
+        "sha256": "3a5fbde2cce0b151126af0845055997abdaa880586a72ba787602ab625f08974"
+      },
+      {
+        "src": "/assets/responsive/bf286fda7ac0c032a7fc-640.webp",
+        "width": 640,
+        "height": 440,
+        "bytes": 100382,
+        "sha256": "bf286fda7ac0c032a7fc4ebf51eaae007e72ad169536af40fc2b65f3e0ef5458"
+      },
+      {
+        "src": "/assets/responsive/76af3afc0d9173ff21cb-960.webp",
+        "width": 960,
+        "height": 660,
+        "bytes": 191184,
+        "sha256": "76af3afc0d9173ff21cb7ad542bda845c7740fcf8c03d2af0257def10bbea795"
+      },
+      {
+        "src": "/assets/responsive/4247f4934b5328c0a7bd-1280.webp",
+        "width": 1280,
+        "height": 880,
+        "bytes": 297638,
+        "sha256": "4247f4934b5328c0a7bd98bdc89cd4adafcd1e80435451fa30f78f5ceadeb39c"
+      },
+      {
+        "src": "/assets/responsive/66946939074869188e9e-1920.webp",
+        "width": 1920,
+        "height": 1320,
+        "bytes": 605134,
+        "sha256": "66946939074869188e9e6c399646d21065c985a25ec367a62985d769332ac8e1"
+      },
+      {
+        "src": "/assets/responsive/99aede2f2115977f5324-2560.webp",
+        "width": 2560,
+        "height": 1760,
+        "bytes": 1027190,
+        "sha256": "99aede2f2115977f532401ffdfe3bd81b3fe1c6c5913ef8ce773a3285d51307a"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/explorer-avatar.png": {
+    "originalSha256": "71030d66f4c57910271f31dc8f8467ed0761da09edc3b0306e44695a984323fc",
+    "width": 1261,
+    "height": 1247,
+    "variants": [
+      {
+        "src": "/assets/responsive/38a7c310ece404788f55-320.webp",
+        "width": 320,
+        "height": 316,
+        "bytes": 15364,
+        "sha256": "38a7c310ece404788f5560d75c525169c51395fda4f4d19ce8c3a2875eb095df"
+      },
+      {
+        "src": "/assets/responsive/19377d8f6f14c81088b1-640.webp",
+        "width": 640,
+        "height": 633,
+        "bytes": 32770,
+        "sha256": "19377d8f6f14c81088b11c5a077cadf3328793db07694e0959b4f83c3abd6205"
+      },
+      {
+        "src": "/assets/responsive/00cd6f1abf98c1ff594e-960.webp",
+        "width": 960,
+        "height": 949,
+        "bytes": 54986,
+        "sha256": "00cd6f1abf98c1ff594e7baa4c4c294be76a7896f9c6adfa467ecbaeda103fa6"
+      },
+      {
+        "src": "/assets/responsive/6fea7446b6dfbfed0e45-1261.webp",
+        "width": 1261,
+        "height": 1247,
+        "bytes": 80580,
+        "sha256": "6fea7446b6dfbfed0e458e8485ce0eae2c6d424c76fbe98f5fe7c98360ad3f00"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/achievement-badges.png": {
+    "originalSha256": "92349186a0d75476ac4c2e3a4049449445366efb268762170d29780af279335b",
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "src": "/assets/responsive/3a87c9ee0fd100d8584f-80.webp",
+        "width": 80,
+        "height": 27,
+        "bytes": 2890,
+        "sha256": "3a87c9ee0fd100d8584f0dfedb133be15e9addba53c8d1f41502464ba4f48f92"
+      },
+      {
+        "src": "/assets/responsive/8fcdd27720b71e9afa23-160.webp",
+        "width": 160,
+        "height": 53,
+        "bytes": 6908,
+        "sha256": "8fcdd27720b71e9afa231c378c676c7432f1cd654ea85fca0e79abe366c54570"
+      },
+      {
+        "src": "/assets/responsive/15ffa9f0f6d954816ab4-320.webp",
+        "width": 320,
+        "height": 107,
+        "bytes": 17506,
+        "sha256": "15ffa9f0f6d954816ab41c6710d08e87622280eb4efb7638345e8ad1a7671a5a"
+      },
+      {
+        "src": "/assets/responsive/3830993397be32599fed-2172.webp",
+        "width": 2172,
+        "height": 724,
+        "bytes": 204304,
+        "sha256": "3830993397be32599fed348fcf46a38dd447a3a67fa182633639a82be753a7f9"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/ajloun-card-original.jpg": {
+    "originalSha256": "b10c47fd2e60c65800c8b8ab348ed5a99a6804d16b47a4c5ae2e4b4eb80d6d3b",
+    "width": 750,
+    "height": 750,
+    "variants": [
+      {
+        "src": "/assets/responsive/5c2fa6c8de7a961ac638-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 42060,
+        "sha256": "5c2fa6c8de7a961ac638edbd983704a8d267fe47c3626ced3d411b3c82bd50dd"
+      },
+      {
+        "src": "/assets/responsive/1e34dd15ef7e32c322c9-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 136288,
+        "sha256": "1e34dd15ef7e32c322c96cdffe2caf0e391f3ad94bc9b1e5b737efa774b147b8"
+      },
+      {
+        "src": "/assets/responsive/861c412a1c6d257111b2-750.webp",
+        "width": 750,
+        "height": 750,
+        "bytes": 148246,
+        "sha256": "861c412a1c6d257111b27660f97b426d546a74807efb855efc9a9f4f8f8beba1"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/iraq-al-amir.jpg": {
+    "originalSha256": "d8256e7a034cc05ad21fbde7659ebe3ce83cb2db04344eed81c666cc606ae692",
+    "width": 1000,
+    "height": 666,
+    "variants": [
+      {
+        "src": "/assets/responsive/893001ac3cf6b05da8d3-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 32590,
+        "sha256": "893001ac3cf6b05da8d37a5d331151d8f699a83d4a9acb1a7113c73d531eb94e"
+      },
+      {
+        "src": "/assets/responsive/7343e4ea0b43a87c9314-640.webp",
+        "width": 640,
+        "height": 426,
+        "bytes": 123646,
+        "sha256": "7343e4ea0b43a87c9314492ddc1d2c9e8c07011b6b422701c171a66a0330aded"
+      },
+      {
+        "src": "/assets/responsive/3121d1aa8c13e21e5e21-960.webp",
+        "width": 960,
+        "height": 639,
+        "bytes": 272606,
+        "sha256": "3121d1aa8c13e21e5e211f34ec44999f47201f70a48b354996a08e01da0690ad"
+      },
+      {
+        "src": "/assets/responsive/38b1d71d11a5ffbaf568-1000.webp",
+        "width": 1000,
+        "height": 666,
+        "bytes": 294034,
+        "sha256": "38b1d71d11a5ffbaf56877e5cc174827446db5fe81ab48e95f8c53a0a4c9514f"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/salt-historic.jpg": {
+    "originalSha256": "152ad7c022a81b692775ac144c594a8c6b4dd0bf6197663ba85e44fff030d2fa",
+    "width": 1080,
+    "height": 1080,
+    "variants": [
+      {
+        "src": "/assets/responsive/3706f967f9ec2e6402a6-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 38160,
+        "sha256": "3706f967f9ec2e6402a6ca154c4bd530f711c52c815494f190bb27bc2841f5f1"
+      },
+      {
+        "src": "/assets/responsive/918e79614aef7dafe1d1-640.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 135684,
+        "sha256": "918e79614aef7dafe1d18c419eb6da8f2c491b656b9f1729f721b5865cb025cf"
+      },
+      {
+        "src": "/assets/responsive/42c82cd330f91a14c614-960.webp",
+        "width": 960,
+        "height": 960,
+        "bytes": 267388,
+        "sha256": "42c82cd330f91a14c614ea295ff1ae2f146b39948db5456d9860f2e0749f7eb7"
+      },
+      {
+        "src": "/assets/responsive/221a71670b5bd926a103-1080.webp",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 284812,
+        "sha256": "221a71670b5bd926a1031ebcc1af0daf2ea8ca3f548114fd26edb7a168daa4cc"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/dana-biosphere-reserve.jpg": {
+    "originalSha256": "9ce701ea53a6698c2e77f7eadc8bfb2a2312356d1cb26d7a5cc1b78b637334c9",
+    "width": 2048,
+    "height": 1365,
+    "variants": [
+      {
+        "src": "/assets/responsive/a9854a566cbed8a900db-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 22190,
+        "sha256": "a9854a566cbed8a900dbc8e3696c4940ecdf9e140bdd35b1a4abdd84f3500ef8"
+      },
+      {
+        "src": "/assets/responsive/5fd8cf3c784886c63e61-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 78840,
+        "sha256": "5fd8cf3c784886c63e61d8b41965e8640084aa84d4ca2ffc76960ad94bfef474"
+      },
+      {
+        "src": "/assets/responsive/1e2641f5da0e86a66253-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 166028,
+        "sha256": "1e2641f5da0e86a66253165596f07c0c5f7bcc9a9e67b5bcfdc977b2752e4d16"
+      },
+      {
+        "src": "/assets/responsive/8da1c0729d57cf1ff720-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 277484,
+        "sha256": "8da1c0729d57cf1ff720f4f52e40410a7728289ca11348d576dde6c1b60236a0"
+      },
+      {
+        "src": "/assets/responsive/113bac8ebf844f2fbd45-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 516372,
+        "sha256": "113bac8ebf844f2fbd457cf214e6d6eedb4f83b36dcc71c17e3522360a4885ff"
+      },
+      {
+        "src": "/assets/responsive/a78b69e4b38d2444edc5-2048.webp",
+        "width": 2048,
+        "height": 1365,
+        "bytes": 538068,
+        "sha256": "a78b69e4b38d2444edc5f3475fed07f95eee6b8b101e145362909b11e23b252a"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/wadi-mujib-adventure.jpg": {
+    "originalSha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "width": 1920,
+    "height": 1440,
+    "variants": [
+      {
+        "src": "/assets/responsive/8239fbef94c968d3d80d-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 33922,
+        "sha256": "8239fbef94c968d3d80d9876fb0203f0f7321ec99736f58c8aa9932fac763751"
+      },
+      {
+        "src": "/assets/responsive/5f7eaf1a8e82bc58e810-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 114316,
+        "sha256": "5f7eaf1a8e82bc58e81038c11a92dd4c5481216ff684ee6048fcd7963ab50823"
+      },
+      {
+        "src": "/assets/responsive/84d20725fcc94e5dcc50-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 222622,
+        "sha256": "84d20725fcc94e5dcc502084a441277468e10f88af67ef49e44eb5e9aab60a6d"
+      },
+      {
+        "src": "/assets/responsive/4ab85e0ac7689b7f3b55-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 333984,
+        "sha256": "4ab85e0ac7689b7f3b559fbec0da8c12bab877023bacd8de1ca4615ee8c7c305"
+      },
+      {
+        "src": "/assets/responsive/ca546c81de9c9e396353-1920.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 534836,
+        "sha256": "ca546c81de9c9e396353f6ea5c695b2896824cca4928ceb7a88c502fdb0998ac"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/umm-qais.jpg": {
+    "originalSha256": "063ce7bf812f2afcd707bc1a22dbc61b9e58e5c242a40af8228e8fbdb7e9e1e5",
+    "width": 2560,
+    "height": 1707,
+    "variants": [
+      {
+        "src": "/assets/responsive/1d5d75c397ce853a7fd8-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 25094,
+        "sha256": "1d5d75c397ce853a7fd84d52995f32bb573c938451eb6316516567ebe744740c"
+      },
+      {
+        "src": "/assets/responsive/62dd587eb59fe9c0a677-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 94836,
+        "sha256": "62dd587eb59fe9c0a6774a82b08a4da75e05aff4391a6f73c91700a030c7d31f"
+      },
+      {
+        "src": "/assets/responsive/132a6391d02504562e9d-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 208282,
+        "sha256": "132a6391d02504562e9d8c6294ba2da2afb988a58c84eafa395f5eef1674c675"
+      },
+      {
+        "src": "/assets/responsive/4d17dcd77ccf1c3b8b3c-1280.webp",
+        "width": 1280,
+        "height": 854,
+        "bytes": 382844,
+        "sha256": "4d17dcd77ccf1c3b8b3c683dbec5f6e3ed5343e8eabc9e49884f0e0fa6d195c8"
+      },
+      {
+        "src": "/assets/responsive/e01c3545dd0010c551f0-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 820950,
+        "sha256": "e01c3545dd0010c551f0e2b384b9a6c48f74809e4f930576e29ac4473571fa60"
+      },
+      {
+        "src": "/assets/responsive/0ea4eb1744df126cc0bf-2560.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 1428386,
+        "sha256": "0ea4eb1744df126cc0bf78f1b8fc9b23bf97c8a5746daea47ddbef59b1d94d7d"
+      }
+    ]
+  },
+  "/assets/figma/discoveries/cost.png": {
+    "originalSha256": "7bae7b135eca855a4c2be3a2225af48eba4967ec24b167901d8a6a36989cf043",
+    "width": 512,
+    "height": 512,
+    "variants": [
+      {
+        "src": "/assets/responsive/7fa2003704a0f7594d18-320.webp",
+        "width": 320,
+        "height": 320,
+        "bytes": 15310,
+        "sha256": "7fa2003704a0f7594d18506ce9e447bcff332228e216c040aef11160d8af979d"
+      },
+      {
+        "src": "/assets/responsive/e3b0c44298fc1c149afb-512.webp",
+        "width": 512,
+        "height": 512,
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "/assets/figma/landing/brand-logo.png": {
+    "originalSha256": "579cfd8c7526487c45086667331dc825b1676fc663472738399e7c04478f9ed6",
+    "width": 1312,
+    "height": 1199,
+    "variants": [
+      {
+        "src": "/assets/responsive/8261807345ae38e2d486-80.webp",
+        "width": 80,
+        "height": 73,
+        "bytes": 3546,
+        "sha256": "8261807345ae38e2d486b60f5b6e8bae18bb0008d197bdb3174685e77e089fb1"
+      },
+      {
+        "src": "/assets/responsive/4034888bcfff1eee955d-160.webp",
+        "width": 160,
+        "height": 146,
+        "bytes": 8158,
+        "sha256": "4034888bcfff1eee955d342fa8cf270139eba9ac48e9a8ec1acca13434ba3bae"
+      },
+      {
+        "src": "/assets/responsive/0ad51dc46b670a911370-320.webp",
+        "width": 320,
+        "height": 292,
+        "bytes": 19464,
+        "sha256": "0ad51dc46b670a9113706547d64e3ccca1c843f230a4b75e04120d9dd419f153"
+      },
+      {
+        "src": "/assets/responsive/716e195ede0637083daa-1312.webp",
+        "width": 1312,
+        "height": 1199,
+        "bytes": 136382,
+        "sha256": "716e195ede0637083daa1ba23e394a5c40d08f25b550dbbd85de9a197c2a8a59"
+      }
+    ]
+  },
+  "/assets/figma/landing/landscape-hero.png": {
+    "originalSha256": "88959fa63ce5221bc2d3ecc377ff6074178088c7dc132a5265ceba4e60f520ea",
+    "width": 1859,
+    "height": 846,
+    "variants": [
+      {
+        "src": "/assets/responsive/e2d7dbf100a77b4d542b-320.webp",
+        "width": 320,
+        "height": 146,
+        "bytes": 8224,
+        "sha256": "e2d7dbf100a77b4d542bebbc8b75323c9fe29d112d58e613f06e402851a5ebca"
+      },
+      {
+        "src": "/assets/responsive/e0af3b4415765d48ff72-640.webp",
+        "width": 640,
+        "height": 291,
+        "bytes": 29884,
+        "sha256": "e0af3b4415765d48ff72fd528819459214e602445ce606f454b8eba46f185c70"
+      },
+      {
+        "src": "/assets/responsive/0cc265479effb1b9ea6f-960.webp",
+        "width": 960,
+        "height": 437,
+        "bytes": 63358,
+        "sha256": "0cc265479effb1b9ea6f1722e8908c919e4b07ed325b219fd34480711735389d"
+      },
+      {
+        "src": "/assets/responsive/fc265b6384fad3006206-1280.webp",
+        "width": 1280,
+        "height": 583,
+        "bytes": 106208,
+        "sha256": "fc265b6384fad30062063985f2a0ad6be5fe7097a697af56211fceb88ab5ec15"
+      },
+      {
+        "src": "/assets/responsive/d13de33abb0d11e78610-1859.webp",
+        "width": 1859,
+        "height": 846,
+        "bytes": 195574,
+        "sha256": "d13de33abb0d11e786106de39b0d324c4061507ecb15a9b5c82bd900e7337e36"
+      }
+    ]
+  },
+  "/assets/figma/landing/wadi-mujib-card-first-original.jpg": {
+    "originalSha256": "e150db7df87e22b116f1f742580469d799b6ec1c21001e7798c6503c657470e7",
+    "width": 2731,
+    "height": 4096,
+    "variants": [
+      {
+        "src": "/assets/responsive/59fb094d54151db35507-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 71644,
+        "sha256": "59fb094d54151db35507c0c0ff389ecaa1c3a27cd2ec321d5e240a6ce359329b"
+      },
+      {
+        "src": "/assets/responsive/3cc3271f9f8791037d98-640.webp",
+        "width": 640,
+        "height": 960,
+        "bytes": 284376,
+        "sha256": "3cc3271f9f8791037d989ac0114dea921a7233f35e18c7ac0cc7d1728633fabf"
+      },
+      {
+        "src": "/assets/responsive/ab8a8bba7f7d4daa45d3-960.webp",
+        "width": 960,
+        "height": 1440,
+        "bytes": 624870,
+        "sha256": "ab8a8bba7f7d4daa45d345a525f5f74a5934b260ea6bffdd2e4afa2ea6aa5680"
+      },
+      {
+        "src": "/assets/responsive/0059c69996c1598ce982-1280.webp",
+        "width": 1280,
+        "height": 1920,
+        "bytes": 1108866,
+        "sha256": "0059c69996c1598ce982ef7e31610c96d4d4a94c6312612e6800098aa327c66d"
+      },
+      {
+        "src": "/assets/responsive/7fad90afe6501196b6cb-1920.webp",
+        "width": 1920,
+        "height": 2880,
+        "bytes": 2348544,
+        "sha256": "7fad90afe6501196b6cb4c3e834f536e24d86da3fc5fb78d2f0ba1a8ca424f04"
+      },
+      {
+        "src": "/assets/responsive/3a3180922cf7c354b8cc-2560.webp",
+        "width": 2560,
+        "height": 3840,
+        "bytes": 3629408,
+        "sha256": "3a3180922cf7c354b8cce1c898e5e5544e0effd54b3d0869bba4bd953e3de8d7"
+      }
+    ]
+  },
+  "/assets/figma/landing/iraq-al-amir.jpg": {
+    "originalSha256": "d8256e7a034cc05ad21fbde7659ebe3ce83cb2db04344eed81c666cc606ae692",
+    "width": 1000,
+    "height": 666,
+    "variants": [
+      {
+        "src": "/assets/responsive/893001ac3cf6b05da8d3-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 32590,
+        "sha256": "893001ac3cf6b05da8d37a5d331151d8f699a83d4a9acb1a7113c73d531eb94e"
+      },
+      {
+        "src": "/assets/responsive/7343e4ea0b43a87c9314-640.webp",
+        "width": 640,
+        "height": 426,
+        "bytes": 123646,
+        "sha256": "7343e4ea0b43a87c9314492ddc1d2c9e8c07011b6b422701c171a66a0330aded"
+      },
+      {
+        "src": "/assets/responsive/3121d1aa8c13e21e5e21-960.webp",
+        "width": 960,
+        "height": 639,
+        "bytes": 272606,
+        "sha256": "3121d1aa8c13e21e5e211f34ec44999f47201f70a48b354996a08e01da0690ad"
+      },
+      {
+        "src": "/assets/responsive/38b1d71d11a5ffbaf568-1000.webp",
+        "width": 1000,
+        "height": 666,
+        "bytes": 294034,
+        "sha256": "38b1d71d11a5ffbaf56877e5cc174827446db5fe81ab48e95f8c53a0a4c9514f"
+      }
+    ]
+  },
+  "/assets/figma/landing/wadi-mujib-card-third-original.jpg": {
+    "originalSha256": "20a1fec23e56342632e4036580f9f1265ac3ea9bf573334c8156de2be71dda6a",
+    "width": 1920,
+    "height": 1440,
+    "variants": [
+      {
+        "src": "/assets/responsive/8239fbef94c968d3d80d-320.webp",
+        "width": 320,
+        "height": 240,
+        "bytes": 33922,
+        "sha256": "8239fbef94c968d3d80d9876fb0203f0f7321ec99736f58c8aa9932fac763751"
+      },
+      {
+        "src": "/assets/responsive/5f7eaf1a8e82bc58e810-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 114316,
+        "sha256": "5f7eaf1a8e82bc58e81038c11a92dd4c5481216ff684ee6048fcd7963ab50823"
+      },
+      {
+        "src": "/assets/responsive/84d20725fcc94e5dcc50-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 222622,
+        "sha256": "84d20725fcc94e5dcc502084a441277468e10f88af67ef49e44eb5e9aab60a6d"
+      },
+      {
+        "src": "/assets/responsive/4ab85e0ac7689b7f3b55-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 333984,
+        "sha256": "4ab85e0ac7689b7f3b559fbec0da8c12bab877023bacd8de1ca4615ee8c7c305"
+      },
+      {
+        "src": "/assets/responsive/ca546c81de9c9e396353-1920.webp",
+        "width": 1920,
+        "height": 1440,
+        "bytes": 534836,
+        "sha256": "ca546c81de9c9e396353f6ea5c695b2896824cca4928ceb7a88c502fdb0998ac"
+      }
+    ]
+  },
+  "/assets/figma/landing/petra-promo-banner.png": {
+    "originalSha256": "d27dbca6fa73d469af46fcfcc2fe2da7cd01ff3bf016963d9711a4e7588db28e",
+    "width": 2172,
+    "height": 724,
+    "variants": [
+      {
+        "src": "/assets/responsive/f76d478027033e68cebb-320.webp",
+        "width": 320,
+        "height": 107,
+        "bytes": 6224,
+        "sha256": "f76d478027033e68cebbad7fe217b0dfbeb34f7faa1dc70de6feba21da2ca4c6"
+      },
+      {
+        "src": "/assets/responsive/9ba75f8ec8e0f4571430-640.webp",
+        "width": 640,
+        "height": 213,
+        "bytes": 20896,
+        "sha256": "9ba75f8ec8e0f4571430ed81aca6fef5aa0b9ed641a3f6d2d9092a0e4b92bf3f"
+      },
+      {
+        "src": "/assets/responsive/5bfd0c16669e35ba953b-960.webp",
+        "width": 960,
+        "height": 320,
+        "bytes": 41752,
+        "sha256": "5bfd0c16669e35ba953b2298cdeac9a875b48785eeb0c677d6e2f7f0cd6e1ac5"
+      },
+      {
+        "src": "/assets/responsive/045e5bb0e8708a05c71e-1280.webp",
+        "width": 1280,
+        "height": 427,
+        "bytes": 70348,
+        "sha256": "045e5bb0e8708a05c71ed6c2447d66f938a2931c63e9198df0e5ee15e7ed1d9b"
+      },
+      {
+        "src": "/assets/responsive/e2de98f6cf0d95a60860-1920.webp",
+        "width": 1920,
+        "height": 640,
+        "bytes": 138660,
+        "sha256": "e2de98f6cf0d95a60860ee5073fbb6955a1b267f5bef28f4538e7b8b6338c2d0"
+      },
+      {
+        "src": "/assets/responsive/c9f354be57035cd60dab-2172.webp",
+        "width": 2172,
+        "height": 724,
+        "bytes": 177720,
+        "sha256": "c9f354be57035cd60daba2204813aff7e131ace58482d899cc8b68aac11bfc90"
+      }
+    ]
+  },
+  "/assets/figma/landing/compass.png": {
+    "originalSha256": "71d3ac49e19cf1d0654d21b6fdd35d619a65ec083e80a27303e83aceb1adb771",
+    "width": 240,
+    "height": 216,
+    "variants": [
+      {
+        "src": "/assets/responsive/889708d828bc571f4898-80.webp",
+        "width": 80,
+        "height": 72,
+        "bytes": 6806,
+        "sha256": "889708d828bc571f4898106e8e32206c8e4cd1ecc1ab4030cc86283c83003a78"
+      },
+      {
+        "src": "/assets/responsive/38d1ed5acd4bbaac4804-160.webp",
+        "width": 160,
+        "height": 144,
+        "bytes": 19456,
+        "sha256": "38d1ed5acd4bbaac48042f2a6a94d835f1fd0541474825c92f87e14a887671ea"
+      },
+      {
+        "src": "/assets/responsive/28ea1427fa99b078c6d6-240.webp",
+        "width": 240,
+        "height": 216,
+        "bytes": 33006,
+        "sha256": "28ea1427fa99b078c6d641094193eab053c784f09252f2df15973da497bba52c"
+      }
+    ]
+  }
+}

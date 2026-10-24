@@ -1,0 +1,219 @@
+{
+  "retrievedAt": "2026-10-19T17:30:25.037Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ADana+Reserve+07.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 12859838,
+    "ns": 6,
+    "title": "File:Dana Reserve 07.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2884855,
+        "width": 3453,
+        "height": 2474,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Dana_Reserve_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12859838",
+        "sha1": "ecc9583832f756702daf7582c58d4be75174c428",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2011-02-04 19:02:05",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dana Reserve 07",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Taken with Sony DSC-HX1|Dana Biosphere Reserve|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Landscapes of Jordan|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "30.689933",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "35.569139",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Landscape of <a href=\"https://en.wikipedia.org/wiki/Dana_Biosphere_Reserve\" class=\"extiw\" title=\"en:Dana Biosphere Reserve\">Dana Biosphere Reserve</a>, Jordan",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2010-04-13",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1124688626,
+        "parentid": 931551534,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "== {{int:filedesc}} ==\n{{Information\n|Description    ={{ar|1=  محمية ضانا للمحيط الحيوي، جنوب الأردن}}\n{{en|1=Landscape of [[:en:Dana Biosphere Reserve|Dana Biosphere Reserve]], Jordan}}\n{{fr|1=Paysage de la réserve de Dana en Jordanie}}\n|Source         ={{own}}\n|Author         =[[User:Bgag|Bernard Gagnon]]\n|Date           =2010-04-13\n|Permission     =\n|other_versions =\n}}\n{{location|30|41|23.76|N|35|34|8.9|E|region:JO}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n{{QualityImage}}\n\n[[Category:Dana Biosphere Reserve]]\n[[Category:Landscapes of Jordan]]\n[[Category:Quality images of nature in Jordan]]\n[[Category:Taken with Sony DSC-HX1]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 2884855,
+    "width": 3453,
+    "height": 2474,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Dana_Reserve_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12859838",
+    "sha1": "ecc9583832f756702daf7582c58d4be75174c428",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2011-02-04 19:02:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Dana Reserve 07",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Sony DSC-HX1|Dana Biosphere Reserve|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Landscapes of Jordan|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "30.689933",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "35.569139",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Landscape of <a href=\"https://en.wikipedia.org/wiki/Dana_Biosphere_Reserve\" class=\"extiw\" title=\"en:Dana Biosphere Reserve\">Dana Biosphere Reserve</a>, Jordan",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-04-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

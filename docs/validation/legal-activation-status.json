@@ -1,0 +1,26 @@
+{
+  "project_id": "dkhwwvoplhfjccvjegty",
+  "at": "2026-10-23T22:35:27.120Z",
+  "hosted_checked_at": "2026-10-23 22:31:33.021394+00",
+  "hosted_writes": 0,
+  "activation": "PREPARED_NOT_EXECUTED",
+  "initial_managed_import": "not installed",
+  "admin_count": 2,
+  "admin_identities_unchanged": true,
+  "destinations": 24,
+  "destination_id_slug_status_unchanged": true,
+  "legal_objects": [],
+  "managed_mode": "static (unchanged in development and production)",
+  "migration_sha256": "f23e8fb24ce0912933db5b0b8c1d6e494f5346b2812164574e888470db9257c3",
+  "install_sha256": "3a93f10642ac502b934d335aa0246a68088d347cfae34901a825c927b25481db",
+  "source_recovery_readback": "PASS",
+  "snapshot_integrity": "PASS",
+  "full_hosted_backup": "NOT VERIFIED; owner checkpoint",
+  "real_admin_mutation_sessions": "PENDING OWNER AFTER INITIALIZATION",
+  "backup_access_limitation": {
+    "connector_backup_management_tool": false,
+    "connected_apps": 0,
+    "connected_browsers": 0,
+    "conclusion": "Hosted backup availability is unverified, not absent"
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "phase": "before",
+  "scope": "Real local browser renders with synthetic Auth/API responses. MapLibre and provider tiles are real; no hosted content writes.",
+  "results": [
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "en",
+      "scope": "explore",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "ea5bb757-f6a3-428b-bf14-45e4d040c04c",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "ea5bb757-f6a3-428b-bf14-45e4d040c04c",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 860
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "ea5bb757-f6a3-428b-bf14-45e4d040c04c",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "ea5bb757-f6a3-428b-bf14-45e4d040c04c",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 818
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "en",
+      "scope": "explore",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "6eddc5f0-d589-4853-8bc6-9445a65f70fa",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "6eddc5f0-d589-4853-8bc6-9445a65f70fa",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 845
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "6eddc5f0-d589-4853-8bc6-9445a65f70fa",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "6eddc5f0-d589-4853-8bc6-9445a65f70fa",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 826
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "ar-JO",
+      "scope": "explore",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "a45c1610-090f-444f-8e7a-47f57a41339f",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "a45c1610-090f-444f-8e7a-47f57a41339f",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 859
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "a45c1610-090f-444f-8e7a-47f57a41339f",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "a45c1610-090f-444f-8e7a-47f57a41339f",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 827
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "ar-JO",
+      "scope": "explore",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "ec50b341-acbd-43c3-8f8c-c6dea7012779",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "ec50b341-acbd-43c3-8f8c-c6dea7012779",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 847
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "ec50b341-acbd-43c3-8f8c-c6dea7012779",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "ec50b341-acbd-43c3-8f8c-c6dea7012779",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 814
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "en",
+      "scope": "map",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "9994f47c-24f0-4ada-bd70-d8045c580236",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "9994f47c-24f0-4ada-bd70-d8045c580236",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 909
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "9994f47c-24f0-4ada-bd70-d8045c580236",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "9994f47c-24f0-4ada-bd70-d8045c580236",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 913
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "ar-JO",
+      "scope": "map",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "6b2e77be-6e5d-4e0c-a2b6-7928f641f17a",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "6b2e77be-6e5d-4e0c-a2b6-7928f641f17a",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 861
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "6b2e77be-6e5d-4e0c-a2b6-7928f641f17a",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "6b2e77be-6e5d-4e0c-a2b6-7928f641f17a",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 910
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "en",
+      "scope": "map",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "74ac7d0a-80ba-4ad2-be49-e553a29cea9b",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "74ac7d0a-80ba-4ad2-be49-e553a29cea9b",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 845
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "74ac7d0a-80ba-4ad2-be49-e553a29cea9b",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "after": {
+            "run": "74ac7d0a-80ba-4ad2-be49-e553a29cea9b",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "Ajloun",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 834
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "ar-JO",
+      "scope": "map",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "b00e7748-625f-46d4-8e70-839283dbef70",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "b00e7748-625f-46d4-8e70-839283dbef70",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 852
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "b00e7748-625f-46d4-8e70-839283dbef70",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "b00e7748-625f-46d4-8e70-839283dbef70",
+            "metrics": {
+              "skeletons": 0,
+              "mapMounts": 2
+            },
+            "scroll": 0,
+            "query": "عجلون",
+            "zoom": "6.38",
+            "selected": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 0,
+          "lastRequestAfterReturnMs": 0,
+          "observationWindowMs": 822
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "ar-JO",
+      "scope": "admin",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "3398c526-df0a-4e7c-87d8-48f6055913c6",
+            "metrics": {
+              "skeletons": 3,
+              "mapMounts": 0
+            },
+            "scroll": 807,
+            "name": "UNSAVED PERFORMANCE CHECK",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "3398c526-df0a-4e7c-87d8-48f6055913c6",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 47050,
+          "lastRequestAfterReturnMs": 145,
+          "observationWindowMs": 930
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "3398c526-df0a-4e7c-87d8-48f6055913c6",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "3398c526-df0a-4e7c-87d8-48f6055913c6",
+            "metrics": {
+              "skeletons": 9,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 47050,
+          "lastRequestAfterReturnMs": 49,
+          "observationWindowMs": 864
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4190",
+      "language": "en",
+      "scope": "admin",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "26a6adb9-6b12-419a-b5ef-38c8f5cdbec6",
+            "metrics": {
+              "skeletons": 3,
+              "mapMounts": 0
+            },
+            "scroll": 807,
+            "name": "UNSAVED PERFORMANCE CHECK",
+            "language": "en"
+          },
+          "after": {
+            "run": "26a6adb9-6b12-419a-b5ef-38c8f5cdbec6",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 47050,
+          "lastRequestAfterReturnMs": 137,
+          "observationWindowMs": 946
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "26a6adb9-6b12-419a-b5ef-38c8f5cdbec6",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "after": {
+            "run": "26a6adb9-6b12-419a-b5ef-38c8f5cdbec6",
+            "metrics": {
+              "skeletons": 9,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 47050,
+          "lastRequestAfterReturnMs": 38,
+          "observationWindowMs": 870
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "en",
+      "scope": "admin",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "6d47938b-f484-4340-8ee2-70da3645b64d",
+            "metrics": {
+              "skeletons": 3,
+              "mapMounts": 0
+            },
+            "scroll": 807,
+            "name": "UNSAVED PERFORMANCE CHECK",
+            "language": "en"
+          },
+          "after": {
+            "run": "6d47938b-f484-4340-8ee2-70da3645b64d",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 93020,
+          "lastRequestAfterReturnMs": 216,
+          "observationWindowMs": 961
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "6d47938b-f484-4340-8ee2-70da3645b64d",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "after": {
+            "run": "6d47938b-f484-4340-8ee2-70da3645b64d",
+            "metrics": {
+              "skeletons": 9,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "en"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 93020,
+          "lastRequestAfterReturnMs": 55,
+          "observationWindowMs": 856
+        }
+      ]
+    },
+    {
+      "base": "http://127.0.0.1:4184",
+      "language": "ar-JO",
+      "scope": "admin",
+      "visibilityMode": "Controlled standard visibilitychange/focus events in actual Chromium; not an attached user Chrome tab",
+      "steps": [
+        {
+          "seconds": 5,
+          "before": {
+            "run": "c5523077-1c96-4f24-8895-f406dfbcb8b4",
+            "metrics": {
+              "skeletons": 3,
+              "mapMounts": 0
+            },
+            "scroll": 807,
+            "name": "UNSAVED PERFORMANCE CHECK",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "c5523077-1c96-4f24-8895-f406dfbcb8b4",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 93020,
+          "lastRequestAfterReturnMs": 228,
+          "observationWindowMs": 977
+        },
+        {
+          "seconds": 30,
+          "before": {
+            "run": "c5523077-1c96-4f24-8895-f406dfbcb8b4",
+            "metrics": {
+              "skeletons": 6,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "after": {
+            "run": "c5523077-1c96-4f24-8895-f406dfbcb8b4",
+            "metrics": {
+              "skeletons": 9,
+              "mapMounts": 0
+            },
+            "scroll": 0,
+            "name": "محمية غابات عجلون",
+            "language": "ar-JO"
+          },
+          "documentReloaded": false,
+          "supabaseRequests": [
+            "/auth/v1/user",
+            "/auth/v1/user",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/rpc/admin_cms_status",
+            "/rest/v1/places",
+            "/rest/v1/places"
+          ],
+          "documentRequests": 0,
+          "imageRequests": 0,
+          "mapTileRequests": 0,
+          "transferredBytes": 93020,
+          "lastRequestAfterReturnMs": 59,
+          "observationWindowMs": 856
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

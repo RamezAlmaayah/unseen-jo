@@ -1,0 +1,17 @@
+Find your way back.
+
+We received a request to reset your password. Use the secure link below to choose a new one.
+
+{{ .ConfirmationURL }}
+
+If you did not request a password reset, ignore this email. Your password remains unchanged.
+
+---
+
+لنساعدك على العودة.
+
+تلقّينا طلباً لإعادة تعيين كلمة مرورك. استخدم الرابط الآمن أدناه لاختيار كلمة مرور جديدة.
+
+{{ .ConfirmationURL }}
+
+إذا لم تطلب إعادة التعيين، تجاهل الرسالة. لن تتغيّر كلمة مرورك.

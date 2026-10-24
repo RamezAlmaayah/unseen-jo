@@ -1,0 +1,49 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "reviewedOn": "2026-10-16",
+  "reviewScope": "Names and short factual descriptions checked against primary sources. Category associations are editorial classifications, not claims of suitability or access. No photo has both confirmed identification and documented production reuse rights. All records remain drafts; final verified_at is NULL.",
+  "places": [
+    {
+      "slug": "ajloun-forest", "name": "Ajloun Forest Reserve", "categories": ["nature"],
+      "description": "A protected woodland area in the Ajloun highlands of northern Jordan.",
+      "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "candidate_assets": ["/assets/figma/details/ajloun-main.png"],
+      "media_review": "Explore/Result orange-rock image and Discoveries castle image are mismatched; details forest photo is a candidate only. Identity and reuse permission remain unconfirmed."
+    },
+    {
+      "slug": "salt-historic", "name": "As-Salt Historic Centre", "categories": ["culture", "history"],
+      "description": "The historic centre of As-Salt is recognized by UNESCO for its urban heritage and traditions of hospitality.",
+      "source_url": "https://whc.unesco.org/en/list/689/",
+      "candidate_assets": ["/assets/figma/explore/salt-historic.jpg"],
+      "media_review": "Historic-street candidate; geographic identification and production reuse permission are unconfirmed."
+    },
+    {
+      "slug": "wadi-mujib", "name": "Mujib Biosphere Reserve", "categories": ["nature", "adventure"],
+      "description": "A protected landscape beside the Dead Sea in Jordan, managed by the Royal Society for the Conservation of Nature.",
+      "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "candidate_assets": ["/assets/figma/explore/wadi-mujib-adventure.jpg"],
+      "media_review": "Canyon-wading candidate; identity and permission unconfirmed. Landing duplicate labels collapse into this one destination; orange-rock image is excluded. No trail opening, season or access claim is made."
+    },
+    {
+      "slug": "dana-reserve", "name": "Dana Biosphere Reserve", "categories": ["nature"],
+      "description": "A protected area in Jordan with a varied landscape of mountain ridges and valleys along the Great Rift Valley.",
+      "source_url": "https://www.rscn.org.jo/reserve/list?lang=en",
+      "candidate_assets": ["/assets/figma/explore/dana-biosphere-reserve.jpg"],
+      "media_review": "Mountain-landscape candidate; location and production reuse permission are unconfirmed."
+    },
+    {
+      "slug": "iraq-al-amir", "name": "Iraq Al-Amir", "categories": ["culture", "history"],
+      "description": "An area southwest of Amman associated with hillside caves and the ancient Qasr El-Abd monument.",
+      "source_url": "https://international.visitjordan.com/wheretogo/amman/",
+      "candidate_assets": ["/assets/figma/landing/iraq-al-amir.jpg"],
+      "media_review": "Ancient-stonework candidate; geographic identification and production reuse permission are unconfirmed."
+    },
+    {
+      "slug": "umm-qais", "name": "Umm Qais", "categories": ["history", "culture"],
+      "description": "The modern town associated with ancient Gadara in northern Jordan, with archaeological remains overlooking the Jordan Valley.",
+      "source_url": "https://international.visitjordan.com/wheretogo/umm-qais/",
+      "candidate_assets": ["/assets/figma/discoveries/umm-qais.jpg"],
+      "media_review": "Ancient-stonework candidate; geographic identification and production reuse permission are unconfirmed."
+    }
+  ]
+}

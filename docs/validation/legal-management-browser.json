@@ -1,0 +1,122 @@
+{
+  "base": "http://127.0.0.1:4196",
+  "scope": "Isolated intercepted Supabase fixtures; no live Auth or database writes",
+  "results": [
+    {
+      "name": "Admin save, explicit publish/cancel and public draft isolation",
+      "status": "PASS"
+    },
+    {
+      "name": "new drafts preserve public content; revoke latest falls back to earlier approval",
+      "status": "PASS"
+    },
+    {
+      "name": "version history restore creates a new unapproved draft",
+      "status": "PASS"
+    },
+    {
+      "name": "concurrent Admin edits conflict without overwriting or discarding local edits",
+      "status": "PASS"
+    },
+    {
+      "name": "paired section add/reorder/remove, RTL editor, safe Markdown preview and XSS rejection",
+      "status": "PASS"
+    },
+    {
+      "name": "unsaved edits warn on in-app navigation and actual browser Back; cancel preserves editor",
+      "status": "PASS"
+    },
+    {
+      "name": "Back guard fallback without Navigation API: cancel preserves edits; confirm permits traversal",
+      "status": "PASS"
+    },
+    {
+      "name": "last approval unavailable and noindex; registration rechecks before any Auth request",
+      "status": "PASS"
+    },
+    {
+      "name": "guest Admin route remains protected by existing authentication",
+      "status": "PASS"
+    },
+    {
+      "name": "missing migration shows an activation error and no fake editing/persistence",
+      "status": "PASS"
+    },
+    {
+      "name": "failed readback after a committed mutation reports uncertainty, preserves edits and never auto-retries",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin en 1366px: responsive, reduced motion and axe WCAG A/AA",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin en 390px: responsive, reduced motion and axe WCAG A/AA",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin ar-JO 1366px: responsive, reduced motion and axe WCAG A/AA",
+      "status": "PASS"
+    },
+    {
+      "name": "Admin ar-JO 390px: responsive, reduced motion and axe WCAG A/AA",
+      "status": "PASS"
+    },
+    {
+      "name": "Published en: mobile, anchors, unique metadata and axe",
+      "status": "PASS"
+    },
+    {
+      "name": "Published ar-JO: mobile, anchors, unique metadata and axe",
+      "status": "PASS"
+    }
+  ],
+  "writes": [
+    {
+      "action": "save",
+      "key": "privacy",
+      "version": 2
+    },
+    {
+      "action": "publish",
+      "key": "privacy",
+      "version": 2
+    },
+    {
+      "action": "save",
+      "key": "privacy",
+      "version": 3
+    },
+    {
+      "action": "publish",
+      "key": "privacy",
+      "version": 3
+    },
+    {
+      "action": "revoke",
+      "key": "privacy",
+      "version": 3
+    },
+    {
+      "action": "restore",
+      "key": "privacy",
+      "version": 4
+    },
+    {
+      "action": "save",
+      "key": "privacy",
+      "version": 5
+    },
+    {
+      "action": "publish",
+      "key": "terms",
+      "version": 1
+    },
+    {
+      "action": "save",
+      "key": "privacy",
+      "version": 6
+    }
+  ],
+  "errors": []
+}

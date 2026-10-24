@@ -1,0 +1,801 @@
+{
+  "admins": 2,
+  "places": [
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "name": "Aqaba Marine Reserve",
+      "slug": "aqaba-marine-reserve",
+      "arabic": [
+        {
+          "name": "محمية العقبة البحرية",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7/prototype-f5903d546a9a1dbfa4ab069503967ac6cfd28d944211206c9139105b27e598af.png",
+          "license": "owned",
+          "approved": false
+        },
+        {
+          "path": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7/0ce14c66-eb7a-4022-922b-5ed08e59ad62.jpg",
+          "license": "owned",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        29.4297222222222,
+        34.9755555555556
+      ],
+      "visitor_information": "No universal reserve admission or activity price is verified. Charges depend on the authorised access point and chosen service.\nVisit duration depends on the authorised activity; no reserve-wide duration is established.\nUse a confirmed legal visitor access point and check the rules for the specific marine zone.\nDo not touch or collect coral or marine life. Use qualified guidance and observe marine restrictions.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "name": "Pella (Tabaqat Fahl)",
+      "slug": "pella-tabaqat-fahl",
+      "arabic": [
+        {
+          "name": "طبقة فحل (بيلا)",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "16997697-cb9e-4126-b359-b83f1bde762c/phase08-d54bfefb491b2e2d59bba6bd62e53af819c828f33b54cd938e4845a30bb1bea3.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.449809,
+        35.613423
+      ],
+      "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors. Confirm the current charge locally.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nThe map point is an approximate site reference; confirm the visitor entrance before setting out.\nUse established paths on uneven, exposed archaeological ground.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "name": "Mujib Biosphere Reserve",
+      "slug": "wadi-mujib",
+      "arabic": [
+        {
+          "name": "محمية الموجب للمحيط الحيوي",
+          "status": "reviewed",
+          "current": false
+        }
+      ],
+      "images": [
+        {
+          "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/993106b3-2290-4c2a-a757-09155c15ae6f.jpg",
+          "license": "owned",
+          "approved": true
+        },
+        {
+          "path": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089/049e2c4a-14ba-4fba-9efa-ea0e21dcc85d.jpg",
+          "license": "public_domain",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.4670625,
+        35.5731875
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "name": "Shaumari Wildlife Reserve",
+      "slug": "shaumari-wildlife-reserve",
+      "arabic": [
+        {
+          "name": "محمية الشومري للأحياء البرية",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c5c402c2e4d9e1bccd7482422d1db5d46a0d1b7e9761cf255731efcb3715f3f0.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b/phase08-c3638fe09425a0bfa5d607011c55719820bfc844067a1459f5fbb24c4194697e.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.7448424,
+        36.7818916
+      ],
+      "visitor_information": "RSCN’s 2026 tax-inclusive short safari lists 8/13/18 JOD and long safari 12/17/22 JOD for Jordanian/resident/non-Jordanian visitors respectively, including guiding and entry. These are activity packages, not the Ministry’s older entrance-only rates; confirm booking and availability.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nReserve the specific activity and confirm group requirements directly with RSCN.\nDo not approach or feed animals. Wildlife sightings are not guaranteed.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "name": "Ajloun Forest Reserve",
+      "slug": "ajloun-forest",
+      "arabic": [
+        {
+          "name": "محمية غابات عجلون",
+          "status": "reviewed",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/11fa2b14-cad2-4717-a709-6dddb2965a3c.jpg",
+          "license": "licensed",
+          "approved": true
+        },
+        {
+          "path": "6f3ca842-ebdf-42a3-a590-987ae577e759/39af5f39-66ba-41f5-911d-ff370b5fee71.jpg",
+          "license": "licensed",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.3835625,
+        35.7604375
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "name": "Um er-Rasas (Kastrom Mefa’a)",
+      "slug": "um-er-rasas",
+      "arabic": [
+        {
+          "name": "أم الرصاص",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-a69f6101159120ecff0cb410bf3e1d1794792c3da4e8634b99c3c6e74bfe5cde.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "8babd902-5fd7-4398-bc3e-eca4374deafe/phase08-595fd53a4c7cd8241b9333f3548345f86d6fd2bd24c7b88b598ce0256644044d.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.5013125,
+        35.9191875
+      ],
+      "visitor_information": "A current site-specific admission fee has not been verified. Do not assume free entry or substitute a Madaba museum ticket.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay on managed routes; UNESCO identifies structural risks and open trenches in parts of the property.\nDo not climb towers or enter unstable structures.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "name": "Dana Biosphere Reserve",
+      "slug": "dana-reserve",
+      "arabic": [
+        {
+          "name": "محمية ضانا للمحيط الحيوي",
+          "status": "reviewed",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/7a5323ca-d26f-43fd-8280-637e8d1692c2.jpg",
+          "license": "licensed",
+          "approved": true
+        },
+        {
+          "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/40422bea-27ad-4678-80b4-328ab0cbedeb.jpg",
+          "license": "licensed",
+          "approved": true
+        },
+        {
+          "path": "a6b63635-d609-411d-86e2-ccd2ec0bd6af/10679013-bb61-4d15-a849-3548efe4ffc7.jpg",
+          "license": "licensed",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        30.6743125,
+        35.6083125
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "name": "Iraq Al-Amir",
+      "slug": "iraq-al-amir",
+      "arabic": [
+        {
+          "name": "عراق الأمير",
+          "status": "reviewed",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "4ec8a105-00a5-4f4b-b410-dbf864343826/acf29249-61b6-4134-8c0b-71a40a510a54.jpg",
+          "license": "public_domain",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.9195625,
+        35.7533125
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "name": "As-Salt Historic Centre",
+      "slug": "salt-historic",
+      "arabic": [
+        {
+          "name": "وسط السلط التاريخي",
+          "status": "reviewed",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "189dc346-58af-42b5-b2da-c862c95f0fca/614eea56-5fe5-4d1f-b8bb-ec7cc35d938f.jpg",
+          "license": "licensed",
+          "approved": true
+        },
+        {
+          "path": "189dc346-58af-42b5-b2da-c862c95f0fca/93fba4f2-f48a-4041-bed4-4c48e5c34ca2.jpg",
+          "license": "licensed",
+          "approved": true
+        },
+        {
+          "path": "189dc346-58af-42b5-b2da-c862c95f0fca/1a58eda4-8ea6-4353-b02f-1f16e42866ba.jpg",
+          "license": "licensed",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.0426111111,
+        35.7283055556
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "name": "Umm Qais",
+      "slug": "umm-qais",
+      "arabic": [
+        {
+          "name": "أم قيس",
+          "status": "reviewed",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "066dbed9-ca25-421e-8187-00fbc78fcda3/e02dd86c-a43b-43b1-8820-670115101f7f.jpg",
+          "license": null,
+          "approved": false
+        },
+        {
+          "path": "066dbed9-ca25-421e-8187-00fbc78fcda3/0db6e22b-bf60-4650-aa1e-b2a18d23332e.jpg",
+          "license": "licensed",
+          "approved": true
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.6556875,
+        35.6780625
+      ],
+      "visitor_information": null
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "name": "Wadi Rum Protected Area",
+      "slug": "wadi-rum",
+      "arabic": [
+        {
+          "name": "محمية وادي رم",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "d278185d-b952-406d-8371-5569816e30e6/phase08-05dd5870b738cb6ddbb121c360767adfc849e7093c1bf0f66f1c1fb07c06741a.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "d278185d-b952-406d-8371-5569816e30e6/phase08-0fb12913d31ed5ce732eb2da1699af83da5c2988447a4c510f7781dcd2a07509.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        29.6397222222222,
+        35.4338888888889
+      ],
+      "visitor_information": "The Ministry lists site entry at 1 JOD for Jordanians and 5 for foreign visitors. Vehicle tours, guides, camps and transfers are additional; confirm your applicable total.\nEditorial planning estimate: 180–360 minutes, excluding travel and optional activities. This is not an official required visit duration.\nArrange permitted desert access and a reliable return; the reserve-wide pin is not a visitor-centre gate.\nCarry water and sun protection. Do not assume an advertised activity is available on your travel date.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "name": "Umm Al-Jimāl",
+      "slug": "umm-al-jimal",
+      "arabic": [
+        {
+          "name": "أم الجمال",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "15e5f707-72e2-49a7-a908-07c1bbe703c8/phase08-9f7a1ccfcd479e72de5f35ede058f798ba3f50a2d836103d8aaa7b59b31bd5fc.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.3269444444445,
+        36.37
+      ],
+      "visitor_information": "The Ministry groups Umm Al-Jimal with other Mafraq sites at 0.25 JOD Jordanian / 2 JOD foreign entry. Exact applicability at this gate remains to be confirmed.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nStay out of unstable buildings and do not climb basalt walls.\nConfirm visitor-centre opening, route access and the current entrance.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "name": "St. George’s Church (Madaba Map)",
+      "slug": "madaba-st-georges-church",
+      "arabic": [
+        {
+          "name": "كنيسة القديس جاورجيوس (خارطة مادبا)",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321/phase08-fc85ca4ada0994e92d9b558d6e305c0979e5b7456704645ae015ba8e8e34bc43.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.71765,
+        35.7942
+      ],
+      "visitor_information": "Current church admission is unverified. Madaba Archaeological Park and museum prices do not establish this church’s fee.\nEditorial planning estimate: 30–60 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect worship, dress requirements and instructions about photography.\nConfirm tourist visiting times directly; worship schedules are not tourist opening hours.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "name": "Azraq Wetland Reserve",
+      "slug": "azraq-wetland-reserve",
+      "arabic": [
+        {
+          "name": "محمية الأزرق المائية",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-214cc801dec0276d7dc368f7bdd8ea5d39978d83d0ba59f9b68bb468213c5b3e.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f/phase08-f2586a414ec9a58265fd8cbba1f48a3118ec9d8dfcf811145c42cbffd05eb2f6.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.833909,
+        36.820555
+      ],
+      "visitor_information": "Ministry entrance baseline: Jordanians 2.50 JOD, residents 6 JOD, foreign visitors 8 JOD, plus 16% tax. Confirm the current RSCN total and whether your chosen activity costs extra.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nBird sightings vary naturally; remain quiet and do not disturb wildlife.\nConfirm open paths, reservations, current hours and boardwalk accessibility with RSCN.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "name": "Quseir Amra",
+      "slug": "quseir-amra",
+      "arabic": [
+        {
+          "name": "قصير عمرة",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-b5e2e9981015c872ab2ecb6039e213289b1328addb84df8a6d99466b6a2b65b0.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "c6112825-e51c-49ee-b1eb-aa3202e85cd7/phase08-86d4a252c6e25afd909813da5a0330a848b8fb87ce9a26f837a1f80670aaa4eb.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.8018055555556,
+        36.5873055555556
+      ],
+      "visitor_information": "The Ministry groups Qasr Amra with desert castles at 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm the ticket’s current site coverage.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not touch painted surfaces; follow room-access and photography instructions.\nCurrent opening hours and step-free access have not been verified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "name": "Amman Citadel",
+      "slug": "amman-citadel",
+      "arabic": [
+        {
+          "name": "جبل القلعة",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "af3f7f7c-eba4-455b-b334-5009734da5b1/phase08-ca6d981ab0e4d8568f9287fac9f05ab88e2d834577b0db1dff015785950b099a.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.9543125,
+        35.9354375
+      ],
+      "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 3 JOD for foreign visitors. Confirm ticket conditions and current museum access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nHilltop paths include uneven ground; a full step-free route is not verified.\nConfirm current gate hours before planning an early or late visit.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "name": "Amman Roman Theatre",
+      "slug": "amman-roman-theatre",
+      "arabic": [
+        {
+          "name": "المدرج الروماني في عمّان",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-09ef9c566121319f0984091c730bdadfe7ddd9bbaf0e3dbea2c04ec21c5ec701.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8/phase08-7b04f213487538f66f84fc6674b1a60e186a3c1a50e7ab6965b7a0b38abf4d95.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.9516875,
+        35.9393125
+      ],
+      "visitor_information": "The Ministry’s 0.25 JOD Jordanian / 2 JOD foreign listing refers to a theatre-associated museum entry. The current exact theatre ticket bundle is unconfirmed; do not assume that figure covers every access type.\nEditorial planning estimate: 45–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nSeating steps are steep; a complete accessible route is not verified.\nEvents and museum opening arrangements may affect access.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "name": "Little Petra (Siq Al-Barid)",
+      "slug": "little-petra-siq-al-barid",
+      "arabic": [
+        {
+          "name": "البترا الصغيرة (سيق البارد)",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-37cf674a5d59e82a4b50520926991c28b112b819afc95243795ea6a7d35dcfba.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "16ebeb33-af96-4da0-854e-b5bea53eebb5/phase08-ddf926fe2699b775be9f00d47c8460cb1119d0f5b349da676dd7a7b9b1ce5cc4.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        30.37527847,
+        35.45138931
+      ],
+      "visitor_information": "A current separate Little Petra admission fee has not been verified. Main Petra admission and any Back Trail or transfer arrangements must not be assumed to apply here.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nConfirm the site and ticket-office schedules separately before travelling.\nDo not enter onward trails without confirming ticket, guide and transport requirements.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "name": "Mount Nebo",
+      "slug": "mount-nebo",
+      "arabic": [
+        {
+          "name": "جبل نيبو",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-fefe7f78aae3183ca2e5a01fc271cad44d8d171ae7af73914c6292b3a16335ac.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "73ed5471-2ea1-44b8-82df-44c55a62296d/phase08-efd450725e5a31b6dce7a8abb164c0d2b2c403d0ebfe0cbcc998afb23a0eee0f.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.768088,
+        35.725703
+      ],
+      "visitor_information": "The Custody of the Holy Land lists 3 JOD for non-residents and 0.50 JOD for residents. Confirm eligibility and the current charge with the sanctuary.\nEditorial planning estimate: 60–90 minutes, excluding travel and optional activities. This is not an official required visit duration.\nRespect the sanctuary and current visiting arrangements.\nA complete accessible route and current parking arrangements are not verified.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "name": "Shobak Castle",
+      "slug": "shobak-castle",
+      "arabic": [
+        {
+          "name": "قلعة الشوبك",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-eea9b02bd25208fc1d114e1973f35fd9465ea5290d168b0150dfa23b3d4929b0.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "27ef186e-0a77-45e2-a917-d6693b20af62/phase08-8b84cc4c64bbfeff5fc674ae752bad2f7acc9b4a0c401059c171b42bb05f20f9.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        30.531389,
+        35.560833
+      ],
+      "visitor_information": "Ministry listing: Jordanians 0.25 JOD; foreign visitors 1 JOD. Confirm the current ticket and access conditions.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nDo not enter unmarked tunnels or unstable areas.\nCurrent gate hours, parking and accessible routes are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "name": "Baptism Site (Al-Maghtas)",
+      "slug": "al-maghtas-baptism-site",
+      "arabic": [
+        {
+          "name": "موقع المغطس — بيت عنيا عبر الأردن",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-8c45fb3b6a3a5b5e296eaaa1f61cf0feb193db00c4167f0307806e48768ec912.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "240eb332-8372-4da5-a08e-8e7fb05bf75c/phase08-cb905e133489a0878fd464630de18cefa53875a2e884219e535f969912f05cf3.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.8372222222222,
+        35.5527777777778
+      ],
+      "visitor_information": "Ministry baseline: Jordanians 3 JOD, other Arab nationalities 5 JOD, other foreign visitors 12 JOD. Confirm current visit type, inclusions and booking terms with the site.\nEditorial planning estimate: 90–150 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse the controlled visitor entrance; the heritage reference pin is not its gate.\nWear modest clothing and follow the operator’s no-smoking and access instructions.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "name": "Karak Castle",
+      "slug": "karak-castle",
+      "arabic": [
+        {
+          "name": "قلعة الكرك",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-86455f11d2ac2b850ef12b674ea5e65978fbf14b4d3380c06fa3a1c45b4e12d2.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "9f3588e1-5674-4bc9-b799-d89b8526b722/phase08-cc2b507a181aa92a72c0078b1efcfaa816375d1767e58d141dfd3c44b93a9e0e.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        31.1809375,
+        35.7016875
+      ],
+      "visitor_information": "Ministry listing: 0.25 JOD for Jordanians and 2 JOD for foreign visitors, including the archaeological museum. Confirm current access.\nEditorial planning estimate: 60–120 minutes, excluding travel and optional activities. This is not an official required visit duration.\nUse designated routes; passages may be dim and surfaces uneven.\nCurrent castle hours, parking and a complete step-free route are unverified.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "name": "Jerash Archaeological City",
+      "slug": "jerash-archaeological-city",
+      "arabic": [
+        {
+          "name": "مدينة جرش الأثرية",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-aaf02f12fb02671c775938cb869241fce860e5f86ea0b6a49fa81c9c5956691c.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4/phase08-4bdb19cd9c22a5024a2412731976a1cb498ebd8cca43ff8b4c09f926ea8c5dc8.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        32.2759375,
+        35.8914375
+      ],
+      "visitor_information": "Ministry site-entry listing: Jordanians 0.50 JOD; foreign visitors 10 JOD, including the archaeological museum. Performances may have separate arrangements.\nEditorial planning estimate: 120–240 minutes, excluding travel and optional activities. This is not an official required visit duration.\nWear footwear suitable for uneven stone and steps.\nConfirm the open entrance and seasonal hours; museum and performance times may differ.\nCurrent tourist opening hours are unverified; confirm with the site before travelling.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "name": "Petra",
+      "slug": "petra",
+      "arabic": [
+        {
+          "name": "البترا",
+          "status": "pending",
+          "current": true
+        }
+      ],
+      "images": [
+        {
+          "path": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-b06d72218629ece42208255dbe10f56df4bb838a14794b6a8fac2e5d713ec8cb.jpg",
+          "license": "licensed",
+          "approved": false
+        },
+        {
+          "path": "7f3b73ce-008d-4bfa-a75d-68ed3a135392/phase08-5dff4735b58492b8d2ca03265370cf53c938138416b9a71e4247520d27caba15.jpg",
+          "license": "licensed",
+          "approved": false
+        }
+      ],
+      "status": "published",
+      "is_demo": false,
+      "price_max": null,
+      "price_min": null,
+      "coordinates": [
+        30.3243125,
+        35.4679375
+      ],
+      "visitor_information": "PDTRA lists 1 JOD for Jordanians; 10 for qualifying residents; 30 for Arab visitors; accommodated foreign visitors 50/55/60 for 1/2/3 consecutive days; non-accommodated day visitors 90. Eligibility documents apply. Guides, transport and Petra by Night are separate.\nEditorial planning estimate: 240–480 minutes, excluding travel and optional activities. This is not an official required visit duration.\nFollow official weather and flash-flood closures; do not enter a closed trail.\nLong routes include substantial walking and steps. Accessible services do not establish that every trail is step-free.\nCurrent public transport services, parking arrangements and a complete accessible route have not been independently confirmed. Check with the site before travel."
+    }
+  ],
+  "buckets": [
+    {
+      "id": "place-images",
+      "public": false
+    },
+    {
+      "id": "profile-avatars",
+      "public": false
+    },
+    {
+      "id": "brand-assets",
+      "public": true
+    }
+  ],
+  "statuses": {
+    "published": 24
+  },
+  "rls_disabled": null,
+  "privacy_installed": false
+}

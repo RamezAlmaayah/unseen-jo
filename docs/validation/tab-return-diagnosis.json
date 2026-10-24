@@ -1,0 +1,38 @@
+{
+  "scope": "Local real Chromium; fixture administrator API/Auth, no hosted writes",
+  "base": "http://127.0.0.1:4184",
+  "checks": [
+    {
+      "trigger": "actual browser tab switch, 5 seconds",
+      "hidden": "visible",
+      "before": {
+        "run": "fe424ef6-4314-4da0-8886-6e77906a8f10",
+        "metrics": {
+          "skeletons": 3,
+          "workspaceRemovals": 0
+        },
+        "visibility": "visible"
+      },
+      "after": {
+        "run": "fe424ef6-4314-4da0-8886-6e77906a8f10",
+        "metrics": {
+          "skeletons": 3,
+          "workspaceRemovals": 0
+        },
+        "visibility": "visible"
+      },
+      "name": "UNSAVED TAB RETURN PROBE",
+      "requests": []
+    },
+    {
+      "trigger": "controlled standard visibilitychange + focus path",
+      "name": "UNSAVED CONTROLLED RETURN PROBE",
+      "requests": [],
+      "metrics": {
+        "skeletons": 3,
+        "workspaceRemovals": 0
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,21 @@
+{
+  "requestedAt": "2026-10-21T19:17:52.710Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Little+Petra%2C+Jordan+-+49785122391.jpg%7CAqaba+Marine+Park%2C+Jordan.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 0,
+          "title": "Little Petra, Jordan - 49785122391.jpg",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Aqaba Marine Park, Jordan.jpg",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1094 @@
+Home|الرئيسية
+Explore|استكشف
+Map|الخريطة
+My Discoveries|اكتشافاتي
+Surprise Me|فاجئني
+Surprise Me Again|فاجئني مجددًا
+Profile|الملف الشخصي
+Profile preview|معاينة الملف الشخصي
+Unseen Jo|Unseen Jo
+UNSEEN JO|Unseen Jo
+Unseen Jo home|الصفحة الرئيسية لـ Unseen Jo
+Primary|الرئيسية
+Skip to content|انتقل إلى المحتوى
+Skip to workspace|انتقل إلى مساحة العمل
+Search (coming later)|البحث (قريبًا)
+Start Exploring|ابدأ الاستكشاف
+Your next discovery starts here|اكتشافك القادم يبدأ هنا
+Your next discovery is waiting.|اكتشافك القادم بانتظارك.
+Your next adventure starts here|مغامرتك القادمة تبدأ هنا
+Discover hidden gems, local experiences, and places worth the journey.|اكتشف أماكن خفية وتجارب محلية ووجهات تستحق الزيارة.
+A DIFFERENT WAY TO DISCOVER|طريقة مختلفة للاكتشاف
+DISCOVER THE UNEXPECTED|اكتشف ما لا تتوقعه
+There’s more|هناك المزيد
+to Jordan.|في الأردن.
+We’ll find a place you didn’t know|سنساعدك في العثور على مكان لم تكن تعرف
+you were looking for.|أنك تبحث عنه.
+Hidden places. Real experiences. A different side of Jordan.|أماكن خفية. تجارب حقيقية. وجه آخر للأردن.
+A little curiosity.|قليل من الفضول.
+A new discovery.|اكتشاف جديد.
+Let’s find your kind of adventure.|لنعثر على مغامرة تناسبك.
+Tell us a little about your day.|أخبرنا قليلًا عن يومك.
+A few quick choices help us discover places that fit you.|تساعدنا اختيارات بسيطة في العثور على أماكن تناسبك.
+Not sure where to go?|لا تعرف أين تذهب؟
+Let us find something unexpected.|دعنا نعثر لك على شيء غير متوقع.
+Explore Jordan differently.|اكتشف الأردن بطريقة مختلفة.
+Find places and experiences that match your time, budget and interests.|اعثر على أماكن وتجارب تناسب وقتك وميزانيتك واهتماماتك.
+We found something for you.|وجدنا شيئًا يناسبك.
+Based on your interests, time, and budget.|بناءً على اهتماماتك ووقتك وميزانيتك.
+Where are you starting from?|من أين ستنطلق؟
+Starting location|نقطة الانطلاق
+Starting Location|نقطة الانطلاق
+Starting from|الانطلاق من
+What do you feel like doing?|ما الذي تود القيام به؟
+How much time do you have?|كم من الوقت لديك؟
+What’s your budget?|ما ميزانيتك؟
+Who are you with?|من يرافقك؟
+Available time|الوقت المتاح
+Budget|الميزانية
+Transportation|وسيلة التنقل
+Interests|الاهتمامات
+Interest|الاهتمام
+Traveling with|رفاق الرحلة
+Show Me Places|اعرض الأماكن
+Choose interests|اختر الاهتمامات
+Choose an option|اختر خيارًا
+Choose an option.|اختر خيارًا.
+None selected|لم يتم الاختيار
+Not selected|غير محدد
+Selected interests|الاهتمامات المحددة
+No interests selected.|لم تُحدَّد اهتمامات.
+Nature|الطبيعة
+Food|الطعام
+History|التاريخ
+Adventure|المغامرة
+Culture|الثقافة
+Nature & terrain|الطبيعة والتضاريس
+Cities & streets|المدن والشوارع
+All|الكل
+Car|سيارة
+Public transport|النقل العام
+Public Transportation|النقل العام
+Walking/Nearby|المشي / أماكن قريبة
+Solo|بمفردك
+Couple|شخصان
+Friends|أصدقاء
+Family|عائلة
+solo|بمفردك
+couple|شخصان
+friends|أصدقاء
+family|عائلة
+30 min|٣٠ دقيقة
+2 Hours|ساعتان
+4 Hours|٤ ساعات
+Half Day|نصف يوم
+Full Day|يوم كامل
+Under 10 JD|أقل من ١٠ دنانير
+10-30 JD|١٠–٣٠ دينارًا
+30-... JD|٣٠ دينارًا فأكثر
+20 JD|٢٠ دينارًا
+Free|مجاني
+JD|د.أ.
+JOD|د.أ.
+Amman|عمّان
+Irbid|إربد
+Ajloun|عجلون
+As-Salt|السلط
+Salt|السلط
+Madaba|مادبا
+Aqaba|العقبة
+Dana|ضانا
+Umm Qais|أم قيس
+Iraq Al-Amir|عراق الأمير
+Ajloun Forest|غابات عجلون
+Ajloun Forest Reserve|محمية غابات عجلون
+As-Salt Historic Centre|وسط السلط التاريخي
+Mujib Biosphere Reserve|محمية الموجب للمحيط الحيوي
+Dana Biosphere Reserve|محمية ضانا للمحيط الحيوي
+Wadi Mujib|وادي الموجب
+Wadi Mujib Trails|مسارات وادي الموجب
+Ajloun Forest Experience|تجربة غابات عجلون
+Your Jordan, mapped.|الأردن على خريطتك.
+Jordan, beyond the familiar|الأردن، أبعد من المألوف
+Jordan nature atlas|أطلس طبيعة الأردن
+Start with the landscape.|ابدأ بالمشهد الطبيعي.
+Explore mapped parks, coastlines and land cover.|استكشف المتنزهات والسواحل والتضاريس على الخريطة.
+Search places or experiences|ابحث عن أماكن أو تجارب
+Search destinations|ابحث عن الأماكن السياحية
+Search demo destinations|ابحث في الأماكن التجريبية
+Search names|ابحث بالأسماء
+Find a destination…|ابحث عن مكان…
+Clear search|امسح البحث
+Clear filters|امسح عوامل التصفية
+Clear search and filters|امسح البحث وعوامل التصفية
+All categories|جميع الفئات
+Category|الفئة
+Categories|الفئات
+Filter destinations by category|تصفية الأماكن حسب الفئة
+Filter demo destinations by category|تصفية الأماكن التجريبية حسب الفئة
+No destinations match your search|لا توجد أماكن تطابق بحثك
+Try another name or clear the selected categories.|جرّب اسمًا آخر أو امسح الفئات المحددة.
+No published destinations available|لا توجد أماكن منشورة حاليًا
+Our destination collection is being prepared. Please check back soon.|نعمل على تجهيز مجموعة الأماكن السياحية. يُرجى العودة لاحقًا.
+Verified destinations will appear when published.|ستظهر الأماكن التي تم التحقق منها بعد نشرها.
+Destinations unavailable|الأماكن السياحية غير متاحة
+Demo destinations unavailable|الأماكن التجريبية غير متاحة
+No demo destinations found|لم يُعثر على أماكن تجريبية
+Loading destinations…|جارٍ تحميل الأماكن السياحية…
+Loading demo destinations…|جارٍ تحميل الأماكن التجريبية…
+Local demo / not live data|عرض تجريبي محلي / ليس بيانات فعلية
+Local demo · Figma sample values, not live tourism data|عرض محلي · قيم نموذج Figma وليست بيانات سياحية فعلية
+Local demo · details preview|عرض محلي · معاينة التفاصيل
+Local dataset|مجموعة بيانات محلية
+Live tourism collection|مجموعة الأماكن الفعلية
+Published destinations · unknown details are marked unavailable|أماكن منشورة · تُوضَّح التفاصيل غير المعروفة بأنها غير متاحة
+View all destinations|عرض جميع الأماكن
+View all demo destinations|عرض جميع الأماكن التجريبية
+View Details|عرض التفاصيل
+View place details|عرض تفاصيل المكان
+Explore This Place|استكشف هذا المكان
+Explore destinations|استكشف الأماكن السياحية
+Explore places|استكشف الأماكن
+Explore Map|استكشف الخريطة
+view all|عرض الكل
+view all · demo|عرض الكل · تجريبي
+View Jordan|عرض الأردن
+Near You|بالقرب منك
+Use my location|استخدم موقعي
+Locating…|جارٍ تحديد الموقع…
+Waiting for your location permission…|بانتظار إذنك للوصول إلى الموقع…
+Use your location once to find nearby destinations. It stays in this visit’s memory. Map tiles load for the area you view.|استخدم موقعك مرة واحدة للعثور على أماكن قريبة. يبقى في ذاكرة هذه الزيارة فقط، وتُحمَّل مربعات الخريطة للمنطقة المعروضة.
+Or choose a city|أو اختر مدينة
+Choose a city centre|اختر مركز مدينة
+Any city|أي مدينة
+Manual city location|موقع مدينة محدد يدويًا
+Search radius|نطاق البحث
+Nearby search radius|نطاق البحث عن الأماكن القريبة
+Clear location filtering|إلغاء التصفية حسب الموقع
+Nearest first when location is active|الأقرب أولًا عند تفعيل الموقع
+No mapped destinations within this radius|لا توجد أماكن محددة على الخريطة ضمن هذا النطاق
+Try a wider radius or clear location filtering. Places without verified coordinates cannot be included.|وسّع النطاق أو ألغِ التصفية حسب الموقع. لا يمكن إدراج الأماكن التي لا تتوفر لها إحداثيات موثقة.
+You can explore without sharing your location.|يمكنك الاستكشاف دون مشاركة موقعك.
+Location needs HTTPS or localhost. Choose a city instead.|يتطلب تحديد الموقع اتصال HTTPS أو خادمًا محليًا. اختر مدينة بدلًا من ذلك.
+Location permission was denied. You can choose a city instead.|لم يُمنح إذن تحديد الموقع. يمكنك اختيار مدينة بدلًا من ذلك.
+Location took too long. Try again or choose a city.|استغرق تحديد الموقع وقتًا طويلًا. حاول مجددًا أو اختر مدينة.
+This browser does not support location. Choose a city instead.|هذا المتصفح لا يدعم تحديد الموقع. اختر مدينة بدلًا من ذلك.
+Your position is unavailable. Try again or choose a city.|موقعك غير متاح. حاول مجددًا أو اختر مدينة.
+The location reading is outside supported map coordinates. Choose a city instead.|الموقع المقروء خارج نطاق الإحداثيات المدعوم. اختر مدينة بدلًا من ذلك.
+from city centre|من مركز المدينة
+. City-centre distances are approximate.|. المسافات من مراكز المدن تقريبية.
+km straight-line|كم بخط مستقيم
+km · straight-line|كم · بخط مستقيم
+City reference points:|النقاط المرجعية للمدن:
+Map gestures|إيماءات الخريطة
+Enable map gestures|تفعيل إيماءات الخريطة
+Enable one-finger drag and scroll zoom|تفعيل السحب بإصبع واحد والتكبير بالتمرير
+Switch back to page scrolling|العودة إلى تمرير الصفحة
+Scroll page|تمرير الصفحة
+Page scroll mode|وضع تمرير الصفحة
+Map key|مفتاح الخريطة
+THE LIVING LANDSCAPE|المشهد الطبيعي
+Woodland|الغابات
+Sand & rock|الرمال والصخور
+Water|المياه
+Roads|الطرق
+CURATED DESTINATIONS|أماكن مختارة
+Curated destinations|أماكن مختارة
+Demo locations|مواقع تجريبية
+Zoom in|تكبير
+Zoom out|تصغير
+Reset Jordan view|إعادة عرض الأردن
+Reset destination view|إعادة عرض المكان
+Map navigation controls|أدوات التنقل في الخريطة
+Interactive Jordan map|خريطة الأردن التفاعلية
+Interactive Jordan tourism map|خريطة الأردن السياحية التفاعلية
+Geographic map · provider POIs are separate from curated Unseen Jo destinations|خريطة جغرافية · نقاط اهتمام مزوّد الخريطة مستقلة عن الأماكن المختارة في Unseen Jo
+Small base-map labels/POIs are provider data, not verified Unseen Jo attractions.|تسميات الخريطة الأساسية ونقاط الاهتمام الصغيرة بيانات من المزوّد، وليست أماكن تم التحقق منها لدى Unseen Jo.
+Map-provider labels are geographic context, not verified Unseen Jo recommendations.|تسميات مزوّد الخريطة للسياق الجغرافي وليست توصيات موثقة من Unseen Jo.
+Zoom in for roads and local place names.|كبّر الخريطة لرؤية الطرق وأسماء الأماكن المحلية.
+Loading Jordan’s geographic layers…|جارٍ تحميل الطبقات الجغرافية للأردن…
+Loading geographic map…|جارٍ تحميل الخريطة الجغرافية…
+Preparing your Jordan map…|جارٍ تجهيز خريطة الأردن…
+Map loads when in view|تُحمَّل الخريطة عند ظهورها
+Map loading is taking longer than expected. Check your connection and retry.|يستغرق تحميل الخريطة وقتًا أطول من المتوقع. تحقق من الاتصال وحاول مجددًا.
+Some map data could not load. You can retry; the destination list remains available.|تعذّر تحميل بعض بيانات الخريطة. يمكنك إعادة المحاولة؛ تبقى قائمة الأماكن متاحة.
+Retry map|إعادة تحميل الخريطة
+No curated destinations in this view. Explore the geographic map freely.|لا توجد أماكن مختارة في هذا العرض. يمكنك استكشاف الخريطة بحرية.
+These destinations have no verified map coordinates yet.|لا تتوفر لهذه الأماكن إحداثيات موثقة بعد.
+Your current GPS reading|قراءة موقعك الحالية عبر GPS
+Map reference ·|مرجع الخريطة ·
+Show on map|عرض على الخريطة
+More filters|مزيد من عوامل التصفية
+Maximum cost|الحد الأعلى للتكلفة
+Maximum visit duration|الحد الأعلى لمدة الزيارة
+Any duration|أي مدة
+Any group|أي مجموعة
+Any known or unknown cost|أي تكلفة، معلومة أو غير معلومة
+Suitable group|المجموعة المناسبة
+Group|المجموعة
+Uses available destination information. Unknown values do not match a cost or duration limit.|تُستخدم معلومات المكان المتاحة. القيم غير المعروفة لا تطابق حدود التكلفة أو المدة.
+Sample costs, durations and group labels are illustrative; they are not used as verified map filters.|التكاليف والمدد والمجموعات في النموذج توضيحية؛ ولا تُستخدم كعوامل تصفية موثقة للخريطة.
+Go to category filters|انتقل إلى عوامل تصفية الفئات
+List|القائمة
+Back to results|العودة إلى النتائج
+Back|عودة
+Back to home|العودة إلى الرئيسية
+Place details|تفاصيل المكان
+Destination location|موقع المكان
+Destination source|مصدر معلومات المكان
+Why go?|لماذا تزوره؟
+What you’ll experience|ما الذي ستجربه؟
+Best time to visit|أفضل وقت للزيارة
+Suitable travel groups|مجموعات الزوار المناسبة
+Available cost|التكلفة المتاحة
+Available cost in JOD|التكلفة المتاحة بالدينار الأردني
+Visit duration|مدة الزيارة
+Travel time unavailable|وقت الرحلة غير متاح
+Estimated demo cost|التكلفة التقديرية للنموذج
+Recommended demo duration|المدة المقترحة للنموذج
+Sample travel time, origin unspecified; not live routing|وقت رحلة تجريبي بلا نقطة انطلاق محددة؛ ليس مسارًا فعليًا
+Cost unavailable|التكلفة غير متاحة
+Duration unavailable|المدة غير متاحة
+Information unavailable|المعلومات غير متاحة
+Get Directions|الاتجاهات
+in an external map, new tab|في خريطة خارجية بعلامة تبويب جديدة
+Opens the destination coordinates in Google Maps. No route or travel-time estimate is calculated here.|يفتح إحداثيات المكان في خرائط Google. لا يُحسب هنا مسار أو وقت للرحلة.
+Location unavailable · verified coordinates are not provided.|الموقع غير متاح · لا تتوفر إحداثيات موثقة.
+No marker is shown without a verified location.|لا تظهر علامة دون موقع موثق.
+Unavailable: verified destination coordinates are not provided.|غير متاح: لا تتوفر إحداثيات موثقة للمكان.
+Geographic location · confirm arrival and access conditions before travelling.|موقع جغرافي · تحقق من نقطة الوصول وشروط الدخول قبل السفر.
+A detailed description is not yet available.|لا يتوفر وصف تفصيلي بعد.
+A detailed description is unavailable in this local demo. The original Figma photograph and available sample metadata are shown here.|لا يتوفر وصف تفصيلي في هذا العرض المحلي. تظهر هنا صورة Figma الأصلية ومعلومات النموذج المتاحة.
+Additional experience details are not yet available.|لا تتوفر تفاصيل إضافية عن التجارب بعد.
+Supporting experience photographs and descriptions are unavailable for this demo destination.|لا تتوفر صور التجارب وأوصافها لهذا المكان التجريبي.
+More destinations|مزيد من الأماكن
+More demo destinations|مزيد من الأماكن التجريبية
+Browse Explore for other published destinations · not personalized recommendations|تصفّح «استكشف» لأماكن منشورة أخرى · ليست توصيات شخصية
+Other entries in the local collection · not personalized recommendations|أماكن أخرى في المجموعة المحلية · ليست توصيات شخصية
+Discover something else|اكتشف شيئًا آخر
+Add My Discoveries|أضف إلى اكتشافاتي
+Remove from My Discoveries|إزالة من اكتشافاتي
+Temporarily saved to My Discoveries for this visit. Cleared on refresh.|حُفظ مؤقتًا في اكتشافاتي لهذه الزيارة. يُمسح عند تحديث الصفحة.
+Not saved. You can try temporary saves without an account.|غير محفوظ. يمكنك تجربة الحفظ المؤقت دون حساب.
+Published destination · available source information. Saves are temporary and clear on refresh.|مكان منشور · معلومات المصادر المتاحة. الحفظ مؤقت ويُمسح عند تحديث الصفحة.
+Figma sample · illustrative travel values, not verified advice. Saves are temporary and clear on refresh.|نموذج Figma · قيم الرحلة توضيحية وليست نصائح موثقة. الحفظ مؤقت ويُمسح عند التحديث.
+· Essential information reviewed|· تمت مراجعة المعلومات الأساسية
+· Verification date unavailable|· تاريخ التحقق غير متاح
+Place not found|لم يُعثر على المكان
+Page not found|الصفحة غير موجودة
+404 · A different path awaits|٤٠٤ · مسار آخر بانتظارك
+This path does not lead to an available Unseen Jo page.|هذا المسار لا يؤدي إلى صفحة متاحة في Unseen Jo.
+This destination is not in the local demo collection. Explore the available places to continue.|هذا المكان غير موجود في المجموعة التجريبية المحلية. استكشف الأماكن المتاحة للمتابعة.
+Image unavailable|الصورة غير متاحة
+Photo pending verification|الصورة بانتظار التحقق
+Unverified demo photo|صورة تجريبية غير موثقة
+Original Figma photography|صورة Figma الأصلية
+Destination photography|صور المكان
+Photography|التصوير
+Destination image|صورة المكان
+Close photo viewer|إغلاق عارض الصور
+Previous photo|الصورة السابقة
+Next photo|الصورة التالية
+Close destination preview|إغلاق معاينة المكان
+Destination view|عرض المكان
+Destination results|نتائج الأماكن
+Available destination information|المعلومات المتاحة عن المكان
+Local demo · details preview|عرض محلي · معاينة التفاصيل
+Published destination · details preview|مكان منشور · معاينة التفاصيل
+Local demo · Figma sample values, not live tourism data|عرض محلي · قيم Figma وليست بيانات سياحية فعلية
+Only available source information is shown. Check destination conditions before visiting.|تُعرض معلومات المصادر المتاحة فقط. تحقق من ظروف المكان قبل الزيارة.
+Illustrative Figma demo information|معلومات توضيحية من نموذج Figma
+These are illustrative Figma values, not verified travel advice or a booking offer.|هذه قيم توضيحية من Figma وليست نصائح سفر موثقة أو عرض حجز.
+Further destination information is not yet available.|لا تتوفر معلومات إضافية عن المكان بعد.
+Keep exploring|واصل الاستكشاف
+Why this place matches you?|لماذا يناسبك هذا المكان؟
+Fits your available time|يناسب وقتك المتاح
+Accessible by car|يمكن الوصول إليه بالسيارة
+Comparisons use the current demo choices.|تعتمد المقارنات على اختيارات النموذج الحالية.
+Comparisons use your submitted choices.|تعتمد المقارنات على اختياراتك المقدمة.
+Fixed Figma sample · not a personalized recommendation.|نموذج Figma ثابت · ليس توصية شخصية.
+Demo flow · opens one fixed Figma sample, not personalized recommendations.|مسار تجريبي · يفتح نموذج Figma ثابتًا وليس توصيات شخصية.
+Edit discovery preferences|تعديل تفضيلات الاكتشاف
+Apply to preview|تطبيق على المعاينة
+Your choices are kept for this visit. Place recommendations are coming in a future phase.|تبقى اختياراتك لهذه الزيارة. ستتوفر توصيات الأماكن في مرحلة لاحقة.
+Shared with your Preferences and Surprise Me choices.|مشتركة مع اختيارات التفضيلات وفاجئني.
+These interests are shared with your discovery preferences.|هذه الاهتمامات مشتركة مع تفضيلات الاكتشاف.
+Please complete the highlighted preferences before opening the demo.|أكمل التفضيلات المحددة قبل فتح العرض التجريبي.
+Choose a starting location.|اختر نقطة الانطلاق.
+Choose at least one interest.|اختر اهتمامًا واحدًا على الأقل.
+Choose an available time.|اختر الوقت المتاح.
+Choose a budget in JOD.|اختر ميزانية بالدينار الأردني.
+Your Discoveries|اكتشافاتك
+All the places you want to explore in one place.|كل الأماكن التي تود استكشافها في مكان واحد.
+Your explorer space|مساحتك للاستكشاف
+Saved|محفوظة
+Visited|تمت زيارتها
+No visited places yet|لا توجد أماكن زرتها بعد
+Visited activity is unavailable in this UI preview. Progress and badges above are illustrations, not completed achievements.|تسجيل الزيارات غير متاح في هذه المعاينة. التقدم والشارات أعلاه توضيحية وليست إنجازات مكتملة.
+Load Figma sample collection|تحميل مجموعة نموذج Figma
+Loaded the six original Figma sample places into temporary saves.|حُمّلت الأماكن الستة من نموذج Figma في المحفوظات المؤقتة.
+Demo collection · saves last until refresh. No account or visited activity.|مجموعة تجريبية · يستمر الحفظ حتى التحديث. لا يوجد حساب أو سجل زيارات.
+Temporary collection · saves last until refresh. No account or visited activity.|مجموعة مؤقتة · يستمر الحفظ حتى التحديث. لا يوجد حساب أو سجل زيارات.
+Includes fixed Figma sample saves · illustrative values, not live destinations.|تتضمن محفوظات نموذج Figma الثابت · قيم توضيحية وليست أماكن فعلية.
+Removed from temporary saves. No account data was changed.|أُزيل من المحفوظات المؤقتة. لم تتغير بيانات أي حساب.
+Save a demo place from Explore or Place Details. Your temporary collection will appear here until refresh.|احفظ مكانًا تجريبيًا من «استكشف» أو تفاصيل المكان. ستظهر مجموعتك المؤقتة هنا حتى التحديث.
+temporary saved discoveries|اكتشافات محفوظة مؤقتًا
+Temporary save — shared across pages, cleared on refresh|حفظ مؤقت — مشترك بين الصفحات ويُمسح عند التحديث
+Temporarily saved for this visit. Cleared on refresh; nothing saved to an account.|حُفظ مؤقتًا لهذه الزيارة. يُمسح عند التحديث ولا يُحفظ في حساب.
+Overview|نظرة عامة
+Places|الأماكن السياحية
+Destinations|الأماكن السياحية
+Destination|المكان السياحي
+Drafts|المسودات
+Published|منشورة
+Archived|مؤرشفة
+draft|مسودة
+published|منشورة
+archived|مؤرشفة
+approved|معتمدة
+review|تحتاج مراجعة
+insert|إضافة
+update|تحديث
+delete|حذف
+uploading|جارٍ الرفع
+linking|جارٍ الربط
+complete|مكتمل
+Administrator|المسؤول
+Administration|الإدارة
+Administrator workspace|مساحة عمل المسؤول
+Admin profile|الملف الشخصي للمسؤول
+Content studio|استوديو المحتوى
+CONTENT STUDIO|استوديو المحتوى
+WORKSPACE|مساحة العمل
+Workspace|مساحة العمل
+Workspace sidebar|الشريط الجانبي لمساحة العمل
+YOUR EDITORIAL WORKSPACE|مساحة العمل التحريرية
+TOURISM CONTENT MANAGEMENT|إدارة المحتوى السياحي
+TOURISM COLLECTION|مجموعة الأماكن السياحية
+CONTENT QUALITY|جودة المحتوى
+QUALITY & REVIEW CENTER|مركز الجودة والمراجعة
+ORGANIZE THE COLLECTION|تنظيم المجموعة
+YOUR VISUAL LIBRARY|مكتبتك البصرية
+ACCOUNTABLE EDITORIAL WORK|عمل تحريري موثق
+RESEARCHED TOURISM DRAFTS|مسودات سياحية مدعومة بالمصادر
+UNSEEN JO · EDITORIAL WORKSPACE|Unseen Jo · مساحة العمل التحريرية
+Carefully curated in Jordan|اختيارات بعناية من الأردن
+Thoughtfully curated.|اختيارات مدروسة بعناية.
+One reliable discovery at a time.|كل اكتشاف يستند إلى معلومات موثوقة.
+Carefully curate Jordan. Keep every story accurate, useful and ready to explore.|اختر أماكن الأردن بعناية، واجعل كل قصة دقيقة ومفيدة وجاهزة للاستكشاف.
+A clearer view of every discovery.|رؤية أوضح لكل اكتشاف.
+Give these places a little attention|أماكن تحتاج إلى اهتمامك
+Places worth discovering|أماكن تستحق الاكتشاف
+Shape the collection, verify the details, and publish with confidence.|طوّر المجموعة وتحقق من التفاصيل وانشر بثقة.
+Total destinations|إجمالي الأماكن السياحية
+Active categories|الفئات النشطة
+Awaiting content review|بانتظار مراجعة المحتوى
+Missing coordinates|إحداثيات غير متوفرة
+Missing approved covers|صور غلاف معتمدة غير متوفرة
+Missing approved cover|صورة غلاف معتمدة غير متوفرة
+Content completeness|اكتمال المحتوى
+Publication status|حالة النشر
+Category distribution|التوزيع حسب الفئة
+Draft content review|مراجعة محتوى المسودات
+Current destination counts by status.|أعداد الأماكن الحالية حسب الحالة.
+A destination can belong to more than one category.|قد ينتمي المكان إلى أكثر من فئة.
+Outstanding tasks overlap; they are not a percentage or readiness score.|قد تتداخل المهام المتبقية؛ وهي لا تمثل نسبة أو درجة للجاهزية.
+Claims verification only; other publication checks still apply.|للتحقق من الادعاءات فقط؛ تبقى متطلبات النشر الأخرى سارية.
+View chart data & legend|عرض بيانات الرسم ومفتاحه
+No destinations in this breakdown yet.|لا توجد أماكن في هذا التصنيف بعد.
+· green bars represent destination counts|· تمثل الأعمدة الخضراء أعداد الأماكن
+Draft claims reviewed|ادعاءات المسودات مُراجعة
+Draft claims to review|ادعاءات المسودات بحاجة للمراجعة
+Incomplete content|محتوى غير مكتمل
+Content review|مراجعة المحتوى
+Recent editorial activity|النشاط التحريري الأخير
+Editorial changes will appear here as your team works.|ستظهر التغييرات التحريرية هنا أثناء العمل.
+View audit log|عرض سجل التدقيق
+View review queue|عرض قائمة المراجعة
+Live publication blockers for up to eight recently updated drafts.|عوائق النشر الحالية لما يصل إلى ثماني مسودات حُدّثت مؤخرًا.
+No draft destinations need review.|لا توجد مسودات تحتاج إلى مراجعة.
+All saved publication checks passed|استوفى المحتوى المحفوظ جميع متطلبات النشر
+Create Place|إنشاء مكان سياحي
++ Create Place|+ إنشاء مكان سياحي
+Create a place|إنشاء مكان سياحي
+Add Category|إضافة فئة
+All places|جميع الأماكن السياحية
+View all places|عرض جميع الأماكن
+Manage places|إدارة الأماكن السياحية
+All statuses|جميع الحالات
+Status|الحالة
+Sort|الترتيب
+Recently updated|الأحدث تحديثًا
+Name A–Z|الاسم أبجديًا
+Name|الاسم
+City|المدينة
+City not supplied|المدينة غير محددة
+Content signals|مؤشرات المحتوى
+Last updated · Amman|آخر تحديث · عمّان
+Actions|الإجراءات
+Action|الإجراء
+Preview|معاينة
+Edit|تعديل
+Claims reviewed|تمت مراجعة الادعاءات
+Claims need review|الادعاءات تحتاج مراجعة
+Coordinates recorded|الإحداثيات مسجلة
+Coordinates missing|الإحداثيات غير متوفرة
+Cover approved|الغلاف معتمد
+Cover needs review|الغلاف يحتاج مراجعة
+No places match this view|لا توجد أماكن تطابق هذا العرض
+Try another search or clear the filters to see the full collection.|جرّب بحثًا آخر أو امسح عوامل التصفية لعرض المجموعة كاملة.
+0 records|لا توجد سجلات
+Page|الصفحة
+Previous page|الصفحة السابقة
+Next page|الصفحة التالية
+Help travellers discover places through meaningful interests.|ساعد الزوار على اكتشاف الأماكن عبر اهتمامات واضحة.
+Create category|إنشاء فئة
+Save category|حفظ الفئة
+Order|الترتيب
+Active|نشطة
+· active|· نشطة
+(inactive)|（غير نشطة）
+Media library|مكتبة الصور
+Private five-minute previews. Manage rights and cover selection in the place editor.|معاينات خاصة لمدة خمس دقائق. أدر الحقوق واختيار الغلاف في محرر المكان.
+Your media library starts here|ابدأ مكتبة الصور هنا
+Open a saved draft to upload and document its first image.|افتح مسودة محفوظة لرفع صورتها الأولى وتوثيقها.
+Attribution needed|نَسب الصورة مطلوب
+Audit log|سجل التدقيق
+Read-only change history. Dates use English numerals and Amman time.|سجل تغييرات للقراءة فقط. تُعرض التواريخ حسب اللغة المختارة وتوقيت عمّان.
+Time · Amman|الوقت · عمّان
+· Amman|· عمّان
+Entity|الكيان
+Actor|منفذ الإجراء
+Changed fields|الحقول المعدلة
+System|النظام
+No audit entries yet.|لا توجد إدخالات في سجل التدقيق بعد.
+Place editor|محرر المكان
+Give every discovery a reliable story and a carefully verified location.|امنح كل اكتشاف قصة موثوقة وموقعًا مدققًا بعناية.
+The destination story|قصة المكان
+Start with clear, useful information for curious travellers.|ابدأ بمعلومات واضحة ومفيدة للزوار.
+Slug|المعرّف النصي
+Lowercase letters, numbers and hyphens.|أحرف لاتينية صغيرة وأرقام وشرطات.
+Address|وصف الموقع
+Description|الوصف
+Source URL|رابط المصدر
+Reliable HTTPS source supporting the destination’s claims.|مصدر موثوق عبر HTTPS يدعم المعلومات الواردة عن المكان.
+Primary category|الفئة الرئيسية
+Choose a category|اختر فئة
+Pin the experience|حدد موقع التجربة
+Choose the actual attraction or visitor entrance, then verify the source.|اختر موقع المعلم أو مدخل الزوار الفعلي، ثم تحقق من المصدر.
+Latitude|خط العرض
+Longitude|خط الطول
+Loading coordinate picker…|جارٍ تحميل أداة اختيار الإحداثيات…
+Destination coordinate marker|علامة إحداثيات المكان
+Click the map or drag the pin. Arrow keys on the pin move it in small steps.|انقر على الخريطة أو اسحب العلامة. تحركها مفاتيح الأسهم بخطوات صغيرة عند التركيز عليها.
+No destination coordinates selected|لم تُحدَّد إحداثيات المكان
+Map selection is unverified until you record a reliable geographic source and review its precision. No coordinates are saved until Save Draft.|اختيار الخريطة غير موثق حتى تسجل مصدرًا جغرافيًا موثوقًا وتراجع دقته. لا تُحفظ الإحداثيات حتى تختار «حفظ المسودة».
+Some map layers could not load. Retry or enter coordinates manually.|تعذّر تحميل بعض طبقات الخريطة. أعد المحاولة أو أدخل الإحداثيات يدويًا.
+Plan a visit|التخطيط للزيارة
+Plan your visit|خطط لزيارتك
+Leave unknown values blank. Avoid estimates presented as facts.|اترك القيم غير المعروفة فارغة. لا تعرض التقديرات كحقائق.
+Minimum price (JOD)|الحد الأدنى للسعر (د.أ.)
+Maximum price (JOD)|الحد الأعلى للسعر (د.أ.)
+Minimum visit (minutes)|الحد الأدنى للزيارة (دقائق)
+Maximum visit (minutes)|الحد الأعلى للزيارة (دقائق)
+Transportation notes|إرشادات الوصول والتنقل
+Suitable for|مناسب لـ
+Sources & editorial review|المصادر والمراجعة التحريرية
+Review the saved record. Unsaved edits cannot be marked verified.|راجع السجل المحفوظ. لا يمكن اعتماد تعديلات لم تُحفظ.
+Location precision|دقة الموقع
+Choose precision|اختر مستوى الدقة
+Actual attraction|موقع المعلم الفعلي
+Visitor entrance|مدخل الزوار
+Approximate centre|مركز تقريبي
+Coordinate source (HTTPS)|مصدر الإحداثيات (HTTPS)
+Review notes|ملاحظات المراجعة
+I verified the location and its precision|تحققت من الموقع ومستوى دقته
+I verified essential claims against the source|تحققت من المعلومات الأساسية بمقارنتها بالمصدر
+Record review of saved draft|تسجيل مراجعة المسودة المحفوظة
+Save your draft before recording a review.|احفظ المسودة قبل تسجيل المراجعة.
+Media & image rights|الصور وحقوق استخدامها
+Upload original or licensed photography, then document its rights.|ارفع صورًا أصلية أو مرخصة، ثم وثّق حقوق استخدامها.
+Choose a destination image|اختر صورة للمكان
+JPEG, PNG or WebP · up to 5 MiB · private upload|JPEG أو PNG أو WebP · حتى ٥ ميبيبايت · رفع خاص
+Upload destination image|رفع صورة المكان
+Upload:|الرفع:
+Unlinked upload maintenance|إدارة الملفات المرفوعة غير المرتبطة
+Failed metadata linking can leave a private file. Review exact paths before removal.|قد يترك فشل ربط البيانات ملفًا خاصًا. راجع المسارات الدقيقة قبل الحذف.
+Review unlinked uploads|مراجعة الملفات غير المرتبطة
+Delete file|حذف الملف
+No unlinked uploads found.|لا توجد ملفات مرفوعة غير مرتبطة.
+Save your first draft|احفظ مسودتك الأولى
+Saving creates a private destination record so you can upload media and record a sourced editorial review.|ينشئ الحفظ سجل مكان خاصًا لتتمكن من رفع الصور وتسجيل مراجعة تحريرية موثقة.
+Publication checklist|قائمة متطلبات النشر
+Database validation of the saved record.|تحقق قاعدة البيانات من السجل المحفوظ.
+Save a draft to run publication checks.|احفظ مسودة لفحص متطلبات النشر.
+Saved content passes publication checks.|المحتوى المحفوظ يستوفي متطلبات النشر.
+Unsaved changes · readiness will be checked again after saving.|تغييرات غير محفوظة · سيُعاد فحص الجاهزية بعد الحفظ.
+Save Draft|حفظ المسودة
+Publish destination|نشر المكان
+Return to draft|إعادة إلى المسودة
+Archive destination|أرشفة المكان
+Return to draft before editing this published destination.|أعد المكان المنشور إلى المسودة قبل تعديله.
+Drafts are never shown to public visitors.|لا تُعرض المسودات للزوار.
+Image metadata|بيانات الصورة
+Alternative text|النص البديل
+Attribution|نَسب الصورة
+Image source URL|رابط مصدر الصورة
+Rights evidence|إثبات حقوق الاستخدام
+License basis|أساس الترخيص
+Choose rights basis|اختر أساس حقوق الاستخدام
+owned|ملكية أصلية
+licensed|ترخيص
+permission|إذن استخدام
+public_domain|ملك عام
+Display order|ترتيب العرض
+Cover image|صورة الغلاف
+Save media metadata|حفظ بيانات الصورة
+Approve saved rights evidence|اعتماد إثبات حقوق الاستخدام المحفوظ
+Unlink image|إلغاء ربط الصورة
+Confirm that the saved rights evidence permits publication of this image. Unsaved metadata is not reviewed.|أكد أن الإثبات المحفوظ يسمح بنشر هذه الصورة. لا تشمل المراجعة البيانات غير المحفوظة.
+Unlink this image? Its private upload will be retained for orphan review.|هل تريد إلغاء ربط الصورة؟ سيبقى الملف الخاص لمراجعة الملفات غير المرتبطة.
+You have unsaved changes. Save Draft before changing publication status.|لديك تغييرات غير محفوظة. احفظ المسودة قبل تغيير حالة النشر.
+Draft preview|معاينة المسودة
+Private editorial preview · current form values · not published|معاينة تحريرية خاصة · قيم النموذج الحالية · غير منشورة
+No destination image uploaded|لم تُرفع صورة للمكان
+Untitled destination|مكان بلا عنوان
+A destination description has not been added yet.|لم يُضف وصف للمكان بعد.
+Suggested visit|المدة المقترحة للزيارة
+Visit budget|ميزانية الزيارة
+Not supplied|غير متوفر
+Best time not supplied|أفضل وقت غير محدد
+Transport information not supplied|معلومات التنقل غير متوفرة
+Coordinates:|الإحداثيات:
+Return to editor|العودة إلى المحرر
+Private media previews could not load. Text remains available.|تعذّر تحميل معاينات الصور الخاصة. يبقى النص متاحًا.
+Content completion|استكمال المحتوى
+This local research-import utility is available only on the development server. Use the existing place editor for production media management.|أداة استيراد البحث المحلية متاحة على خادم التطوير فقط. استخدم محرر المكان لإدارة الصور في بيئة الإنتاج.
+Review the prepared photographs and source evidence. Upload through your existing administrator session; nothing is published.|راجع الصور المجهزة وأدلة المصادر. ارفعها من خلال جلسة المسؤول الحالية؛ لن يُنشر أي محتوى.
+Private media import|استيراد صور إلى التخزين الخاص
+The six researched draft records are already saved. This step uploads only the inspected local photographs, associates their provenance and verifies private previews. Existing media stays intact. Rights approvals and claims/location reviews remain separate actions in each editor.|سجلات المسودات الست المدعومة بالمصادر محفوظة بالفعل. ترفع هذه الخطوة الصور المحلية المفحوصة فقط، وتربط مصادرها وتتحقق من معايناتها الخاصة. تبقى الصور الحالية سليمة. اعتماد الحقوق ومراجعة المعلومات والموقع إجراءات مستقلة في محرر كل مكان.
+Ajloun has a historical campsite photograph only; a suitable current forest cover remains unresolved. Other destinations have proposed covers and any available supporting photos.|تتوفر لعجلون صورة تاريخية لموقع تخييم فقط؛ ولا تزال صورة غلاف حديثة مناسبة للغابة مطلوبة. تتوفر للأماكن الأخرى أغلفة مقترحة وصور إضافية بحسب المتاح.
+Upload prepared media privately|رفع الصور المجهزة إلى التخزين الخاص
+Uploading privately…|جارٍ الرفع إلى التخزين الخاص…
+Upload the inspected research package privately to the six existing drafts, using your current administrator session? Existing files are preserved. This does not approve rights, complete editorial reviews or publish anything. Keep this page open until finished.|هل تريد رفع حزمة الصور المفحوصة إلى التخزين الخاص للمسودات الست الحالية باستخدام جلسة المسؤول؟ ستُحفظ الملفات الموجودة. لا يؤدي ذلك إلى اعتماد الحقوق أو إكمال المراجعات التحريرية أو نشر أي شيء. أبقِ الصفحة مفتوحة حتى الانتهاء.
+Private import finished. No destination was published and no rights review was automatically approved.|اكتمل الاستيراد الخاص. لم يُنشر أي مكان ولم تُعتمد أي مراجعة حقوق تلقائيًا.
+Download credential-free import report|تنزيل تقرير الاستيراد الخالي من بيانات الدخول
+Photographs and evidence|الصور والأدلة
+Proposed cover|غلاف مقترح
+Gallery candidate|صورة مقترحة للمعرض
+Source and permission record|المصدر وإثبات الاستخدام
+Licence terms|شروط الترخيص
+Attribution and rights evidence|نَسب الصورة وإثبات حقوق الاستخدام
+Open destination editor|فتح محرر المكان
+Loading local evidence package…|جارٍ تحميل حزمة الأدلة المحلية…
+· original|· الأصل
+already associated|مرتبطة بالفعل
+uploaded privately; awaiting saved-rights approval|رُفعت إلى التخزين الخاص؛ بانتظار اعتماد الحقوق المحفوظة
+Confirmed reuse licence; review original legal evidence below.|ترخيص يسمح بإعادة الاستخدام؛ راجع الدليل القانوني الأصلي أدناه.
+Original legal attribution and evidence|نَسب الصورة والدليل القانوني الأصليان
+Licence explanation|شرح الترخيص
+CC BY permits reuse including commercial use with credit, a licence link and change notices. CC BY-SA also requires adaptations to retain a compatible share-alike licence. CC0/public-domain evidence must be checked individually.|يسمح CC BY بإعادة الاستخدام، بما فيها الاستخدام التجاري، مع نَسب العمل وربط الترخيص وبيان التعديلات. ويشترط CC BY-SA أيضًا ترخيص الأعمال المعدلة بترخيص متوافق مماثل. يجب فحص إثبات CC0 أو الملك العام لكل صورة على حدة.
+Media import remains manual. No rights or publication approval is implied.|يبقى استيراد الصور إجراءً يدويًا. ولا يعني ذلك اعتماد الحقوق أو النشر.
+Login|تسجيل الدخول
+Log in|تسجيل الدخول
+Log in preview|معاينة تسجيل الدخول
+Log in to Unseen Jo|تسجيل الدخول إلى Unseen Jo
+Sign in|تسجيل الدخول
+Sign out|تسجيل الخروج
+Sign in to content studio|تسجيل الدخول إلى استوديو المحتوى
+Use your existing account. Administrator permission is verified by the database.|استخدم حسابك الحالي. تتحقق قاعدة البيانات من صلاحية المسؤول.
+Administrator access unavailable|صلاحية المسؤول غير متاحة
+This account has no current administrator permission. An active verified session and an approved role assignment are required.|لا يملك هذا الحساب صلاحية مسؤول سارية. يلزم وجود جلسة موثقة نشطة ودور معتمد.
+Check access again|التحقق من الصلاحية مجددًا
+Connected to Supabase|متصل بـ Supabase
+Refresh workspace data|تحديث بيانات مساحة العمل
+Verified administrator session|جلسة مسؤول موثقة
+Open navigation|فتح قائمة التنقل
+Close navigation|إغلاق قائمة التنقل
+Collapse sidebar|طي الشريط الجانبي
+Expand sidebar|توسيع الشريط الجانبي
+View public website|عرض الموقع العام
+Email|البريد الإلكتروني
+Email address|عنوان البريد الإلكتروني
+Password|كلمة المرور
+New password|كلمة المرور الجديدة
+Confirm password|تأكيد كلمة المرور
+Full name|الاسم الكامل
+Forgot password?|نسيت كلمة المرور؟
+Send password recovery email|إرسال رسالة استعادة كلمة المرور
+If this account exists, a recovery email will be sent.|إذا كان الحساب موجودًا، فستُرسل رسالة استعادة.
+Please wait…|يرجى الانتظار…
+Loading administrator workspace…|جارٍ تحميل مساحة عمل المسؤول…
+Loading workspace|جارٍ تحميل مساحة العمل
+Loading workspace…|جارٍ تحميل مساحة العمل…
+Loading content charts…|جارٍ تحميل رسوم المحتوى…
+Something needs attention|هناك أمر يحتاج إلى مراجعة
+Try again|حاول مجددًا
+Close dialog|إغلاق النافذة
+Confirm this change|تأكيد هذا التغيير
+Confirm change|تأكيد التغيير
+Cancel|إلغاء
+Changes saved.|حُفظت التغييرات.
+Draft saved. Content review has been reset.|حُفظت المسودة وأُعيدت حالة مراجعة المحتوى.
+Destination status updated.|حُدّثت حالة المكان.
+Save status|حفظ الحالة
+Discover Jordan differently|اكتشف الأردن بطريقة مختلفة
+A considered space for the people behind Unseen Jo.|مساحة بعناية للفريق الذي يصنع تجربة Unseen Jo.
+Back to Unseen Jo|العودة إلى Unseen Jo
+Administration|الإدارة
+Welcome to your workspace.|أهلاً بك في مساحة عملك.
+Sign in to curate the next Unseen Jo discovery.|سجّل دخولك لتُعدّ الاكتشاف القادم في Unseen Jo.
+Your session stays signed in on this browser until you sign out.|تبقى جلستك محفوظة في هذا المتصفح حتى تسجّل الخروج.
+Administrator access is checked securely after sign-in.|يُتحقَّق من صلاحية الإدارة بأمان بعد تسجيل الدخول.
+Open the reset link in this same browser profile and use the same site address.|افتح رابط إعادة التعيين في ملف المتصفح نفسه وبعنوان الموقع نفسه.
+For secure recovery and automatic sign-in, use the same browser profile and site address where you requested the link.|للاستعادة الآمنة والدخول التلقائي، استخدم ملف المتصفح وعنوان الموقع اللذين طلبت منهما الرابط.
+Check your spam folder too. Use the most recent email link.|تحقّق أيضاً من البريد غير المرغوب فيه، واستخدم أحدث رابط وصلك.
+Resend available in {{v0}}s|يمكن إعادة الإرسال بعد {{v0}} ثانية
+Send another email|إرسال رسالة أخرى
+Password updated.|تم تحديث كلمة المرور.
+Email confirmed.|تم تأكيد بريدك الإلكتروني.
+Your email is confirmed. Your next discovery is waiting.|تم تأكيد بريدك الإلكتروني. اكتشافك القادم بانتظارك.
+Create a new password.|أنشئ كلمة مرور جديدة.
+Opening your workspace…|جارٍ فتح مساحة عملك…
+Verifying your secure session…|جارٍ التحقّق من جلستك الآمنة…
+Your session could not be restored. Please sign in again.|تعذّر استعادة جلستك. يرجى تسجيل الدخول مجدداً.
+Choose a valid date that is not in the future.|اختر تاريخاً صالحاً لا يقع في المستقبل.
+Clear discovery history|مسح سجل الاكتشافات
+Clear discovery history?|هل تريد مسح سجل الاكتشافات؟
+Continue as a guest|المتابعة كضيف
+Destination unavailable|الوجهة غير متاحة
+Load more recommendations|تحميل مزيد من الاقتراحات
+Loading discovery history…|جارٍ تحميل سجل الاكتشافات…
+Loading your saved places…|جارٍ تحميل أماكنك المحفوظة…
+Location unavailable|الموقع غير متاح
+Name or location|الاسم أو الموقع
+No recommendations recorded yet|لا توجد اقتراحات مسجّلة بعد
+Recommended|مقترَح
+Refresh|تحديث
+Retry|إعادة المحاولة
+Save Changes before changing status. Your edits are preserved.|احفظ التغييرات قبل تغيير الحالة. تبقى تعديلاتك محفوظة.
+Save a little inspiration. Keep a record of your own adventures.|احفظ ما يُلهمك واحتفظ بسجل لمغامراتك.
+Search your places|ابحث في أماكنك
+Self-reported visit|زيارة سجّلتها بنفسك
+Sign In|تسجيل الدخول
+Sign in to sync saves, record visits and keep your Surprise Me history across devices.|سجّل الدخول لمزامنة أماكنك، وتسجيل زياراتك، وحفظ سجل «فاجئني» عبر أجهزتك.
+Sort by|الترتيب حسب
+This place is no longer publicly available.|لم يعد هذا المكان متاحاً للعرض العام.
+This recommendation could not be added to your history.|تعذّرت إضافة هذا الاقتراح إلى سجلك.
+This recommendation is no longer publicly available.|لم يعد هذا الاقتراح متاحاً للعرض العام.
+This removes recorded recommendations from your account. Saved places and visits are kept.|يؤدي هذا إلى إزالة الاقتراحات المسجّلة من حسابك، مع الاحتفاظ بالأماكن المحفوظة والزيارات.
+Try Surprise Me while signed in. Your recommendations will appear here.|جرّب «فاجئني» بعد تسجيل الدخول. ستظهر اقتراحاتك هنا.
+Updating search results...|جارٍ تحديث نتائج البحث…
+View Place Details|عرض تفاصيل المكان
+Visit date (optional)|تاريخ الزيارة (اختياري)
+Visits are self-reported, not independently verified.|الزيارات مسجّلة من المستخدم ولم تُتحقّق منها جهة مستقلة.
+Your Jordan, at your pace|الأردن كما تحب، وعلى وتيرتك
+Your saved places stay on this device.|تبقى أماكنك المحفوظة على هذا الجهاز.
+Check your inbox.|تحقّق من بريدك الإلكتروني.
+Draft|مسودة
+A valid Jordan location is required|يجب تحديد موقع صالح داخل الأردن
+Status management needs its database update. Apply the simple_destination_status migration, then retry.|تحتاج إدارة الحالة إلى تحديث قاعدة البيانات. طبّق تحديث simple_destination_status ثم أعد المحاولة.
+Saved privately on this device. Existing account favorites are preserved.|محفوظ بشكل خاص على هذا الجهاز. تبقى مفضّلات حسابك محفوظة.
+Private prototype destination · demonstration visitor information.|وجهة في النموذج الخاص · معلومات زيارة تجريبية.
+Saved Places|الأماكن المحفوظة
+Visited Places|الأماكن التي زرتها
+Discovery History|سجل الاكتشافات
+Places you would like to explore.|أماكن تودّ استكشافها.
+Keep your own travel journal|احتفظ بسجل رحلاتك
+Recently saved|حُفظت مؤخراً
+Recently marked|سُجّلت مؤخراً
+Loading visits…|جارٍ تحميل الزيارات…
+Your next recommendation is waiting|اقتراحك القادم بانتظارك
+Sign in to record self-reported visits. No location tracking is used.|سجّل الدخول لتسجيل زياراتك بنفسك. لا يُستخدم تتبّع الموقع.
+Sign in to keep recommendations you receive through Surprise Me. Browsing a place does not add it to history.|سجّل الدخول لحفظ اقتراحات «فاجئني». تصفّح مكان لا يُضيفه إلى السجل.
+Recommendations presented through Surprise Me. Page views are not recorded.|اقتراحات عُرضت عبر «فاجئني». لا تُسجّل مشاهدات الصفحات.
+Visits could not be loaded.|تعذّر تحميل الزيارات.
+Clearing…|جارٍ المسح…
+Clear history|مسح السجل
+No places match your filters|لا توجد أماكن تطابق عوامل التصفية
+Your next discovery starts here|يبدأ اكتشافك القادم من هنا
+Try another search or category.|جرّب بحثاً أو فئة أخرى.
+Save a place from Explore or Place Details. Your saved places will appear here.|احفظ مكاناً من صفحة الاستكشاف أو تفاصيل المكان. ستظهر أماكنك المحفوظة هنا.
+Mark a saved place as visited to build your own travel record.|سجّل زيارة مكان محفوظ لبناء سجل رحلاتك.
+Remove from Saved Places|إزالة من الأماكن المحفوظة
+Save Place|حفظ المكان
+Remove visited status|إزالة حالة الزيارة
+Mark as Visited|تسجيل زيارة
+Save visit|حفظ الزيارة
+Your changes could not be synchronized. Check your connection and try again. Your existing records have been kept.|تعذّرت مزامنة التغييرات. تحقّق من اتصالك وحاول مجدداً. تم الاحتفاظ بسجلاتك الحالية.
+Show new password|إظهار كلمة المرور الجديدة
+Hide new password|إخفاء كلمة المرور الجديدة
+Saved content review recorded.|سُجلت مراجعة المحتوى المحفوظ.
+Private image uploaded. Record rights before approval.|رُفعت الصورة إلى التخزين الخاص. وثّق حقوقها قبل الاعتماد.
+Image metadata saved; approval reset.|حُفظت بيانات الصورة وأُلغي اعتمادها السابق.
+Saved image rights approved.|اعتُمدت حقوق الصورة المحفوظة.
+Image unlinked; private file retained.|أُلغي ربط الصورة وبقي الملف الخاص محفوظًا.
+Unlinked file removed.|حُذف الملف غير المرتبط.
+Category created.|أُنشئت الفئة.
+Category saved.|حُفظت الفئة.
+Welcome back.|مرحبًا بعودتك.
+Start your journey.|ابدأ رحلتك.
+Find your way back.|استعد الوصول إلى حسابك.
+New to Unseen Jo?|جديد في Unseen Jo؟
+Already have an account?|لديك حساب بالفعل؟
+Create account|إنشاء حساب
+Create an account|إنشاء حساب
+Create your account|أنشئ حسابك
+Registration|التسجيل
+Registration preview|معاينة التسجيل
+Password recovery|استعادة كلمة المرور
+Password recovery preview|معاينة استعادة كلمة المرور
+Password recovery for your Unseen Jo account.|استعادة كلمة المرور لحسابك في Unseen Jo.
+Account UI preview|معاينة واجهة الحساب
+Preview only · validates the form without an account service|معاينة فقط · تتحقق من النموذج دون خدمة حسابات
+Authentication is not available yet. No credentials are sent or stored, and no account session is created.|المصادقة غير متاحة بعد. لا تُرسل بيانات الدخول ولا تُخزن، ولا تُنشأ جلسة حساب.
+Login is unavailable in this UI preview. No session was created.|تسجيل الدخول غير متاح في هذه المعاينة. لم تُنشأ جلسة.
+Registration is unavailable in this UI preview. No account was created.|التسجيل غير متاح في هذه المعاينة. لم يُنشأ حساب.
+Password recovery is unavailable in this UI preview. No reset email was sent.|استعادة كلمة المرور غير متاحة في هذه المعاينة. لم تُرسل رسالة إعادة تعيين.
+When authentication is connected, you’ll enter your account email here to request a recovery link. This preview validates the field only; it cannot send email.|عند ربط المصادقة، ستدخل بريد حسابك هنا لطلب رابط استعادة. تتحقق هذه المعاينة من الحقل فقط ولا ترسل بريدًا.
+Return to login|العودة إلى تسجيل الدخول
+Return to sign in|العودة إلى تسجيل الدخول
+Request password reset|طلب إعادة تعيين كلمة المرور
+Reset your password|إعادة تعيين كلمة المرور
+Show|إظهار
+Hide|إخفاء
+Use at least 8 characters, including a letter and a number.|استخدم ٨ أحرف على الأقل، تتضمن حرفًا ورقمًا.
+Preview rule: at least 8 characters, with a letter and a number.|قاعدة المعاينة: ٨ أحرف على الأقل، مع حرف ورقم.
+Enter a valid email address.|أدخل عنوان بريد إلكتروني صالحًا.
+Enter your password.|أدخل كلمة المرور.
+Please correct the highlighted fields.|صحح الحقول المحددة.
+Profile settings|إعدادات الملف الشخصي
+Account settings|إعدادات الحساب
+Edit Profile|تعديل الملف الشخصي
+A preview of your Unseen Jo account.|معاينة لحسابك في Unseen Jo.
+Demonstration profile · no authenticated user. Profile edits and saves are temporary and clear on refresh.|ملف تجريبي · لا يوجد مستخدم مسجل. تعديلات الملف والحفظ مؤقتة وتُمسح عند التحديث.
+Demo explorer|مستكشف تجريبي
+Jordan Explorer|مستكشف الأردن
+Account setup|إعداد الحساب
+Set your password|عيّن كلمة المرور
+Choose your password privately. Setting a password does not grant administrator access.|اختر كلمة المرور بخصوصية. تعيين كلمة مرور لا يمنح صلاحية مسؤول.
+Use at least 12 characters. Supabase also enforces the project’s password policy.|استخدم ١٢ حرفًا على الأقل. يطبق Supabase أيضًا سياسة كلمة المرور الخاصة بالمشروع.
+Passwords must match.|يجب أن تتطابق كلمتا المرور.
+Verified account:|الحساب الموثق:
+Save password and sign out|حفظ كلمة المرور وتسجيل الخروج
+Password saved|حُفظت كلمة المرور
+Password saved, but sign-out failed. Retry sign-out before signing in.|حُفظت كلمة المرور، لكن تعذّر تسجيل الخروج. أعد المحاولة قبل تسجيل الدخول.
+Retry sign-out|إعادة محاولة تسجيل الخروج
+You are signed out. Sign in with your email and new password. Administrator access requires a separately approved role assignment.|تم تسجيل خروجك. سجّل الدخول ببريدك وكلمة المرور الجديدة. صلاحية المسؤول تتطلب تعيين دور معتمد بصورة مستقلة.
+Verifying your email link and session…|جارٍ التحقق من رابط البريد والجلسة…
+This link is invalid, expired, or already used. Request a fresh invitation or recovery email.|الرابط غير صالح أو منتهي أو مستخدم مسبقًا. اطلب رسالة دعوة أو استعادة جديدة.
+Your verified session has expired. Open a fresh email link.|انتهت الجلسة الموثقة. افتح رابط بريد جديدًا.
+Your administrator permission or session is no longer valid. Sign in again.|صلاحية المسؤول أو الجلسة لم تعد سارية. سجّل الدخول مجددًا.
+There is no authenticated session to end.|لا توجد جلسة مسجلة لإنهائها.
+Log out unavailable|تسجيل الخروج غير متاح
+Authentication and password changes are unavailable in this UI preview.|المصادقة وتغيير كلمة المرور غير متاحين في هذه المعاينة.
+Preview updated for this visit only. Nothing was sent to a backend; changes clear on refresh.|حُدّثت المعاينة لهذه الزيارة فقط. لم يُرسل شيء للخادم، وتُمسح التغييرات عند التحديث.
+Preferences preview|معاينة التفضيلات
+Progress illustration only|رسم توضيحي للتقدم فقط
+Badge artwork preview · not earned|معاينة تصميم الشارات · لم تُكتسب
+0 places visited · demo|لم تُسجل زيارات · عرض تجريبي
+Make room for the places you haven’t found yet.|اترك مساحة للأماكن التي لم تكتشفها بعد.
+Acceptance|اختبارات القبول
+Authenticated acceptance|اختبارات قبول بجلسة موثقة
+GENUINE SESSION VERIFICATION|التحقق بجلسة فعلية
+Safe, real backend checks|فحوص آمنة على الخادم الفعلي
+Run isolated checks using your current verified browser session. Credentials stay in your browser.|شغّل فحوصًا معزولة باستخدام جلسة المتصفح الموثقة الحالية. تبقى بيانات الدخول في متصفحك.
+This runner tests actual draft CRUD, category assignment, coordinates, private Storage uploads/previews, rights metadata, publication checklist and audit reads. It preserves the original six drafts and cleans up only records created by this run. No destination is published and no image is approved for publication.|يفحص هذا المشغّل إنشاء المسودات وقراءتها وتعديلها وحذف سجلات الاختبار، وتعيين الفئات والإحداثيات ورفع التخزين الخاص ومعاينته وبيانات الحقوق ومتطلبات النشر وقراءة السجل. يحافظ على المسودات الست الأصلية وينظف سجلات هذه الجولة فقط. لا ينشر مكانًا ولا يعتمد صورة للنشر.
+Keep this page open until cleanup finishes. A failure report includes any test ID needing manual cleanup.|أبقِ الصفحة مفتوحة حتى انتهاء التنظيف. يتضمن تقرير الفشل معرّفات الاختبار التي تحتاج إلى تنظيف يدوي.
+Run isolated authenticated checks|تشغيل الفحوص المعزولة بالجلسة الموثقة
+Running authenticated checks…|جارٍ تشغيل الفحوص بالجلسة الموثقة…
+Download credential-free report|تنزيل تقرير خالٍ من بيانات الدخول
+Finish the manual checks|أكمل الفحوص اليدوية
+Reload the dashboard to check session persistence and actual statistics.|أعد تحميل لوحة الإدارة للتحقق من استمرار الجلسة والإحصاءات الفعلية.
+Open an existing draft without saving. Check the map, manual fields, keyboard pin movement and Preview.|افتح مسودة موجودة دون حفظ. افحص الخريطة والحقول اليدوية وتحريك العلامة بلوحة المفاتيح والمعاينة.
+After downloading the report, use the profile menu to sign out. Reopen /admin/places and confirm only sign-in appears.|بعد تنزيل التقرير، سجّل الخروج من قائمة الملف الشخصي. افتح /admin/places مجددًا وتحقق من ظهور تسجيل الدخول فقط.
+In a private window, confirm protected CMS pages require authentication and public Explore hides all six drafts.|في نافذة خاصة، تحقق من أن صفحات الإدارة المحمية تتطلب تسجيل الدخول وأن «استكشف» العام يخفي المسودات الست.
+Actual publication and subsequent public-page integration require separately approved, fully verified test content and media rights. They are intentionally excluded here.|يتطلب النشر الفعلي وفحص ظهوره في الصفحات العامة محتوى اختباريًا وحقوق صور موثقة وموافقة مستقلة. لا تشملها هذه الفحوص.
+Read existing drafts and preserve baseline|قراءة المسودات الحالية وحفظ الحالة المرجعية
+Create isolated private draft|إنشاء مسودة اختبارية خاصة معزولة
+Edit draft, assign category and save coordinates|تعديل المسودة وتعيين الفئة وحفظ الإحداثيات
+Upload and associate a synthetic owned PNG|رفع صورة PNG اختبارية مملوكة وربطها
+Record licensing, attribution and cover metadata|تسجيل الترخيص ونَسب الصورة وبيانات الغلاف
+Private image preview is authorized|معاينة الصورة الخاصة مصرح بها
+Publication checklist blocks unverified test content|قائمة متطلبات النشر تمنع المحتوى الاختباري غير الموثق
+Audit history records test changes|سجل التدقيق يوثّق تغييرات الاختبار
+Remove only this run’s private test record and upload|إزالة سجل الاختبار الخاص وملفه لهذه الجولة فقط
+All six original drafts retain their status and modification timestamps|المسودات الست الأصلية تحتفظ بحالتها وأوقات تعديلها
+Authenticated checks passed|نجحت الفحوص بالجلسة الموثقة
+Review the acceptance report|مراجعة تقرير القبول
+Acceptance execution|تنفيذ اختبارات القبول
+Real current browser Supabase session; no credentials exported|جلسة Supabase فعلية حالية في المتصفح؛ لا تُصدَّر بيانات دخول
+English source content|المحتوى الإنجليزي الأصلي
+Arabic content|المحتوى العربي
+English remains the source. Translation review does not verify facts, image rights or publication readiness.|تبقى الإنجليزية النص الأصلي. مراجعة الترجمة لا تثبت صحة المعلومات أو حقوق الصور أو جاهزية النشر.
+Translation status|حالة الترجمة
+missing|غير متوفرة
+stale|تحتاج تحديثًا
+pending|بانتظار المراجعة التحريرية
+reviewed|مُراجعة تحريريًا
+original|النص الأصلي
+Arabic destination name|اسم المكان بالعربية
+Arabic description|الوصف بالعربية
+Arabic city|المدينة بالعربية
+Arabic geographic description|وصف الموقع بالعربية
+Arabic best time to visit|أفضل وقت للزيارة بالعربية
+Arabic transportation notes|إرشادات الوصول والتنقل بالعربية
+Arabic visitor guidance and advisories|إرشادات الزوار والتنبيهات بالعربية
+Save Arabic draft|حفظ المسودة العربية
+Preview Arabic|معاينة العربية
+Review saved Arabic translation|اعتماد المراجعة التحريرية للترجمة المحفوظة
+Arabic draft saved independently. Translation review is pending.|حُفظت المسودة العربية بصورة مستقلة. المراجعة التحريرية للترجمة معلقة.
+Saved Arabic translation reviewed. Source and publication approvals are unchanged.|سُجلت المراجعة التحريرية للترجمة المحفوظة. لم تتغير حالة اعتماد المصادر أو النشر.
+Arabic content is missing. English will be shown with a fallback notice.|المحتوى العربي غير متوفر. سيظهر المحتوى الإنجليزي مع إشعار واضح.
+English changed after translation. Compare and update the Arabic text before reviewing.|تغير النص الإنجليزي بعد الترجمة. قارن النصين وحدّث العربية قبل اعتماد المراجعة.
+Arabic content is unavailable or awaiting review; English source content is shown.|المحتوى العربي غير متوفر أو بانتظار المراجعة؛ يُعرض النص الإنجليزي الأصلي.
+Arabic field exceeds its allowed length.|يتجاوز الحقل العربي الحد المسموح لطوله.
+Translation changed. Reload before saving.|تغيرت الترجمة. أعد التحميل قبل الحفظ.
+A confirmed Auth session is required.|يلزم وجود جلسة مصادقة موثقة.
+A confirmed signed-in account is required.|يلزم حساب مؤكد مسجل الدخول.
+Administrator permission is required.|تلزم صلاحية مسؤول.
+A protected destination is no longer a draft.|لم يعد أحد الأماكن المحمية مسودة. توقف وافحص الحالة.
+A protected record changed during acceptance; investigate.|تغير سجل محمي أثناء اختبار القبول؛ تحقق من الأمر.
+A previous upload needs metadata reconciliation in the editor before retrying.|تحتاج عملية رفع سابقة إلى تسوية بياناتها في المحرر قبل إعادة المحاولة.
+Destination changed during import. Stop and inspect.|تغير المكان أثناء الاستيراد. توقف وافحص السجل.
+Duplicate existing media sources require manual reconciliation.|تتطلب مصادر الصور المكررة الموجودة تسوية يدوية.
+Incomplete reviewed image metadata.|بيانات الصورة المفحوصة غير مكتملة.
+Invalid media package.|حزمة الصور غير صالحة.
+Missing canonical rights source.|رابط المصدر الأصلي لإثبات الحقوق غير متوفر.
+Multiple proposed covers.|توجد عدة أغلفة مقترحة.
+Unexpected or duplicate photograph.|صورة غير متوقعة أو مكررة.
+Unexpected local image path.|مسار الصورة المحلية غير متوقع.
+Unexpected Supabase project.|مشروع Supabase غير متوقع.
+Local researched media package is unavailable.|حزمة الصور المحلية المدعومة بالمصادر غير متاحة.
+Upload linking could not be confirmed; inspect the normal media/orphan view before retrying.|تعذّر تأكيد ربط الملف المرفوع؛ افحص الصور والملفات غير المرتبطة قبل إعادة المحاولة.
+Private image retrieval failed; inspect the uploaded record.|تعذّر جلب الصورة الخاصة؛ افحص سجل الرفع.
+Private preview download failed.|تعذّر تنزيل المعاينة الخاصة.
+Private signed preview unavailable.|المعاينة الخاصة الموقعة غير متاحة.
+A linked record is unavailable. Reload categories or media before saving.|أحد السجلات المرتبطة غير متاح. أعد تحميل الفئات أو الصور قبل الحفظ.
+A supplied value is invalid. Check the selected categories and numeric fields.|إحدى القيم غير صالحة. تحقق من الفئات المحددة والحقول الرقمية.
+Save a rights basis, at least 12 characters of evidence, attribution and an HTTPS image source before approval.|احفظ أساس حقوق الاستخدام وإثباتًا من ١٢ حرفًا على الأقل ونَسب الصورة ورابط مصدر HTTPS قبل الاعتماد.
+Some values do not meet content rules. Check ranges, required fields, HTTPS sources and media rights evidence.|بعض القيم لا تستوفي قواعد المحتوى. تحقق من النطاقات والحقول المطلوبة وروابط HTTPS وإثبات حقوق الصور.
+This slug or name already exists. Choose another.|المعرّف النصي أو الاسم موجود بالفعل. اختر غيره.
+Someone changed this record. Reload before saving; your unsaved values remain here.|عدّل شخص آخر هذا السجل. أعد التحميل قبل الحفظ؛ تبقى قيمك غير المحفوظة هنا.
+The request failed. Check your connection and retry.|فشل الطلب. تحقق من الاتصال وحاول مجددًا.
+Invalid destination identifier.|معرّف المكان غير صالح.
+Destination unavailable.|المكان غير متاح.
+Coordinate source must be an HTTPS URL without credentials.|يجب أن يكون مصدر الإحداثيات رابط HTTPS دون بيانات دخول.
+Coordinate source must be a valid HTTPS URL without credentials.|يجب أن يكون مصدر الإحداثيات رابط HTTPS صالحًا دون بيانات دخول.
+Choose location precision and a reliable geographic source before verifying coordinates.|اختر دقة الموقع ومصدرًا جغرافيًا موثوقًا قبل اعتماد الإحداثيات.
+Enter a name, valid lowercase slug and nonnegative whole order.|أدخل اسمًا ومعرّفًا نصيًا صالحًا بأحرف صغيرة وترتيبًا صحيحًا غير سالب.
+Category changed or is unavailable. Reload before saving.|تغيرت الفئة أو لم تعد متاحة. أعد التحميل قبل الحفظ.
+Alternative text must contain 1–500 characters.|يجب أن يحتوي النص البديل على ١ إلى ٥٠٠ حرف.
+Image order must be a nonnegative whole number.|يجب أن يكون ترتيب الصورة عددًا صحيحًا غير سالب.
+Image source must be an HTTPS URL without credentials.|يجب أن يكون مصدر الصورة رابط HTTPS دون بيانات دخول.
+Attribution is limited to 1000 characters and rights evidence to 2000.|الحد الأقصى لنَسب الصورة ١٠٠٠ حرف ولإثبات الحقوق ٢٠٠٠ حرف.
+Image changed. Reload before saving.|تغيرت الصورة. أعد التحميل قبل الحفظ.
+Image changed. Reload before unlinking.|تغيرت الصورة. أعد التحميل قبل إلغاء ربطها.
+Invalid object path.|مسار الملف غير صالح.
+Enter a name of 1–160 characters.|أدخل اسمًا من ١ إلى ١٦٠ حرفًا.
+Use a unique lowercase slug with letters, numbers and hyphens.|استخدم معرّفًا نصيًا فريدًا بأحرف لاتينية صغيرة وأرقام وشرطات.
+Numeric values must be finite.|يجب أن تكون القيم الرقمية محدودة وصالحة.
+Enter both coordinates or leave both blank.|أدخل الإحداثيين معًا أو اتركهما فارغين.
+Coordinates must be valid WGS84 map coordinates.|يجب أن تكون الإحداثيات صالحة وفق WGS84.
+Prices must be nonnegative; durations must be positive whole minutes.|يجب ألا تكون الأسعار سالبة، وأن تكون المدد دقائق صحيحة موجبة.
+Maximum values must be at least the minimum.|يجب ألا تقل القيم القصوى عن القيم الدنيا.
+Source must be an HTTPS URL without credentials.|يجب أن يكون المصدر رابط HTTPS دون بيانات دخول.
+Select a non-empty image up to 5 MiB.|اختر صورة غير فارغة بحجم لا يتجاوز ٥ ميبيبايت.
+Only genuine JPEG, PNG and WebP raster files are accepted.|تُقبل ملفات صور JPEG وPNG وWebP الفعلية فقط.
+Public tourism data is not configured.|لم تُضبط بيانات السياحة العامة.
+Public tourism data is not configured. Both public Supabase settings are required.|لم تُضبط بيانات السياحة العامة. يلزم إعدادا Supabase العامان.
+Both public Supabase settings are required.|يلزم إعدادا Supabase العامان.
+Supabase public configuration is missing.|إعدادات Supabase العامة غير متوفرة.
+Supabase configuration is missing. Contact the project owner.|إعدادات Supabase غير متوفرة. تواصل مع مالك المشروع.
+Tourism data could not be loaded. Check your connection and try again.|تعذّر تحميل البيانات السياحية. تحقق من الاتصال وحاول مجددًا.
+Invalid tourism response.|استجابة البيانات السياحية غير صالحة.
+Invalid category response.|استجابة الفئات غير صالحة.
+Invalid tourism number.|قيمة سياحية رقمية غير صالحة.
+Invalid published-place response.|استجابة المكان المنشور غير صالحة.
+The local demo dataset could not be loaded.|تعذّر تحميل مجموعة البيانات التجريبية المحلية.
+The local demo dataset has an invalid format.|تنسيق مجموعة البيانات التجريبية المحلية غير صالح.
+The fixed sample is missing from the local dataset.|النموذج الثابت غير موجود في البيانات المحلية.
+Map loading timed out. Manual coordinate fields remain available.|انتهت مهلة تحميل الخريطة. تبقى حقول الإحداثيات اليدوية متاحة.
+Cleanup identity/status check failed.|فشل فحص الهوية أو الحالة قبل التنظيف.
+Expected audit records were unavailable.|سجلات التدقيق المتوقعة غير متاحة.
+Image rights metadata did not save or approval did not reset.|لم تُحفظ بيانات حقوق الصورة أو لم تُعد حالة الاعتماد.
+No draft identifier returned.|لم يُعد معرّف للمسودة.
+No private image preview returned.|لم تُعد معاينة خاصة للصورة.
+Saved fields did not match.|الحقول المحفوظة غير متطابقة.
+Test draft cleanup failed.|فشل تنظيف مسودة الاختبار.
+The six protected destinations were not all readable.|تعذّرت قراءة بعض الأماكن الستة المحمية.
+Unverified synthetic content unexpectedly passed all checks.|اجتاز المحتوى الاختباري غير الموثق جميع الفحوص على نحو غير متوقع.
+Uploaded media was not associated.|لم تُربط الصورة المرفوعة.
+Source and essential claims require an explicit review|يتطلب المصدر والمعلومات الأساسية مراجعة صريحة
+Review a sourced Jordan location and its precision|راجع موقعًا في الأردن موثقًا بمصدر ومستوى دقته
+An uploaded, rights-approved cover image is required|تلزم صورة غلاف مرفوعة ومعتمدة الحقوق
+Last saved {{v0}} · Amman|آخر حفظ {{v0}} · عمّان
+Preview {{v0}}|معاينة {{v0}}
+Edit {{v0}}|تعديل {{v0}}
+Show {{v0}} on map|عرض {{v0}} على الخريطة
+Zoom into {{v0}} destinations|تكبير لعرض {{v0}} مكانًا
+{{v0}} approximate city centre|مركز {{v0}} التقريبي
+Change “{{v0}}” to {{v1}}?|هل تريد تغيير حالة «{{v0}}» إلى {{v1}}؟
+Permanently delete this unlinked file only? {{v0}}|هل تريد حذف هذا الملف غير المرتبط فقط نهائيًا؟ {{v0}}
+From {{v0}} JD|ابتداءً من {{v0}} د.أ.
+Up to {{v0}} JD|حتى {{v0}} د.أ.
+{{v0}} JD|{{v0}} د.أ.
+{{v0}} JOD|{{v0}} د.أ.
+{{v0}} min|{{v0}} دقيقة
+{{v0}} minutes|{{v0}} دقيقة
+{{v0}} hr|{{v0}} ساعة
+{{v0}} mapped|{{v0}} على الخريطة
+{{v0}} without coordinates|{{v0}} بلا إحداثيات
+Needs {{v0}}|يحتاج {{v0}}
+A useful publication description needs at least 80 characters. {{v0}}/20000|يتطلب وصف النشر المفيد ٨٠ حرفًا على الأقل. {{v0}}/٢٠٠٠٠
+Your position is approximate within {{v0}} metres.|موقعك تقريبي ضمن {{v0}} مترًا.
+{{v0}}: destination image unavailable|{{v0}}: صورة المكان غير متاحة
+Original rendered and inspected; no visible watermark. Final responsive crops require administrator preview.|عُرضت الصورة الأصلية وفُحصت، ولا تظهر علامة مائية. يلزم أن يعاين المسؤول اقتصاصها النهائي على أحجام الشاشات المختلفة.
+Historical campsite scene (2005), not current accommodation evidence; gallery candidate only. A current forest cover remains blocked by source download rate limits.|مشهد تاريخي لموقع تخييم عام ٢٠٠٥، وليس دليلًا على مرافق الإقامة الحالية؛ مقترح للمعرض فقط. تعوق قيود التنزيل الحصول على غلاف حديث للغابة.
+Landscape view of the wider wadi, not a photograph of the Siq water trail.|منظر طبيعي لنطاق الوادي الأوسع، وليس صورة لمسار السيق المائي.
+Visually inspected; named subject and author provenance checked against file-page record and destination context. Not an entrance-location survey.|فُحصت بصريًا وقورنت هوية المكان ومصدر المؤلف بسجل صفحة الملف وسياق الوجهة. لا يمثل ذلك مسحًا لموقع المدخل.
+Image identity verification|التحقق من هوية المكان في الصورة
+Local preparation only; inspect saved CMS approval separately.|تجهيز محلي فقط؛ افحص اعتماد الصورة المحفوظ في نظام الإدارة بصورة مستقلة.
+Canvas-sided campsite cabins among trees and wildflowers at Ajlun Reserve, photographed in 2005.|أكواخ تخييم بجوانب قماشية بين الأشجار والأزهار البرية في محمية عجلون، صُورت عام ٢٠٠٥.
+Turquoise wooden doors beside stone buildings on a stepped street in old As-Salt.|أبواب خشبية فيروزية بجوار مبانٍ حجرية في شارع متدرج بالسلط القديمة.
+Yellow-stone buildings, balconies and a public square in old As-Salt.|مبانٍ من الحجر الأصفر وشرفات وساحة عامة في السلط القديمة.
+Al-Khader Street stairs between stone buildings in old As-Salt.|درج شارع الخضر بين المباني الحجرية في السلط القديمة.
+Wide view over the dry hills and deeply cut valley of Wadi Mujib.|مشهد واسع لتلال جافة ووادي الموجب العميق.
+Layered valley walls and winding tracks in the Wadi Mujib landscape.|جوانب وادٍ بطبقات صخرية ومسارات متعرجة في مشهد وادي الموجب.
+Pale sandstone formations and shrubs in Dana Biosphere Reserve.|تشكيلات من الحجر الرملي الفاتح وشجيرات في محمية ضانا للمحيط الحيوي.
+Rounded sandstone outcrops above a wooded valley in Dana Biosphere Reserve.|نتوءات مستديرة من الحجر الرملي فوق وادٍ مشجر في محمية ضانا.
+Rocky slopes and a broad mountain valley in Dana Biosphere Reserve.|منحدرات صخرية ووادٍ جبلي واسع في محمية ضانا.
+Large stone blocks and column remains at Qasr El-Abd near Iraq Al-Amir.|كتل حجرية كبيرة وبقايا أعمدة في قصر العبد قرب عراق الأمير.
+Dark stone seating and arches of the West Theatre at Umm Qais, overlooking green countryside.|مقاعد حجرية داكنة وأقواس المسرح الغربي في أم قيس، مطلة على ريف أخضر.
+An active category is required.|تلزم فئة نشطة.
+A useful publication description needs at least 80 characters.|يتطلب وصف النشر المفيد ٨٠ حرفًا على الأقل.
+Useful description needs at least 80 characters|يلزم وصف مفيد من ٨٠ حرفًا على الأقل
+Destination name needs at least 3 characters|يجب ألا يقل اسم المكان عن ٣ أحرف
+Demonstration content cannot be published|لا يمكن نشر المحتوى التجريبي
+Choose an active primary category|اختر فئة رئيسية نشطة
+Remove inactive category assignments|أزل ارتباطات الفئات غير النشطة
+Curated discoveries|اكتشافات مختارة
+Tourism collection|مجموعة الأماكن السياحية
+Destination categories|فئات الأماكن
+Discoveries collection|مجموعة الاكتشافات
+DEMONSTRATION LOCATION|موقع تجريبي
+Select demo interests|اختر اهتمامات العرض التجريبي
+Surprise Me demo preferences|تفضيلات فاجئني التجريبية
+Ready for|جاهز لـ
+Verified location unavailable|الموقع الموثق غير متاح
+Location source|مصدر الموقع
+· Sample|· نموذج
+Demo estimated cost in JOD|تكلفة النموذج التقديرية بالدينار الأردني
+Demo visit duration|مدة الزيارة التجريبية
+JD estimated demo cost|د.أ. تكلفة تجريبية تقديرية
+Figma sample travel time, not live routing|وقت رحلة من نموذج Figma، وليس توجيهًا فعليًا
+Heritage-area reference point, not an entrance|نقطة مرجعية للمنطقة التراثية وليست مدخلًا
+Official tourism-board location pin; arrival point not independently confirmed|نقطة موقع رسمية من هيئة تنشيط السياحة؛ لم تُؤكد نقطة الوصول بصورة مستقلة
+Tourism-board Dana reference pin; not a reserve boundary or verified arrival point|نقطة ضانا المرجعية من هيئة تنشيط السياحة؛ ليست حدود المحمية أو نقطة وصول موثقة
+Tourism-board Siq Trail reference pin; not a surveyed trail entrance or access guarantee|مرجع مسار السيق من هيئة تنشيط السياحة؛ ليس مدخلًا ممسوحًا ولا ضمانًا للدخول
+Tourism-board forest reserve reference pin; entrance and access not independently confirmed|نقطة محمية الغابة المرجعية من هيئة تنشيط السياحة؛ لم يُؤكد المدخل وإمكانية الدخول بصورة مستقلة
+Sourced reference point for the local demonstration. Sample prices and travel times are omitted.|نقطة مرجعية موثقة للعرض المحلي. حُذفت أسعار النموذج وأوقات الرحلات.
+This makes this saved destination and its approved media public. Confirm only after content and media clearance.|سيجعل ذلك المكان المحفوظ وصوره المعتمدة متاحين للعامة. أكد فقط بعد استكمال اعتماد المحتوى والصور.
+UNSEEN JO DESTINATION|مكان سياحي من Unseen Jo
+Adventure - Hiking|مغامرة - مشي
+Culture - Village|ثقافة - قرية
+A hiker wading through water between high canyon walls|متنزه يخوض المياه بين جدران وادٍ مرتفعة
+A waterfall and rocky forest stream in the original Figma hero|شلال وجدول صخري في غابة ضمن صورة Figma الرئيسية الأصلية
+Ancient stone columns and carved masonry at Iraq Al-Amir|أعمدة حجرية قديمة وأحجار منحوتة في عراق الأمير
+Jordanian hills and forested cliffs at sunset|تلال أردنية وجروف مشجرة عند الغروب
+Orange rock formations and pine trees in the original featured photograph|تشكيلات صخرية برتقالية وأشجار صنوبر في الصورة المميزة الأصلية
+Illustrated demo explorer avatar|رسم رمزي لمستكشف تجريبي
+Illustrated demonstration explorer avatar|رسم رمزي لمستكشف في العرض التجريبي
+Original Figma Nature, Food, History and Adventure explorer badge artwork; none earned|تصاميم Figma الأصلية لشارات الطبيعة والطعام والتاريخ والمغامرة؛ لم تُكتسب أي منها
+something|شيء
+unexpected?|غير متوقع؟
+of|من
+km|كم
+min|دقيقة
+mapped|على الخريطة
+Unavailable|غير متاح
+Discover Jordan Differently|اكتشف الأردن بطريقة مختلفة
+Preferences|التفضيلات
+Discovery result|نتيجة الاكتشاف
+0 temporary saves. Nothing is stored permanently.|لا توجد محفوظات مؤقتة. لا يُخزن أي شيء بصورة دائمة.
+{{v0}} temporary saves. Nothing is stored permanently.|{{v0}} من المحفوظات المؤقتة. لا يُخزن أي شيء بصورة دائمة.
+{{v0}} destinations|{{v0}} من الأماكن السياحية
+Enlarge photo {{v0}}: {{v1}}|تكبير الصورة {{v0}}: {{v1}}
+Favorite {{v0}} (preview only)|إضافة {{v0}} للمفضلة (معاينة فقط)
+Locate {{v0}} on map|تحديد {{v0}} على الخريطة
+Open {{v0}} {{v1}}details preview|فتح معاينة تفاصيل {{v0}} {{v1}}
+Remove {{v0}} from temporary saves|إزالة {{v0}} من المحفوظات المؤقتة
+View {{v0}} details|عرض تفاصيل {{v0}}
+{{v0}} destination cover|غلاف المكان {{v0}}
+{{v0}} map details|تفاصيل {{v0}} على الخريطة
+{{v0}} photo gallery|معرض صور {{v0}}
+{{v0}} photo viewer|عارض صور {{v0}}
+{{v0}}. Image unavailable|{{v0}}. الصورة غير متاحة
+The interactive map could not start. Check WebGL support or reload the page. The destination list remains available.|تعذّر تشغيل الخريطة التفاعلية. تحقق من دعم WebGL أو أعد تحميل الصفحة. تبقى قائمة الأماكن متاحة.
+Public domain|ملك عام
+Salt Historic|السلط التاريخية
+Wadi Mujib Adventure|مغامرة وادي الموجب
+Half day|نصف يوم
+Nature . Local Experience|طبيعة · تجربة محلية
+Morning/Sunset|الصباح / الغروب
+Friends/Family|أصدقاء / عائلة
+Hidden Trails|مسارات خفية
+Scenic Viewpoints|إطلالات طبيعية
+Local Experiences|تجارب محلية
+Forest trails and greenery.|مسارات غابات وخضرة.
+Breathtaking mountain views.|إطلالات جبلية لافتة.
+Discover local culture and cuisine.|اكتشف الثقافة والمأكولات المحلية.
+Explore lush forests, scenic viewpoints, and beautiful trails in one of Jordan’s most peaceful natural areas. Perfect for nature lovers looking for fresh air, stunning views, and a unique local experience.|استكشف الغابات الخضراء والإطلالات والمسارات الجميلة في إحدى مناطق الأردن الطبيعية الهادئة. تجربة نموذجية لمحبي الطبيعة والهواء النقي والمشاهد الطبيعية والتجارب المحلية.
+Ajloun Forest Reserve: verified destination photograph unavailable|محمية غابات عجلون: لا تتوفر صورة موثقة للمكان
+Sunlight over the green wooded landscape in the original Ajloun details design|ضوء الشمس فوق غابة خضراء في تصميم تفاصيل عجلون الأصلي
+Rocky terraces and trees in the original supporting photograph|مصاطب صخرية وأشجار في الصورة الإضافية الأصلية
+Cliffs and a river in the original supporting photograph|جروف ونهر في الصورة الإضافية الأصلية
+Walkers on a forest trail in the original supporting photograph|متنزهون على مسار غابة في الصورة الإضافية الأصلية
+Sunlight breaking through clouds above mountains|أشعة الشمس تخترق السحب فوق الجبال
+Shared meal in the original local-experience photograph|وجبة مشتركة في صورة التجربة المحلية الأصلية
+Stone buildings with turquoise doors on a historic street|مبانٍ حجرية بأبواب فيروزية في شارع تاريخي
+A hiker wading through a canyon stream|متنزه يخوض جدولًا في وادٍ صخري
+Layered mountains at sunset in the original Dana sample photograph|جبال متتابعة عند الغروب في صورة ضانا التجريبية الأصلية
+Ancient stone architecture in the original Iraq Al-Amir Figma photograph|عمارة حجرية قديمة في صورة Figma الأصلية لعراق الأمير
+Ancient stone architecture in the original Umm Qais Figma photograph|عمارة حجرية قديمة في صورة Figma الأصلية لأم قيس
+Translation missing|الترجمة غير متوفرة
+Translation awaiting review|الترجمة بانتظار المراجعة
+Enter your full name (at least 2 characters).|أدخل اسمك الكامل (حرفان على الأقل).
+Matches your {{v0}} interest|يناسب اهتمامك بـ {{v0}}
+Sample category: {{v0}}; interests differ|فئة النموذج: {{v0}}؛ تختلف الاهتمامات
+Within your {{v0}} budget|ضمن ميزانيتك {{v0}}
+{{v0}} JD sample; budget: {{v1}}|تكلفة النموذج {{v0}} د.أ.؛ الميزانية: {{v1}}
+{{v0}} sample exceeds selected time|مدة النموذج {{v0}} تتجاوز الوقت المحدد
+Good for {{v0}}|مناسب لـ {{v0}}
+Friends / family sample; you chose {{v0}}|نموذج للأصدقاء / العائلة؛ اخترت {{v0}}
+Car access sample; selected: {{v0}}|نموذج للوصول بالسيارة؛ المحدد: {{v0}}
+{{v0}} city centre · approximate, not your GPS position.|مركز {{v0}} · موقع تقريبي وليس موقعك عبر GPS.
+Current GPS reading · accuracy about {{v0}} m. Distances are approximate straight-line distances.|قراءة GPS الحالية · دقة نحو {{v0}} م. المسافات تقريبية بخط مستقيم.
+Invalid login credentials|بيانات تسجيل الدخول غير صحيحة
+Email not confirmed|البريد الإلكتروني غير مؤكد
+User already registered|المستخدم مسجل بالفعل
+New password should be different from the old password.|يجب أن تختلف كلمة المرور الجديدة عن السابقة.
+For security purposes, you can only request this after {{v0}} seconds.|لأسباب أمنية، يمكنك تكرار الطلب بعد {{v0}} ثانية فقط.
+Review requires a current saved translation with name and description|تتطلب المراجعة ترجمة محفوظة ومحدثة تتضمن اسمًا ووصفًا
+Current administrator session required|تلزم جلسة مسؤول سارية
+Translation identity is immutable|لا يمكن تغيير هوية الترجمة
+Draft translation|ترجمة مسودة
+Translation reviewed|الترجمة مُراجعة
+under 10 JD|أقل من ١٠ دنانير
+free|مجانية
+friends|أصدقاء
+family|عائلة
+couple|شخصين
+solo|شخص واحد
+Expected draft unavailable: {{v0}}|المسودة المطلوبة غير متاحة: {{v0}}
+Local file unavailable: {{v0}}|الملف المحلي غير متاح: {{v0}}
+Image size changed: {{v0}}|تغير حجم الصورة: {{v0}}
+Image checksum changed: {{v0}}|تغيرت بصمة التحقق للصورة: {{v0}}
+Upload is private at {{v0}}, but linking failed. Use the orphan review in Media. {{v1}}|الملف خاص في {{v0}}، لكن ربطه فشل. استخدم مراجعة الملفات غير المرتبطة في مكتبة الصور. {{v1}}
+Change “{{v0}}” to published? This makes this saved destination and its approved media public. Confirm only after content and media clearance.|هل تريد نشر «{{v0}}»؟ سيصبح المكان المحفوظ وصوره المعتمدة متاحين للعامة. أكد فقط بعد استكمال اعتماد المحتوى والصور.
+Unseen Jo — Discover the unexpected|Unseen Jo — اكتشف ما لا تتوقعه
+Explore Jordan|استكشف الأردن
+Jordan map|خريطة الأردن
+Find your adventure|اعثر على مغامرتك
+Sample discovery|اكتشاف نموذجي
+Your discoveries|اكتشافاتك

@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-22T19:40:51.846Z",
+  "scope": "Read-only actual Supabase settings, anonymous Admin RPC denial, public branding URL request",
+  "project": "dkhwwvoplhfjccvjegty",
+  "emailEnabled": true,
+  "signupEnabled": true,
+  "confirmationRequired": true,
+  "enabledSocialProviders": [],
+  "anonymousAdminDenied": "42501",
+  "hostedTemplateReadAvailable": false,
+  "hostedTemplatesUpdated": false,
+  "logoUrl": "https://dkhwwvoplhfjccvjegty.supabase.co/storage/v1/object/public/brand-assets/unseen-jo-email-logo-v1.png",
+  "logoHttpStatus": 400,
+  "logoVisible": false,
+  "realEmailDeliveryTested": false
+}

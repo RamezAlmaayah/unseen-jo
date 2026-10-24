@@ -1,0 +1,5 @@
+import {LEGAL_REVISION,privacySections,termsSections} from './content.js'
+import {legalCopy} from './ui.js'
+const introductions={privacy:{en:'How Unseen Jo handles your account information, preferences, and discoveries.','ar-JO':'كيف يتعامل Unseen Jo مع معلومات حسابك وتفضيلاتك واكتشافاتك.'},terms:{en:'The conditions for using Unseen Jo to explore Jordan and plan your discoveries.','ar-JO':'شروط استخدام Unseen Jo لاستكشاف الأردن والتخطيط لاكتشافاتك.'}}
+export const initialLegalContent=key=>({en:{title:legalCopy.en[key],introduction:introductions[key].en,sections:(key==='privacy'?privacySections:termsSections).map(s=>({id:s.id,title:s.en.title,body:s.en.paragraphs.join('\n\n')}))},'ar-JO':{title:legalCopy.ar[key],introduction:introductions[key]['ar-JO'],sections:(key==='privacy'?privacySections:termsSections).map(s=>({id:s.id,title:s.ar.title,body:s.ar.paragraphs.join('\n\n')}))},review:{operator:false,contact:false,retention:false,legalReview:false}})
+export const initialLegalRevision=LEGAL_REVISION

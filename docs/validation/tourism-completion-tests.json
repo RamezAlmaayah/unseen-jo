@@ -1,0 +1,42 @@
+{
+  "scope": "Research-data invariants and simulated private-media import; does not prove hosted Storage or factual truth",
+  "passed": 9,
+  "results": [
+    {
+      "name": "six canonical IDs/slugs, existing categories and draft-only research package",
+      "status": "passed"
+    },
+    {
+      "name": "descriptions and sourced coordinate fields validate without demo prices or invented review flags",
+      "status": "passed"
+    },
+    {
+      "name": "selected originals and derivatives have exact byte fingerprints and rights metadata",
+      "status": "passed"
+    },
+    {
+      "name": "genuine-session guard refuses wrong project and denied admin before writes",
+      "status": "passed"
+    },
+    {
+      "name": "preflight rejects altered canonical draft and untrusted file path before mutation",
+      "status": "passed"
+    },
+    {
+      "name": "private media import associates sources and cover choices but never approves/publishes/deletes",
+      "status": "passed"
+    },
+    {
+      "name": "rerun skips already-associated canonical sources without duplicate uploads",
+      "status": "passed"
+    },
+    {
+      "name": "checksum mismatch fails before upload; partial metadata failure is preserved and blocks blind retry",
+      "status": "passed"
+    },
+    {
+      "name": "public adapters accept completed field shapes and category filters without publishing live drafts",
+      "status": "passed"
+    }
+  ]
+}

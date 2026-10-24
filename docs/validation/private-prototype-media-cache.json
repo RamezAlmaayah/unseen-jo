@@ -1,0 +1,21 @@
+{
+  "scope": "Deterministic signed-URL cache test; no real tokens or hosted operations",
+  "results": [
+    {
+      "name": "Pre-generated private variants reuse genuinely issued batch signatures",
+      "status": "passed"
+    },
+    {
+      "name": "Private variant/original renews at its actual expiry through normal Storage API",
+      "status": "passed"
+    },
+    {
+      "name": "An expired signature cannot be refreshed by priming",
+      "status": "passed"
+    },
+    {
+      "name": "Concurrent reuse deduplicates calls and logout invalidation clears signatures",
+      "status": "passed"
+    }
+  ]
+}

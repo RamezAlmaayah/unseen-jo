@@ -1,0 +1,804 @@
+{
+  "slug": "shaumari-wildlife-reserve",
+  "query": "Shaumari reserve",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Shaumari+reserve+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:38.161Z",
+  "previousAttempt": {
+    "slug": "shaumari-wildlife-reserve",
+    "retrievedAt": "2026-10-21T17:45:22.370Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Shaumarinaturereserve.jpg",
+      "pageid": 7028836,
+      "revision": 509637814,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|Shaumari Nature Reserve, Jordan, June 2004. Taken by Nick Fraser.}}\n|Source={{transferred from|en.wikipedia|bobamnertiopsis}}\n|Date={{original upload date|2006-04-01}}\n|Author={{user at project|Nickfraser|wikipedia|en}}\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{GFDL-user-en-with-disclaimers|Nickfraser|migration=redundant}}\n== {{original upload log}} ==\n{{original description page|en.wikipedia|Shaumarinaturereserve.jpg}}\n* 2006-04-01 14:15 [[:en:User:Nickfraser|Nickfraser]] 495×500× (159589 bytes) ''<nowiki>Shaumari Nature Reserve, Jordan, June 2004. Taken by Nick Fraser.</nowiki>''\n\n[[Category:Shaumari Wildlife Reserve]]\n[[Category:Bridges in Azraq]]\n[[Category:2004 in Azraq]]\n[[Category:June 2004 in Jordan]]",
+      "size": 159589,
+      "width": 495,
+      "height": 500,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Shaumarinaturereserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumarinaturereserve.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7028836",
+      "sha1": "ea6cacbb34ba0ce4ab146834bb9214d8b22f4d32",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-06-15 01:37:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumarinaturereserve",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|License migration redundant|Self-published work|GFDL-en|June 2004 in Jordan|2004 in Azraq|Bridges in Azraq",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Nature Reserve, Jordan, June 2004. Taken by Nick Fraser.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1 April 2006 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Bobamnertiopsis\" title=\"User:Bobamnertiopsis\">bobamnertiopsis</a>.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Nickfraser\" class=\"extiw\" title=\"wikipedia:User:Nickfraser\">Nickfraser</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "GFDL",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "GNU Free Documentation License",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://www.gnu.org/copyleft/fdl.html",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 07.jpg",
+      "pageid": 195427261,
+      "revision": 1255947526,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 10:52:22\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.752805|36.756848}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 55373601,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shaumari_Wildlife_Reserve_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_07.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427261",
+      "sha1": "b8dca4978f17aa68b3c39ba3ef70216b26721ebe",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:03:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 07",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.752805",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756848",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:52:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 10.jpg",
+      "pageid": 195427266,
+      "revision": 1255947561,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 10:53:02\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.752805|36.756848}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 19913567,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Shaumari_Wildlife_Reserve_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_10.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427266",
+      "sha1": "c98202db580a583cdae40ae5e5c793d7c121812a",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:03:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 10",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.752805",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756848",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:53:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 21.jpg",
+      "pageid": 195427288,
+      "revision": 1255947656,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 10:55:15\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.752975|36.756548}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 16681857,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Shaumari_Wildlife_Reserve_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_21.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427288",
+      "sha1": "560869f9a126f18a51408a98008ebcc97e0e703f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:03:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 21",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.752975",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756548",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:55:15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 34.jpg",
+      "pageid": 195427495,
+      "revision": 1255947744,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 10:58:06\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.753052|36.756425}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 13467787,
+      "width": 5608,
+      "height": 7472,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Shaumari_Wildlife_Reserve_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_34.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427495",
+      "sha1": "083a38832c0f93a7dc80e088c338af2e5702b303",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:07:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 34",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.753052",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756425",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:58:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 35.jpg",
+      "pageid": 195427496,
+      "revision": 1255947751,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 10:58:17\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.753245|36.756422}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 16881378,
+      "width": 7472,
+      "height": 5608,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Shaumari_Wildlife_Reserve_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_35.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427496",
+      "sha1": "84da0bdb5dac6e1022eacffa446a23d242e18b14",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:07:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 35",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.753245",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756422",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:58:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 43.jpg",
+      "pageid": 195427513,
+      "revision": 1255947813,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 11:00:40\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.753178|36.756452}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 3451428,
+      "width": 5740,
+      "height": 4300,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Shaumari_Wildlife_Reserve_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_43.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427513",
+      "sha1": "da031e801e714ddab471eed1a3cf64c47f96ab45",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:08:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 43",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.753178",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756452",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 11:00:40",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Shaumari Wildlife Reserve 55.jpg",
+      "pageid": 195427538,
+      "revision": 1255947898,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=محمية الشومري للأحياء البرية في منطقة الأزرق شرق الأردن}}\n{{en|1=Shaumari Wildlife Reserve in the Azraq area, eastern Jordan}}\n|date=2026-06-10 11:03:44\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.753171|36.756803}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Shaumari Wildlife Reserve]]",
+      "size": 3010472,
+      "width": 4316,
+      "height": 3236,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shaumari_Wildlife_Reserve_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shaumari_Wildlife_Reserve_55.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195427538",
+      "sha1": "5ebe0c9c75aeb5bd0e507567f2ed659e0e89c384",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-10 01:08:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Shaumari Wildlife Reserve 55",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Shaumari Wildlife Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.753171",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.756803",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Shaumari Wildlife Reserve in the Azraq area, eastern Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 11:03:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

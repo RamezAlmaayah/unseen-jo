@@ -1,0 +1,17 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Read-only MCP inspection before and after authentication UI/email preparation. No hosted schema, account, permission, Storage or destination mutations.",
+  "destinationsBefore": 24,
+  "destinationsAfter": 24,
+  "fullDestinationHashBefore": "6fd52e310bb663a8f8a9fb58b108b802",
+  "fullDestinationHashAfter": "6fd52e310bb663a8f8a9fb58b108b802",
+  "publicationStatesPreserved": true,
+  "publishedAfter": 24,
+  "rlsEnabled": true,
+  "existingBucketsRemainPrivate": true,
+  "hostedEmailTemplatesChanged": false,
+  "hostedAuthSettingsChanged": false,
+  "realEmailsSent": false,
+  "realPasswordsChanged": false,
+  "applicationDeploymentStarted": false
+}

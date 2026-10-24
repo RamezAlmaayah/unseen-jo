@@ -1,0 +1,442 @@
+{
+  "base": "http://127.0.0.1:4195",
+  "results": [
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "ajloun-forest",
+      "language": "en",
+      "width": 1366,
+      "images": 2,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "al-maghtas-baptism-site",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "amman-citadel",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "amman-roman-theatre",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "aqaba-marine-reserve",
+      "language": "en",
+      "width": 1366,
+      "images": 1,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "azraq-wetland-reserve",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "dana-reserve",
+      "language": "en",
+      "width": 1366,
+      "images": 3,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "iraq-al-amir",
+      "language": "en",
+      "width": 1366,
+      "images": 1,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "jerash-archaeological-city",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "karak-castle",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "little-petra-siq-al-barid",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "madaba-st-georges-church",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "mount-nebo",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "pella-tabaqat-fahl",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "petra",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "quseir-amra",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "salt-historic",
+      "language": "en",
+      "width": 1366,
+      "images": 3,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "shaumari-wildlife-reserve",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "shobak-castle",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "um-er-rasas",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "umm-al-jimal",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "umm-qais",
+      "language": "en",
+      "width": 1366,
+      "images": 1,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "wadi-mujib",
+      "language": "en",
+      "width": 1366,
+      "images": 2,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "wadi-rum",
+      "language": "en",
+      "width": 1366,
+      "images": 0,
+      "translation": "English",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "ajloun-forest",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 2,
+      "translation": "reviewed Arabic",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "al-maghtas-baptism-site",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "amman-citadel",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "amman-roman-theatre",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "aqaba-marine-reserve",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 1,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "azraq-wetland-reserve",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "dana-reserve",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 3,
+      "translation": "reviewed Arabic",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "iraq-al-amir",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 1,
+      "translation": "reviewed Arabic",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "jerash-archaeological-city",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "karak-castle",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "little-petra-siq-al-barid",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "madaba-st-georges-church",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "mount-nebo",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "pella-tabaqat-fahl",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "petra",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "quseir-amra",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "salt-historic",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 3,
+      "translation": "reviewed Arabic",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "shaumari-wildlife-reserve",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "shobak-castle",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "um-er-rasas",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "umm-al-jimal",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "umm-qais",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 1,
+      "translation": "reviewed Arabic",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "wadi-mujib",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 2,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "genuine anonymous hosted read; built local UI",
+      "slug": "wadi-rum",
+      "language": "ar-JO",
+      "width": 390,
+      "images": 0,
+      "translation": "explicit English fallback",
+      "status": "PASS"
+    },
+    {
+      "scope": "local complete Arabic/image review HTML; all 30 actual image files decode; desktop/mobile",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}

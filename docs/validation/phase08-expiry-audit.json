@@ -1,0 +1,167 @@
+{
+  "checkedAt": "2026-10-22T15:22:16.897Z",
+  "exactWarning": "Research package expired. Refresh source and licence checks before publishing.",
+  "warningOrigin": "src/features/admin/automatedPublishing.js:10 (original six only)",
+  "legacyPackage": {
+    "path": "docs/evidence/automated-publishing/publication-plan.json",
+    "preparedAt": "2026-10-19T18:11:37.728Z",
+    "expired": true,
+    "expiryWindowHours": 24,
+    "records": [
+      {
+        "slug": "ajloun-forest",
+        "evidenceRetrievedAt": "2026-10-19T00:00:00.000Z",
+        "expired": true
+      },
+      {
+        "slug": "dana-reserve",
+        "evidenceRetrievedAt": "2026-10-19T00:00:00.000Z",
+        "expired": true
+      },
+      {
+        "slug": "iraq-al-amir",
+        "evidenceRetrievedAt": "2026-10-19T17:29:47.744Z",
+        "expired": true
+      },
+      {
+        "slug": "salt-historic",
+        "evidenceRetrievedAt": "2026-10-19T00:00:00.000Z",
+        "expired": true
+      },
+      {
+        "slug": "umm-qais",
+        "evidenceRetrievedAt": "2026-10-19T17:29:47.744Z",
+        "expired": true
+      },
+      {
+        "slug": "wadi-mujib",
+        "evidenceRetrievedAt": "2026-10-19T17:29:47.744Z",
+        "expired": true
+      }
+    ]
+  },
+  "phase08Package": {
+    "path": "docs/evidence/phase08/import-package.json",
+    "preparedAt": "2026-10-21T19:22:26.661Z",
+    "revalidationBatch": "recheck-20261021191835293",
+    "records": [
+      {
+        "slug": "petra",
+        "sourceCheckedAt": "2026-10-21T19:15:32.151Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "wadi-rum",
+        "sourceCheckedAt": "2026-10-21T19:17:38.010Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "jerash-archaeological-city",
+        "sourceCheckedAt": "2026-10-21T19:15:34.806Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "amman-citadel",
+        "sourceCheckedAt": "2026-10-21T19:15:34.582Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "amman-roman-theatre",
+        "sourceCheckedAt": "2026-10-21T19:15:35.119Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "madaba-st-georges-church",
+        "sourceCheckedAt": "2026-10-21T19:15:35.183Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "mount-nebo",
+        "sourceCheckedAt": "2026-10-21T19:15:35.183Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "al-maghtas-baptism-site",
+        "sourceCheckedAt": "2026-10-21T19:20:50.453Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "karak-castle",
+        "sourceCheckedAt": "2026-10-21T19:15:43.230Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "shobak-castle",
+        "sourceCheckedAt": "2026-10-21T19:20:50.453Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "quseir-amra",
+        "sourceCheckedAt": "2026-10-21T19:20:50.453Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "um-er-rasas",
+        "sourceCheckedAt": "2026-10-21T19:15:35.183Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "azraq-wetland-reserve",
+        "sourceCheckedAt": "2026-10-21T19:17:13.087Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "shaumari-wildlife-reserve",
+        "sourceCheckedAt": "2026-10-21T19:17:13.087Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "pella-tabaqat-fahl",
+        "sourceCheckedAt": "2026-10-21T19:17:14.289Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "umm-al-jimal",
+        "sourceCheckedAt": "2026-10-21T19:17:39.030Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "little-petra-siq-al-barid",
+        "sourceCheckedAt": "2026-10-21T19:15:32.151Z",
+        "evidenceIssues": [],
+        "criticalBlockers": []
+      },
+      {
+        "slug": "aqaba-marine-reserve",
+        "sourceCheckedAt": "2026-10-21T19:20:50.453Z",
+        "evidenceIssues": [],
+        "criticalBlockers": [
+          "A legal visitor arrival point and the applicable marine zone/access rules have not been independently established.",
+          "No acquired, visually checked and rights-documented cover is ready."
+        ]
+      }
+    ],
+    "originalAcquisitionDatesPreserved": true,
+    "earliestEvidenceExpiresAt": "2026-10-22T19:15:32.151Z",
+    "freshRecords": 18
+  },
+  "hostedWritesDuringExpiryRepair": 0,
+  "publicationStatusChanges": 0,
+  "hostedVerifiedAt": "2026-10-22T15:15:44.415738+00:00"
+}

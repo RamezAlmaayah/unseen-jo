@@ -1,0 +1,19 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Real anonymous SDK: reads plus a denied insert permission probe; zero stored mutations",
+  "passed": 3,
+  "results": [
+    {
+      "name": "only reviewed translations of published destinations are public",
+      "status": "passed"
+    },
+    {
+      "name": "published bilingual content is actually readable",
+      "status": "passed"
+    },
+    {
+      "name": "anonymous translation insert denied before any row can be created",
+      "status": "passed"
+    }
+  ]
+}

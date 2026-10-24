@@ -1,0 +1,60 @@
+Why This Matches You|لماذا يناسبك هذا المكان؟
+Photo attribution and source|نسب الصورة ومصدرها
+Photo source|مصدر الصورة
+Your discovery|اكتشافك
+Surprise Me preferences|تفضيلات فاجئني
+Select interests|اختر اهتماماتك
+Exact amounts and essential requirements|المبالغ الدقيقة والمتطلبات الأساسية
+Total available budget (JOD)|الميزانية الإجمالية المتاحة (دينار أردني)
+Available hours|الساعات المتاحة
+Optional exact values override the selected ranges. Over 30 JOD has no upper limit unless you enter one. Admission alone does not establish total trip cost.|تُستخدم القيم الدقيقة الاختيارية بدل النطاقات المحددة. خيار أكثر من ٣٠ دينارًا لا يحدد سقفًا للميزانية ما لم تدخله. رسوم الدخول وحدها لا تحدد تكلفة الرحلة كاملة.
+Essential requirements|المتطلبات الأساسية
+Require all selected interests|اشترط توافق جميع الاهتمامات المختارة
+Require a complete visit estimate within my time|اشترط أن يقع نطاق مدة الزيارة التقديرية كاملًا ضمن وقتي
+Require a confirmed total trip cost within my budget|اشترط تكلفة إجمالية مؤكدة للرحلة ضمن ميزانيتي
+Require a usable location reference|اشترط مرجعًا جغرافيًا صالحًا
+Require recorded transport suitability|اشترط معلومات موثقة عن ملاءمة المواصلات
+Require a matching recorded group tag|اشترط تصنيفًا مسجلًا يناسب مجموعتي
+Unverified essentials will not count as confirmed matches. Duration is a planning estimate, excluding travel; group tags do not guarantee safety or accessibility.|لا تُعد المتطلبات غير المتحقق منها متوافقة بشكل مؤكد. المدة تقديرية للتخطيط ولا تشمل التنقل؛ وتصنيف المجموعة لا يضمن السلامة أو سهولة الوصول.
+Enter a valid non-negative amount or a positive number of hours.|أدخل مبلغًا صحيحًا يساوي صفرًا أو أكثر، أو عدد ساعات أكبر من صفر.
+Loading interests…|جارٍ تحميل الاهتمامات…
+Published places, ranked using your preferences and available evidence.|أماكن منشورة مرتبة حسب تفضيلاتك والمعلومات المتاحة.
+Please correct the highlighted preferences.|يرجى تصحيح التفضيلات المشار إليها.
+Published destinations only. Recommendations use recorded facts and clearly labelled estimates.|الوجهات المنشورة فقط. تعتمد الاقتراحات على المعلومات المسجلة والتقديرات الموضحة بوضوح.
+No confirmed match for these requirements|لا توجد وجهة تستوفي هذه المتطلبات بشكل مؤكد
+Some places exceed your limits or lack evidence for your essential requirements.|تتجاوز بعض الأماكن حدودك المحددة أو تفتقر إلى معلومات تؤكد متطلباتك الأساسية.
+No published destinations are available right now.|لا توجد وجهات منشورة متاحة حاليًا.
+Unknown prices, durations and transport options do not count as verified matches.|الأسعار والمدد وخيارات المواصلات غير المعروفة لا تُعد توافقًا مؤكدًا.
+Show alternatives with unverified essentials|عرض بدائل بمتطلبات أساسية غير مؤكدة
+Edit Preferences|تعديل التفضيلات
+Refresh published recommendations|تحديث الاقتراحات المنشورة
+Checking current published recommendations…|جارٍ التحقق من الاقتراحات المنشورة الحالية…
+Recommendations require the live Supabase data mode. Demo destinations are not ranked.|تتطلب الاقتراحات وضع بيانات Supabase الفعلية. لا يجري ترتيب الوجهات التجريبية.
+This destination is no longer available. Refresh the published recommendations.|لم تعد هذه الوجهة متاحة. حدّث الاقتراحات المنشورة.
+Unverified alternative: one or more essential requirements cannot be confirmed. Your preferences have not been changed.|بديل غير مؤكد: لا يمكن تأكيد متطلب أساسي واحد أو أكثر. لم تتغير تفضيلاتك.
+Only one destination is in the strongest matching group; another surprise may keep this result.|توجد وجهة واحدة فقط ضمن أفضل الخيارات توافقًا؛ وقد يبقى الاقتراح نفسه عند المحاولة مجددًا.
+Return to confirmed requirements|العودة إلى المتطلبات المؤكدة
+Compatibility score|درجة التوافق
+Not enough evidence to display a compatibility score|المعلومات غير كافية لعرض درجة توافق
+Evidence coverage|تغطية المعلومات
+How this score works|كيف تُحسب هذه الدرجة؟
+A weighted preference match, reduced by missing evidence. This is not a probability or a guarantee. Only supplied preferences are included. Unknown factors add no points. Total trip cost and travel time remain unverified.|توافق مرجّح مع التفضيلات، تنخفض درجته عند نقص المعلومات. ليست الدرجة احتمالًا إحصائيًا أو ضمانًا. تُحتسب التفضيلات المحددة فقط، ولا تضيف العوامل المجهولة نقاطًا. تبقى تكلفة الرحلة كاملة ومدة التنقل غير مؤكدتين.
+Weights: interests {{v0}}%, visit time {{v1}}%, recorded admission {{v2}}%, straight-line proximity {{v3}}%, transport and group tags {{v4}}%.|الأوزان: الاهتمامات {{v0}}٪، ومدة الزيارة {{v1}}٪، ورسوم الدخول المسجلة {{v2}}٪، والقرب بخط مستقيم {{v3}}٪، والمواصلات وتصنيف المجموعة {{v4}}٪.
+A weighted preference match, reduced by missing evidence. This is not a probability or a guarantee. Weights: interests 40%, visit time 20%, recorded admission 15%, straight-line proximity 15%, transport and group tags 10%. Unknown factors add no points. Total trip cost and travel time remain unverified.|توافق مرجّح مع التفضيلات، تنخفض درجته عند نقص المعلومات. ليست الدرجة احتمالًا إحصائيًا أو ضمانًا. الأوزان: الاهتمامات ٤٠٪، ومدة الزيارة ٢٠٪، ورسوم الدخول المسجلة ١٥٪، والقرب بخط مستقيم ١٥٪، والمواصلات وتصنيف المجموعة ١٠٪. لا تضيف العوامل المجهولة نقاطًا. تبقى تكلفة الرحلة كاملة ومدة التنقل غير مؤكدتين.
+Matches your interests: {{v0}}|يتوافق مع اهتماماتك: {{v0}}
+No recorded category matches your selected interests.|لا يتوافق أي تصنيف مسجل مع اهتماماتك المختارة.
+No interests selected; ranking uses the other available preferences.|لم تُحدد اهتمامات؛ يعتمد الترتيب على التفضيلات الأخرى المتاحة.
+The estimated visit duration fits your available time.|مدة الزيارة التقديرية تناسب وقتك المتاح.
+Only part of the estimated visit range may fit your time.|قد يناسب وقتك جزء فقط من نطاق مدة الزيارة التقديرية.
+Visit duration is unavailable; time suitability is unconfirmed.|مدة الزيارة غير متاحة؛ ولا يمكن تأكيد ملاءمتها لوقتك.
+Recorded admission is within your amount; other trip costs are unknown.|رسوم الدخول المسجلة ضمن المبلغ المحدد؛ أما تكاليف الرحلة الأخرى فغير معروفة.
+Admission price is unavailable; budget suitability is unconfirmed.|رسوم الدخول غير متاحة؛ ولا يمكن تأكيد ملاءمتها لميزانيتك.
+The admission range is incomplete or may exceed your amount.|نطاق رسوم الدخول غير مكتمل أو قد يتجاوز المبلغ المحدد.
+Your total trip cost cannot be verified from admission alone.|لا يمكن تأكيد التكلفة الإجمالية لرحلتك اعتمادًا على رسوم الدخول وحدها.
+Approximately {{v0}} km in a straight line from your selected city reference.|يبعد نحو {{v0}} كم بخط مستقيم عن المرجع الجغرافي للمدينة المختارة.
+Distance is unavailable for this starting location.|المسافة غير متاحة من نقطة الانطلاق هذه.
+Location pins are geographic references, not confirmed entrances. No route time is implied.|علامات الخريطة مراجع جغرافية وليست مداخل مؤكدة، ولا تدل على مدة التنقل.
+Transport suitability is unverified; check arrival arrangements.|ملاءمة المواصلات غير مؤكدة؛ تحقّق من ترتيبات الوصول.
+The recorded group tag matches; check age, activity and access restrictions.|تصنيف المجموعة المسجل متوافق؛ تحقّق من قيود العمر والنشاط والوصول.
+Suitability for your travel group is unverified.|ملاءمة المكان لمجموعتك غير مؤكدة.
+Confirm opening hours, seasonal access and activity safety before departure.|تحقّق قبل الانطلاق من ساعات الزيارة والإتاحة الموسمية ومتطلبات سلامة النشاط.

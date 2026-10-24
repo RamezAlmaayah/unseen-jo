@@ -1,0 +1,90 @@
+/* Original Figma palette/fonts; authorized compact UI sizing. Historical source dimensions remain documented. */
+@theme {
+  --color-primary: #164f3f;
+  --color-terracotta: #d66a4a;
+  --color-mint: #b7e0d5;
+  --color-pale-mint: #f1f9f7;
+  --color-gold: #f4d58d;
+  --color-pale-gold: #fce5af;
+  --color-white: #ffffff;
+  --color-text: #1e1e1e;
+  --color-ink: #000000;
+  --color-border: #d9d9d9;
+  --font-sans: 'Inter Variable', Inter, system-ui, sans-serif;
+  --font-display: 'Alkatra Variable', Alkatra, cursive;
+  --font-checkmark: 'Irish Grover', cursive;
+  --text-caption: 0.875rem;
+  --text-metadata: 0.8125rem;
+  --text-card: 1rem;
+  --text-navigation: 0.875rem;
+  --text-body: 0.9375rem;
+  --text-subtitle: 1rem;
+  --text-section: clamp(1.5rem, 2vw, 1.75rem);
+  --text-page: clamp(1.625rem, 2.4vw, 2rem);
+  --text-hero: clamp(2.5rem, 3.2vw, 2.75rem);
+  --text-surprise: clamp(2.5rem, 3.2vw, 2.75rem);
+  --radius-control: 0.875rem;
+  --radius-explore-card: 0.875rem;
+  --radius-card: 1.25rem;
+  --radius-panel: 1.75rem;
+  --shadow-card: 0 4px 4px 0 rgb(0 0 0 / 25%);
+  --shadow-featured: -4px -4px 4px 0 rgb(0 0 0 / 25%), 4px 4px 4px 0 rgb(0 0 0 / 25%);
+  --shadow-field: 0 4px 4px 0 rgb(22 79 63 / 61%);
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 48rem;
+  --breakpoint-lg: 64rem;
+  --breakpoint-xl: 80rem;
+  --breakpoint-desktop: 90rem;
+  --spacing-nav-gap: 1.5rem;
+  --spacing-action-gap: 0.75rem;
+  --spacing-feature-gap: 1.5rem;
+}
+
+:root {
+  --layout-max: 1200px;
+  --header-height: 60px;
+  --page-gutter: clamp(16px, 2vw, 24px);
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --shadow-choice-selected: inset 100px 100px 10px 0 rgb(22 79 63 / 61%);
+  --shadow-interest-selected: inset 100px 200px 10px 0 rgb(22 79 63 / 61%);
+  --shadow-floating-panel: -4px 0 4px 0 rgb(0 0 0 / 25%), 4px 0 4px 0 rgb(0 0 0 / 25%), 0 -4px 4px 0 rgb(0 0 0 / 25%);
+}
+
+/* Shared density primitives. Values are actual CSS dimensions, never page scaling. */
+:root {
+  --ui-body: 15px;
+  --ui-support: 13px;
+  --ui-caption: 12px;
+  --ui-label: 14px;
+  --ui-button: 15px;
+  --ui-card-title: 18px;
+  --ui-section: 24px;
+  --ui-page-title: 28px;
+  --ui-hero: clamp(40px, 3.2vw, 44px);
+  --control-height: 44px;
+  --target-size: 44px;
+  --icon-size: 20px;
+  --page-space: 32px;
+  --section-space: 32px;
+  --panel-padding: 24px;
+  --grid-gap: 24px;
+  --card-width: 290px;
+  --saved-card-width: 300px;
+  --explore-map-width: 320px;
+  --ui-emphasis: 20px;
+  --landing-hero-height: 360px;
+  --surprise-hero-height: 340px;
+  --gallery-height: 296px;
+  --explore-map-height: 680px;
+}
+@media (width < 48rem) {
+  :root { --ui-body: 15px; --ui-page-title: 26px; --page-space: 24px; --panel-padding: 20px; --grid-gap: 20px; }
+}

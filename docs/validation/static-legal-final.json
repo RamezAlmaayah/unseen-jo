@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-24T19:43:30.381Z",
+  "status": "Static informational pages finalized",
+  "operator": {
+    "name": "Ramez Ahmad Almaayeh",
+    "email": "ramezmayaa@gmail.com"
+  },
+  "routes": [
+    "/privacy-policy",
+    "/terms-of-service"
+  ],
+  "bilingualSections": {
+    "privacy": 12,
+    "terms": 14
+  },
+  "visitorDraftBanners": false,
+  "legalCertificationClaim": false,
+  "tests": {
+    "lint": "PASS",
+    "legalModelGroups": 6,
+    "localizationGroups": 6,
+    "accountModelAndLocalDatabaseGroups": 9,
+    "publicImageFixtureGroups": 7,
+    "seoGroups": 7,
+    "legalBrowserGroups": 24,
+    "authBrowserGroups": 4,
+    "privacyUnavailableGroups": 4,
+    "netlifyArtifactChecks": 6
+  },
+  "build": {
+    "directory": "dist",
+    "files": 305,
+    "artifactHashesVerified": true,
+    "legalSource": "static",
+    "privacyQa": false
+  },
+  "criticalTechnicalFailures": [],
+  "newApprovalWorkflow": false,
+  "hostedWrites": 0,
+  "deployment": false,
+  "internalNote": "docs/legal/STATIC_LEGAL_IMPLEMENTATION_NOTES.md"
+}

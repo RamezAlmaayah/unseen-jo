@@ -1,0 +1,487 @@
+{
+  "slug": "aqaba-marine-reserve",
+  "query": "Aqaba Marine Park",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Aqaba+Marine+Park+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:22.860Z",
+  "previousAttempt": {
+    "slug": "aqaba-marine-reserve",
+    "retrievedAt": "2026-10-21T17:45:23.232Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Stercorarius pomarinusPCCA20070623-3985B.jpg",
+      "pageid": 2321086,
+      "revision": 1059874375,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description = Common name, ''Stercorarius pomarinus'', Location: Atlantic Ocean, off of Hatteras, North Carolina, United States\n|Source = Photograph taken by Patrick Coin\n|Date = 2007-06-23\n|Author = Patrick Coin ([[User:Cotinis|Patrick Coin]])\n|Permission = cc-by-sa-2.5\n|other_versions = \n}}\n\n== {{int:license-header}} ==\n{{cc-by-sa-2.5}}\n\n[[Category:Photographs by Cotinis]]\n[[Category:Stercorarius pomarinus in flight]]\n[[Category:Taken with Canon EOS 30D]]",
+      "size": 55942,
+      "width": 453,
+      "height": 512,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stercorarius_pomarinusPCCA20070623-3985B.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2321086",
+      "sha1": "639164c38a7a54eec0d64bcaf06fb60dda329383",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2007-06-29 09:44:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Stercorarius pomarinusPCCA20070623-3985B",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 30D|Photographs by Cotinis|Stercorarius pomarinus in flight",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Common name, <i>Stercorarius pomarinus</i>, Location: Atlantic Ocean, off of Hatteras, North Carolina, United States",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Photograph taken by Patrick Coin",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Patrick Coin (<a href=\"//commons.wikimedia.org/wiki/User:Cotinis\" title=\"User:Cotinis\">Patrick Coin</a>)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "cc-by-sa-2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Two Common Lionfish ( Pterois miles), Gulf of Eilat, Israel..jpg",
+      "pageid": 16459092,
+      "revision": 1239564326,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Two Common Lionfish ( Pterois miles), Gulf of Eilat, Israel.}}{{he|1=שני זהרונים (זהרון הדור) במפרץ אילת.}}\n|date=2007-07-25\n|source={{own}}\n|author=[[User:Yuvalr|Yuvalr]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Pterois miles]]\n[[Category:Nature of the Gulf of Aqaba]]\n[[Category:Underwater Observatory Marine Park]]\n[[Category:Taken with Canon PowerShot A620]]",
+      "size": 3129694,
+      "width": 2304,
+      "height": 3072,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Two_Common_Lionfish_%28_Pterois_miles%29%2C_Gulf_of_Eilat%2C_Israel..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Two_Common_Lionfish_(_Pterois_miles),_Gulf_of_Eilat,_Israel..jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16459092",
+      "sha1": "08fc213211b834c113d331e038b05ba0a0ba083e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2011-09-12 21:50:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Two Common Lionfish ( Pterois miles), Gulf of Eilat, Israel.",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pterois miles|Taken with Canon PowerShot A620|Underwater Observatory Marine Park|Self-published work|Nature of the Gulf of Aqaba",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Two Common Lionfish ( Pterois miles), Gulf of Eilat, Israel.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-07-25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yuvalr&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yuvalr (page does not exist)\">Yuvalr</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Peppered Moray.jpg",
+      "pageid": 21737848,
+      "revision": 1283621385,
+      "wikitext": "{{Information\n|Description\t= A Peppered Moray in the sea grass, Aqaba Marine Park. \n\nYou are free to use this image providing you include a credit link to <a href=\"http://www.redseaexplorer.com\" rel=\"nofollow\">www.redseaexplorer.com</a>\n|Source\t\t= [[Flickr]]: [https://www.flickr.com/photos/86368962@N00/6097005489 Peppered Moray]\n|Date\t\t= 2011-08-25 11:50:54\n|Author\t\t= [https://www.flickr.com/people/86368962@N00 Rob]\n|Permission\t= {{User:Flickr upload bot/upload|date=05:18, 29 September 2012 (UTC)|reviewer=Haplochromis}}\n{{cc-by-2.0}}\n|other_versions\t=\n}}\n\n\n[[Category:Gymnothorax griseus]]\n[[Category:Photographs by Rob Atherton]]\n[[Category:Taken with Olympus C-5060WZ]]\n[[Category:Animals in seagrass and seaweed meadows]]\n[[Category:Aqaba Marine Park]]",
+      "size": 1999954,
+      "width": 1600,
+      "height": 1200,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Peppered_Moray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peppered_Moray.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21737848",
+      "sha1": "a7d49dc2b5a19811b8cae77a2c0a9f0733e8f231",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-09-29 05:18:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Peppered Moray",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Gymnothorax griseus|Taken with Olympus C-5060WZ|Flickr images uploaded by Flickr upload bot|Photographs by Rob Atherton|Aqaba Marine Park|Animals in seagrass and seaweed meadows",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>A Peppered Moray in the sea grass, Aqaba Marine Park. \n</p>\nYou are free to use this image providing you include a credit link to &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.redseaexplorer.com\">http://www.redseaexplorer.com</a>\" rel=\"nofollow\"&gt;www.redseaexplorer.com&lt;/a&gt;",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-08-25 11:50:54",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/86368962@N00/6097005489\">Peppered Moray</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/86368962@N00\">Rob</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 29 September 2012, 05:18 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Haplochromis\" title=\"User:Haplochromis\">Haplochromis</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Aqaba Marine Park, Jordan.jpg",
+      "pageid": 23080833,
+      "revision": 1153149241,
+      "wikitext": "{{Information\n|Description\t= The beach at Aqaba Marine Park, Jordan.\n\nYou are free to use this image providing you include a credit link to http://www.redseaexplorer.com\n|Source\t\t= [[Flickr]]: [https://www.flickr.com/photos/86368962@N00/6103289903 Aqaba Marine Park, Jordan]\n|Date\t\t= 2011-08-25 11:29:47\n|Author\t\t= [https://www.flickr.com/people/86368962@N00 Rob]\n|Permission\t= {{User:Flickr upload bot/upload|date=14:15, 8 December 2012 (UTC)|reviewer=Lepota}}\n{{cc-by-2.0}}\n|other_versions\t=\n}}\n\n[[Category:Beaches of Aqaba]]\n[[Category:Piers in Aqaba]]\n[[Category:2011 in Aqaba]]\n[[Category:Photographs by Rob Atherton]]\n[[Category:Taken with Nikon D40x]]",
+      "size": 7271373,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Aqaba_Marine_Park%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aqaba_Marine_Park,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23080833",
+      "sha1": "44bc8ff1a2a47ee8b661c6af1c4505fa11d1881a",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-12-08 14:15:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aqaba Marine Park, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D40x|Flickr images uploaded by Flickr upload bot|Beaches of Aqaba|2011 in Aqaba|Photographs by Rob Atherton|Piers in Aqaba",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>The beach at Aqaba Marine Park, Jordan.\n</p>\nYou are free to use this image providing you include a credit link to <a rel=\"nofollow\" class=\"external free\" href=\"http://www.redseaexplorer.com\">http://www.redseaexplorer.com</a>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-08-25 11:29:47",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/86368962@N00/6103289903\">Aqaba Marine Park, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/86368962@N00\">Rob</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 8 December 2012, 14:15 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Lepota\" class=\"mw-redirect\" title=\"User:Lepota\">Lepota</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Aqaba view.jpg",
+      "pageid": 47020483,
+      "revision": 1062119777,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description = {{en|View to Aqaba from Underwater Observatory Marine Park, Eilat.}}{{Taken with Sony Alpha a5000}}\n|date = 2016-02-08\n|source = {{own}}\n|author = [[User:Kulmalukko|Tiia Monto]]\n|permission = \n|other_versions = \n}}\n{{Location dec|29.504|34.91928}}\n\n=={{int:license-header}}==\n{{cc-by-sa 3.0|Tiia Monto}}\n\n[[Category:2016 in Jordan]]\n[[Category:Views of Aqaba from Eilat]]\n[[Category:Uploaded with VicuñaUploader]]\n[[Category:Israel photographs taken on 2016-02-08]]",
+      "size": 1875658,
+      "width": 5456,
+      "height": 1520,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aqaba_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aqaba_view.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47020483",
+      "sha1": "4448bacd72233424298d78cfebca11eb621d0ce5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-02-17 12:03:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aqaba view",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony ILCE-5000|2016 in Jordan|Views of Aqaba from Eilat|Uploaded with VicuñaUploader|Files with coordinates missing SDC location of creation|Israel photographs taken on 2016-02-08",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "29.504000",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "34.919280",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "View to Aqaba from Underwater Observatory Marine Park, Eilat.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-02-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kulmalukko\" title=\"User:Kulmalukko\">Tiia Monto</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Tiia Monto",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

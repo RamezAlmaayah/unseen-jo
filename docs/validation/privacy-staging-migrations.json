@@ -1,0 +1,25 @@
+{
+  "status": "PREPARED_ONLY",
+  "order": [
+    "20261015212231_phase02a_foundation.sql",
+    "20261015212235_phase02a_access_and_storage.sql",
+    "20261015212242_phase02a_categories.sql",
+    "20261018154102_phase04_admin_cms.sql",
+    "20261019125402_phase04l_place_translations.sql",
+    "20261019160227_phase04l_bilingual_review.sql",
+    "20261019161125_phase04l_private_review_feedback.sql",
+    "20261019173712_phase04l_atomic_localized_publication.sql",
+    "20261019193157_phase04l_replace_cover_image.sql",
+    "20261019203241_phase04l_quick_edit.sql",
+    "20261019204256_phase04l_quick_edit_snapshot_safety.sql",
+    "20261019211445_phase04l_simple_image_management.sql",
+    "20261019212319_phase04l_simple_image_locking.sql",
+    "20261020162409_phase06_user_accounts.sql",
+    "20261021122225_phase07_personal_discoveries.sql",
+    "20261022160724_private_mvp_prototype.sql",
+    "20261022173255_simple_destination_status.sql",
+    "20261022221123_account_privacy_requests.sql",
+    "20261022225126_privacy_activation_hardening.sql"
+  ],
+  "notes": "Replay into an empty disposable environment only; do not import production users, content, Storage or backups."
+}

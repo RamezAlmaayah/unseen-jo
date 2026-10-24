@@ -1,0 +1,94 @@
+{
+  "base": "http://127.0.0.1:4191",
+  "results": [
+    {
+      "name": "guest en 1366",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 1125,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 627.1875,
+      "status": "passed"
+    },
+    {
+      "name": "guest en 820",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 597,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 627.1875,
+      "status": "passed"
+    },
+    {
+      "name": "guest en 390",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 423,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 667.4375,
+      "status": "passed"
+    },
+    {
+      "name": "guest en 320",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 443,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 747.375,
+      "status": "passed"
+    },
+    {
+      "name": "guest ar-JO 1366",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 544,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 627.1875,
+      "status": "passed"
+    },
+    {
+      "name": "guest ar-JO 820",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 543,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 627.1875,
+      "status": "passed"
+    },
+    {
+      "name": "guest ar-JO 390",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 427,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 667.4375,
+      "status": "passed"
+    },
+    {
+      "name": "guest ar-JO 320",
+      "scope": "Simulated Auth endpoint; real React/router/Motion/browser",
+      "usableMs": 485,
+      "modeSwitchRequests": 0,
+      "documentReloads": 0,
+      "shellHeight": 682.4375,
+      "status": "passed"
+    },
+    {
+      "name": "profile/save/refresh/guest merge/preferences/logout/account isolation/Admin guard/tab return",
+      "scope": "Simulated Auth/REST; real application browser",
+      "requests": 78,
+      "status": "passed"
+    },
+    {
+      "name": "same-browser PKCE signup callback, missing-verifier fallback, bare-page refresh, token hash and implicit fragment",
+      "scope": "Real SDK/browser with simulated Auth verification responses; no genuine email callback claimed",
+      "status": "passed"
+    },
+    {
+      "name": "recovery, expired callback scrubbing, direct reset guard, network failure, reduced motion",
+      "scope": "Simulated service; real browser",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

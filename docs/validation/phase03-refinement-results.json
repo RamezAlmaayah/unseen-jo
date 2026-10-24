@@ -1,0 +1,2365 @@
+{
+  "date": "2026-10-18",
+  "scope": "Phase 03 visual refinement, actual production builds and real geographic provider rendering. No remote content/policy changes.",
+  "status": "passed",
+  "previews": {
+    "finalLive": "http://127.0.0.1:4192/explore",
+    "finalDemo": "http://127.0.0.1:4193/explore",
+    "regressionLive": "http://127.0.0.1:4190",
+    "regressionDemo": "http://127.0.0.1:4191"
+  },
+  "regressions": [
+    {
+      "name": "phase01a",
+      "status": "passed",
+      "summary": "PASS: Phase 01A browser flow on http://127.0.0.1:4191; 14 page/viewport checks; no console or asset-loading errors."
+    },
+    {
+      "name": "phase01b",
+      "status": "passed",
+      "summary": "PASS: Phase 01B flow on http://127.0.0.1:4191; 21 page/viewport checks, zero unexpected console/request errors, zero write requests."
+    },
+    {
+      "name": "phase01c",
+      "status": "passed",
+      "summary": "PASS: Phase 01C on http://127.0.0.1:4191; 42 page/viewport checks, zero unexpected console/request errors, zero write requests."
+    },
+    {
+      "name": "landing",
+      "status": "passed",
+      "summary": "PASS: five requested viewports, 12 shared-scale route checks, navigation/state/keyboard/motion, no console or asset errors."
+    },
+    {
+      "name": "global-scale",
+      "status": "passed",
+      "summary": "PASS: 91 page/viewport cases, 10 extra states, normal scale, density, readable text, image/console health and motion."
+    }
+  ],
+  "visual": {
+    "results": [
+      {
+        "mode": "live",
+        "width": 1440,
+        "height": 900,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 144,
+            "y": 184,
+            "width": 1152,
+            "height": 706
+          },
+          "map": {
+            "x": 641.75,
+            "y": 184,
+            "width": 654.25,
+            "height": 680
+          },
+          "header": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 60
+          },
+          "heading": 28
+        },
+        "axeViolations": 0,
+        "axePasses": 27,
+        "providerResponses": 27,
+        "status": "passed"
+      },
+      {
+        "mode": "live",
+        "width": 768,
+        "height": 1024,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 24,
+            "y": 184,
+            "width": 720,
+            "height": 858
+          },
+          "map": {
+            "x": 24,
+            "y": 406,
+            "width": 720,
+            "height": 610
+          },
+          "header": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 60
+          },
+          "heading": 28
+        },
+        "axeViolations": 0,
+        "axePasses": 25,
+        "providerResponses": 27,
+        "status": "passed"
+      },
+      {
+        "mode": "live",
+        "width": 390,
+        "height": 844,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 16,
+            "y": 43,
+            "width": 358,
+            "height": 846
+          },
+          "map": {
+            "x": 16,
+            "y": 261,
+            "width": 358,
+            "height": 584
+          },
+          "header": {
+            "x": 0,
+            "y": -201,
+            "width": 390,
+            "height": 104
+          },
+          "heading": 26
+        },
+        "axeViolations": 0,
+        "axePasses": 25,
+        "providerResponses": 18,
+        "status": "passed"
+      },
+      {
+        "mode": "demo",
+        "width": 1440,
+        "height": 900,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 144,
+            "y": 184,
+            "width": 1152,
+            "height": 706
+          },
+          "map": {
+            "x": 641.75,
+            "y": 184,
+            "width": 654.25,
+            "height": 680
+          },
+          "header": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 60
+          },
+          "heading": 28
+        },
+        "axeViolations": 0,
+        "axePasses": 29,
+        "providerResponses": 22,
+        "status": "passed"
+      },
+      {
+        "mode": "demo",
+        "width": 768,
+        "height": 1024,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 24,
+            "y": 184,
+            "width": 720,
+            "height": 794
+          },
+          "map": {
+            "x": 24,
+            "y": 342,
+            "width": 720,
+            "height": 610
+          },
+          "header": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 60
+          },
+          "heading": 28
+        },
+        "axeViolations": 0,
+        "axePasses": 26,
+        "providerResponses": 24,
+        "status": "passed"
+      },
+      {
+        "mode": "demo",
+        "width": 390,
+        "height": 844,
+        "geometry": {
+          "overflow": false,
+          "workspace": {
+            "x": 16,
+            "y": -100,
+            "width": 358,
+            "height": 782
+          },
+          "map": {
+            "x": 16,
+            "y": 54,
+            "width": 358,
+            "height": 584
+          },
+          "header": {
+            "x": 0,
+            "y": -344,
+            "width": 390,
+            "height": 104
+          },
+          "heading": 26
+        },
+        "axeViolations": 0,
+        "axePasses": 26,
+        "providerResponses": 13,
+        "status": "passed"
+      }
+    ],
+    "passed": 6,
+    "errors": [],
+    "scope": "Actual OpenFreeMap rendering and hosted public reads in live mode; explicitly labeled sourced demo locations. Automated WCAG A/AA checks supplement manual review, not a full accessibility certification."
+  },
+  "checks": {
+    "map": {
+      "checks": [
+        {
+          "name": "REAL provider: live empty Jordan map, geographic tiles and visible legal attribution",
+          "status": "passed"
+        },
+        {
+          "name": "REAL map controls: zoom, drag, reset and keyboard navigation",
+          "status": "passed"
+        },
+        {
+          "name": "REAL provider: mobile rendering and sourced local demo popup at street zoom",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED published rows: all seven custom categories, invalid coordinates excluded",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED card/marker synchronization, popup, keyboard escape and selection cleanup",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED manual city, radius, nearest sorting, NULL exclusion and location clearing",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED supported-property filter and clear share the same marker/card list",
+          "status": "passed"
+        },
+        {
+          "name": "EMULATED browser GPS granted: user action only, one-shot marker, no stored coordinates",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED pending GPS cancelled: late position cannot reactivate location",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED geolocation denied: clear error and manual fallback",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED geolocation unavailable: clear error and manual fallback",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED geolocation timeout: clear error and manual fallback",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED geolocation unsupported: clear error and manual fallback",
+          "status": "passed"
+        },
+        {
+          "name": "DEMO details: sourced map/popup/directions and missing-location safeguard",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED large catalog: clustering and expansion",
+          "status": "passed"
+        },
+        {
+          "name": "DEMO responsive/touch emulation: seven required viewports, route scale and popup bounds",
+          "status": "passed"
+        },
+        {
+          "name": "SIMULATED provider outage: map error/retry without losing list",
+          "status": "passed"
+        }
+      ],
+      "passed": 17,
+      "errors": [],
+      "responsive": [
+        {
+          "width": 1920,
+          "overflow": false,
+          "header": 60,
+          "h1": 28
+        },
+        {
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "h1": 28
+        },
+        {
+          "width": 1366,
+          "overflow": false,
+          "header": 60,
+          "h1": 28
+        },
+        {
+          "width": 1024,
+          "overflow": false,
+          "header": 60,
+          "h1": 28
+        },
+        {
+          "width": 768,
+          "overflow": false,
+          "header": 60,
+          "h1": 28
+        },
+        {
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "h1": 26
+        },
+        {
+          "width": 375,
+          "overflow": false,
+          "header": 104,
+          "h1": 26
+        }
+      ],
+      "realProviderResponses": [
+        {
+          "url": "https://tiles.openfreemap.org/planet",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/37/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/37/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/37/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/39/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/37/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/39/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/18/13.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/18/12.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/8192-8447.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/76/52.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/77/52.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/76/51.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/7/77/51.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.json",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/sprites/ofm_f384/ofm.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/38/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/37/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/26.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/37/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/natural_earth/ne2sr/6/39/25.png",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/38/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/37/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/39/26.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/0-255.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/37/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/6/39/25.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/18/12.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/13.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/19/12.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/5/18/13.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/12/2454/1661.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/planet/20261011_080001_pt/12/2454/1662.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/256-511.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Bold/512-767.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/8192-8447.pbf",
+          "status": 200
+        },
+        {
+          "url": "https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/65024-65279.pbf",
+          "status": 200
+        }
+      ],
+      "scope": "Real OpenFreeMap requests/rendering and actual public Supabase empty data; synthetic API rows/style fixtures/GPS explicitly labeled; no physical GPS accuracy claim."
+    },
+    "tourism": {
+      "scope": "Local SDK requests use mocked HTTP; draft import uses disposable real PostgreSQL/PostGIS. Not remote integration.",
+      "passed": 15,
+      "results": [
+        {
+          "name": "public client configuration validates URL/key and rejects secrets",
+          "status": "passed"
+        },
+        {
+          "name": "mode defaults: production live, explicit demo, development auto",
+          "status": "passed"
+        },
+        {
+          "name": "successful categories and published catalog use nested joins and public key",
+          "status": "passed"
+        },
+        {
+          "name": "parallel callers deduplicate and reuse catalog; explicit invalidation refetches",
+          "status": "passed"
+        },
+        {
+          "name": "empty published places stay empty with categories intact",
+          "status": "passed"
+        },
+        {
+          "name": "name search and multi-category filtering; supported properties exclude unknowns",
+          "status": "passed"
+        },
+        {
+          "name": "valid, missing and malformed slugs; direct detail reads also enforce publication",
+          "status": "passed"
+        },
+        {
+          "name": "missing optional values stay unknown; no fabricated demo cost or travel time",
+          "status": "passed"
+        },
+        {
+          "name": "default media does not reuse unverified Figma photos; approved mappings are exact",
+          "status": "passed"
+        },
+        {
+          "name": "private image URLs are signed in one batch; failed signing yields no unrelated image",
+          "status": "passed"
+        },
+        {
+          "name": "network failures propagate, are not cached and support retry",
+          "status": "passed"
+        },
+        {
+          "name": "malformed category payload fails visibly",
+          "status": "passed"
+        },
+        {
+          "name": "catalog pagination reads beyond platform response limit without N+1",
+          "status": "passed"
+        },
+        {
+          "name": "preference category mapping and live/demo routes keep distinct identities",
+          "status": "passed"
+        },
+        {
+          "name": "draft content import executes twice, preserves edits and keeps unknowns NULL",
+          "status": "passed"
+        }
+      ]
+    },
+    "database": {
+      "engine": "PGlite WebAssembly PostgreSQL with experimental PostGIS extension",
+      "metadata": {
+        "postgres": "PostgreSQL 18.6 (PGlite 0.5.10) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 6.0.5 (1db513782be24469589d7cb8a1f1834e9a33f271), 32-bit",
+        "postgis": "POSTGIS=\"3.6.2 0\" [EXTENSION] PGSQL=\"180\" GEOS=\"3.14.0-CAPI-1.20.4\" PROJ=\"9.7.0 NETWORK_ENABLED=OFF URL_ENDPOINT=https://cdn.proj.org USER_WRITABLE_DIRECTORY=/home/postgres/.local/share/proj DATABASE_PATH=/pglite/share/proj/proj.db\" (compiled against PROJ 9.7.0) LIBXML=\"2.14.5\" LIBJSON=\"0.18\""
+      },
+      "platformContracts": "Minimal simulated auth.users/auth.uid and storage tables; no hosted HTTP services.",
+      "remoteTestsExecuted": false,
+      "migrations": [
+        {
+          "name": "20261015212231_phase02a_foundation.sql",
+          "sha256": "3b7d95e17724d69e323ad29d4a19c38d902495f8af9e217e4ab41c148edb61e3"
+        },
+        {
+          "name": "20261015212235_phase02a_access_and_storage.sql",
+          "sha256": "957db84550e317dca13be43dacc836b1f32a1e95d88e5892ab9dc47f84335b1f"
+        },
+        {
+          "name": "20261015212242_phase02a_categories.sql",
+          "sha256": "3a398a1aa1f61447b93f2bd613d9643a1ef7cec72f41e41ed76b248708f7e5cc"
+        }
+      ],
+      "passed": 55,
+      "results": [
+        {
+          "name": "migration SQL contains no destructive commands or application-table overwrites",
+          "status": "passed"
+        },
+        {
+          "name": "all migrations execute against real PostgreSQL with real PostGIS",
+          "status": "passed"
+        },
+        {
+          "name": "all 11 application tables have RLS enabled",
+          "status": "passed"
+        },
+        {
+          "name": "category seed is repeatable and creates no sample places or users",
+          "status": "passed"
+        },
+        {
+          "name": "profile trigger ignores role metadata and creates only ordinary user grants",
+          "status": "passed"
+        },
+        {
+          "name": "anon reads published places and hides drafts/associated images/categories",
+          "status": "passed"
+        },
+        {
+          "name": "authenticated reads published places and hides drafts/associated images/categories",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous users read active categories only",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: profiles",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: user_roles",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: user_preferences",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: user_preference_categories",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: saved_places",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: recommendation_feedback",
+          "status": "passed"
+        },
+        {
+          "name": "anonymous access denied: admin_audit_logs",
+          "status": "passed"
+        },
+        {
+          "name": "private ownership protects user_preferences including from unrelated admin",
+          "status": "passed"
+        },
+        {
+          "name": "private ownership protects user_preference_categories including from unrelated admin",
+          "status": "passed"
+        },
+        {
+          "name": "private ownership protects saved_places including from unrelated admin",
+          "status": "passed"
+        },
+        {
+          "name": "private ownership protects recommendation_feedback including from unrelated admin",
+          "status": "passed"
+        },
+        {
+          "name": "profiles expose only own record and permit only allowed field updates",
+          "status": "passed"
+        },
+        {
+          "name": "ordinary users and future partners cannot elevate roles or manage content",
+          "status": "passed"
+        },
+        {
+          "name": "authenticated role without a user identity has no private or admin access",
+          "status": "passed"
+        },
+        {
+          "name": "trusted admin reads drafts, manages content and roles; writes generate audit rows",
+          "status": "passed"
+        },
+        {
+          "name": "audit logs reject direct client writes, including administrators",
+          "status": "passed"
+        },
+        {
+          "name": "private trigger functions cannot be called directly by API roles",
+          "status": "passed"
+        },
+        {
+          "name": "preferences/interest creation, own updates and deletes work; cross-user writes fail",
+          "status": "passed"
+        },
+        {
+          "name": "saved places allow own published saves/removal, reject foreign owners, drafts and duplicates",
+          "status": "passed"
+        },
+        {
+          "name": "feedback insert/update/delete are owner-only and target published places",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: negative place price",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: NaN price",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: reversed price range",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: zero duration",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: reversed duration range",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: invalid latitude",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: invalid longitude",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: NaN latitude",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: half coordinate pair",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: published demo",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: verification without evidence",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: negative budget",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: invalid group",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: invalid image folder",
+          "status": "passed"
+        },
+        {
+          "name": "constraint: image path traversal",
+          "status": "passed"
+        },
+        {
+          "name": "FKs reject unknown places, categories and users",
+          "status": "passed"
+        },
+        {
+          "name": "unique slugs, image paths, one cover per place and feedback relationships",
+          "status": "passed"
+        },
+        {
+          "name": "PostGIS generated point uses longitude/latitude and meter-based radius queries",
+          "status": "passed"
+        },
+        {
+          "name": "all application FKs have a leading index; spatial index exists",
+          "status": "passed"
+        },
+        {
+          "name": "both buckets are private with MIME/size restrictions in stored configuration",
+          "status": "passed"
+        },
+        {
+          "name": "storage object SELECT policies hide drafts and other users’ avatars",
+          "status": "passed"
+        },
+        {
+          "name": "storage object policies permit own avatar operations and block cross-user/moved paths",
+          "status": "passed"
+        },
+        {
+          "name": "only admin can manage place-image objects, with a real place folder",
+          "status": "passed"
+        },
+        {
+          "name": "private SECURITY DEFINER functions pin search_path; no public RPC functions added",
+          "status": "passed"
+        },
+        {
+          "name": "account deletion cleans private relationships while preserving audit history",
+          "status": "passed"
+        },
+        {
+          "name": "browser config rejects secrets, missing pairs and unsafe URLs; blank config is safe",
+          "status": "passed"
+        },
+        {
+          "name": "fresh database replay reproduces the application schema and policy definitions",
+          "status": "passed"
+        }
+      ]
+    },
+    "hosted": {
+      "projectRef": "dkhwwvoplhfjccvjegty",
+      "scope": "Real hosted SDK/HTTP using modern publishable key. No production-published content exists; positive published visibility is tested separately with rollback-only hosted SQL and simulated browser fixtures.",
+      "passed": 17,
+      "results": [
+        {
+          "name": "verified URL and enabled modern publishable key initialize public SDK",
+          "status": "passed"
+        },
+        {
+          "name": "seven real active categories",
+          "status": "passed"
+        },
+        {
+          "name": "real nested published-place API returns honest empty catalog",
+          "status": "passed"
+        },
+        {
+          "name": "unfiltered public query cannot see the six imported drafts",
+          "status": "passed"
+        },
+        {
+          "name": "draft slug is not publicly readable",
+          "status": "passed"
+        },
+        {
+          "name": "unknown and invalid slugs return null",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private profiles",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private user_roles",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private user_preferences",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private user_preference_categories",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private saved_places",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private recommendation_feedback",
+          "status": "passed"
+        },
+        {
+          "name": "public requests denied private admin_audit_logs",
+          "status": "passed"
+        },
+        {
+          "name": "public category insert forbidden",
+          "status": "passed"
+        },
+        {
+          "name": "public place updates forbidden",
+          "status": "passed"
+        },
+        {
+          "name": "public place deletes forbidden",
+          "status": "passed"
+        },
+        {
+          "name": "published image metadata remains empty under real RLS",
+          "status": "passed"
+        }
+      ]
+    },
+    "browser": {
+      "live": "http://127.0.0.1:4190",
+      "demo": "http://127.0.0.1:4191",
+      "passed": 8,
+      "checks": [
+        {
+          "name": "real production Home handles zero published places without demo fallback",
+          "status": "passed"
+        },
+        {
+          "name": "real Explore categories, empty state and cached navigation",
+          "status": "passed"
+        },
+        {
+          "name": "real draft and invalid slugs show unavailable place",
+          "status": "passed"
+        },
+        {
+          "name": "live fixed demonstration stays labeled and temporary save works",
+          "status": "passed"
+        },
+        {
+          "name": "live empty pages retain compact responsive UI and map slot (style fixture)",
+          "status": "passed"
+        },
+        {
+          "name": "simulated outage shows error and user retry recovers published cards",
+          "status": "passed"
+        },
+        {
+          "name": "simulated published search/category clearing and details with NULL information",
+          "status": "passed"
+        },
+        {
+          "name": "explicit demo build has original cards and clear demo label",
+          "status": "passed"
+        }
+      ],
+      "responsive": [
+        {
+          "route": "/",
+          "width": 1920,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 44,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 1920,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 1920,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 1920,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 44,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 1366,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 43.712,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 1366,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 1366,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 1366,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 1024,
+          "overflow": false,
+          "header": 60,
+          "main": 1024,
+          "heading": 40,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 1024,
+          "overflow": false,
+          "header": 60,
+          "main": 1024,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 1024,
+          "overflow": false,
+          "header": 60,
+          "main": 1024,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 1024,
+          "overflow": false,
+          "header": 60,
+          "main": 1024,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 768,
+          "overflow": false,
+          "header": 60,
+          "main": 768,
+          "heading": 40,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 768,
+          "overflow": false,
+          "header": 60,
+          "main": 768,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 768,
+          "overflow": false,
+          "header": 60,
+          "main": 768,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 768,
+          "overflow": false,
+          "header": 60,
+          "main": 768,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "main": 390,
+          "heading": 40,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "main": 390,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "main": 390,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "main": 390,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 375,
+          "overflow": false,
+          "header": 104,
+          "main": 375,
+          "heading": 40,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 375,
+          "overflow": false,
+          "header": 104,
+          "main": 375,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 375,
+          "overflow": false,
+          "header": 104,
+          "main": 375,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 375,
+          "overflow": false,
+          "header": 104,
+          "main": 375,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/",
+          "width": 320,
+          "overflow": false,
+          "header": 104,
+          "main": 320,
+          "heading": 40,
+          "brokenImages": 0
+        },
+        {
+          "route": "/explore",
+          "width": 320,
+          "overflow": false,
+          "header": 104,
+          "main": 320,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/places/unknown",
+          "width": 320,
+          "overflow": false,
+          "header": 104,
+          "main": 320,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "/my-discoveries",
+          "width": 320,
+          "overflow": false,
+          "header": 104,
+          "main": 320,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "simulated/saved",
+          "width": 1440,
+          "overflow": false,
+          "header": 60,
+          "main": 1200,
+          "heading": 28,
+          "brokenImages": 0
+        },
+        {
+          "route": "simulated/saved",
+          "width": 390,
+          "overflow": false,
+          "header": 104,
+          "main": 390,
+          "heading": 26,
+          "brokenImages": 0
+        },
+        {
+          "route": "simulated/saved",
+          "width": 320,
+          "overflow": false,
+          "header": 104,
+          "main": 320,
+          "heading": 26,
+          "brokenImages": 0
+        }
+      ],
+      "errors": [],
+      "scope": "Real empty hosted reads plus separately labeled intercepted published/error UI fixtures."
+    }
+  },
+  "integrity": {
+    "protectedFiles": {
+      "src/styles/tokens.css": "0789a8f8ca862caf0b3da02b10acf86c3014a55290b8d215b0d16fd6915d0215",
+      "src/styles/ui-scale.css": "b35afcec201522d83b269058331219837f56d5cdb23b8ff5eac23fdb8a8628be",
+      "public/data/demo-destinations.json": "7b8c05af9ea5596dcabf5400fc08d754a38aebe9fabc72c0fc5c29080ba7c0e9",
+      "supabase/migrations/20261015212231_phase02a_foundation.sql": "3b7d95e17724d69e323ad29d4a19c38d902495f8af9e217e4ab41c148edb61e3",
+      "supabase/migrations/20261015212235_phase02a_access_and_storage.sql": "957db84550e317dca13be43dacc836b1f32a1e95d88e5892ab9dc47f84335b1f",
+      "supabase/migrations/20261015212242_phase02a_categories.sql": "3a398a1aa1f61447b93f2bd613d9643a1ef7cec72f41e41ed76b248708f7e5cc"
+    },
+    "originalHashesMatch": true,
+    "secretPrefixes": 0,
+    "serviceRoleJWTs": 0
+  },
+  "validation": {
+    "lint": "passed",
+    "assets": {
+      "references": 83,
+      "originals": 48,
+      "status": "passed"
+    },
+    "liveBuild": "passed",
+    "demoBuild": "passed",
+    "styleLayers": 114,
+    "lazyMapChunkKB": 1111.7,
+    "lazyMapChunkGzipKB": 303.38,
+    "workerKB": 507.71
+  },
+  "notes": [
+    "One obsolete fixed-height regression expectation was corrected for the authorized 620-740px adaptive map, then its suite passed.",
+    "Regression builds remained frozen. Final attribution separators were corrected and compact Details controls separated; six final Explore visual/axe cases and three focused Details clearance/popup/directions cases passed. Final lint, assets and production builds passed.",
+    "Hosted checks use only the public publishable key. Actual public counts: seven categories, zero places/images. Private records remain hidden; no privileged draft count audit is implied.",
+    "Local PostgreSQL/PostGIS tests simulate platform Auth/Storage contracts. GPS/touch are browser emulation, not physical-device or live GPS accuracy certification.",
+    "No schema/RLS/Storage/data publication/connector/Phase 04 work performed."
+  ],
+  "detailsControls": {
+    "passed": 3,
+    "results": [
+      {
+        "width": 1440,
+        "height": 900,
+        "toolbar": {
+          "x": 838.984375,
+          "y": 772,
+          "width": 127.671875,
+          "height": 44
+        },
+        "scale": {
+          "x": 843.984375,
+          "y": 828,
+          "width": 61.71875,
+          "height": 22
+        },
+        "attribution": {
+          "x": 826.984375,
+          "y": 868,
+          "width": 468,
+          "height": 32
+        },
+        "status": "passed"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "toolbar": {
+          "x": 29,
+          "y": 895.5,
+          "width": 127.671875,
+          "height": 44
+        },
+        "scale": {
+          "x": 34,
+          "y": 951.5,
+          "width": 61.71875,
+          "height": 22
+        },
+        "attribution": {
+          "x": 17,
+          "y": 991.5,
+          "width": 734,
+          "height": 32
+        },
+        "status": "passed"
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "toolbar": {
+          "x": 29,
+          "y": 410.5,
+          "width": 119.671875,
+          "height": 44
+        },
+        "scale": {
+          "x": 34,
+          "y": 464.5,
+          "width": 61.71875,
+          "height": 22
+        },
+        "attribution": {
+          "x": 17,
+          "y": 512.5,
+          "width": 356,
+          "height": 48
+        },
+        "status": "passed"
+      }
+    ]
+  },
+  "visualComparison": {
+    "scope": "Historical screenshot pixel comparison before restoring records. Authorized Explore/map/Details changes expected; pre-Phase-02B preserved screenshots also lack existing demo labels. Geometry and asset checks are separate.",
+    "compared": 166,
+    "identical": 124,
+    "unrelatedExact": 107,
+    "results": [
+      {
+        "file": "global-ui-scale/after-details-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-details-375.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-discoveries-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-discoveries-375.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-explore-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-explore-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-details-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-details-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-discoveries-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-discoveries-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-explore-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-explore-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-landing-1366.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-landing-375.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-login-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-login-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-map-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-map-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-full-not-found-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-not-found-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-preferences-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-preferences-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-profile-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-profile-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-recovery-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-recovery-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-register-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-register-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-result-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-result-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-surprise-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-full-surprise-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-landing-1366.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-landing-375.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-login-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-login-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-map-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-map-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/after-not-found-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-not-found-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-preferences-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-preferences-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-profile-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-profile-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-recovery-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-recovery-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-register-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-register-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-result-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-result-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-surprise-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/after-surprise-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-details-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-discoveries-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-explore-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-full-details-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-full-discoveries-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-explore-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-full-landing-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-login-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-map-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-full-not-found-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-preferences-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-profile-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-recovery-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-register-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-result-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-full-surprise-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-landing-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-login-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-map-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/before-not-found-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-preferences-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-profile-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-recovery-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-register-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-result-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/before-surprise-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-details-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/comparison-discoveries-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-explore-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/comparison-landing-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-login-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-map-1366.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/comparison-not-found-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-preferences-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-profile-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-recovery-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-register-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-result-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/comparison-surprise-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/gallery-dialog-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/gallery-dialog-375.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/preview-dialog-1366.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/preview-dialog-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "global-ui-scale/profile-edit-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/profile-edit-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/register-invalid-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/register-invalid-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/surprise-invalid-1366.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "global-ui-scale/surprise-invalid-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-1024x768.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-1366x768.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-1440x900.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-1920x1080.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-390x844.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-full-1024x768.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-full-1366x768.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-full-1440x900.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-full-1920x1080.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/after-full-390x844.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/before-1366x768.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/before-1440x900.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/before-full-1366x768.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/before-full-1440x900.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/comparison-1366x768.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "landing-refinement/comparison-1440x900.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/landing-1440.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/landing-375.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/landing-390.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/preferences-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/preferences-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/preferences-390.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/preferences-comparison.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01a/preferences-preview-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/explore-1440.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01b/explore-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01b/explore-comparison.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01b/result-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/result-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/result-comparison.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/surprise-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/surprise-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01b/surprise-comparison.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/details-1440.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01c/details-375.png",
+        "identical": false,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01c/details-comparison.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "phase01c/discoveries-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/discoveries-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/discoveries-comparison.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/discoveries-empty-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/discoveries-visited-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/login-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/login-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/not-found-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/not-found-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/profile-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/profile-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/profile-edit-1440.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/recovery-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/recovery-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/register-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/register-375.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase01c/register-validation-1440.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase02b/live-empty-desktop.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase02b/live-empty-mobile.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/amman-real-streets-pois-map.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "phase03/demo-salt-streets-desktop.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/demo-salt-streets-mobile.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/demo-selected-mobile.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/iraq-al-amir-real-detail-map.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "phase03/live-jordan-desktop.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/live-jordan-mobile.png",
+        "identical": false,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/salt-popup-map-mobile.png",
+        "identical": true,
+        "mapRelated": true
+      },
+      {
+        "file": "phase03/salt-road-labels-mobile.png",
+        "identical": true,
+        "mapRelated": false
+      },
+      {
+        "file": "phase03/salt-street-detail-map.png",
+        "identical": true,
+        "mapRelated": true
+      }
+    ]
+  },
+  "historicalScreenshots": {
+    "restoredAndHashVerified": 166,
+    "newCapturesDirectory": "docs/screenshots/phase03-refinement/"
+  }
+}

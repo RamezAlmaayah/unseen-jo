@@ -1,0 +1,28 @@
+{
+  "deliberateOriginals": [
+    "GeoNames · CC BY 4.0",
+    "u",
+    "j"
+  ],
+  "missingStatic": [],
+  "dynamicTemplates": [
+    "Edit {{v0}}",
+    "Enlarge photo {{v0}}: {{v1}}",
+    "Favorite {{v0}}",
+    "Locate {{v0}} on map",
+    "Open {{v0}} {{v1}}details preview",
+    "Preview {{v0}}",
+    "Remove {{v0}} from saved places",
+    "Show {{v0}} on map",
+    "View {{v0}} details",
+    "Weights: interests {{v0}}%, visit time {{v1}}%, recorded admission {{v2}}%, straight-line proximity {{v3}}%, transport and group tags {{v4}}%.",
+    "Zoom into {{v0}} destinations",
+    "{{v0}} destination cover",
+    "{{v0}} map details",
+    "{{v0}} photo gallery",
+    "{{v0}} photo viewer",
+    "{{v0}} {{v1}}",
+    "{{v0}}. Image unavailable",
+    "{{v0}}{{v1}}"
+  ]
+}

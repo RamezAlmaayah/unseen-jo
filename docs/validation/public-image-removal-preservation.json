@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-23T20:02:31.635Z",
+  "scope": "Fresh read-only hosted snapshots; no hosted write operation performed",
+  "tables": {
+    "places": {
+      "count": 24,
+      "unchanged": true
+    },
+    "images": {
+      "count": 45,
+      "unchanged": true
+    },
+    "translations": {
+      "count": 24,
+      "unchanged": true
+    },
+    "relationships": {
+      "count": 48,
+      "unchanged": true
+    },
+    "storage": {
+      "count": 211,
+      "unchanged": true
+    }
+  },
+  "adminCount": {
+    "before": 2,
+    "after": 2
+  },
+  "duplicates": {
+    "places": 0,
+    "images": 0,
+    "translations": 0
+  },
+  "statusCounts": {
+    "published": 24
+  },
+  "backups": [
+    {
+      "file": "artifacts/image-removal/before.json",
+      "bytes": 362258,
+      "sha256": "1d23cc03151b6ecb0be1a644a7e7ad681d3e637054f2e557147614c96e1888cb"
+    },
+    {
+      "file": "artifacts/image-removal/after.json",
+      "bytes": 362258,
+      "sha256": "ebda553511de6ea51141bb55701d5603d856e681071eb5bcf25285fd64812c2c"
+    }
+  ],
+  "hostedWrites": 0,
+  "archivedByThisTask": 0,
+  "blocker": {
+    "browserConnection": "No available apps or browser tabs in two inventories",
+    "windowsComputerUse": "Stopped by automatic browser safety review: current URL could not be determined",
+    "managementAuthentication": "postgres, auth.uid() NULL, is_admin() false; read-only admin_cms_status denied with SQLSTATE 42501"
+  }
+}

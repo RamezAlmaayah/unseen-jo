@@ -1,0 +1,67 @@
+{
+  "scope": "Disposable PGlite with actual migrations; synthetic identities, minimal Auth/Storage contracts; no hosted access",
+  "baseline": "hosted-history-plus-prepared-legal",
+  "at": "2026-10-23T22:31:39.118Z",
+  "results": [
+    {
+      "name": "selected migrations replay; two exact complete bilingual seeds remain private and unapproved",
+      "status": "PASS"
+    },
+    {
+      "name": "guests and ordinary users cannot read drafts, private editor identities or history",
+      "status": "PASS"
+    },
+    {
+      "name": "even Admin direct table mutation fails without the scoped invoker operation",
+      "status": "PASS"
+    },
+    {
+      "name": "both trusted Admins can save; old revisions remain immutable; incomplete drafts can be saved",
+      "status": "PASS"
+    },
+    {
+      "name": "publication is explicit, server attributed and separate from unresolved legal review",
+      "status": "PASS"
+    },
+    {
+      "name": "saving a new draft leaves the complete previous public snapshot unchanged",
+      "status": "PASS"
+    },
+    {
+      "name": "stale Admin edit/publish/revoke requests fail atomically; no lost update",
+      "status": "PASS"
+    },
+    {
+      "name": "publishing latest revision and revoking it restores the earlier approved version",
+      "status": "PASS"
+    },
+    {
+      "name": "revoking the last approved version exposes no draft or revoked content",
+      "status": "PASS"
+    },
+    {
+      "name": "restore copies an earlier snapshot into a new unapproved version; republish is separate",
+      "status": "PASS"
+    },
+    {
+      "name": "cross-document revisions, HTML, unsafe links, schema injection and incomplete publishing are rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "revoked/expired Admin session loses read and write access despite role metadata",
+      "status": "PASS"
+    },
+    {
+      "name": "history cannot be forged, rewritten or deleted; functions are invoker and RLS stays enabled",
+      "status": "PASS"
+    },
+    {
+      "name": "separately authorized local actor removal clears identifiers without changing legal content or audit facts",
+      "status": "PASS"
+    },
+    {
+      "name": "existing tourism, profiles, relationships and both Admin memberships preserved",
+      "status": "PASS"
+    }
+  ]
+}

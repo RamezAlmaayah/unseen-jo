@@ -1,0 +1,15 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "before": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "objects": "c00801ec668ad3d1641be0986dc814c5"
+  },
+  "after": {
+    "images": "958e011a2e24b17617486ad6b6eb652b",
+    "places": "f063d688138984f2ddfe57b90edf9122",
+    "objects": "c00801ec668ad3d1641be0986dc814c5"
+  },
+  "unchanged": true,
+  "scope": "All destination rows, image metadata rows and place-images Storage object names/metadata/timestamps; additive function migration only, no stored content or file mutations"
+}

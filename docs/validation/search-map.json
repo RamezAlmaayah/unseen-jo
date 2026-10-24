@@ -1,0 +1,69 @@
+{
+  "scope": "Actual anonymous published Supabase data, no intercepted requests or writes",
+  "results": [
+    {
+      "port": 4184,
+      "lang": "en",
+      "width": 1366,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4184,
+      "lang": "en",
+      "width": 390,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4184,
+      "lang": "ar-JO",
+      "width": 1366,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4184,
+      "lang": "ar-JO",
+      "width": 390,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4190,
+      "lang": "en",
+      "width": 1366,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4190,
+      "lang": "en",
+      "width": 390,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4190,
+      "lang": "ar-JO",
+      "width": 1366,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    },
+    {
+      "port": 4190,
+      "lang": "ar-JO",
+      "width": 390,
+      "status": "passed",
+      "initialCatalogRequests": 1,
+      "additionalCatalogRequestsDuringSearchAndViewChanges": 0
+    }
+  ]
+}

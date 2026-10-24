@@ -1,0 +1,197 @@
+{
+  "checkedAt": "2026-10-24T18:33:58.413Z",
+  "status": "DRAFT ? OWNER/LEGAL REVIEW REQUIRED",
+  "ownerFacts": {
+    "name": "Ramez Ahmad Almaayeh",
+    "email": "ramezmayaa@gmail.com"
+  },
+  "operatorType": "Individual operator, not a registered company",
+  "paragraphChanges": [
+    {
+      "document": "Privacy Policy",
+      "section": "scope",
+      "language": "en",
+      "paragraph": 2,
+      "before": "Unseen Jo is the service name. A verified legal operator name, business address, and privacy contact have not yet been published for this version. The website owner still needs to confirm those details and the outstanding operating arrangements. Editorial publication approval does not itself certify legal compliance.",
+      "after": "Unseen Jo is operated by Ramez Ahmad Almaayeh as an individual operator, not a registered company. The contact email for privacy and legal questions is ramezmayaa@gmail.com. An operator address has not been provided for this draft. Operating arrangements and legal review remain incomplete; identifying the operator does not certify legal compliance."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "scope",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "Unseen Jo هو اسم الخدمة. لم تُنشر لهذه النسخة بعد هوية قانونية معتمدة للمشغّل أو عنوان عمل أو وسيلة تواصل لشؤون الخصوصية. وما زال على مالك الموقع تأكيد هذه البيانات وترتيبات التشغيل غير المكتملة. ولا يُعدّ الاعتماد التحريري للنشر بحد ذاته شهادة بالامتثال القانوني.",
+      "after": "يدير منصة Unseen Jo المشغّل الفردي Ramez Ahmad Almaayeh، وليس شركة مسجّلة. والبريد المخصّص لأسئلة الخصوصية والشؤون القانونية هو ramezmayaa@gmail.com. ولم يُقدَّم عنوان للمشغّل لهذه المسودة. وتظل ترتيبات التشغيل والمراجعة القانونية غير مكتملة؛ ولا يُعدّ تحديد هوية المشغّل شهادة بالامتثال القانوني."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "rights",
+      "language": "en",
+      "paragraph": 2,
+      "before": "Privacy & Account shows the current availability notice; the prepared download and deletion-request tools are not active in production. Accounts without a password or using MFA would need a separately verified identity process that is not yet available here. Broader rights requests, a verified contact, monitored handling and legally reviewed timelines remain launch requirements. The Ministry of Digital Economy and Entrepreneurship publishes guidance and rights-request materials.",
+      "after": "Privacy & Account shows the current availability notice; the prepared download and deletion-request tools are not active in production. Accounts without a password or using MFA would need a separately verified identity process that is not yet available here. Monitored request handling, secure identity verification, fulfillment arrangements and legally reviewed response periods remain unresolved. The Ministry of Digital Economy and Entrepreneurship publishes guidance and rights-request materials."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "rights",
+      "language": "en",
+      "paragraph": 3,
+      "before": null,
+      "after": "You may raise a privacy question or request with Ramez Ahmad Almaayeh at ramezmayaa@gmail.com. Describe the request without sending passwords, session tokens, recovery links, identity documents or unnecessary sensitive information. Providing this contact address does not activate automated exports or account deletion, establish a response deadline, or confirm that a request has been received or fulfilled."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "rights",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "يعرض قسم الخصوصية والحساب إشعار الإتاحة الحالي؛ وأدوات التنزيل وطلب الحذف المُعدّة غير مفعّلة في نسخة الإنتاج. وتحتاج الحسابات دون كلمة مرور أو المزودة بمصادقة متعددة العوامل إلى إجراء مستقل للتحقق من الهوية لم يتوفر هنا بعد. وتبقى الطلبات الأوسع وقناة التواصل المعتمدة والمتابعة ومهل الاستجابة المراجعة قانونيًا من متطلبات الإطلاق. وتنشر وزارة الاقتصاد الرقمي والريادة إرشادات ومواد لطلبات الحقوق.",
+      "after": "يعرض قسم الخصوصية والحساب إشعار الإتاحة الحالي؛ وأدوات التنزيل وطلب الحذف المُعدّة غير مفعّلة في نسخة الإنتاج. وتحتاج الحسابات دون كلمة مرور أو المزودة بمصادقة متعددة العوامل إلى إجراء مستقل للتحقق من الهوية لم يتوفر هنا بعد. وما زالت متابعة الطلبات والتحقق الآمن من الهوية وترتيبات تنفيذها ومهل الاستجابة المراجعة قانونيًا غير محسومة. وتنشر وزارة الاقتصاد الرقمي والريادة إرشادات ومواد لطلبات الحقوق."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "rights",
+      "language": "ar",
+      "paragraph": 3,
+      "before": null,
+      "after": "يمكنك توجيه سؤال أو طلب متعلق بالخصوصية إلى Ramez Ahmad Almaayeh على ramezmayaa@gmail.com. وضّح طلبك دون إرسال كلمات مرور أو رموز جلسات أو روابط استعادة أو وثائق هوية أو معلومات حساسة غير لازمة. ولا يفعّل إدراج عنوان التواصل هذا تصدير البيانات أو حذف الحساب تلقائيًا، ولا يحدد مهلة استجابة، ولا يؤكد استلام الطلب أو تنفيذه."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "updates",
+      "language": "en",
+      "paragraph": 2,
+      "before": "No verified Unseen Jo legal or privacy contact is currently published in this version. Do not send sensitive information to an assumed email address or to an unrelated third party. Verified operator and contact details must be added before public launch.",
+      "after": "For privacy or legal questions about Unseen Jo, contact the individual operator, Ramez Ahmad Almaayeh, at ramezmayaa@gmail.com. If you email this address, your message, email address and any information you choose to include pass through your email service and the operator’s mailbox provider. This contact address does not identify or configure the application’s transactional-email provider. The operator address, request-handling arrangements and other outstanding legal decisions still require review before public launch."
+    },
+    {
+      "document": "Privacy Policy",
+      "section": "updates",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "لم تُنشر في هذه النسخة وسيلة تواصل معتمدة مع Unseen Jo للشؤون القانونية أو الخصوصية. لا ترسل معلومات حساسة إلى عنوان بريد مفترض أو طرف غير معني. ويلزم إضافة بيانات المشغّل والتواصل المعتمدة قبل الإطلاق العام.",
+      "after": "للأسئلة المتعلقة بخصوصية Unseen Jo أو شؤونه القانونية، تواصل مع المشغّل الفردي Ramez Ahmad Almaayeh على ramezmayaa@gmail.com. وعند مراسلة هذا العنوان، تمرّ رسالتك وعنوان بريدك وأي معلومات تختار تضمينها عبر خدمة بريدك ومزوّد صندوق بريد المشغّل. ولا يحدد عنوان التواصل هذا مزوّد رسائل الحساب في التطبيق ولا يضبط إعداداته. وما زال عنوان المشغّل وترتيبات التعامل مع الطلبات والقرارات القانونية الأخرى غير المحسومة بحاجة إلى مراجعة قبل الإطلاق العام."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "acceptance",
+      "language": "en",
+      "paragraph": 2,
+      "before": "These are review drafts, not a representation that launch requirements are complete. Unseen Jo is the service name; a verified legal operator identity, business address, and legal contact have not yet been published. Those details and the effective launch terms must be confirmed before public launch.",
+      "after": "Unseen Jo is operated by Ramez Ahmad Almaayeh as an individual operator, not a registered company. Contact the operator about these terms at ramezmayaa@gmail.com. These terms remain an unapproved review draft, not a statement that launch requirements are complete. An operator address has not been provided, and the final operating arrangements and launch terms still require owner and legal review."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "acceptance",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "هذه مسودات للمراجعة، ولا تعني استكمال متطلبات الإطلاق. Unseen Jo هو اسم الخدمة، ولم تُنشر بعد هوية قانونية معتمدة للمشغّل أو عنوان عمل أو وسيلة تواصل قانونية. ويلزم تأكيدها واعتماد شروط الإطلاق النافذة قبل الإطلاق العام.",
+      "after": "يدير منصة Unseen Jo المشغّل الفردي Ramez Ahmad Almaayeh، وليس شركة مسجّلة. ويمكن التواصل معه بشأن هذه الشروط على ramezmayaa@gmail.com. وتبقى هذه الشروط مسودة غير معتمدة للمراجعة، ولا تعني استكمال متطلبات الإطلاق. ولم يُقدَّم عنوان للمشغّل، وما زالت ترتيبات التشغيل النهائية وشروط الإطلاق تتطلب مراجعة المالك والمراجعة القانونية."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "security",
+      "language": "en",
+      "paragraph": 2,
+      "before": "If you suspect unauthorized use, use the supported password-recovery and sign-out controls and secure your email account. A verified support contact remains to be published; do not send passwords or authentication tokens to an assumed contact. You are not automatically responsible for activity beyond your control where applicable law provides otherwise.",
+      "after": "If you suspect unauthorized use, use the supported password-recovery and sign-out controls and secure your email account. You may contact Ramez Ahmad Almaayeh at ramezmayaa@gmail.com about account concerns, but do not send passwords, authentication tokens or recovery links. This email contact does not reset your password or guarantee a response time. You are not automatically responsible for activity beyond your control where applicable law provides otherwise."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "security",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "إذا اشتبهت في استخدام غير مصرّح به، فاستخدم أدوات استعادة كلمة المرور وتسجيل الخروج المدعومة وأمّن بريدك الإلكتروني. ولم تُنشر بعد وسيلة دعم معتمدة؛ فلا ترسل كلمات المرور أو رموز المصادقة إلى جهة مفترضة. ولا تتحمل تلقائيًا مسؤولية نشاط خارج سيطرتك حيث يقرر القانون خلاف ذلك.",
+      "after": "إذا اشتبهت في استخدام غير مصرّح به، فاستخدم أدوات استعادة كلمة المرور وتسجيل الخروج المدعومة وأمّن بريدك الإلكتروني. ويمكنك التواصل مع Ramez Ahmad Almaayeh على ramezmayaa@gmail.com بشأن مشكلات الحساب، دون إرسال كلمات مرور أو رموز مصادقة أو روابط استعادة. ولا يعيد هذا البريد تعيين كلمة مرورك ولا يضمن مهلة استجابة. ولا تتحمل تلقائيًا مسؤولية نشاط خارج سيطرتك حيث يقرر القانون خلاف ذلك."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "availability",
+      "language": "en",
+      "paragraph": 2,
+      "before": "Access may be restricted where reasonably necessary to address unlawful use, security risks, or material breaches, subject to applicable law and fair process where required. No automated suspension or appeal workflow is represented as implemented. You may stop using the service and sign out; these actions do not erase your account. The Privacy Policy explains the supported deletion-request process and remaining contact and operational limitations.",
+      "after": "Access may be restricted where reasonably necessary to address unlawful use, security risks, or material breaches, subject to applicable law and fair process where required. No automated suspension or appeal workflow is represented as implemented. You may stop using the service and sign out; these actions do not erase your account. The Privacy Policy describes the current availability of privacy tools, the contact email and the remaining request-handling and operational limitations."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "availability",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "قد يُقيّد الوصول بالقدر المعقول اللازم لمواجهة الاستخدام غير المشروع أو مخاطر الأمان أو المخالفات الجوهرية، مع مراعاة القانون والإجراءات المنصفة حيث تكون مطلوبة. ولا ندّعي تنفيذ إجراءات مؤتمتة للإيقاف أو التظلّم. ويمكنك التوقف عن الاستخدام وتسجيل الخروج، لكن ذلك لا يمحو الحساب. وتوضّح سياسة الخصوصية إجراءات طلب الحذف المدعومة وحدود التواصل والتشغيل المتبقية.",
+      "after": "قد يُقيّد الوصول بالقدر المعقول اللازم لمواجهة الاستخدام غير المشروع أو مخاطر الأمان أو المخالفات الجوهرية، مع مراعاة القانون والإجراءات المنصفة حيث تكون مطلوبة. ولا ندّعي تنفيذ إجراءات مؤتمتة للإيقاف أو التظلّم. ويمكنك التوقف عن الاستخدام وتسجيل الخروج، لكن ذلك لا يمحو الحساب. وتوضّح سياسة الخصوصية مدى إتاحة أدوات الخصوصية حاليًا وبريد التواصل وحدود التعامل مع الطلبات والتشغيل المتبقية."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "law",
+      "language": "en",
+      "paragraph": 1,
+      "before": "Applicable mandatory law governs the service and any dispute. Relevant Jordanian law, including personal data protection requirements where applicable, must be considered for use in Jordan. The operator’s unconfirmed legal identity and establishment prevent this draft from specifying a verified contractual choice of law or exclusive court.",
+      "after": "Applicable mandatory law governs the service and any dispute. Relevant Jordanian law, including personal data protection requirements where applicable, must be considered for use in Jordan. The operator is identified above, but the operator address and establishment details have not been provided. This draft does not specify a finalized contractual choice of law or exclusive court."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "law",
+      "language": "en",
+      "paragraph": 2,
+      "before": "No mandatory arbitration, exclusive foreign venue, or waiver of access to a competent court is imposed. Any final governing-law and dispute provision must preserve non-waivable rights and be reviewed before public launch. A verified channel for raising issues with the operator remains to be published.",
+      "after": "No mandatory arbitration, exclusive foreign venue, or waiver of access to a competent court is imposed. Any final governing-law and dispute provision must preserve non-waivable rights and be reviewed before public launch. Questions may be raised with Ramez Ahmad Almaayeh at ramezmayaa@gmail.com; a formal complaints or dispute-handling procedure has not been confirmed."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "law",
+      "language": "ar",
+      "paragraph": 1,
+      "before": "تحكم القواعد القانونية الآمرة الواجبة التطبيق الخدمة وأي نزاع يتعلق بها. ويجب مراعاة القانون الأردني ذي الصلة عند الاستخدام في الأردن، بما يشمل متطلبات حماية البيانات حيثما انطبقت. ولعدم تأكيد هوية المشغّل القانونية ومقرّه، لا تحدد هذه المسودة اختيارًا تعاقديًا متحققًا للقانون أو محكمة حصرية.",
+      "after": "تحكم القواعد القانونية الآمرة الواجبة التطبيق الخدمة وأي نزاع يتعلق بها. ويجب مراعاة القانون الأردني ذي الصلة عند الاستخدام في الأردن، بما يشمل متطلبات حماية البيانات حيثما انطبقت. وقد ورد اسم المشغّل أعلاه، لكن عنوانه وتفاصيل مقرّ نشاطه لم تُقدَّم. ولا تحدد هذه المسودة اختيارًا تعاقديًا نهائيًا للقانون أو محكمة حصرية."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "law",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "لا تفرض هذه الشروط تحكيمًا إلزاميًا أو جهة تقاضٍ أجنبية حصرية أو تنازلًا عن اللجوء إلى المحكمة المختصة. ويجب أن يحفظ أي نص نهائي للقانون وتسوية المنازعات الحقوق غير القابلة للتنازل وأن يخضع للمراجعة قبل الإطلاق العام. ولم تُنشر بعد قناة معتمدة لطرح المسائل على المشغّل.",
+      "after": "لا تفرض هذه الشروط تحكيمًا إلزاميًا أو جهة تقاضٍ أجنبية حصرية أو تنازلًا عن اللجوء إلى المحكمة المختصة. ويجب أن يحفظ أي نص نهائي للقانون وتسوية المنازعات الحقوق غير القابلة للتنازل وأن يخضع للمراجعة قبل الإطلاق العام. ويمكن طرح الأسئلة على Ramez Ahmad Almaayeh عبر ramezmayaa@gmail.com؛ ولم تُؤكَّد إجراءات رسمية لمعالجة الشكاوى أو المنازعات."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "updates",
+      "language": "en",
+      "paragraph": 2,
+      "before": "No verified legal contact for Unseen Jo is published in this version. Operator identity, a usable contact channel, and final legal approval are outstanding launch requirements. Do not send sensitive information to an assumed address. Both language versions are intended to communicate the same meaning; neither removes rights protected by applicable law.",
+      "after": "For questions about these terms, contact Ramez Ahmad Almaayeh, the individual operator of Unseen Jo, at ramezmayaa@gmail.com. Do not send passwords, session tokens, recovery links or unnecessary sensitive information. The operator address, request and complaint-handling arrangements, and final legal review remain unresolved. Both language versions are intended to communicate the same meaning; neither removes rights protected by applicable law."
+    },
+    {
+      "document": "Terms of Service",
+      "section": "updates",
+      "language": "ar",
+      "paragraph": 2,
+      "before": "لم تُنشر في هذه النسخة وسيلة تواصل قانونية معتمدة مع Unseen Jo. وتظل هوية المشغّل وقناة التواصل القابلة للاستخدام والاعتماد القانوني النهائي من متطلبات الإطلاق غير المكتملة. ولا ترسل معلومات حساسة إلى عنوان مفترض. ويُقصد بالنسختين اللغويتين نقل المعنى نفسه، ولا تنتقص أي منهما من الحقوق التي يحميها القانون الواجب التطبيق.",
+      "after": "للأسئلة المتعلقة بهذه الشروط، تواصل مع Ramez Ahmad Almaayeh، المشغّل الفردي لمنصة Unseen Jo، على ramezmayaa@gmail.com. ولا ترسل كلمات مرور أو رموز جلسات أو روابط استعادة أو معلومات حساسة غير لازمة. وما زال عنوان المشغّل وترتيبات التعامل مع الطلبات والشكاوى والمراجعة القانونية النهائية غير محسومة. ويُقصد بالنسختين اللغويتين نقل المعنى نفسه، ولا تنتقص أي منهما من الحقوق التي يحميها القانون الواجب التطبيق."
+    }
+  ],
+  "sectionCounts": {
+    "privacy": 12,
+    "terms": 14
+  },
+  "paragraphParity": true,
+  "reviewFlags": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "deploymentDist": {
+    "files": 305,
+    "hashesUnchanged": true
+  },
+  "migrationHashesUnchanged": true,
+  "hostedWrites": 0,
+  "migrationsExecuted": 0,
+  "managedModeActivated": false,
+  "publication": false,
+  "buildOutput": "artifacts/legal-owner-draft/dist",
+  "browserChecks": {
+    "legalGroups": 24,
+    "privacyDisabledGroups": 4
+  },
+  "databaseSuite": "NOT RUN; migration execution prohibited; immutable snapshot syntax/hash/parity checked only"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "check-phase01c",
+    "exitCode": 0
+  },
+  {
+    "name": "check-global-ui-scale",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase02b-hosted",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase02b-browser",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase03-browser",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase03-refinement",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase03-details-controls",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase03-quality",
+    "exitCode": 0
+  },
+  {
+    "name": "check-phase04-browser",
+    "exitCode": 0
+  }
+]

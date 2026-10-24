@@ -1,0 +1,36 @@
+{
+  "project": "dkhwwvoplhfjccvjegty",
+  "scope": "Genuine anonymous APIs, no authenticated writes or account acceptance claimed.",
+  "results": [
+    {
+      "name": "Anonymous access denied: saved_places",
+      "code": "42501"
+    },
+    {
+      "name": "Anonymous access denied: user_visited_places",
+      "code": "42501"
+    },
+    {
+      "name": "Anonymous access denied: user_discovery_history",
+      "code": "42501"
+    },
+    {
+      "name": "Anonymous access denied: profiles",
+      "code": "42501"
+    },
+    {
+      "name": "Actual anonymous published catalog",
+      "count": 6,
+      "slugs": [
+        "ajloun-forest",
+        "dana-reserve",
+        "iraq-al-amir",
+        "salt-historic",
+        "umm-qais",
+        "wadi-mujib"
+      ],
+      "retrievalMs": 1360,
+      "images": 6
+    }
+  ]
+}

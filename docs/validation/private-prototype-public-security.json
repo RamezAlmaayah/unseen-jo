@@ -1,0 +1,25 @@
+{
+  "scope": "Actual anonymous Supabase reads; no mocked responses, no privileged content writes",
+  "verifiedAt": "2026-10-22T16:55:46.513Z",
+  "results": [
+    {
+      "name": "Genuine anonymous published catalog remains the original six",
+      "status": "passed",
+      "count": 6
+    },
+    {
+      "name": "Genuine anonymous queries cannot expose the 18 drafts",
+      "status": "passed"
+    },
+    {
+      "name": "Genuine anonymous REST access to private overlays denied",
+      "status": "passed",
+      "code": "42501"
+    },
+    {
+      "name": "Genuine anonymous private-catalog RPC denied",
+      "status": "passed",
+      "code": "42501"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "retrievedAt": "2026-10-21T17:59:25.797Z",
+  "source": "https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=coordinates%7Cpageprops&coprimary=primary&titles=Saint+George+Church%2C+Madaba%7CPella%2C+Jordan%7CShoubak+Castle%7CQusayr+Amra%7CUmm+ar-Rasas%7CUmm+el-Jimal%7CLittle+Petra%7CAl-Maghtas",
+  "qualification": "Secondary geographic reference only, not verified entrances",
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "redirects": [
+        {
+          "from": "Qusayr Amra",
+          "to": "Qusayr 'Amra"
+        }
+      ],
+      "pages": {
+        "1008575": {
+          "pageid": 1008575,
+          "ns": 0,
+          "title": "Pella, Jordan",
+          "coordinates": [
+            {
+              "lat": 32.45,
+              "lon": 35.61666667,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Byzantine_Basilica.jpg",
+            "wikibase-shortdesc": "Ancient city in Jordan",
+            "wikibase_item": "Q167993"
+          }
+        },
+        "2072509": {
+          "pageid": 2072509,
+          "ns": 0,
+          "title": "Qusayr 'Amra",
+          "coordinates": [
+            {
+              "lat": 31.8017,
+              "lon": 36.5873,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Qusayr_Amra.jpg",
+            "wikibase-shortdesc": "Historic site in Jordan",
+            "wikibase_item": "Q499517"
+          }
+        },
+        "3836246": {
+          "pageid": 3836246,
+          "ns": 0,
+          "title": "Umm ar-Rasas",
+          "coordinates": [
+            {
+              "lat": 31.50078611,
+              "lon": 35.92026389,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Umm_ar-Rasas_Arcs.jpg",
+            "wikibase-shortdesc": "Historic site in Amman Governorate, Jordan",
+            "wikibase_item": "Q822842"
+          }
+        },
+        "10382567": {
+          "pageid": 10382567,
+          "ns": 0,
+          "title": "Umm el-Jimal",
+          "coordinates": [
+            {
+              "lat": 32.3267,
+              "lon": 36.3697,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Uejhousexviii.jpg",
+            "wikibase-shortdesc": "Village in Mafraq Governorate, Jordan",
+            "wikibase_item": "Q3107493"
+          }
+        },
+        "32583129": {
+          "pageid": 32583129,
+          "ns": 0,
+          "title": "Al-Maghtas",
+          "coordinates": [
+            {
+              "lat": 31.83722222,
+              "lon": 35.55027778,
+              "primary": "",
+              "globe": "earth"
+            }
+          ],
+          "pageprops": {
+            "page_image_free": "Bethany_(5).JPG",
+            "wikibase-shortdesc": "Archaeological site in Jordan",
+            "wikibase_item": "Q12193567"
+          }
+        },
+        "46405493": {
+          "pageid": 46405493,
+          "ns": 0,
+          "title": "Little Petra",
+          "pageprops": {
+            "page_image_free": "Siq_al-Berid_04.jpg",
+            "wikibase-shortdesc": "Archaeological site in Jordan",
+            "wikibase_item": "Q2284751"
+          }
+        },
+        "-1": {
+          "ns": 0,
+          "title": "Saint George Church, Madaba",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Shoubak Castle",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

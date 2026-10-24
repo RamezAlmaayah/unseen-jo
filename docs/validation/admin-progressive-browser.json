@@ -1,0 +1,30 @@
+{
+  "scope": "Intercepted authenticated synthetic fixtures only, actual Chromium/React/MapLibre and axe. No real Admin session or hosted stored operations.",
+  "results": [
+    {
+      "language": "en",
+      "width": 1440,
+      "qualityQueries": 8,
+      "initialMediaImages": 0,
+      "mediaImagesAfterScroll": 20,
+      "initialGalleryControls": 12,
+      "autosavePreserved": true,
+      "translationPagingPreservesEdits": true,
+      "a11yScans": 5,
+      "status": "passed"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "qualityQueries": 8,
+      "initialMediaImages": 1,
+      "mediaImagesAfterScroll": 8,
+      "initialGalleryControls": 5,
+      "autosavePreserved": true,
+      "translationPagingPreservesEdits": true,
+      "a11yScans": 5,
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

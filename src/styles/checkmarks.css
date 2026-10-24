@@ -1,0 +1,3 @@
+/* Irish Grover is used only for the Figma result checklist marks. */
+@import '@fontsource/irish-grover/400.css';
+.figma-checkmark { font-family: 'Irish Grover', cursive; }

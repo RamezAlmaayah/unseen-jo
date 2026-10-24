@@ -1,0 +1,30 @@
+{
+  "scope": "Genuine hosted Supabase Auth and owner operations through a temporary browser. No exported credentials/session. Existing Admin remains untouched.",
+  "results": [
+    {
+      "name": "Real registration accepted by Supabase; no session fabricated; email confirmation required",
+      "status": "passed"
+    },
+    {
+      "name": "Real email-confirmed login and owner profile read",
+      "status": "passed"
+    },
+    {
+      "name": "Real profile update survives refresh",
+      "status": "passed"
+    },
+    {
+      "name": "Real saved destination appears in My Discoveries after refresh",
+      "status": "passed"
+    },
+    {
+      "name": "Real owner preference RPC save",
+      "status": "passed"
+    },
+    {
+      "name": "Genuine hosted acceptance",
+      "status": "failed",
+      "message": "page.waitForURL: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"**/admin/login\" until \"load\"\n  navigated to \"http://127.0.0.1:4184/admin\"\n============================================================"
+    }
+  ]
+}

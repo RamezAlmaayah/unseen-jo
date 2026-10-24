@@ -1,0 +1,30 @@
+{
+  "scope": "Localization resources/adapters and immutable saved English comparison; no remote mutations",
+  "passed": 6,
+  "results": [
+    {
+      "name": "resource parity, Arabic text, placeholders and explicit locale configuration",
+      "status": "passed"
+    },
+    {
+      "name": "six Arabic records translate current English sources without mutating original data",
+      "status": "passed"
+    },
+    {
+      "name": "missing, pending, stale and independently reviewed translations resolve honestly",
+      "status": "passed"
+    },
+    {
+      "name": "language switching translates static and dynamic labels and preserves technical values",
+      "status": "passed"
+    },
+    {
+      "name": "Intl dates, JOD amounts, counts and durations use the selected locale",
+      "status": "passed"
+    },
+    {
+      "name": "localized public adapter keeps immutable map, filters, sources and image licensing fields",
+      "status": "passed"
+    }
+  ]
+}

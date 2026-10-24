@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "initial HTML has the requested homepage defaults and unique social tags",
+      "status": "passed"
+    },
+    {
+      "name": "unset domain emits no fake canonical, og:url or social image URLs",
+      "status": "passed"
+    },
+    {
+      "name": "configured origin generates absolute canonical and PNG tags in initial HTML without duplication",
+      "status": "passed"
+    },
+    {
+      "name": "invalid origins, local addresses and Supabase API origins are rejected",
+      "status": "passed"
+    },
+    {
+      "name": "private routes, unknown routes and samples are noindex; public routes remain indexable",
+      "status": "passed"
+    },
+    {
+      "name": "Arabic locale, destination summaries and clean canonical paths are supported",
+      "status": "passed"
+    },
+    {
+      "name": "social preview is an actual 1200 by 630 PNG",
+      "status": "passed"
+    }
+  ],
+  "typescript": "Not applicable: JavaScript/JSX project, no tsconfig or TypeScript compiler",
+  "socialImageBytes": 61430
+}

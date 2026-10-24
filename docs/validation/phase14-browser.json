@@ -1,0 +1,582 @@
+{
+  "scope": "Real built React UI and Chromium; API fixtures; external map resources may load. No genuine user writes.",
+  "results": [
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/",
+      "finalPath": "/",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/explore",
+      "finalPath": "/explore",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/map",
+      "finalPath": "/map",
+      "status": "PASS",
+      "violations": [],
+      "map": "MapLibre canvas rendered"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/surprise-me",
+      "finalPath": "/surprise-me",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/places/ajloun-forest",
+      "finalPath": "/places/ajloun-forest",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/auth?mode=login",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/auth?mode=register",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/auth?mode=recovery",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/auth/callback?error=access_denied",
+      "finalPath": "/auth/callback",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/my-discoveries",
+      "finalPath": "/my-discoveries",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/profile",
+      "finalPath": "/profile",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/admin/login",
+      "finalPath": "/admin/login",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/admin",
+      "finalPath": "/admin",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/privacy-policy",
+      "finalPath": "/privacy-policy",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/terms-of-service",
+      "finalPath": "/terms-of-service",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 1366,
+      "route": "/not-a-real-page",
+      "finalPath": "/not-a-real-page",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/",
+      "finalPath": "/",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/explore",
+      "finalPath": "/explore",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/map",
+      "finalPath": "/map",
+      "status": "PASS",
+      "violations": [],
+      "map": "MapLibre canvas rendered"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/surprise-me",
+      "finalPath": "/surprise-me",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/places/ajloun-forest",
+      "finalPath": "/places/ajloun-forest",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/auth?mode=login",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/auth?mode=register",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/auth?mode=recovery",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/auth/callback?error=access_denied",
+      "finalPath": "/auth/callback",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/my-discoveries",
+      "finalPath": "/my-discoveries",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/profile",
+      "finalPath": "/profile",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/admin/login",
+      "finalPath": "/admin/login",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/admin",
+      "finalPath": "/admin",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/privacy-policy",
+      "finalPath": "/privacy-policy",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/terms-of-service",
+      "finalPath": "/terms-of-service",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/not-a-real-page",
+      "finalPath": "/not-a-real-page",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/",
+      "finalPath": "/",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/explore",
+      "finalPath": "/explore",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/map",
+      "finalPath": "/map",
+      "status": "PASS",
+      "violations": [],
+      "map": "MapLibre canvas rendered"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/surprise-me",
+      "finalPath": "/surprise-me",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/places/ajloun-forest",
+      "finalPath": "/places/ajloun-forest",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/auth?mode=login",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/auth?mode=register",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/auth?mode=recovery",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/auth/callback?error=access_denied",
+      "finalPath": "/auth/callback",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/my-discoveries",
+      "finalPath": "/my-discoveries",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/profile",
+      "finalPath": "/profile",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/admin/login",
+      "finalPath": "/admin/login",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/admin",
+      "finalPath": "/admin",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/privacy-policy",
+      "finalPath": "/privacy-policy",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/terms-of-service",
+      "finalPath": "/terms-of-service",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 1366,
+      "route": "/not-a-real-page",
+      "finalPath": "/not-a-real-page",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/",
+      "finalPath": "/",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/explore",
+      "finalPath": "/explore",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/map",
+      "finalPath": "/map",
+      "status": "PASS",
+      "violations": [],
+      "map": "MapLibre canvas rendered"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/surprise-me",
+      "finalPath": "/surprise-me",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/places/ajloun-forest",
+      "finalPath": "/places/ajloun-forest",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/auth?mode=login",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/auth?mode=register",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/auth?mode=recovery",
+      "finalPath": "/auth",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/auth/callback?error=access_denied",
+      "finalPath": "/auth/callback",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/my-discoveries",
+      "finalPath": "/my-discoveries",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/profile",
+      "finalPath": "/profile",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/admin/login",
+      "finalPath": "/admin/login",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/admin",
+      "finalPath": "/admin",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/privacy-policy",
+      "finalPath": "/privacy-policy",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/terms-of-service",
+      "finalPath": "/terms-of-service",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    },
+    {
+      "language": "ar-JO",
+      "width": 390,
+      "route": "/not-a-real-page",
+      "finalPath": "/not-a-real-page",
+      "status": "PASS",
+      "violations": [],
+      "map": "not applicable"
+    }
+  ],
+  "errors": []
+}

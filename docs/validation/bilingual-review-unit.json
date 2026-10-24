@@ -1,0 +1,18 @@
+{
+  "scope": "Local heuristics and repository boundary tests; no remote writes",
+  "passed": 3,
+  "results": [
+    {
+      "name": "all six destinations have targeted review prompts and source caution comparisons",
+      "status": "passed"
+    },
+    {
+      "name": "heuristics flag missing Arabic, stale English and numeric discrepancies",
+      "status": "passed"
+    },
+    {
+      "name": "repository isolates Arabic fields, enforces optimistic concurrency and validates review notes",
+      "status": "passed"
+    }
+  ]
+}
