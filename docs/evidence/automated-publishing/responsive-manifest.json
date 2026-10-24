@@ -1,0 +1,377 @@
+{
+  "scope": "Prepared locally only; not uploaded, not CMS approval",
+  "images": [
+    {
+      "id": "ajloun-forest-1",
+      "original": "docs/evidence/content-completion/originals/ajloun-forest-1.jpg",
+      "originalSha256": "848b97e082810fe65871b60510f0c092fa09dce589f5b711ea93373e8abed84e",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Ajlun Reserve 1.jpg — JoTB. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 428,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-1-640.jpg",
+          "bytes": 159842,
+          "sha256": "0c66e1b664f935cabb7af82faaafc111421be46f4dcf2dbdc3e0b25e04903a3c"
+        },
+        {
+          "width": 1280,
+          "height": 857,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-1-1280.jpg",
+          "bytes": 551982,
+          "sha256": "399a40de3cf92f6023f0465cead6a45f0d536e3e6c81edbd5e65180f2b6475fe"
+        },
+        {
+          "width": 2000,
+          "height": 1339,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-1-2000.jpg",
+          "bytes": 1137642,
+          "sha256": "72422f39190a2ea313d183176880af7ea9fdb659281dd4170d51fc47747b7a72"
+        }
+      ]
+    },
+    {
+      "id": "salt-historic-1",
+      "original": "docs/evidence/content-completion/originals/salt-historic-1.jpg",
+      "originalSha256": "106cc0ce001a9632c90c60168493cb495ac1ee66f680fae4733417133b8e59eb",
+      "license": "CC BY 4.0",
+      "attribution": "Old as-salt jordan 2024 (9).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(9).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-1-640.jpg",
+          "bytes": 111558,
+          "sha256": "ff206ad2003525b12e346e739cce150e79322eca808fd94adb14c7f7a626d5f6"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-1-1280.jpg",
+          "bytes": 386838,
+          "sha256": "cae7606e06f654e62c7b1de772962acc5ca7911c03d4ccd490511a17fbe6ee80"
+        }
+      ]
+    },
+    {
+      "id": "salt-historic-2",
+      "original": "docs/evidence/content-completion/originals/salt-historic-2.jpg",
+      "originalSha256": "d6fd9cecba8f630e29bf087cdad507c48b79c7ff35edf684193adf6dd165f477",
+      "license": "CC BY 4.0",
+      "attribution": "Old as-salt jordan 2024 (10).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(10).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-2-640.jpg",
+          "bytes": 146580,
+          "sha256": "9fd3caf862fe92ba582e28992837a959a8cbcfe71c5f436862e7f23f55d24478"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-2-1280.jpg",
+          "bytes": 517566,
+          "sha256": "a220ed857c9e7a96b9051d790e7aa20ef7a170e0e55c6e1a479804c206ef161b"
+        }
+      ]
+    },
+    {
+      "id": "salt-historic-3",
+      "original": "docs/evidence/content-completion/originals/salt-historic-3.jpg",
+      "originalSha256": "7eb87e685d280f925fa2d649859d697d602edca7916c7eb66581b475f4173882",
+      "license": "CC BY 4.0",
+      "attribution": "Old as-salt jordan 2024 (11).jpg — 1995Maisjamal. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(11).jpg Licence: https://creativecommons.org/licenses/by/4.0. Original file unchanged; responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-3-640.jpg",
+          "bytes": 135017,
+          "sha256": "87971e32252e0840ef60d63d7a446bd7b6a800e2ff60557cf3ef53d1efda35e2"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/salt-historic-3-1280.jpg",
+          "bytes": 463292,
+          "sha256": "c4917e0ca7ebbfc1fe3c3af4f7c14fe1b47aa2545c2c69a5efeee79a405eb8a3"
+        }
+      ]
+    },
+    {
+      "id": "wadi-mujib-1",
+      "original": "docs/evidence/content-completion/originals/wadi-mujib-1.jpg",
+      "originalSha256": "ed1f61df576f0892e023babdf444c000485d8114ca5399af1a299889b589d93e",
+      "license": "Public domain",
+      "attribution": "Wadi Mujib2.jpeg — Effi Schweizer. Public domain. Source: https://commons.wikimedia.org/wiki/File:Wadi_Mujib2.jpeg Licence: https://commons.wikimedia.org/wiki/Template:PD-self. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/wadi-mujib-1-640.jpg",
+          "bytes": 126394,
+          "sha256": "11190cd1ff5314219ecf58c227d46dcd00479a7391addb11c1055d8388a89a9e"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/wadi-mujib-1-1280.jpg",
+          "bytes": 454791,
+          "sha256": "e4c9195adbaf81fe62e1f63e710aa98792c0056f470c1e64f00cfe40f2839095"
+        }
+      ]
+    },
+    {
+      "id": "wadi-mujib-2",
+      "original": "docs/evidence/content-completion/originals/wadi-mujib-2.jpg",
+      "originalSha256": "af67fbbe7b32302fcc3a59fb9dc3ad08d4824dfd5e9c855315de2c0b3149dcbb",
+      "license": "Public domain",
+      "attribution": "Wadi Mujib5.jpeg — Effi Schweizer. Public domain. Source: https://commons.wikimedia.org/wiki/File:Wadi_Mujib5.jpeg Licence: https://commons.wikimedia.org/wiki/Template:PD-self. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/wadi-mujib-2-640.jpg",
+          "bytes": 163154,
+          "sha256": "67694433725c17bb31abbcd17560913ab9d965d05e014a93df86d56015145f56"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/wadi-mujib-2-1280.jpg",
+          "bytes": 586261,
+          "sha256": "8bf859c2003fa66155c812d8272109ff512e4df940dc466b7b731594d3a30c6a"
+        }
+      ]
+    },
+    {
+      "id": "dana-reserve-1",
+      "original": "docs/evidence/content-completion/originals/dana-reserve-1.jpg",
+      "originalSha256": "abc4f97a1b34fe58406d4b1f24518dc6b679e35ede41c0bf43038ff8b374d104",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Dana Reserve 04.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_04.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 423,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-1-640.jpg",
+          "bytes": 103828,
+          "sha256": "56051ddbaeb4ab70df5123e65f5c131f02854c101d8c763aabe1c2c03e0452ba"
+        },
+        {
+          "width": 1280,
+          "height": 846,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-1-1280.jpg",
+          "bytes": 387315,
+          "sha256": "73769846a3483149586a2722f18e8622f911d32a3d2e05a28dab92cd5951a39e"
+        },
+        {
+          "width": 2000,
+          "height": 1323,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-1-2000.jpg",
+          "bytes": 875560,
+          "sha256": "1a376f5df1a7cebb4f77f8491a337c1f9abd18a93b2e3b4767fa66415a285994"
+        },
+        {
+          "width": 2560,
+          "height": 1693,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-1-2560.jpg",
+          "bytes": 1323142,
+          "sha256": "96f5db5ba65485c652a6ea5beaefa0dd4618ec389ecdfbbae4d91fc5ed5582f7"
+        }
+      ]
+    },
+    {
+      "id": "dana-reserve-2",
+      "original": "docs/evidence/content-completion/originals/dana-reserve-2.jpg",
+      "originalSha256": "dd0743e2039681e3ed5bc58577b377ff982222bc90c2f068c3ba1d4ed1e238a3",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Dana Reserve 06.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_06.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-2-640.jpg",
+          "bytes": 126916,
+          "sha256": "f2cd1d2ef582e018134dcdcdc85059b37495eff2cce9d1e438416b885f787dbe"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-2-1280.jpg",
+          "bytes": 478312,
+          "sha256": "15aac90e1434859a5f732676725d80f934dbc4a42418aa833a643e7da0f0fb71"
+        },
+        {
+          "width": 2000,
+          "height": 1500,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-2-2000.jpg",
+          "bytes": 1088429,
+          "sha256": "b45c7c34051ea366dcd8e147043791a6a1278c375bca45a4347ea9cbaab7935d"
+        },
+        {
+          "width": 2560,
+          "height": 1920,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-2-2560.jpg",
+          "bytes": 1664244,
+          "sha256": "c96b6dd67b3dba9e29bd1590915b8f7b71f8959c9cee11808b53bfa00c2e4806"
+        }
+      ]
+    },
+    {
+      "id": "dana-reserve-3",
+      "original": "docs/evidence/content-completion/originals/dana-reserve-3.jpg",
+      "originalSha256": "d0a4a3b39850038fd8fca1047ff7e3d5be4acc8e0efcaf1c8f4ffa529bc639f7",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Dana Reserve 07.jpg — Bernard Gagnon. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dana_Reserve_07.jpg Licence: https://creativecommons.org/licenses/by-sa/3.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 459,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-3-640.jpg",
+          "bytes": 135907,
+          "sha256": "9541a4d7424653fb84b30a0c8b246e48aaed58f823dd0c9592ee5f26668dfab1"
+        },
+        {
+          "width": 1280,
+          "height": 917,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-3-1280.jpg",
+          "bytes": 504195,
+          "sha256": "6845fefbc291351bac73372fb22a18d5751ef43eddb7905557d67f98f0e87f80"
+        },
+        {
+          "width": 2000,
+          "height": 1433,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-3-2000.jpg",
+          "bytes": 1123487,
+          "sha256": "166ecec9b527d01e1bfcb9c06971f11102bd327e170434695d6ca4e391403d03"
+        },
+        {
+          "width": 2560,
+          "height": 1834,
+          "path": "docs/evidence/automated-publishing/responsive/dana-reserve-3-2560.jpg",
+          "bytes": 1702672,
+          "sha256": "0f1eaecb8c579d916c3f8f30c6c46506196fa7aa345b61873767d518a728f6f5"
+        }
+      ]
+    },
+    {
+      "id": "iraq-al-amir-1",
+      "original": "docs/evidence/content-completion/originals/iraq-al-amir-1.jpg",
+      "originalSha256": "25abb00095a5ed7029c8ee4e3222d0c60f8eba696ea2e7c41f34e42ebba3ac94",
+      "license": "CC0",
+      "attribution": "View of Qasr Al-Abd, Amman.jpg — Makeandtoss. CC0. Source: https://commons.wikimedia.org/wiki/File:View_of_Qasr_Al-Abd,_Amman.jpg Licence: https://creativecommons.org/publicdomain/zero/1.0/deed.en. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 473,
+          "path": "docs/evidence/automated-publishing/responsive/iraq-al-amir-1-640.jpg",
+          "bytes": 107800,
+          "sha256": "95205cf6bdb571e9d2032f355aa362beed29253b218f87a4ad3ed9fcce818bde"
+        },
+        {
+          "width": 1280,
+          "height": 946,
+          "path": "docs/evidence/automated-publishing/responsive/iraq-al-amir-1-1280.jpg",
+          "bytes": 382279,
+          "sha256": "8263e908ae71dc155c653c7660017c2d3b4486b7802679f659258881d2fe7681"
+        },
+        {
+          "width": 2000,
+          "height": 1478,
+          "path": "docs/evidence/automated-publishing/responsive/iraq-al-amir-1-2000.jpg",
+          "bytes": 840215,
+          "sha256": "d6d214ec09a76cf15356bd3d5d6efbb45768cb0e85a425ce5dc76e88a29c3467"
+        },
+        {
+          "width": 2560,
+          "height": 1892,
+          "path": "docs/evidence/automated-publishing/responsive/iraq-al-amir-1-2560.jpg",
+          "bytes": 1286348,
+          "sha256": "dfa3b4828de3cceb396409a240b2bea61f5342c4ec3f14aa62dcd4b96e4bd823"
+        }
+      ]
+    },
+    {
+      "id": "umm-qais-1",
+      "original": "docs/evidence/content-completion/originals/umm-qais-1.jpg",
+      "originalSha256": "b16da0b300fdbb31c01ecd0826fbc2c6cbdd2006ed8b9bc8782018178a210340",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Umm Qais (West Theater).jpg — Bashar Tabbah. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Umm_Qais_(West_Theater).jpg Licence: https://creativecommons.org/licenses/by-sa/4.0. Resized without upscaling to at most 2000 pixels on the long edge; JPEG recompressed at quality 88; metadata stripped. Responsive display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 427,
+          "path": "docs/evidence/automated-publishing/responsive/umm-qais-1-640.jpg",
+          "bytes": 91901,
+          "sha256": "7aba0aaad163836ae7175810952301bc1150203ecfb410a327a20920414d2c1c"
+        },
+        {
+          "width": 1280,
+          "height": 854,
+          "path": "docs/evidence/automated-publishing/responsive/umm-qais-1-1280.jpg",
+          "bytes": 350063,
+          "sha256": "a947e7463e1df736128118efef3b0c21e8464fe7baaeedb5ca464079fdaf9756"
+        },
+        {
+          "width": 2000,
+          "height": 1334,
+          "path": "docs/evidence/automated-publishing/responsive/umm-qais-1-2000.jpg",
+          "bytes": 808311,
+          "sha256": "7d5e59cb0868b706150423da9e590d35f093de5d1efaee162144612ab688c6c8"
+        }
+      ]
+    },
+    {
+      "id": "ajloun-forest-2",
+      "original": "docs/evidence/automated-publishing/ajloun-forest-candidate.jpg",
+      "originalSha256": "e9f6e303d22e7fd975844f72b01c7582547f01d0e9ec4c9ec740899f9d3327ea",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Ajlun Forest Reserve 42.jpg — Mohammad hajeer. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ajlun_Forest_Reserve_42.jpg Licence: https://creativecommons.org/licenses/by-sa/4.0/ Original file unchanged; responsive derivatives are separately identified; display cropping may apply.",
+      "changes": "Resized without upscaling; JPEG quality 90; metadata stripped. Same source licence applies to derivatives.",
+      "variants": [
+        {
+          "width": 640,
+          "height": 480,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-2-640.jpg",
+          "bytes": 126408,
+          "sha256": "223135f2f10e9a857a4b97ede589196c1b8727115aece5c6730c4daa4841ff45"
+        },
+        {
+          "width": 1280,
+          "height": 960,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-2-1280.jpg",
+          "bytes": 506019,
+          "sha256": "57078316f6eb7fb8f3a19fbc612ceb8dcb7747e64fb52b5872133eed94739801"
+        },
+        {
+          "width": 2000,
+          "height": 1500,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-2-2000.jpg",
+          "bytes": 1204331,
+          "sha256": "3c9b04278f06d50cf1cb491a57c33f203b2c684c886a3b3cb7a1ba3daee91cce"
+        },
+        {
+          "width": 2560,
+          "height": 1920,
+          "path": "docs/evidence/automated-publishing/responsive/ajloun-forest-2-2560.jpg",
+          "bytes": 1881467,
+          "sha256": "64af925a48f7154faab862c27283e34a4bb5c4902260d3d91c24c1aea4814b42"
+        }
+      ]
+    }
+  ]
+}

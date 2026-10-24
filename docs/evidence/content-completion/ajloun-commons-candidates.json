@@ -1,0 +1,1041 @@
+{
+  "accessed": "2026-10-19",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Ajloun+Forest%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata%7Csha1",
+  "rows": [
+    {
+      "title": "File:Ajlun Reserve 1.jpg",
+      "size": 4737861,
+      "width": 2008,
+      "height": 1344,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ajlun_Reserve_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28760988",
+      "sha1": "62044c81179d1755077f155dccbc161bce459951",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-30 16:32:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajlun Reserve 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm FinePix S2 Pro|Ajlun Forest Reserve|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2005-03-30|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Unidentified cultural heritage monuments in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Chata v ažlúnské přírodní rezervaci",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2005-03-30 13:44:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajlun Reserve 2.jpg",
+      "size": 4256796,
+      "width": 2008,
+      "height": 1339,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ajlun_Reserve_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28761743",
+      "sha1": "56b00a4a62b5c4629c054a0f8f3d52716823d730",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-30 16:44:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajlun Reserve 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 350D|Ajlun Forest Reserve|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2007-07-13|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Unidentified cultural heritage monuments in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Chata v ažlúnské přírodní rezervaci",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-07-13 18:31:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajloun forests JO 2.jpg",
+      "size": 3965331,
+      "width": 3264,
+      "height": 2448,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ajloun_forests_JO_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajloun_forests_JO_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31839497",
+      "sha1": "7cfe25d8da6cc49a5cadb57e22338ee2087a0163",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-03-28 02:38:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajloun forests JO 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun Forest Reserve|Self-published work|Taken with Samsung GT-I9300|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.245278",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.808333",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun forests, Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-10-04 13:42:58",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Freedom%27s_Falcon\" title=\"User:Freedom's Falcon\">Freedom's Falcon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajloun Reservation.jpg",
+      "size": 58015,
+      "width": 960,
+      "height": 552,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ajloun_Reservation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajloun_Reservation.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40090479",
+      "sha1": "a13520e90d78e98505a3f5ffdc4dbab8691bfd24",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-05-09 19:44:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajloun Reservation",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun Forest Reserve|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Reservation",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-05-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mervat_Salman\" class=\"mw-redirect\" title=\"User:Mervat Salman\">Osama Hajjaj</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajloun Reservation1.jpg",
+      "size": 168958,
+      "width": 720,
+      "height": 960,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ajloun_Reservation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajloun_Reservation1.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40090519",
+      "sha1": "c83a1e26c9f1818e499d14c661ab49070eb544a1",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-05-09 19:45:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajloun Reservation1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun Forest Reserve|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Reservation",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-05-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mervat_Salman\" class=\"mw-redirect\" title=\"User:Mervat Salman\">Osama Hajjaj</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajloun Reservation2.jpg",
+      "size": 30723,
+      "width": 720,
+      "height": 960,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ajloun_Reservation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajloun_Reservation2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40090520",
+      "sha1": "a872580868d0a48ceada371e1435b9be44ab8478",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-05-09 19:45:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajloun Reservation2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun Forest Reserve|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Reservation",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-05-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mervat_Salman\" class=\"mw-redirect\" title=\"User:Mervat Salman\">Osama Hajjaj</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Ajloun Reservation4.jpg",
+      "size": 65445,
+      "width": 960,
+      "height": 720,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ajloun_Reservation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajloun_Reservation4.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40090522",
+      "sha1": "54e30355347e7d96c77b2907d65e7d732bbd9835",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-05-09 19:45:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ajloun Reservation4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun Forest Reserve|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Reservation",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-05-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mervat_Salman\" class=\"mw-redirect\" title=\"User:Mervat Salman\">Osama Hajjaj</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:East of the Jordan and Dead Sea. Typical oak-tree in forest, Ajlun LOC matpc.05356.jpg",
+      "size": 3422721,
+      "width": 5785,
+      "height": 4228,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/East_of_the_Jordan_and_Dead_Sea._Typical_oak-tree_in_forest%2C_Ajlun_LOC_matpc.05356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:East_of_the_Jordan_and_Dead_Sea._Typical_oak-tree_in_forest,_Ajlun_LOC_matpc.05356.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66643689",
+      "sha1": "0cd43b83abd59527ffc864e6373066a640c95f78",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-05-19 11:06:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "East of the Jordan and Dead Sea. Typical oak-tree in forest, Ajlun LOC matpc.05356",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the Library of Congress|Ajlun Forest Reserve|PD-old-70-expired|PD-Matson|Images uploaded by Fæ|Matson Collection in the Library of Congress|CC-PD-Mark|Library of Congress-no known copyright restrictions",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<i>Title:</i> East of the Jordan and Dead Sea. Typical oak-tree in forest, Ajlun\n<p><i>Abstract/medium:</i> G. Eric and Edith Matson Photograph Collection\n</p>\n<i>Physical description:</i> 1 negative :",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1900",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>Library of Congress\n</p>\n<ul><li><i>Catalog:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/collection/matpc/item/mpc2004003998/PP\">https://www.loc.gov/pictures/collection/matpc/item/mpc2004003998/PP</a></li>\n<li><i>Original url:</i> <a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.loc.gov/loc.pnp/matpc.05356\">http://hdl.loc.gov/loc.pnp/matpc.05356</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Matson Collection",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/matpc.05356\">matpc.05356</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:East of the Jordan and the Dead Sea. Forest near Ajlun LOC matpc.21981.jpg",
+      "size": 1667797,
+      "width": 4054,
+      "height": 3119,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/East_of_the_Jordan_and_the_Dead_Sea._Forest_near_Ajlun_LOC_matpc.21981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:East_of_the_Jordan_and_the_Dead_Sea._Forest_near_Ajlun_LOC_matpc.21981.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67357619",
+      "sha1": "9a769ddc0ce8527dbccb873860bed34d598ff4fa",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-09-25 18:32:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "East of the Jordan and the Dead Sea. Forest near Ajlun LOC matpc.21981",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the Library of Congress|Ajlun Forest Reserve|PD-old-70-expired|PD-Matson|Images uploaded by Fæ|Matson Collection in the Library of Congress|CC-PD-Mark|Library of Congress-no known copyright restrictions",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<i>Title:</i> East of the Jordan and the Dead Sea. Forest near Ajlun\n<p><i>Abstract/medium:</i> G. Eric and Edith Matson Photograph Collection\n</p>\n<i>Physical description:</i> 1 negative :",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1900",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>Library of Congress\n</p>\n<ul><li><i>Catalog:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/collection/matpc/item/mpc2010007463/PP\">https://www.loc.gov/pictures/collection/matpc/item/mpc2010007463/PP</a></li>\n<li><i>Original url:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.loc.gov/loc.pnp/matpc.21981\">https://hdl.loc.gov/loc.pnp/matpc.21981</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Matson Collection",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/matpc.21981\">matpc.21981</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Plum Tree - Ajloun, Jordan.jpg",
+      "size": 10742195,
+      "width": 3468,
+      "height": 4624,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Plum_Tree_-_Ajloun%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plum_Tree_-_Ajloun,_Jordan.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128787924",
+      "sha1": "46cdf37368df3928696457622525b3d5261aa82e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-02-16 23:46:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Plum Tree - Ajloun, Jordan",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun|Self-published work|Plum trees in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fruity Plum Tree - Ajloun, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-07-01 16:12:35",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Taha9009&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Taha9009 (page does not exist)\">Taha Al-Hayali</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Wild Jordan - Ajloun.jpg",
+      "size": 12326140,
+      "width": 3468,
+      "height": 4624,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wild_Jordan_-_Ajloun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wild_Jordan_-_Ajloun.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128787953",
+      "sha1": "81857dfcdb6ae803627dfe90c3cdc27e4d93b755",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-02-16 23:47:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wild Jordan - Ajloun",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajlun|Self-published work|Unidentified Echinops|Unidentified plants in Jordan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Forests - Wild Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-07-01 17:11:54",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Taha9009&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Taha9009 (page does not exist)\">Taha Al-Hayali</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:محمية غابات عجلون الطبيعية.jpg",
+      "size": 469983,
+      "width": 960,
+      "height": 1280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D9%85%D8%AD%D9%85%D9%8A%D8%A9_%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B9%D8%AC%D9%84%D9%88%D9%86_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AD%D9%85%D9%8A%D8%A9_%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B9%D8%AC%D9%84%D9%88%D9%86_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191975435",
+      "sha1": "e7fd70cc675e4b9e9ed6465259755a0da4c5d69f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-05-14 21:15:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "محمية غابات عجلون الطبيعية",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth missing SDC participant in|Images from Wiki Loves Earth 2026|Images from Wiki Loves Earth 2026 in Jordan|Images from Wiki Loves Earth 2026 in the Levant",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ajloun Forest Nature Reserve",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-05-04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Randa107\" title=\"User:Randa107\">Randa107</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

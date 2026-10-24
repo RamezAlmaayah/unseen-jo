@@ -1,0 +1,193 @@
+{
+  "accessed": "2026-10-19",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AAjlun+Reserve+1.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "page": {
+    "pageid": 28760988,
+    "ns": 6,
+    "title": "File:Ajlun Reserve 1.jpg",
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 4737861,
+        "width": 2008,
+        "height": 1344,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ajlun_Reserve_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28760988",
+        "sha1": "62044c81179d1755077f155dccbc161bce459951",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-09-30 16:32:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Ajlun Reserve 1",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Fujifilm FinePix S2 Pro|Ajlun Forest Reserve|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2005-03-30|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Unidentified cultural heritage monuments in Jordan",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Chata v ažlúnské přírodní rezervaci",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2005-03-30 13:44:36",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ],
+    "revisions": [
+      {
+        "revid": 1223923203,
+        "parentid": 1172143562,
+        "slots": {
+          "main": {
+            "contentmodel": "wikitext",
+            "contentformat": "text/x-wiki",
+            "*": "=={{int:filedesc}}==\n{{Information\n|description={{cs|1=Chata v ažlúnské přírodní rezervaci}}\n|date=2005-03-30 13:44:36\n|source={{own}}\n|author=[[User:JoTB|JoTB]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n{{Wiki Loves Monuments 2013|jo}}\n\n[[Category:Unidentified cultural heritage monuments in Jordan]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Ajlun Forest Reserve]]\n[[Category:Jordan photographs taken on 2005-03-30]]\n[[Category:Taken with Fujifilm FinePix S2 Pro]]"
+          }
+        }
+      }
+    ]
+  },
+  "info": {
+    "size": 4737861,
+    "width": 2008,
+    "height": 1344,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ajlun_Reserve_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ajlun_Reserve_1.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28760988",
+    "sha1": "62044c81179d1755077f155dccbc161bce459951",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2013-09-30 16:32:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ajlun Reserve 1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Fujifilm FinePix S2 Pro|Ajlun Forest Reserve|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2005-03-30|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Unidentified cultural heritage monuments in Jordan",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Chata v ažlúnské přírodní rezervaci",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2005-03-30 13:44:36",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}
