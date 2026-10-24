@@ -1,0 +1,821 @@
+{
+  "slug": "umm-al-jimal",
+  "query": "Umm el Jimal",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Umm+el+Jimal+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:44.202Z",
+  "previousAttempt": {
+    "slug": "umm-al-jimal",
+    "retrievedAt": "2026-10-21T17:45:22.804Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Uejhousexviii.jpg",
+      "pageid": 7920024,
+      "revision": 1271165402,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993.}}\n|Source={{transferred from|en.wikipedia|}}\n|Date={{original upload date|2007-03-31}}\n|Author={{user at project|Herrmoody|wikipedia|en}}\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-user-en|Herrmoody}}\n\n== {{original upload log}} ==\n{{original description page|en.wikipedia|Uejhousexviii.jpg}}\n* 2007-03-31 03:12 [[:en:User:Herrmoody|Herrmoody]] 1047×1448× (334323 bytes) ''<nowiki>Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993. {{pd-self}}</nowiki>''\n\n[[Category:Umm el-Jimal]]",
+      "size": 334323,
+      "width": 1047,
+      "height": 1448,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Uejhousexviii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Uejhousexviii.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7920024",
+      "sha1": "577fae7474799ef7c2538e88c905f6286cef1b85",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-09-28 21:46:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Uejhousexviii",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-user|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "31 March 2007 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Herrmoody\" class=\"extiw\" title=\"wikipedia:User:Herrmoody\">Herrmoody</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 05.jpg",
+      "pageid": 194690135,
+      "revision": 1271165330,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:01:37\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 4997783,
+      "width": 3000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Umm_al-Jamal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_05.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690135",
+      "sha1": "54f2f3d9dc68e799eaf32b830de9406a392faf36",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:15:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 05",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:01:37",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 04.jpg",
+      "pageid": 194690136,
+      "revision": 1271165326,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:01:24\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 5700384,
+      "width": 3000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Umm_al-Jamal_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_04.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690136",
+      "sha1": "cf3bfa24333941712ab5fe4b1fb1b6b69dded44e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:15:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 04",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:01:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 06.jpg",
+      "pageid": 194690137,
+      "revision": 1271165332,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:02:21\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 4377444,
+      "width": 3000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Umm_al-Jamal_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_06.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690137",
+      "sha1": "d1a73ea64cd5c79e61e8fbc6955db47eae289f74",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:15:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 06",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:02:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 10.jpg",
+      "pageid": 194690142,
+      "revision": 1271165340,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:03:10\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 4812650,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Umm_al-Jamal_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_10.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690142",
+      "sha1": "b4552ceeac7d03f62ab06c3449b398971537963b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:15:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 10",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:03:10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 15.jpg",
+      "pageid": 194690149,
+      "revision": 1271165411,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:04:29\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 26230072,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Umm_al-Jamal_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_15.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690149",
+      "sha1": "2d11c6dbb0161e36887b688b1fa5d4f14bf2249c",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:16:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 15",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:04:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 17.jpg",
+      "pageid": 194690153,
+      "revision": 1271165404,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:05:02\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 23739505,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Umm_al-Jamal_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_17.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690153",
+      "sha1": "f65e9b6b51c57b2554e0c760b9ad9ad228fe6089",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:16:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 17",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:05:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jamal 18.jpg",
+      "pageid": 194690155,
+      "revision": 1271165405,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=أطلال مدينة أم الجمال الأثرية في محافظة المفرق شمال شرق الأردن}}\n{{en|1=Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.}}\n|date=2025-11-05 17:05:08\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 26011451,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Umm_al-Jamal_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jamal_18.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194690155",
+      "sha1": "65f8f10e27edec756f39cb8853a1cd57fa93935e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-27 22:16:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jamal 18",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Visual Jordan Archive Project|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ruins of the Ancient City of Umm al-Jimal in Mafraq Governorate, northeastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-11-05 17:05:08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm el-Jimal.jpg",
+      "pageid": 83039248,
+      "revision": 1046844426,
+      "wikitext": "=={{int:filedesc}}==\n{{Photograph\n |photographer = [https://mapandlens.com Bashar Tabbah]\n |title = Umm el-Jimal (West Church)\n |description = Umm el-Jimal (West Church)\n |depicted people = \n |depicted place = \n |date = 2013-03-15 14:59\n |medium = \n |dimensions = \n |institution = \n |department = \n |references = \n |object history = \n |exhibition history = \n |credit line =\n |inscriptions = \n |notes = \n |accession number = \n |source = [https://mapandlens.com Bashar Tabbah]\n |permission = {{PermissionTicket|id=2019101510004511}}\n |other_versions = \n |wikidata = Q3107493\n |camera coord =\n}}\n{{Location|32.3246|36.36842}}\n\n=={{int:license-header}}==\n{{CC BY-SA 4.0}}\n\n[[Category:Open Jordanian Heritage]]\n[[Category:Uploaded with pattypan]]",
+      "size": 1655645,
+      "width": 2500,
+      "height": 1667,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Umm_el-Jimal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_el-Jimal.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83039248",
+      "sha1": "192115f76d19d9b03158a14bd3898486ad7d422d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-12 17:52:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nUmm el-Jimal (West Church)</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Uploaded with pattypan|Items with VRTS permission confirmed|Open Jordanian Heritage|Photographs with Wikidata item|Files with coordinates missing SDC location of creation|Photographs with Wikidata item missing date",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.326667",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.369722",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://mapandlens.com\">Bashar Tabbah</a></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nUmm el-Jimal (West Church)</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "15 March 2013, 14:59",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://mapandlens.com\">Bashar Tabbah</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2019101510004511 2%3D2019101510004511\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\" class=\"extiw\" title=\"ticket:2019101510004511\">ticket #2019101510004511</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222019101510004511%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\"></span></td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "metadataRetrievedAt": "2026-10-21T18:57:19.865Z"
+    }
+  ]
+}

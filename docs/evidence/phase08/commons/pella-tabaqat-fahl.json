@@ -1,0 +1,796 @@
+{
+  "slug": "pella-tabaqat-fahl",
+  "query": "Pella Jordan",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Pella+Jordan+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:32.121Z",
+  "previousAttempt": {
+    "slug": "pella-tabaqat-fahl",
+    "retrievedAt": "2026-10-21T17:45:22.572Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Pella, Jordan (33351479954).jpg",
+      "pageid": 75182926,
+      "revision": 1255945551,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Pella, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/33351479954/ Pella, Jordan]\n| Date        = 2017-04-18 09:11\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from FRANKFURT, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/33351479954|archive=https://web.archive.org/web/20190123133830/https://www.flickr.com/photos/41523983@N08/33351479954/|reviewdate=2018-12-19 09:17:46|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n[[Category:Photographs by Carole Raddato]]\n[[Category:Pella, Jordan]]",
+      "size": 8822821,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pella%2C_Jordan_%2833351479954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pella,_Jordan_(33351479954).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75182926",
+      "sha1": "139f630f66e2e70f9947a4598587994a9497232f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-12-19 09:13:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pella, Jordan (33351479954)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pella, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-04-18 09:11",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/33351479954/\">Pella, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from FRANKFURT, Germany",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Pella, Jordan (33383216993).jpg",
+      "pageid": 75184412,
+      "revision": 1117445807,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = Pella, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/33383216993/ Pella, Jordan]\n| Date        = 2017-04-18 09:29\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from FRANKFURT, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/33383216993|archive=https://web.archive.org/web/20200609004721/https://www.flickr.com/photos/41523983@N08/33383216993|reviewdate=2018-12-19 10:04:28|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n[[Category:Photographs by Carole Raddato]]\n[[Category:Pella, Jordan]]",
+      "size": 2004901,
+      "width": 2009,
+      "height": 1330,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pella%2C_Jordan_%2833383216993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pella,_Jordan_(33383216993).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75184412",
+      "sha1": "4b9b9819c27dd3db809f5366d4f85fc5086b6bb3",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-12-19 10:03:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pella, Jordan (33383216993)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pella, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-04-18 09:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/33383216993/\">Pella, Jordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from FRANKFURT, Germany",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 01.jpg",
+      "pageid": 194425663,
+      "revision": 1250485317,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:19:13\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.450788|35.617439}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 47944855,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_01.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425663",
+      "sha1": "5ac1f60ec98abdeaf4edf76399172203c84ce497",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:54:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.450788",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.617439",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:19:13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 18.jpg",
+      "pageid": 194425713,
+      "revision": 1250485413,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:32:36\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.449385|35.617847}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 75607067,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_18.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425713",
+      "sha1": "8b85ece8aea44dba5e43820fab01a72a9cb82e31",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:55:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 18",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.449385",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.617847",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:32:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 26.jpg",
+      "pageid": 194425738,
+      "revision": 1250485459,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:38:33\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.449107|35.617633}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 70199099,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_26.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425738",
+      "sha1": "10045f2664d39f2e11f581e148dc1b94d6f2192f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:55:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 26",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.449107",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.617633",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:38:33",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 31.jpg",
+      "pageid": 194425753,
+      "revision": 1250485488,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:39:44\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.449088|35.617844}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 88529593,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_31.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425753",
+      "sha1": "1e2b43909964f1d6041a62af23808a86c2614ff4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:55:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 31",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.449088",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.617844",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:39:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 32.jpg",
+      "pageid": 194425767,
+      "revision": 1250485489,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:39:54\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.449088|35.617844}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 69857765,
+      "width": 12240,
+      "height": 16320,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_32.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425767",
+      "sha1": "1b18f1b93dc2720f6f23445836935353c005d9c0",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:55:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 32",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.449088",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.617844",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:39:54",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Archaeological Ruins of Tabaqat Fahl (Pella) 44.jpg",
+      "pageid": 194425799,
+      "revision": 1250485554,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=منطقة بيلا الآثرية في قرية طبقة فحل شمال الأردن}}\n{{en|1=The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.}}\n|date=2026-06-05 12:54:17\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|32.450544|35.61561}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Pella, Jordan]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 59137456,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Archaeological_Ruins_of_Tabaqat_Fahl_%28Pella%29_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archaeological_Ruins_of_Tabaqat_Fahl_(Pella)_44.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194425799",
+      "sha1": "5e65b6a0b7bb65238404b58389cd567f2c902249",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-23 21:56:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Archaeological Ruins of Tabaqat Fahl (Pella) 44",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pella, Jordan|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.450544",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.615610",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Archaeological Site of Pella in the Village of Tabaqat Fahl, Northern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-05 12:54:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

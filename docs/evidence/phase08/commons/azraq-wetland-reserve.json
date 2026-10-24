@@ -1,0 +1,806 @@
+{
+  "slug": "azraq-wetland-reserve",
+  "query": "Azraq Wetland Reserve",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Azraq+Wetland+Reserve+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:25.774Z",
+  "previousAttempt": {
+    "slug": "azraq-wetland-reserve",
+    "retrievedAt": "2026-10-21T17:45:22.189Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Azraq view.jpg",
+      "pageid": 7028817,
+      "revision": 986979918,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|Self made at the Azraq wetlands reserve.}}\n|Source={{transferred from|en.wikipedia|bobamnertiopsis}}\n|Date={{original upload date|2009-04-18}}\n|Author={{user at project|Ldud|wikipedia|en}}\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|author={{user at project|Ldud|wikipedia|en}}|Cc-by-3.0}}\n\n== {{original upload log}} ==\n{{original description page|en.wikipedia|Azraq_view.jpg}}\n* 2009-04-18 16:22 [[:en:User:Ldud|Ldud]] 2048×1536× (599318 bytes) ''<nowiki>Self made at the Azraq wetlands reserve.</nowiki>''\n\n[[Category:Azraq Wetland Reserve]]\n[[Category:2009 in Azraq]]\n[[Category:April 2009 in Jordan]]",
+      "size": 599318,
+      "width": 2048,
+      "height": 1536,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Azraq_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_view.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7028817",
+      "sha1": "a50397051d77ae1a891cadabe3795d763d0b07a9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-06-15 01:31:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq view",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|April 2009 in Jordan|2009 in Azraq",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Self made at the Azraq wetlands reserve.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "18 April 2009 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Bobamnertiopsis\" title=\"User:Bobamnertiopsis\">bobamnertiopsis</a>.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Ldud\" class=\"extiw\" title=\"wikipedia:User:Ldud\">Ldud</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Ldud\" class=\"extiw\" title=\"wikipedia:User:Ldud\">Ldud</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve (186671233).jpeg",
+      "pageid": 71847755,
+      "revision": 1070744305,
+      "wikitext": "== {{int:filedesc}} ==\n{{Photograph\n| Description    = 500px provided description: Azraq Wetland Reserve.. [#landscape ,#nature ,#landscapes ,#jordan ,#Azraq Wetland Reserve]\n| Date           = 2016-12-01 23:35:27 (UTC)\n| Source         = {{Imported with import-500px|url=https://500px.com/photo/186671233/azraq-wetland-reserve-by-parehan-k|archiveurl=https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/186671233/m%3D2048_k%3D1/v2?webp=true&sig=d1cb138faa3c8a8bfe319ae88e3bed25d2098f3fd64a0deb850120eacad2d87e|photo_id=186671233}}\n| photographer   = [https://500px.com/Parehan Parehan K]\n| Permission     = {{Cc-zero}}\n| title          = Azraq Wetland Reserve\n}}\n{{Location |31.8279643 |36.83537}}\n\n[[Category:Azraq Wetland Reserve]]",
+      "size": 264139,
+      "width": 1000,
+      "height": 631,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Azraq_Wetland_Reserve_%28186671233%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_(186671233).jpeg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71847755",
+      "sha1": "e744148908b314df826e643dd99683bb46d659e6",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-08-21 20:51:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nAzraq Wetland Reserve</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|CC-Zero|Files with coordinates missing SDC location of creation|Photos imported with import-500px",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.827964",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.835370",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/Parehan\">Parehan K</a></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n500px provided description: Azraq Wetland Reserve.. [#landscape ,#nature ,#landscapes ,#jordan ,#Azraq Wetland Reserve]</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1 December 2016, 23:35:27 (UTC)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/186671233/azraq-wetland-reserve-by-parehan-k\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/186671233/m%3D2048_k%3D1/v2?webp=true&amp;sig=d1cb138faa3c8a8bfe319ae88e3bed25d2098f3fd64a0deb850120eacad2d87e\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/186671233\" class=\"extiw\" title=\"toolforge:import-500px/photo/186671233\">detail page</a>)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve, May 2017.jpg",
+      "pageid": 115808391,
+      "revision": 1070744300,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Photograph of a pond at the Azraq Wetland Reserve in eastern Jordan, May 2017.}}\n|date=2016-05-20 10:50:49\n|source={{own}}\n|author=[[User:Joe Roe|Joe Roe]]\n|permission=\n|other versions=\n}}\n{{Location|31.833803|36.820425}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Azraq Wetland Reserve]]",
+      "size": 1499323,
+      "width": 4032,
+      "height": 3024,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Azraq_Wetland_Reserve%2C_May_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve,_May_2017.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115808391",
+      "sha1": "5ae07c23585c26ee55936fcb1839ecf062866d9e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-03-05 12:56:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq Wetland Reserve, May 2017",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.833803",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.820425",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photograph of a pond at the Azraq Wetland Reserve in eastern Jordan, May 2017.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-05-20 10:50:49",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Joe_Roe\" title=\"User:Joe Roe\">Joe Roe</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Photograph of Al-Azraq wetland reserve.jpg",
+      "pageid": 144445791,
+      "revision": 1029315773,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Al-Azraq wetland used to be filled with water, and by the time goes most of these natural springs dried out.}}\n|date=2024-01-23\n|source={{own}}\n|author=[[User:Raslan Hussein|Raslan Hussein]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n[[Category:Azraq Wetland Reserve]]",
+      "size": 104821,
+      "width": 1024,
+      "height": 768,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Photograph_of_Al-Azraq_wetland_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Photograph_of_Al-Azraq_wetland_reserve.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144445791",
+      "sha1": "e9cda5fa801045c747a169b3288f11f22661b8ba",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-01-23 08:17:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Photograph of Al-Azraq wetland reserve",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|CC-Zero|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Al-Azraq wetland used to be filled with water, and by the time goes most of these natural springs dried out.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-01-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Raslan_Hussein&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Raslan Hussein (page does not exist)\">Raslan Hussein</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve 30.jpg",
+      "pageid": 195124859,
+      "revision": 1250558947,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الطبيعة في بداية صيف 2026 في محمية الأزرق المائية، شرق الأردن}}\n{{en|1=Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.}}\n|date=2026-06-10 09:45:45\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.832798|36.821084}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Azraq Wetland Reserve]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 20889892,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Azraq_Wetland_Reserve_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_30.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195124859",
+      "sha1": "47d3272aef72e4f2e08b786795383dd5821c1ab6",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 17:17:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq Wetland Reserve 30",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.832798",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.821084",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 09:45:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve 31.jpg",
+      "pageid": 195124862,
+      "revision": 1250558960,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الطبيعة في بداية صيف 2026 في محمية الأزرق المائية، شرق الأردن}}\n{{en|1=Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.}}\n|date=2026-06-10 09:45:49\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.832798|36.821084}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Azraq Wetland Reserve]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 19022263,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Azraq_Wetland_Reserve_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_31.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195124862",
+      "sha1": "755e018e7db9ce7405c1a2925722023173b8a8ed",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 17:17:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq Wetland Reserve 31",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.832798",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.821084",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 09:45:49",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve 36.jpg",
+      "pageid": 195124873,
+      "revision": 1250558999,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الطبيعة في بداية صيف 2026 في محمية الأزرق المائية، شرق الأردن}}\n{{en|1=Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.}}\n|date=2026-06-10 09:51:36\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.8328|36.821216}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Azraq Wetland Reserve]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 1597368,
+      "width": 4080,
+      "height": 3060,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Azraq_Wetland_Reserve_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_36.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195124873",
+      "sha1": "05f13995d9e9163b27e27e3d2b47ab9279556292",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 17:18:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq Wetland Reserve 36",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.832800",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.821216",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 09:51:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Azraq Wetland Reserve 70.jpg",
+      "pageid": 195125232,
+      "revision": 1250559261,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=الطبيعة في بداية صيف 2026 في محمية الأزرق المائية، شرق الأردن}}\n{{en|1=Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.}}\n|date=2026-06-10 10:07:45\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.833488|36.820786}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Azraq Wetland Reserve]]\n[[Category:Visual Jordan Archive Project]]",
+      "size": 61104599,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Azraq_Wetland_Reserve_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azraq_Wetland_Reserve_70.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195125232",
+      "sha1": "c591976cee8f0e1af59374054c2f52e039841fdb",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-04 17:27:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Azraq Wetland Reserve 70",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Azraq Wetland Reserve|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.833488",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.820786",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nature at the beginning of the summer of 2026 in the Azraq Wetland Reserve, eastern Jordan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-10 10:07:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

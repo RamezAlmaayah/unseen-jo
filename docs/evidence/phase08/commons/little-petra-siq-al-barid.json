@@ -1,0 +1,741 @@
+{
+  "slug": "little-petra-siq-al-barid",
+  "query": "Little Petra",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Little+Petra+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T18:00:28.948Z",
+  "previousAttempt": {
+    "slug": "little-petra-siq-al-barid",
+    "retrievedAt": "2026-10-21T17:45:23.016Z",
+    "error": "HTTP 429",
+    "rows": []
+  },
+  "rows": [
+    {
+      "title": "File:Facade Siq al-Barid Jordan1501.jpg",
+      "pageid": 34054397,
+      "revision": 1240317645,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=This mausoleum is perched above a short flight of steps near the entrance of the siq. The facade is dated 1st century BC - 1st century AD.}}\n|date=2014-07-17 17:06:21\n|source={{own}}\n|author=[[User:G41rn8|Michael Gunther]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:First tomb at Siq al-Berid]]",
+      "size": 3573515,
+      "width": 1868,
+      "height": 2543,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Facade_Siq_al-Barid_Jordan1501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Facade_Siq_al-Barid_Jordan1501.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34054397",
+      "sha1": "6c26de69e7e8be26b5b074b20612f37f28a9a18d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-07-17 21:10:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Facade Siq al-Barid Jordan1501",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|First tomb at Siq al-Berid",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This mausoleum is perched above a short flight of steps near the entrance of the siq. The facade is dated 1st century BC - 1st century AD.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-07-17 17:06:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:G41rn8\" title=\"User:G41rn8\">Michael Gunther</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Columned Chamber Siq al-Barid Jordan1502.jpg",
+      "pageid": 34055432,
+      "revision": 865430221,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The chamber is fronted by two standing columns in antis. There isn't any decoration or carving inside. Below the chamber is a cave-house with three rooms. One room has recessed shelves in the walls. Possibly the columned chamber was the chapel for a memorial cult, and the house below was occupied by whoever was in charge of the rites.}}\n|date=2014-07-17 18:14:30\n|source={{own}}\n|author=[[User:G41rn8|Michael Gunther]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Triclinium, Siq al-Berid]]",
+      "size": 3700870,
+      "width": 2592,
+      "height": 1944,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Columned_Chamber_Siq_al-Barid_Jordan1502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Columned_Chamber_Siq_al-Barid_Jordan1502.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34055432",
+      "sha1": "c10473c1fec84a9312f35fe5fe90e8ff0b45053a",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-07-17 22:17:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Columned Chamber Siq al-Barid Jordan1502",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Triclinium, Siq al-Berid",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The chamber is fronted by two standing columns in antis. There isn't any decoration or carving inside. Below the chamber is a cave-house with three rooms. One room has recessed shelves in the walls. Possibly the columned chamber was the chapel for a memorial cult, and the house below was occupied by whoever was in charge of the rites.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-07-17 18:14:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:G41rn8\" title=\"User:G41rn8\">Michael Gunther</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:View of Siq al-Barid Jordan1505.jpg",
+      "pageid": 34055503,
+      "revision": 1198230886,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The siq's Arabic name means \"Cold Siq,\" because it is said that sunlight doesn't reach the bottom of the cleft. The pleasant view seen here is reminiscent of the Siq in Petra.}}\n|date=2014-07-17 18:22:20\n|source={{own}}\n|author=[[User:G41rn8|Michael Gunther]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Siq al-Berid]]\n[[Category:People in canyons]]",
+      "size": 3642664,
+      "width": 1944,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/View_of_Siq_al-Barid_Jordan1505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_of_Siq_al-Barid_Jordan1505.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34055503",
+      "sha1": "deb877c249442cf6738da17796f3f05419d13891",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-07-17 22:23:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "View of Siq al-Barid Jordan1505",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Siq al-Berid|Self-published work|People in canyons",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The siq's Arabic name means \"Cold Siq,\" because it is said that sunlight doesn't reach the bottom of the cleft. The pleasant view seen here is reminiscent of the Siq in Petra.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-07-17 18:22:20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:G41rn8\" title=\"User:G41rn8\">Michael Gunther</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Nabataean Tomb at Siq Al-Barid (5661296385).jpg",
+      "pageid": 52704620,
+      "revision": 932064469,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n| Description = AWIB-ISAW: Nabataean Tomb at Siq Al-Barid\nView of a Nabataean tomb on the site of Siq al-Barid, near Petra. by Sarah Ferguson (2009)\ncopyright: 2009 Sarah Ferguson (used with permission)\nphotographed place: Petra (Petra) [http://pleiades.stoa.org/places/697725/ pleiades.stoa.org/places/697725/]\n\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: [http://www.nyu.edu/isaw/awib.htm www.nyu.edu/isaw/awib.htm].\n| Source      = [https://www.flickr.com/photos/isawnyu/5661296385/ Nabataean Tomb at Siq Al-Barid]\n| Date        = 2009-10-01 00:00\n| Author      = [https://www.flickr.com/people/34561917@N04 Institute for the Study of the Ancient World] from New York, United States of America\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{User:FlickreviewR/reviewed-pass|isawnyu|https://flickr.com/photos/34561917@N04/5661296385|2016-11-01 17:32:37|cc-by-2.0|}}\n[[Category:Triclinium, Siq al-Berid]]\n[[Category:Files from Institute for the Study of the Ancient World NYU Flickr stream]]",
+      "size": 965453,
+      "width": 960,
+      "height": 1280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Nabataean_Tomb_at_Siq_Al-Barid_%285661296385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nabataean_Tomb_at_Siq_Al-Barid_(5661296385).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52704620",
+      "sha1": "256cc71db4d0eca0151b6d5b4cc3ef63b8cf1128",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-11-01 17:30:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabataean Tomb at Siq Al-Barid (5661296385)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Flickr images reviewed by FlickreviewR|Triclinium, Siq al-Berid|Files from Institute for the Study of the Ancient World NYU Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>AWIB-ISAW: Nabataean Tomb at Siq Al-Barid\nView of a Nabataean tomb on the site of Siq al-Barid, near Petra. by Sarah Ferguson (2009)\ncopyright: 2009 Sarah Ferguson (used with permission)\nphotographed place: Petra (Petra) <a rel=\"nofollow\" class=\"external text\" href=\"http://pleiades.stoa.org/places/697725/\">pleiades.stoa.org/places/697725/</a>\n</p>\nPublished by the Institute for the Study of the Ancient World as part of the Ancient World Image Bank (AWIB). Further information: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.nyu.edu/isaw/awib.htm\">www.nyu.edu/isaw/awib.htm</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-10-01 00:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/isawnyu/5661296385/\">Nabataean Tomb at Siq Al-Barid</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34561917@N04\">Institute for the Study of the Ancient World</a> from New York, United States of America",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:05 Little Petra Canyon Trail - The Trail Starts at the End of Little Petra - panoramio.jpg",
+      "pageid": 56766937,
+      "revision": 737148826,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|description={{en|Little Petra Canyon Trail - The Trail Starts at the End of Little Petra (Siq al-Berid)}}\n|date={{Original upload date|2013-08-09}}\n|source=https://web.archive.org/web/20161029172037/http://www.panoramio.com/photo/94381058\n|author=[https://web.archive.org/web/20161029172005/http://www.panoramio.com/user/7789518?with_photo_id=94381058 hikinginjordan]\n|permission={{cc-by-sa-3.0|hikinginjordan}}\n{{Panoramioreview|Panoramio_upload_bot|2017-03-03}}\n|other_versions={{Image extracted|Little Petra banner WV.jpg}}\n|other_fields=\n}}\n{{Location|30.374783|35.450157|source:Panoramio}}\n\n[[Category:Siq al-Berid]]\n[[Category:Panoramio files uploaded by Panoramio_upload_bot]]",
+      "size": 643373,
+      "width": 2048,
+      "height": 1361,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/05_Little_Petra_Canyon_Trail_-_The_Trail_Starts_at_the_End_of_Little_Petra_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:05_Little_Petra_Canyon_Trail_-_The_Trail_Starts_at_the_End_of_Little_Petra_-_panoramio.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56766937",
+      "sha1": "be9590dd8abd77a06b30f282877b9daec5a19cc6",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-03-03 06:48:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "05 Little Petra Canyon Trail - The Trail Starts at the End of Little Petra - panoramio",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Siq al-Berid|Panoramio files uploaded by Panoramio upload bot|Images with extracted images|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "30.374783",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.450157",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Little Petra Canyon Trail - The Trail Starts at the End of Little Petra (Siq al-Berid)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "9 August 2013 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161029172037/http://www.panoramio.com/photo/94381058\">https://web.archive.org/web/20161029172037/http://www.panoramio.com/photo/94381058</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161029172005/http://www.panoramio.com/user/7789518?with_photo_id=94381058\">hikinginjordan</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">hikinginjordan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 3 March 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "hikinginjordan",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Little Petra, Jordan - 49785122391.jpg",
+      "pageid": 130025528,
+      "revision": 898071271,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Siq al-Berid, Jordan}}\n|date={{Taken on|2017-04-15 16:40:57|location=Jordan}}\n|source=https://www.flickr.com/photos/41523983@N08/49785122391/\n|author=[https://www.flickr.com/people/41523983@N08 Carole Raddato]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/49785122391|archive=|reviewdate=2023-03-26 08:38:12|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Siq al-Berid]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 7483555,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Little_Petra%2C_Jordan_-_49785122391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Little_Petra,_Jordan_-_49785122391.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130025528",
+      "sha1": "8eeda97c1fa8a40c6762387643424ca6f4822bc6",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-03-26 08:35:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Little Petra, Jordan - 49785122391",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Siq al-Berid|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-15",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Siq al-Berid, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 15 April 2017, 16:40:57",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/41523983@N08/49785122391/\">https://www.flickr.com/photos/41523983@N08/49785122391/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Little Petra, Jordan - 49785443762.jpg",
+      "pageid": 130025529,
+      "revision": 1185559328,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Siq al-Berid, Jordan}}\n|date={{Taken on|2017-04-15 16:42:03|location=Jordan}}\n|source=https://www.flickr.com/photos/41523983@N08/49785443762/\n|author=[https://www.flickr.com/people/41523983@N08 Carole Raddato]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/49785443762|archive=|reviewdate=2023-03-26 08:38:27|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Siq al-Berid]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 10639222,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Little_Petra%2C_Jordan_-_49785443762.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Little_Petra,_Jordan_-_49785443762.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130025529",
+      "sha1": "94d63eed012ef207e68125bd31053ffe1e31c228",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-03-26 08:35:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Little Petra, Jordan - 49785443762",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Siq al-Berid|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-15|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Siq al-Berid, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 15 April 2017, 16:42:03",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/41523983@N08/49785443762/\">https://www.flickr.com/photos/41523983@N08/49785443762/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Little Petra, Jordan - 49785442382.jpg",
+      "pageid": 130025560,
+      "revision": 965249701,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Siq al-Berid, Jordan}}\n|date={{Taken on|2017-04-15 17:08:52|location=Jordan}}\n|source=https://www.flickr.com/photos/41523983@N08/49785442382/\n|author=[https://www.flickr.com/people/41523983@N08 Carole Raddato]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/49785442382|archive=|reviewdate=2023-03-26 08:38:18|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Siq al-Berid]]\n[[Category:Photographs by Carole Raddato]]",
+      "size": 6547042,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Little_Petra%2C_Jordan_-_49785442382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Little_Petra,_Jordan_-_49785442382.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130025560",
+      "sha1": "b0427301a5493d3fcff39b0fcee3f426474fb7ad",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-03-26 08:36:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Little Petra, Jordan - 49785442382",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Siq al-Berid|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-15",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Siq al-Berid, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 15 April 2017, 17:08:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/41523983@N08/49785442382/\">https://www.flickr.com/photos/41523983@N08/49785442382/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

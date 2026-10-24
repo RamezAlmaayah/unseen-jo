@@ -1,0 +1,320 @@
+{
+  "retrievedAt": "2026-10-21T17:59:59.659Z",
+  "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q2284751&props=claims|labels&languages=en",
+  "data": {
+    "entities": {
+      "Q2284751": {
+        "type": "item",
+        "id": "Q2284751",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Little Petra"
+          }
+        },
+        "claims": {
+          "P373": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P373",
+                "hash": "1eef67fd0571aec0d3837ad2fda39c839fa5941d",
+                "datavalue": {
+                  "value": "Siq al-Berid",
+                  "type": "string"
+                },
+                "datatype": "string"
+              },
+              "type": "statement",
+              "id": "Q2284751$20F4D87E-0D30-4C50-A9C2-AE9103AF92F2",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P31": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P31",
+                "hash": "4441c653c09b7127b7d39c2f526a738ab5fbd6a9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 839954,
+                    "id": "Q839954"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q2284751$6C81C207-8A9D-4EE9-B907-12140C944184",
+              "rank": "normal"
+            }
+          ],
+          "P625": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P625",
+                "hash": "0f309648f36aa52da0d363dbf05840a9f1c96d8b",
+                "datavalue": {
+                  "value": {
+                    "latitude": 30.37527847,
+                    "longitude": 35.45138931,
+                    "altitude": null,
+                    "precision": 0.000001,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                  },
+                  "type": "globecoordinate"
+                },
+                "datatype": "globe-coordinate"
+              },
+              "type": "statement",
+              "id": "Q2284751$2716C99A-DCA3-4EA2-A3B2-4F374C0B6283",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P17": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P17",
+                "hash": "a2dfacfd39f4dd6f798d19c69101ef4c9a524921",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 810,
+                    "id": "Q810"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q2284751$2fd166f1-420d-413a-e42a-0350ed91a66b",
+              "rank": "normal"
+            }
+          ],
+          "P131": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P131",
+                "hash": "2f83a465151bfd6773fd55f142841c9640cce9d2",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 606340,
+                    "id": "Q606340"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q2284751$13432b63-4db6-e26a-1da9-45c749987ff0",
+              "rank": "normal"
+            }
+          ],
+          "P18": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P18",
+                "hash": "9129ecb9240d969518cbd6fbf5ffa150509219b7",
+                "datavalue": {
+                  "value": "05 Little Petra Canyon Trail - The Trail Starts at the End of Little Petra - panoramio.jpg",
+                  "type": "string"
+                },
+                "datatype": "commonsMedia"
+              },
+              "type": "statement",
+              "id": "Q2284751$16f03da8-47d7-fe6b-645d-0fb7bebc321a",
+              "rank": "normal"
+            }
+          ],
+          "P948": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P948",
+                "hash": "98724e8b79baeb1410e69520c88bb74526dcce06",
+                "datavalue": {
+                  "value": "Little Petra banner WV.jpg",
+                  "type": "string"
+                },
+                "datatype": "commonsMedia"
+              },
+              "type": "statement",
+              "id": "Q2284751$efcd190f-4bf7-aa30-25f9-f2485b5a1e8e",
+              "rank": "normal"
+            }
+          ],
+          "P1481": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P1481",
+                "hash": "9b73c1629d8cf8b4b7355c6cb78cecf861268205",
+                "datavalue": {
+                  "value": "22250",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q2284751$0116D3C8-7D9F-4848-BCFF-0936C0086D35",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "76a79b116ca06246492985bf11b5a8185a31b3fa",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "d48773f0ccc27a00c6ad662c2edb5fc952c667f8",
+                        "datavalue": {
+                          "value": "https://vici.org/vici/22250",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "186ff288ba97a69a10d97967d90243c601816ed8",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2019-09-29T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P646": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P646",
+                "hash": "7116d971c1e3fee949b479eacf94e21fd4361a4e",
+                "datavalue": {
+                  "value": "/m/01348234",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q2284751$C8E5CFB9-78F3-41EF-8F00-48EA838E84A5",
+              "rank": "normal"
+            }
+          ],
+          "P7772": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P7772",
+                "hash": "4b5a7d3be9024b9acf58e8e694df32f7b28e7484",
+                "datavalue": {
+                  "value": "little-petra",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q2284751$5AECD52E-B855-42DF-8B56-65F402794C01",
+              "rank": "normal"
+            }
+          ],
+          "P11693": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P11693",
+                "hash": "a2196e00bceebfea2abfaabf832fbb71cf066dd3",
+                "datavalue": {
+                  "value": "546597034",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q2284751$AC80AE6F-4455-4481-A719-A9EF1EE28943",
+              "rank": "normal"
+            }
+          ]
+        }
+      }
+    },
+    "success": 1
+  }
+}

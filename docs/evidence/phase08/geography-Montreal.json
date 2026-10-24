@@ -1,0 +1,38 @@
+{
+  "retrievedAt": "2026-10-21T17:59:59.249Z",
+  "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Montreal+Crusader+castle&gsrlimit=2&prop=coordinates%7Cpageprops&coprimary=primary",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 2,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "754493": {
+          "pageid": 754493,
+          "ns": 0,
+          "title": "Montreal (castle)",
+          "index": 1,
+          "pageprops": {
+            "page_image_free": "Montreal_Castle_Visitor_center.jpg",
+            "wikibase-shortdesc": "12th-century Crusader castle in Shoubak, Jordan",
+            "wikibase_item": "Q1362749"
+          }
+        },
+        "7853047": {
+          "pageid": 7853047,
+          "ns": 0,
+          "title": "List of Crusader castles",
+          "index": 2,
+          "pageprops": {
+            "defaultsort": "List Of Crusader Castles",
+            "page_image_free": "Map_of_the_Crusader_states_and_castles.png",
+            "wikibase-shortdesc": "Overview of fortified medieval residences in the Eastern Mediterranean",
+            "wikibase_item": "Q931324"
+          }
+        }
+      }
+    }
+  }
+}

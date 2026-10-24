@@ -1,0 +1,992 @@
+{
+  "slug": "amman-citadel",
+  "query": "Temple of Hercules Amman Citadel",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Temple+of+Hercules+Amman+Citadel+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:16.576Z",
+  "rows": [
+    {
+      "title": "File:Temple of Hercules - Amman citadel.jpg",
+      "pageid": 95959785,
+      "revision": 967381595,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Temple of Hercules - Amman citadel}}\n|date=2018-02-06\n|source={{own}}\n|author=[[User:AliAbuRas|AliAbuRas]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Temple of Hercules (Amman)|North-East view]]",
+      "size": 1797863,
+      "width": 1772,
+      "height": 1285,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Temple_of_Hercules_-_Amman_citadel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules_-_Amman_citadel.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95959785",
+      "sha1": "f09516b65cff8cfb2c8153166513568fa3f30336",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-11-09 14:14:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules - Amman citadel",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules - Amman citadel",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-02-06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AliAbuRas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AliAbuRas (page does not exist)\">AliAbuRas</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules and Umayyad Palace - Amman citadel.jpg",
+      "pageid": 95959786,
+      "revision": 1196352505,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Temple of Hercules and Umayyad Palace  - Amman citadel}}\n|date=2018-02-06\n|source={{own}}\n|author=[[User:AliAbuRas|AliAbuRas]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Temple of Hercules (Amman)]]\n[[Category:Umayyad Qasr of Amman]]",
+      "size": 1960603,
+      "width": 1060,
+      "height": 1595,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Temple_of_Hercules_and_Umayyad_Palace_-_Amman_citadel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules_and_Umayyad_Palace_-_Amman_citadel.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95959786",
+      "sha1": "b41c7f5239b8c416cbe5c8a050e3f731a2beb0e0",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-11-09 14:14:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules and Umayyad Palace - Amman citadel",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Umayyad Qasr of Amman|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules and Umayyad Palace  - Amman citadel",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-02-06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AliAbuRas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AliAbuRas (page does not exist)\">AliAbuRas</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 06.jpg",
+      "pageid": 195904440,
+      "revision": 1277217145,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:43:29\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.95352|35.935715}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 50642578,
+      "width": 14432,
+      "height": 10824,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Temple_of_Hercules%2C_Amman_Citadel_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_06.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904440",
+      "sha1": "fb6bbe82fd88f52fcc1531325fdaa2dda5ba4cd5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:28:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 06",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953520",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.935715",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:43:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 13.jpg",
+      "pageid": 195904453,
+      "revision": 1277217207,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:45:51\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953524|35.935169}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 45803077,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Temple_of_Hercules%2C_Amman_Citadel_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_13.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904453",
+      "sha1": "27ab464845f011ed7c878666650558bd27023713",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:28:29",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 13",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953524",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.935169",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:45:51",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 15.jpg",
+      "pageid": 195904455,
+      "revision": 1277217230,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:47:28\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953462|35.934877}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 54185382,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Temple_of_Hercules%2C_Amman_Citadel_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_15.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904455",
+      "sha1": "33a5b846cb3d6dbbcd0274dbb4b823eeec984b82",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:28:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 15",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953462",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.934877",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:47:28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 20.jpg",
+      "pageid": 195904459,
+      "revision": 1277217291,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:48:56\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953769|35.934609}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 27055999,
+      "width": 12504,
+      "height": 9376,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Temple_of_Hercules%2C_Amman_Citadel_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_20.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904459",
+      "sha1": "1b199aaec533976d5d93b2fee04f8a4d5954a8e5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:28:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 20",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953769",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.934609",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:48:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 29.jpg",
+      "pageid": 195904484,
+      "revision": 1277217385,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:51:32\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953922|35.935126}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 25456365,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Temple_of_Hercules%2C_Amman_Citadel_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_29.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904484",
+      "sha1": "3115e8516932ceb5e0163586be868502a9d59037",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:29:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 29",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953922",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.935126",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:51:32",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 32.jpg",
+      "pageid": 195904492,
+      "revision": 1277217407,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:52:53\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953981|35.935286}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 41182989,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Temple_of_Hercules%2C_Amman_Citadel_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_32.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904492",
+      "sha1": "12e88c504d33ef648f0c8d06a88f0cdc13e7904f",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:29:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 32",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953981",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.935286",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:52:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 42.jpg",
+      "pageid": 195904558,
+      "revision": 1277217483,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 09:55:56\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.953686|35.934985}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 49196249,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Temple_of_Hercules%2C_Amman_Citadel_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_42.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904558",
+      "sha1": "68d948bb84ee4b872fccc2138adc7d8ad3aceeb2",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:33:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 42",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953686",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.934985",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 09:55:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Temple of Hercules, Amman Citadel 46.jpg",
+      "pageid": 195904578,
+      "revision": 1277217523,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=معبد هرقل من زوايا مختلفة، وجدرانه الداخلية، بالإضافة لبعض حطام المكان}}\n{{en|1=Temple of Hercules from different angles, its interior walls, and some of the site's ruins}}\n|date=2026-07-12 11:32:35\n|source={{own}}\n|author=[[User:Mohammad hajeer|Mohammad hajeer]]\n|permission=\n|other versions=\n}}\n{{Location|31.95395|35.934557}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Visual Jordan Archive Project]]\n[[Category:Temple of Hercules (Amman)]]",
+      "size": 44417129,
+      "width": 16320,
+      "height": 12240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Temple_of_Hercules%2C_Amman_Citadel_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hercules,_Amman_Citadel_46.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195904578",
+      "sha1": "9df0f497b75e93f22a50d0d0d1c6480478f97748",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-07-19 13:33:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Temple of Hercules, Amman Citadel 46",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Temple of Hercules (Amman)|Self-published work|Files with coordinates missing SDC location of creation|Visual Jordan Archive Project",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.953950",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.934557",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Temple of Hercules from different angles, its interior walls, and some of the site's ruins",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-07-12 11:32:35",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mohammad_hajeer\" title=\"User:Mohammad hajeer\">Mohammad hajeer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

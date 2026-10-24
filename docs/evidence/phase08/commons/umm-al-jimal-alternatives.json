@@ -1,0 +1,1068 @@
+{
+  "retrievedAt": "2026-10-21T18:57:19.865Z",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Umm+el-Jimal%22+-intitle%3A%22Umm+al-Jamal%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "rows": [
+    {
+      "title": "File:Uejhousexviii.jpg",
+      "pageid": 7920024,
+      "revision": 1271165402,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993.}}\n|Source={{transferred from|en.wikipedia|}}\n|Date={{original upload date|2007-03-31}}\n|Author={{user at project|Herrmoody|wikipedia|en}}\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-user-en|Herrmoody}}\n\n== {{original upload log}} ==\n{{original description page|en.wikipedia|Uejhousexviii.jpg}}\n* 2007-03-31 03:12 [[:en:User:Herrmoody|Herrmoody]] 1047×1448× (334323 bytes) ''<nowiki>Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993. {{pd-self}}</nowiki>''\n\n[[Category:Umm el-Jimal]]",
+      "size": 334323,
+      "width": 1047,
+      "height": 1448,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Uejhousexviii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Uejhousexviii.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7920024",
+      "sha1": "577fae7474799ef7c2538e88c905f6286cef1b85",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-09-28 21:46:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Uejhousexviii",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-user|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photograph of House XVIII taken in Umm el-Jimal, Jordan in the summer of 1993.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "31 March 2007 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Herrmoody\" class=\"extiw\" title=\"wikipedia:User:Herrmoody\">Herrmoody</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal44.jpg",
+      "pageid": 11851131,
+      "revision": 1271165260,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique d'Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1354537,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/20100922_umaljamal44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal44.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11851131",
+      "sha1": "14dc1f051213632b6700055a174871b4fe24714b",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-26 18:41:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal44",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique d'Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal50.jpg",
+      "pageid": 11851185,
+      "revision": 1271165265,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique d'Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1297296,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/20100922_umaljamal50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal50.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11851185",
+      "sha1": "8fba55989890d88ae33e97bbf834839e6569153e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-22 12:42:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal50",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique d'Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal55.jpg",
+      "pageid": 11853174,
+      "revision": 1271165273,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique de Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Arches in Umm al Jamal]]\n[[Category:Doors in Umm al Jamal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1325881,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/20100922_umaljamal55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal55.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11853174",
+      "sha1": "c6f15b752d1cb85557663e46898f2243a3dadc1d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-22 17:33:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal55",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Doors in Umm al Jamal|Arches in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique de Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal60.jpg",
+      "pageid": 11853272,
+      "revision": 1271165279,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique de Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1439668,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/20100922_umaljamal60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal60.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11853272",
+      "sha1": "25995969673a29eedb87173a1463b28b61a0ca80",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-22 17:42:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal60",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique de Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal61.jpg",
+      "pageid": 11853292,
+      "revision": 1271165281,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique de Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1741878,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/20100922_umaljamal61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal61.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11853292",
+      "sha1": "e012d076f73b1ee1ae3bf541b97b48c6d276ec20",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-22 17:44:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal61",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique de Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:20100922 umaljamal64.jpg",
+      "pageid": 11853560,
+      "revision": 1271165284,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{fr|1=Le site archéologique de Umm al Jamal.}}\n|Source={{own}}\n|Author=[[User:Jeanhousen|Jean Housen]]\n|Date=2010-09-22\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}\n\n[[Category:Umm el-Jimal]]\n[[Category:Windows in Umm al Jamal]]\n[[Category:2010 in Umm al Jamal]]\n[[Category:September 2010 in Jordan]]\n[[Category:Photos of Jordan by user Jean Housen]]\n[[Category:2010 photos by user Jean Housen]]\n[[Category:Jordan photographs taken on 2010-09-22]]",
+      "size": 1371042,
+      "width": 3872,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/20100922_umaljamal64.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:20100922_umaljamal64.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11853560",
+      "sha1": "c8d908d665b82a26d576d79066c2aa1e54077320",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-10-22 18:16:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "20100922 umaljamal64",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|September 2010 in Jordan|Jordan photographs taken on 2010-09-22|2010 photos by user Jean Housen|Photos of Jordan by user Jean Housen|2010 in Umm al Jamal|Windows in Umm al Jamal|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Le site archéologique de Umm al Jamal.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jeanhousen\" title=\"User:Jeanhousen\">Jean Housen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Site c2.JPG",
+      "pageid": 18415797,
+      "revision": 1282930731,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=excavated corner}}\n|date=2012-01-21\n|source={{own}}\n|author=[[User:M1st91|M1st91]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Umm el-Jimal]]",
+      "size": 1601980,
+      "width": 2816,
+      "height": 2112,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Site_c2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Site_c2.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18415797",
+      "sha1": "be5870d2d280948b175d5b52a40b104da8550ef5",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-02-18 04:47:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Site c2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "excavated corner",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-01-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:M1st91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M1st91 (page does not exist)\">M1st91</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm al-Jimal al-Awwal commons.jpg",
+      "pageid": 21857234,
+      "revision": 1271165551,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Images, tracings, and readings of the Umm al-Jimal Nabataean Inscription}}\n|date=2012-10-01 11:39:25\n|source={{own}}\n|author=[[User:Sabulhab|Sabulhab]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Umm el-Jimal]]",
+      "size": 65801,
+      "width": 387,
+      "height": 524,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Umm_al-Jimal_al-Awwal_commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_al-Jimal_al-Awwal_commons.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21857234",
+      "sha1": "db1a07edcc259d88c9febf67b3cc82cd2fa3d12d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-10-01 15:41:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm al-Jimal al-Awwal commons",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Images, tracings, and readings of the Umm al-Jimal Nabataean Inscription",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-10-01 11:39:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sabulhab&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sabulhab (page does not exist)\">Sabulhab</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm Al Jimal 2.jpg",
+      "pageid": 28777893,
+      "revision": 1271165321,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description=\n|date=2009-07-29 18:04:38\n|source={{own}}\n|author=[[User:JoTB|JoTB]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n{{Wiki Loves Monuments 2013|jo}}\n[[Category:Umm el-Jimal]]\n[[Category:Uploaded via Campaign:wlm-jo]]\n[[Category:Jordan photographs taken on 2009-07-29]]",
+      "size": 6451276,
+      "width": 2118,
+      "height": 1425,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Umm_Al_Jimal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_Al_Jimal_2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28777893",
+      "sha1": "d881ccba4b6b8e63cba9ad8c6e77bb12c654b20d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-30 20:13:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Umm Al Jimal 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media lacking a description|Self-published work|Images from Wiki Loves Monuments 2013|Images from Wiki Loves Monuments 2013 in Jordan|Uploaded via Campaign:wlm-jo|Jordan photographs taken on 2009-07-29|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "DateTimeOriginal": {
+          "value": "2009-07-29 18:04:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JoTB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JoTB (page does not exist)\">JoTB</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Umm el-Jimal.jpg",
+      "pageid": 83039248,
+      "revision": 1046844426,
+      "wikitext": "=={{int:filedesc}}==\n{{Photograph\n |photographer = [https://mapandlens.com Bashar Tabbah]\n |title = Umm el-Jimal (West Church)\n |description = Umm el-Jimal (West Church)\n |depicted people = \n |depicted place = \n |date = 2013-03-15 14:59\n |medium = \n |dimensions = \n |institution = \n |department = \n |references = \n |object history = \n |exhibition history = \n |credit line =\n |inscriptions = \n |notes = \n |accession number = \n |source = [https://mapandlens.com Bashar Tabbah]\n |permission = {{PermissionTicket|id=2019101510004511}}\n |other_versions = \n |wikidata = Q3107493\n |camera coord =\n}}\n{{Location|32.3246|36.36842}}\n\n=={{int:license-header}}==\n{{CC BY-SA 4.0}}\n\n[[Category:Open Jordanian Heritage]]\n[[Category:Uploaded with pattypan]]",
+      "size": 1655645,
+      "width": 2500,
+      "height": 1667,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Umm_el-Jimal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Umm_el-Jimal.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83039248",
+      "sha1": "192115f76d19d9b03158a14bd3898486ad7d422d",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2019-10-12 17:52:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nUmm el-Jimal (West Church)</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Uploaded with pattypan|Items with VRTS permission confirmed|Open Jordanian Heritage|Photographs with Wikidata item|Files with coordinates missing SDC location of creation|Photographs with Wikidata item missing date",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "32.326667",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "36.369722",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://mapandlens.com\">Bashar Tabbah</a></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nUmm el-Jimal (West Church)</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "15 March 2013, 14:59",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://mapandlens.com\">Bashar Tabbah</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2019101510004511 2%3D2019101510004511\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\" class=\"extiw\" title=\"ticket:2019101510004511\">ticket #2019101510004511</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222019101510004511%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2019101510004511\"></span></td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:The Praetorium at Um el Jimal.jpg",
+      "pageid": 154196693,
+      "revision": 1271165307,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description=\n|date=2022-01-08 11:34:04\n|source={{own}}\n|author=[[User:Kariman Mango|Kariman Mango]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2024|jo}}\n\n[[Category:Cultural heritage monuments in Jordan]]\n[[Category:Umm el-Jimal]]\n[[Category:Uploaded via Campaign:wlm-jo]]",
+      "size": 1222589,
+      "width": 2880,
+      "height": 1296,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Praetorium_at_Um_el_Jimal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Praetorium_at_Um_el_Jimal.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154196693",
+      "sha1": "bf475cdf2dfa2da5123b9bc33e9ad1649ddd6e8c",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-10-23 08:40:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "The Praetorium at Um el Jimal",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media lacking a description|Self-published work|Cultural heritage monuments in Jordan|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-jo|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in Jordan|Umm el-Jimal",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "DateTimeOriginal": {
+          "value": "2022-01-08 11:34:04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kariman_Mango&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kariman Mango (page does not exist)\">Kariman Mango</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "slug": "amman-roman-theatre",
+  "query": "Amman Roman Theatre",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Amman+Roman+Theatre+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "retrievedAt": "2026-10-21T17:45:17.264Z",
+  "rows": [
+    {
+      "title": "File:Amman Roman theatre.jpg",
+      "pageid": 663815,
+      "revision": 790710117,
+      "wikitext": "Roman theatre in Amman, Jordan\n\npicture by [[User:Markv]] {{GFDL|migration=relicense}}\n\n[[Category:Roman theater in Amman]]\n[[Category:Media missing infobox template]]",
+      "size": 246683,
+      "width": 682,
+      "height": 511,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Amman_Roman_theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amman_Roman_theatre.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=663815",
+      "sha1": "5cfa61b88188b132d8fb70e27e53d57ffea9c359",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2006-03-27 19:22:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Amman Roman theatre",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Roman theater in Amman|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Roman theater of Amman 01.jpg",
+      "pageid": 10263540,
+      "revision": 1012574959,
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=[[:en:Roman theater (Jordan)|Roman theater of Amman]] seen from Amman Citadel, Jordan}}\n{{fr|1=[[:fr:Théâtre antique d'Amman|Théâtre antique romain d'Amman]] vu de la Citadelle d'Amman, Jordanie}}\n|Source={{own}}\n|Author=[[User:Bgag|Bernard Gagnon]]\n|Date=2010-04-10\n|Permission=\n|other_versions=\n|other fields={{OSMLink|type=way|OSM_ID=608094627}}\n}}\n{{Object location|31.9516288|35.9393101|source:OSM}}\n{{location|31|57|12.5|N|35|56|8.98|E|Heading:SE_region:JO}}\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all}}\n{{QualityImage}}\n{{VI|[[:category:Amman Roman Amphi Theatre|Roman theater of Amman]]|00:12, 13 May 2010 (UTC)|\nsubpage=Roman theater of Amman 01.jpg}}\n\n[[Category:Remote views of the Roman theater in Amman]]\n[[Category:Views from Amman Citadel]]\n[[Category:Quality images of Amman]]\n[[Category:Valued images of Jordan]]\n[[Category:Valued images by Bgag]]\n[[Category:Taken with Sony DSC-HX1]]",
+      "size": 2428270,
+      "width": 3366,
+      "height": 2341,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Roman_theater_of_Amman_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_theater_of_Amman_01.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10263540",
+      "sha1": "998685bb047b2d2f6f7c16a2c04d62eb16ce393e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-05-06 23:57:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Roman theater of Amman 01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Sony DSC-HX1|Views from Amman Citadel|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|On OSM|Files with coordinates missing SDC location of creation|Remote views of the Roman theater in Amman",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.951629",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.939310",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Roman_theater_(Jordan)\" class=\"extiw\" title=\"en:Roman theater (Jordan)\">Roman theater of Amman</a> seen from Amman Citadel, Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-04-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Amman Amphitheater 18.JPG",
+      "pageid": 29981305,
+      "revision": 790707657,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{de|1=Römisches Theater, Amman, Nordwestjordanien}}{{en|1=Roman Theatre, Amman, North western Jordan}}\n|date=2012-11-11\n|source={{own}}\n|author=[[User:Zairon|Zairon]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Roman theater in Amman]]",
+      "size": 2265866,
+      "width": 3444,
+      "height": 2586,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Amman_Amphitheater_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amman_Amphitheater_18.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29981305",
+      "sha1": "76be7c96740f7fb15b318c411d560d5278485198",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-12-03 08:47:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Amman Amphitheater 18",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Roman Theatre, Amman, North western Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-11-11",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zairon\" title=\"User:Zairon\">Zairon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Roman Theatre in Amman 0188.jpg",
+      "pageid": 106292160,
+      "revision": 1110527413,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.}}\n|date=2013-06-01 11:14:29\n|source={{own}}\n|author=[[User:Dosseman|Dosseman]]\n|permission=\n|other versions=\n}}\n{{Location|31.951837|35.939658}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roman theater in Amman]]\n[[Category:Roman Forum in Amman]]",
+      "size": 9707212,
+      "width": 4928,
+      "height": 3280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Roman_Theatre_in_Amman_0188.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Amman_0188.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106292160",
+      "sha1": "8a932eb474abf2bb8e7d09abf8c933b2ce3154f7",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-06-05 10:15:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Roman Theatre in Amman 0188",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work|Files with coordinates missing SDC location of creation|Roman Forum in Amman",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.951837",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.939658",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-06-01 11:14:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Roman Theatre in Amman 0190.jpg",
+      "pageid": 106292166,
+      "revision": 1017861942,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.}}\n|date=2013-06-01 11:14:31\n|source={{own}}\n|author=[[User:Dosseman|Dosseman]]\n|permission=\n|other versions=\n}}\n{{Location|31.951842|35.939657}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roman theater in Amman]]\n[[Category:Roman Forum in Amman]]",
+      "size": 10270193,
+      "width": 4928,
+      "height": 3280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Roman_Theatre_in_Amman_0190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Amman_0190.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106292166",
+      "sha1": "cf1ea99301230f15320106b5ffd78963c9bb71db",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-06-05 10:16:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Roman Theatre in Amman 0190",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work|Files with coordinates missing SDC location of creation|Roman Forum in Amman",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.951842",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.939657",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-06-01 11:14:31",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Roman Theatre in Amman 0189.jpg",
+      "pageid": 106292169,
+      "revision": 1017862123,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.}}\n|date=2013-06-01 11:14:30\n|source={{own}}\n|author=[[User:Dosseman|Dosseman]]\n|permission=\n|other versions=\n}}\n{{Location|31.95184|35.939658}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roman theater in Amman]]\n[[Category:Roman Forum in Amman]]",
+      "size": 9613436,
+      "width": 4928,
+      "height": 3280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Roman_Theatre_in_Amman_0189.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Amman_0189.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106292169",
+      "sha1": "34b34b325513709928589af874c47e9d94a94abd",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-06-05 10:16:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Roman Theatre in Amman 0189",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work|Files with coordinates missing SDC location of creation|Roman Forum in Amman",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "31.951840",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "35.939658",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A picture from a series that I combined into a computer generated panoramic picture of the theatre, its seats, stage area, and the forum and odeon next to it. One of some (mainly wide-angle, some computer generated panoramas) pictures showing several sides of the theatre from within.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-06-01 11:14:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dosseman\" title=\"User:Dosseman\">Dosseman</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Left side of the Roman Theatre in Amman.jpg",
+      "pageid": 107391568,
+      "revision": 1277518676,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Left side of the Roman Theatre in Amman in Jordan}}\n|date=2019-12-04 11:03:43\n|source={{own}}\n|author=[[User:Medullaoblongata Projekt|Medullaoblongata Projekt]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roman theater in Amman]]",
+      "size": 6387193,
+      "width": 4608,
+      "height": 3456,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Left_side_of_the_Roman_Theatre_in_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Left_side_of_the_Roman_Theatre_in_Amman.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107391568",
+      "sha1": "8d8b421d211a536fea819e42fb4cdf3e109fbdc9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-07-10 08:55:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Left side of the Roman Theatre in Amman",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Left side of the Roman Theatre in Amman in Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-12-04 11:03:43",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Medullaoblongata_Projekt\" title=\"User:Medullaoblongata Projekt\">Medullaoblongata Projekt</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Panorama View of the Roman Theatre in Amman.jpg",
+      "pageid": 107391569,
+      "revision": 1228458241,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Panorama View of the Roman Theatre in Amman in Jordan}}\n|date=2019-12-04 11:03:00\n|source={{own}}\n|author=[[User:Medullaoblongata Projekt|Medullaoblongata Projekt]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Roman theater in Amman]]",
+      "size": 6550255,
+      "width": 8064,
+      "height": 2304,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Panorama_View_of_the_Roman_Theatre_in_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panorama_View_of_the_Roman_Theatre_in_Amman.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107391569",
+      "sha1": "637c237bd73b095d801489cb2dee85da3a745a49",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-07-10 08:55:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Panorama View of the Roman Theatre in Amman",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Panorama View of the Roman Theatre in Amman in Jordan",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-12-04 11:03:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Medullaoblongata_Projekt\" title=\"User:Medullaoblongata Projekt\">Medullaoblongata Projekt</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Arab tourist at the Roman Theatre, Amman 2026 02.jpg",
+      "pageid": 192582775,
+      "revision": 1218441661,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=سائح عربي في المدرج الرومان في مدينة عمان في وسط البلد 2026}}\n|date=2026-05-15 13:48:03\n|source={{own}}\n|author=[[User:Justwiki|Justwiki]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-4.0}}\n\n[[Category:Roman theater in Amman]]",
+      "size": 2954171,
+      "width": 1824,
+      "height": 4080,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Arab_tourist_at_the_Roman_Theatre%2C_Amman_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arab_tourist_at_the_Roman_Theatre,_Amman_2026_02.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192582775",
+      "sha1": "cb6aaf97d6557d20674dcbd2cb0ce0b8b4b565a4",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-05-22 12:08:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Arab tourist at the Roman Theatre, Amman 2026 02",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "سائح عربي في المدرج الرومان في مدينة عمان في وسط البلد 2026",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-05-15 13:48:03",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Justwiki\" title=\"User:Justwiki\">Justwiki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    {
+      "title": "File:Arab tourist at the Roman Theatre, Amman 2026.jpg",
+      "pageid": 192582777,
+      "revision": 1218425125,
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{ar|1=سائح عربي في المدرج الرومان في مدينة عمان في وسط البلد 2026}}\n|date=2026-05-15 13:47:41\n|source={{own}}\n|author=[[User:Justwiki|Justwiki]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-4.0}}\n\n[[Category:Roman theater in Amman]]",
+      "size": 268929,
+      "width": 1101,
+      "height": 1280,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Arab_tourist_at_the_Roman_Theatre%2C_Amman_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arab_tourist_at_the_Roman_Theatre,_Amman_2026.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192582777",
+      "sha1": "2b565c8a1ee285cd441c000a0060f52ef9b5aff9",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-05-22 12:08:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Arab tourist at the Roman Theatre, Amman 2026",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Roman theater in Amman|Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "سائح عربي في المدرج الرومان في مدينة عمان في وسط البلد 2026",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-05-15 13:47:41",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Justwiki\" title=\"User:Justwiki\">Justwiki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}
