@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Private application routes send noindex via metadata and configured HTTP headers.
+# No sitemap URL is published until the production website origin is approved.

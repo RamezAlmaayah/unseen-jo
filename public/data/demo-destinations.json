@@ -1,0 +1,166 @@
+[
+  {
+    "id": "ajloun-forest",
+    "name": "Ajloun Forest",
+    "category": "Nature",
+    "categoryId": "nature",
+    "image": null,
+    "resultImage": null,
+    "alt": "Ajloun Forest Reserve: verified destination photograph unavailable",
+    "crop": "cover",
+    "travelLabel": "45 min",
+    "durationLabel": "2-3 hr",
+    "durationMinutes": [
+      120,
+      180
+    ],
+    "costJod": 8,
+    "groups": [
+      "friends",
+      "family"
+    ],
+    "transportation": [
+      "car"
+    ],
+    "discoveryImage": null,
+    "discoveryAlt": "Ajloun Forest Reserve: verified destination photograph unavailable",
+    "discoveryCrop": "cover",
+    "details": {
+      "title": "Ajloun Forest Experience",
+      "subtitle": "Nature . Local Experience",
+      "gallery": [
+        {
+          "src": "/assets/figma/details/ajloun-main.png",
+          "alt": "Sunlight over the green wooded landscape in the original Ajloun details design"
+        },
+        {
+          "src": "/assets/figma/details/ajloun-gallery-top.jpg",
+          "alt": "Rocky terraces and trees in the original supporting photograph"
+        },
+        {
+          "src": "/assets/figma/details/ajloun-gallery-bottom.jpg",
+          "alt": "Cliffs and a river in the original supporting photograph"
+        }
+      ],
+      "description": "Explore lush forests, scenic viewpoints, and beautiful trails in one of Jordan’s most peaceful natural areas. Perfect for nature lovers looking for fresh air, stunning views, and a unique local experience.",
+      "bestTime": "Morning/Sunset",
+      "groupLabel": "Friends/Family",
+      "transportLabel": "Car",
+      "mapImage": "/assets/figma/details/ajloun-location-map.png",
+      "experiences": [
+        {
+          "title": "Hidden Trails",
+          "description": "Forest trails and greenery.",
+          "image": "/assets/figma/details/hidden-trails.jpg",
+          "alt": "Walkers on a forest trail in the original supporting photograph"
+        },
+        {
+          "title": "Scenic Viewpoints",
+          "description": "Breathtaking mountain views.",
+          "image": "/assets/figma/details/scenic-viewpoints.jpg",
+          "alt": "Sunlight breaking through clouds above mountains"
+        },
+        {
+          "title": "Local Experiences",
+          "description": "Discover local culture and cuisine.",
+          "image": "/assets/figma/details/local-experiences.jpg",
+          "alt": "Shared meal in the original local-experience photograph"
+        }
+      ]
+    }
+  },
+  {
+    "id": "salt-historic",
+    "name": "Salt Historic",
+    "category": "Culture",
+    "categoryId": "culture",
+    "image": "/assets/figma/explore/salt-historic.jpg",
+    "alt": "Stone buildings with turquoise doors on a historic street",
+    "crop": "salt",
+    "travelLabel": "30 min",
+    "durationLabel": "2-3 hr",
+    "durationMinutes": [
+      120,
+      180
+    ],
+    "costJod": 5,
+    "discoveryImage": "/assets/figma/discoveries/salt-historic.jpg",
+    "discoveryAlt": "Stone buildings with turquoise doors on a historic street",
+    "discoveryCrop": "salt"
+  },
+  {
+    "id": "wadi-mujib",
+    "name": "Wadi Mujib Adventure",
+    "category": "Adventure",
+    "categoryId": "adventure",
+    "image": "/assets/figma/explore/wadi-mujib-adventure.jpg",
+    "alt": "A hiker wading through a canyon stream",
+    "crop": "cover",
+    "travelLabel": "3 hr",
+    "durationLabel": "Half day",
+    "durationMinutes": [
+      240,
+      240
+    ],
+    "costJod": 15,
+    "discoveryImage": "/assets/figma/discoveries/wadi-mujib-adventure.jpg",
+    "discoveryAlt": "A hiker wading through a canyon stream",
+    "discoveryCrop": "cover"
+  },
+  {
+    "id": "dana-reserve",
+    "name": "Dana Biosphere Reserve",
+    "category": "Nature",
+    "categoryId": "nature",
+    "image": "/assets/figma/explore/dana-biosphere-reserve.jpg",
+    "alt": "Layered mountains at sunset in the original Dana sample photograph",
+    "crop": "cover",
+    "travelLabel": "1 hr",
+    "durationLabel": "3-5 hr",
+    "durationMinutes": [
+      180,
+      300
+    ],
+    "costJod": 6,
+    "discoveryImage": "/assets/figma/discoveries/dana-biosphere-reserve.jpg",
+    "discoveryAlt": "Layered mountains at sunset in the original Dana sample photograph",
+    "discoveryCrop": "dana"
+  },
+  {
+    "id": "iraq-al-amir",
+    "name": "Iraq Al-Amir",
+    "category": "Culture",
+    "categoryId": "culture",
+    "image": "/assets/figma/discoveries/iraq-al-amir.jpg",
+    "discoveryImage": "/assets/figma/discoveries/iraq-al-amir.jpg",
+    "alt": "Ancient stone architecture in the original Iraq Al-Amir Figma photograph",
+    "discoveryAlt": "Ancient stone architecture in the original Iraq Al-Amir Figma photograph",
+    "crop": "cover",
+    "discoveryCrop": "iraq",
+    "costJod": 4,
+    "durationLabel": "2-4 hr",
+    "durationMinutes": [
+      120,
+      240
+    ],
+    "travelLabel": null,
+    "showInExplore": false
+  },
+  {
+    "id": "umm-qais",
+    "name": "Umm Qais",
+    "category": "History",
+    "categoryId": "history",
+    "image": "/assets/figma/discoveries/umm-qais.jpg",
+    "discoveryImage": "/assets/figma/discoveries/umm-qais.jpg",
+    "alt": "Ancient stone architecture in the original Umm Qais Figma photograph",
+    "discoveryAlt": "Ancient stone architecture in the original Umm Qais Figma photograph",
+    "crop": "cover",
+    "discoveryCrop": "cover",
+    "costJod": 9,
+    "durationLabel": "Half day",
+    "durationMinutes": null,
+    "travelLabel": null,
+    "showInExplore": false
+  }
+]
