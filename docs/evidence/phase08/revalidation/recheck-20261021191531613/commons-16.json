@@ -1,0 +1,51 @@
+{
+  "requestedAt": "2026-10-21T19:17:52.010Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Karak+Castle+2.jpg%7CMontreal+Castle+04.jpg%7CMontreal+Castle+05.jpg%7CQuseir+Amra+18.jpg%7CQuseir+Amra+20.jpg%7CUmm+ar-Rasas+Arcs.jpg%7CUmm+ar-Rasas.jpg%7CAzraq+Wetland+Reserve%2C+May+2017.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 0,
+          "title": "Karak Castle 2.jpg",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Montreal Castle 04.jpg",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Montreal Castle 05.jpg",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Quseir Amra 18.jpg",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Quseir Amra 20.jpg",
+          "missing": ""
+        },
+        "-6": {
+          "ns": 0,
+          "title": "Umm ar-Rasas Arcs.jpg",
+          "missing": ""
+        },
+        "-7": {
+          "ns": 0,
+          "title": "Umm ar-Rasas.jpg",
+          "missing": ""
+        },
+        "-8": {
+          "ns": 0,
+          "title": "Azraq Wetland Reserve, May 2017.jpg",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

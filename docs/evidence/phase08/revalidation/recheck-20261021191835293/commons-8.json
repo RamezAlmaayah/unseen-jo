@@ -1,0 +1,887 @@
+{
+  "requestedAt": "2026-10-21T19:18:36.915Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AAmman+Amphitheater+18.JPG%7CFile%3AJordan%2C+Madaba.+%28Mosaic+map+photo+at+Greek+Orthodox+Church+of+Saint+George%29+DSCN0901.jpg%7CFile%3AThe+Madaba+Map%2C+part+of+a+floor+mosaic+in+the+early+Byzantine+church+of+Saint+George+depicting+the+Holy+Land+in+the+6th+century+AD%2C+Madaba%2C+Jordan+%2833798342833%29.jpg%7CFile%3AMemorial+Church+of+Moses%2C+Mount+Nebo%2C+Jordan+%2826804136468%29.jpg%7CFile%3AInside+the+Basilica%2C+the+Memorial+Church+of+Moses%2C+Mount+Nebo%2C+Jordan.jpg%7CFile%3ABethany+%285%29.JPG%7CFile%3AJordan+Baptism+site+BW+3.JPG%7CFile%3AKerak+BW+1.JPG&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "6620561": {
+          "pageid": 6620561,
+          "ns": 6,
+          "title": "File:Bethany (5).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3495917,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bethany_%285%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bethany_(5).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6620561",
+              "sha1": "e25501606beea68b04aa5d2d6c3de34098deac7c",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-04-24 21:00:34",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bethany (5)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Sony DSC-T700|Baptism place|License migration redundant|Self-published work|User:Producer",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The supposed location where John baptized Jesus Christ East of the River Jordan.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-04-23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Producer\" title=\"User:Producer\">Producer</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Producer\" title=\"User talk:Producer\"><span class=\"signature-talk\">talk</span></a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "look below",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "I, <a href=\"//commons.wikimedia.org/wiki/User:Producer\" title=\"User:Producer\">Producer</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 909290690,
+              "parentid": 874445068,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=The supposed location where John baptized Jesus Christ East of the River Jordan.}}\n{{ar|1=  موقع المغطس،  شرق نهر الأردن، الأردن، حيث من المفترض أن يكون موقع عماد المسيح}}\n|Source={{Own}}\n|Date=2009-04-23\n|Author=[[User:Producer|Producer]] ([[User talk:Producer|<span class=\"signature-talk\">talk</span>]])\n|Permission= look below\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-2.5|author=I, [[User:Producer|Producer]]}}\n\n[[Category:User:Producer]]\n[[Category:Baptism place]]\n[[Category:Taken with Sony DSC-T700]]"
+                }
+              }
+            }
+          ]
+        },
+        "8535264": {
+          "pageid": 8535264,
+          "ns": 6,
+          "title": "File:Jordan Baptism site BW 3.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3654059,
+              "width": 3357,
+              "height": 2248,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jordan_Baptism_site_BW_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan_Baptism_site_BW_3.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8535264",
+              "sha1": "93c90ac5707c914c27aa67edc36269c57aef4e76",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-02-22 12:59:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Jordan Baptism site BW 3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Pentax K10D|License migration redundant|Self-published work|Church towers in Jordan|Files with coordinates missing SDC location of creation|St. John the Baptist Church (Al-Maghtas)|Photographs by User:Berthold Werner/Themen/Kirchen|Photographs by User:Berthold Werner/Jordanien",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "31.836747",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "35.546842",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Modern church at the baptism site",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-11-08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1260279871,
+              "parentid": 1091583555,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Modern church at the baptism site}}\n{{de|Moderne Kirche an der Taufstelle im Jordan}}\n|Source={{own}}\n|Date=2009-11-08\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions=\n}}\n{{Location|31|50|12.29|N|35|32|48.63|E|alt:-370.49_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n{{QualityImage}}\n\n[[Category:Quality images by User:Berthold Werner]]\n[[Category:Church towers in Jordan]]\n[[Category:St. John the Baptist Church (Al-Maghtas)]]\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Kirchen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:Quality images of Jordan]]"
+                }
+              }
+            }
+          ]
+        },
+        "8536075": {
+          "pageid": 8536075,
+          "ns": 6,
+          "title": "File:Kerak BW 1.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4311111,
+              "width": 3872,
+              "height": 2592,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kerak_BW_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kerak_BW_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8536075",
+              "sha1": "79942eb6a35b88e682c52ff57e9a472577a97a8c",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-11-22 16:40:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Kerak BW 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Pentax K10D|Karak|License migration redundant|Self-published work|Images with extracted images|Unassessed QI candidates by User:Berthold Werner|On OSM|Files with coordinates missing SDC location of creation|Jordan photographs taken on 2009-11-09|Photographs by User:Berthold Werner/Themen/Burgen Festungen Schlösser Villen|External of Karak castle|Photographs by User:Berthold Werner/Jordanien",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "31.180484",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "35.701669",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Kerak",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-11-09",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthold_Werner\" title=\"User:Berthold Werner\">Berthold Werner</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1163793603,
+              "parentid": 1090169580,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{en|Kerak}}\n{{fr|Château fort et ville d'Al-Karak en Jordanie}}\n{{de|Kerak}}\n{{ar|1= [[:ar:قلعة الكرك|قلعة الكرك]] في [[:ar:الكرك|الكرك]] - [[الأردن|الأردن]].}}\n|Source={{own}}\n|Date=2009-11-09\n|Author=[[User:Berthold Werner|Berthold Werner]]\n|Permission=\n|other_versions={{Image extracted|1=Kerak BW 1 (cropped).JPG}}\n|other fields={{OSMLink|type=way|OSM_ID=350877997}}\n}}\n{{Object location|31.1804841|35.7016692|source:OSM}}\n{{Location|31|10|50.44|N|35|42|36.24|E|alt:986.48_source:exif_heading:?}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n{{VI|[[:Category:Karak castle|Karak castle]]|00:12, 30 December 2009 (UTC)|\nsubpage=Kerak BW 1.JPG}}\n\n[[Category:Photographs by User:Berthold Werner/Jordanien]]\n[[Category:Photographs by User:Berthold Werner/Themen/Burgen Festungen Schlösser Villen]]\n[[Category:Taken with Pentax K10D]]\n[[Category:External of Karak castle]]\n[[Category:Valued images of Jordan]]\n\n[[Category:Unassessed QI candidates by User:Berthold Werner]]\n[[Category:Valued images by User:Berthold Werner]]\n[[Category:Jordan photographs taken on 2009-11-09]]\n[[Category:Karak]]"
+                }
+              }
+            }
+          ]
+        },
+        "29981305": {
+          "pageid": 29981305,
+          "ns": 6,
+          "title": "File:Amman Amphitheater 18.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2265866,
+              "width": 3444,
+              "height": 2586,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Amman_Amphitheater_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amman_Amphitheater_18.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29981305",
+              "sha1": "76be7c96740f7fb15b318c411d560d5278485198",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-12-03 08:47:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Amman Amphitheater 18",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Roman theater in Amman|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Roman Theatre, Amman, North western Jordan",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-11-11",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zairon\" title=\"User:Zairon\">Zairon</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 790707657,
+              "parentid": 520820003,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{de|1=Römisches Theater, Amman, Nordwestjordanien}}{{en|1=Roman Theatre, Amman, North western Jordan}}\n|date=2012-11-11\n|source={{own}}\n|author=[[User:Zairon|Zairon]]\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Roman theater in Amman]]"
+                }
+              }
+            }
+          ]
+        },
+        "62281927": {
+          "pageid": 62281927,
+          "ns": 6,
+          "title": "File:Jordan, Madaba. (Mosaic map photo at Greek Orthodox Church of Saint George) DSCN0901.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4053350,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Jordan%2C_Madaba._%28Mosaic_map_photo_at_Greek_Orthodox_Church_of_Saint_George%29_DSCN0901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jordan,_Madaba._(Mosaic_map_photo_at_Greek_Orthodox_Church_of_Saint_George)_DSCN0901.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62281927",
+              "sha1": "cf50eae504f6a0748c67d0ad2bfc3701b574c03a",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-09-08 15:46:30",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Jordan, Madaba. (Mosaic map photo at Greek Orthodox Church of Saint George) DSCN0901",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "St. George Church (Madaba)|Self-published work|Images from Wiki Loves Monuments 2017|Cultural heritage monuments in Jordan with known IDs|Uploaded via Campaign:wlm-jo|Images from Wiki Loves Monuments 2017 in Jordan|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Madaba map complete",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "This is a photo of a monument in Jordan identified by the ID",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-10-20",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Britchi_Mirela&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Britchi Mirela (page does not exist)\">Britchi Mirela</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 709826124,
+              "parentid": 657606112,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{Cultural Heritage Jordan|This is a photo of a monument in Jordan identified by the ID Cultural heritage monuments in Jordan with unknown IDs.Jordan, Madaba. (Mosaic map photo at Greek Orthodox Church of Saint George)}}\n|date=2014-10-20\n|source={{own}}\n|author=[[User:Britchi Mirela|Britchi Mirela]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Monuments 2017|jo}}\n\n[[Category:Madaba map complete]]\n[[Category:St. George Church (Madaba)]]\n[[Category:Uploaded via Campaign:wlm-jo]]"
+                }
+              }
+            }
+          ]
+        },
+        "67158167": {
+          "pageid": 67158167,
+          "ns": 6,
+          "title": "File:Memorial Church of Moses, Mount Nebo, Jordan (26804136468).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8311652,
+              "width": 4889,
+              "height": 3238,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan_%2826804136468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Memorial_Church_of_Moses,_Mount_Nebo,_Jordan_(26804136468).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67158167",
+              "sha1": "2540392e3ad78d11c9c560dfbf68c9ec750f8ef3",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-03-08 13:29:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Memorial Church of Moses, Mount Nebo, Jordan (26804136468)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Basilica of the Memorial of Moses (Mount Nebo)|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2|Jordan photographs taken on 2017-04-17",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Memorial Church of Moses, Mount Nebo, Jordan",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "17 April 2017, 08:09 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/26804136468/\">Memorial Church of Moses, Mount Nebo, Jordan</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from Frankfurt, Germany",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1111221649,
+              "parentid": 957708862,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n| Description = Memorial Church of Moses, Mount Nebo, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/26804136468/ Memorial Church of Moses, Mount Nebo, Jordan]\n| Date        = {{Exif date|2017-04-17 08:09|location=Jordan}}\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from Frankfurt, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/26804136468|archive=https://web.archive.org/web/20190118045107/https://www.flickr.com/photos/41523983@N08/26804136468/|reviewdate=2018-03-08 13:30:51|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]\n[[Category:Photographs by Carole Raddato]]"
+                }
+              }
+            }
+          ]
+        },
+        "75129436": {
+          "pageid": 75129436,
+          "ns": 6,
+          "title": "File:The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan (33798342833).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12237966,
+              "width": 4915,
+              "height": 3255,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Madaba_Map%2C_part_of_a_floor_mosaic_in_the_early_Byzantine_church_of_Saint_George_depicting_the_Holy_Land_in_the_6th_century_AD%2C_Madaba%2C_Jordan_%2833798342833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Madaba_Map,_part_of_a_floor_mosaic_in_the_early_Byzantine_church_of_Saint_George_depicting_the_Holy_Land_in_the_6th_century_AD,_Madaba,_Jordan_(33798342833).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75129436",
+              "sha1": "7e0e6b704f3b23ae331c5b8017ea0e93643c8b08",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-12-17 07:07:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan (33798342833)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Madaba map|Photographs by Carole Raddato|Flickr images reviewed by FlickreviewR 2",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-04-12 14:54",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/carolemage/33798342833/\">The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41523983@N08\">Carole Raddato</a> from FRANKFURT, Germany",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1095750144,
+              "parentid": 944157494,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n| Description = The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan\n| Source      = [https://www.flickr.com/photos/carolemage/33798342833/ The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan]\n| Date        = 2017-04-12 14:54\n| Author      = [https://www.flickr.com/people/41523983@N08 Carole Raddato] from FRANKFURT, Germany\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=Following Hadrian|sourceurl=https://flickr.com/photos/41523983@N08/33798342833|reviewdate=2018-12-18 21:42:06|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n[[Category:Photographs by Carole Raddato]]\n[[Category:Madaba map]]"
+                }
+              }
+            }
+          ]
+        },
+        "100317350": {
+          "pageid": 100317350,
+          "ns": 6,
+          "title": "File:Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18991747,
+              "width": 6016,
+              "height": 4016,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Inside_the_Basilica%2C_the_Memorial_Church_of_Moses%2C_Mount_Nebo%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Inside_the_Basilica,_the_Memorial_Church_of_Moses,_Mount_Nebo,_Jordan.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100317350",
+              "sha1": "ffea478201983aac47516032840e04664d6ed81d",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-25 17:33:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Basilica of the Memorial of Moses (Mount Nebo)|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-01-18 14:42:32",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Neuroforever\" title=\"User:Neuroforever\">Osama Shukir Muhammed Amin FRCP(Glasg)</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1210658379,
+              "parentid": 630937267,
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Inside the Basilica, the Memorial Church of Moses, Mount Nebo, Jordan.}}\n|date=2019-01-18 14:42:32\n|source={{own}}\n|author=[[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Basilica of the Memorial of Moses (Mount Nebo)]]"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "3116384acf4b",
+    "url": "https://whc.unesco.org/en/list/326/",
+    "finalUrl": "https://whc.unesco.org/en/list/326/",
+    "retrievedAt": "2026-10-21T17:44:13.867Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "0d9a2d57f07ac5be4b48917f19ef9ee5d0feb438fdaf46f15366b6314321cef4",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/3116384acf4b.json"
+  },
+  {
+    "id": "ee664fce72bb",
+    "url": "https://visitpetra.jo/en/Openinghours",
+    "finalUrl": "https://visitpetra.jo/en/Openinghours",
+    "retrievedAt": "2026-10-21T17:44:13.967Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "2784bf66cd3db138379bce26309f9228a79a7a62a312f2d7c208a3279b70030f",
+    "title": "Visit Petra",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/ee664fce72bb.json"
+  },
+  {
+    "id": "4881e7926498",
+    "url": "https://visitpetra.jo/en/Petrafees",
+    "finalUrl": "https://visitpetra.jo/en/Petrafees",
+    "retrievedAt": "2026-10-21T17:44:14.993Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "1f57992fa77abc77fe74a01d75c6ad2ea5a04394ebcc42c3a8d3fe0b86e533b4",
+    "title": "Visit Petra",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/4881e7926498.json"
+  },
+  {
+    "id": "fa61cc2e3229",
+    "url": "https://whc.unesco.org/en/list/1377/",
+    "finalUrl": "https://whc.unesco.org/en/list/1377/",
+    "retrievedAt": "2026-10-21T17:44:15.081Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "d9694182428464bf06a5f3fd9d9651cf51ca84f1494fb09302840ef716793ee4",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/fa61cc2e3229.json"
+  },
+  {
+    "id": "77740baa83fd",
+    "url": "https://international.visitjordan.com/where-to-go/",
+    "finalUrl": "https://international.visitjordan.com/where-to-go/",
+    "retrievedAt": "2026-10-21T17:44:15.840Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "ac0aabbd308310cfdde031bfac267de6e198e786fc2aa9baca89b307dc4e8430",
+    "title": "Where to Go in Jordan | Top Attractions & Destinations",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/77740baa83fd.json"
+  },
+  {
+    "id": "6f946e924fa9",
+    "url": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+    "finalUrl": "https://www.mota.gov.jo/EN/Pages/Entrance_Fees",
+    "retrievedAt": "2026-10-21T17:44:17.435Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "71be0511d0492d365ac160d901d277bf57b61a78f574758aa96271f0523904b0",
+    "title": "Entrance Fees - ministry of tourism and antiquities",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/6f946e924fa9.json"
+  },
+  {
+    "id": "0e72a2f9c844",
+    "url": "https://international.visitjordan.com/wheretogo/jerash/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/jerash/",
+    "retrievedAt": "2026-10-21T17:44:17.708Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "a95315e0cd264ede7590bf25f8385a7b64286f682da1db4f2ed7ef3635b36e82",
+    "title": "Jerash Jordan 2026 – Roman Ruins, RACE Show & Jerash Festival",
+    "mapLinks": [
+      "https://www.google.com/maps/place/7VGR%2B9H/@32.2759375,35.8892488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2759375!4d35.8914375",
+      "https://www.google.com/maps/place/7VGQ%2BMP/@32.2759375,35.8892488,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d32.2766875!4d35.8893125",
+      "https://www.google.com/maps/place/7VMR%2B2X/@32.2825625,35.8902488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2825625!4d35.8924375",
+      "https://www.google.com/maps/place/7VJR%2B6V/@32.2805625,35.8899988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2805625!4d35.8921875",
+      "https://www.google.com/maps/place/7VJR%2B6M/@32.2805625,35.8894988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2805625!4d35.8916875",
+      "https://www.google.com/maps/place/7VJV%2B82/@32.2808125,35.8903738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2808125!4d35.8925625",
+      "https://www.google.com/maps/place/7VHR%2B28/@32.2775625,35.8886238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2775625!4d35.8908125",
+      "https://www.google.com/maps/place/7VFR%2BC7/@32.2735625,35.8884988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2735625!4d35.8906875",
+      "https://www.google.com/maps/place/7VCR%2BWG/@32.2723125,35.8891238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2723125!4d35.8913125",
+      "https://www.google.com/maps/place/QP9G%2B44/@31.7678125,35.7231238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7678125!4d35.7253125",
+      "https://www.google.com/maps/place/7VHQ%2BGP/@32.2788125,35.8871238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2788125!4d35.8893125",
+      "https://www.google.com/maps/place/8R2F%2BPR/@32.3018125,35.8223738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3018125!4d35.8245625",
+      "https://www.google.com/maps/place/8VV5%2BXH/@32.3449375,35.8567488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.3449375!4d35.8589375",
+      "https://www.google.com/maps/place/6RV4%2BQ9/@32.2444375,35.8037488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.2444375!4d35.8059375"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 32.2759375,
+        "longitude": 35.8914375
+      },
+      {
+        "latitude": 32.2759375,
+        "longitude": 35.8914375
+      },
+      {
+        "latitude": 32.2759375,
+        "longitude": 35.8914375
+      },
+      {
+        "latitude": 32.2766875,
+        "longitude": 35.8893125
+      },
+      {
+        "latitude": 32.2825625,
+        "longitude": 35.8924375
+      },
+      {
+        "latitude": 32.2805625,
+        "longitude": 35.8921875
+      },
+      {
+        "latitude": 32.2805625,
+        "longitude": 35.8916875
+      },
+      {
+        "latitude": 32.2808125,
+        "longitude": 35.8925625
+      },
+      {
+        "latitude": 32.2775625,
+        "longitude": 35.8908125
+      },
+      {
+        "latitude": 32.2735625,
+        "longitude": 35.8906875
+      },
+      {
+        "latitude": 32.2723125,
+        "longitude": 35.8913125
+      },
+      {
+        "latitude": 31.7678125,
+        "longitude": 35.7253125
+      },
+      {
+        "latitude": 32.2788125,
+        "longitude": 35.8893125
+      },
+      {
+        "latitude": 32.3018125,
+        "longitude": 35.8245625
+      },
+      {
+        "latitude": 32.3449375,
+        "longitude": 35.8589375
+      },
+      {
+        "latitude": 32.2444375,
+        "longitude": 35.8059375
+      }
+    ],
+    "textFile": "sources/0e72a2f9c844.json"
+  },
+  {
+    "id": "9e3b2b6417f6",
+    "url": "https://international.visitjordan.com/wheretogo/amman/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/amman/",
+    "retrievedAt": "2026-10-21T17:44:17.933Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "348ad5493196d94cc36d56943fe52d89de7863400cbead00efe382af96fa4167",
+    "title": "Amman Jordan 2026 – Citadel, Rainbow Street & Local Culture",
+    "mapLinks": [
+      "https://www.google.com/maps/place/XW3P%2BP5/@31.9543125,35.9332488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9543125!4d35.9354375",
+      "https://www.google.com/maps/place/WWWG%2B8V/@31.9458125,35.9249988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9458125!4d35.9271875",
+      "https://www.google.com/maps/place/WWXJ%2BV4/@31.9496875,35.9281238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9496875!4d35.9303125",
+      "https://www.google.com/maps/place/XW3J%2BM3/@31.9541875,35.9279988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9541875!4d35.9301875",
+      "https://www.google.com/maps/place/XX99%2BJJ/@31.9690625,35.9668738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9690625!4d35.9690625",
+      "https://www.google.com/maps/place/XW2P%2B5C/@31.9504375,35.9338738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9504375!4d35.9360625",
+      "https://www.google.com/maps/place/XW2H%2BHX/@31.9514375,35.9277488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9514375!4d35.9299375",
+      "https://www.google.com/maps/place/XW3H%2B88/@31.9533125,35.9261238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9533125!4d35.9283125",
+      "https://www.google.com/maps/place/XRPF%2B75/@31.9856875,35.8207488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9856875!4d35.8229375",
+      "https://www.google.com/maps/place/WWXJ%2BGG/@31.9488125,35.9291238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9488125!4d35.9313125",
+      "https://www.google.com/maps/place/WWXM%2BVV/@31.9496875,35.9324988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9496875!4d35.9346875",
+      "https://www.google.com/maps/place/XW67%2BF5/@31.9611875,35.9107488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9611875!4d35.9129375",
+      "https://www.google.com/maps/place/XW4G%2BJM/@31.9565625,35.9244988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9565625!4d35.9266875",
+      "https://www.google.com/maps/place/XW37%2B5X/@31.9529375,35.9127488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9529375!4d35.9149375",
+      "https://www.google.com/maps/place/XW58%2B54/@31.9579375,35.9131238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9579375!4d35.9153125",
+      "https://www.google.com/maps/place/XW2F%2B5G/@31.9504375,35.9216238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9504375!4d35.9238125",
+      "https://www.google.com/maps/place/WWXJ%2BP3/@31.9493125,35.9279988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9493125!4d35.9301875",
+      "https://www.google.com/maps/place/XW3J%2B3P/@31.9526875,35.9296238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9526875!4d35.9318125",
+      "https://www.google.com/maps/place/XW2J%2BWQ/@31.9523125,35.9297488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9523125!4d35.9319375",
+      "https://www.google.com/maps/place/XW2M%2BQ8/@31.9519375,35.9311238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9519375!4d35.9333125",
+      "https://www.google.com/maps/place/WWXM%2BXW/@31.9499375,35.9326238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9499375!4d35.9348125",
+      "https://www.google.com/maps/place/WWVC%2BPF/@31.9443125,35.9189988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9443125!4d35.9211875",
+      "https://www.google.com/maps/place/XW2C%2B8F/@31.9508125,35.9189988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9508125!4d35.9211875",
+      "https://www.google.com/maps/place/XRMG%2B4G/@31.9828125,35.8241238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9828125!4d35.8263125",
+      "https://www.google.com/maps/place/XRMG%2BV5/@31.9846875,35.8232488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9846875!4d35.8254375",
+      "https://www.google.com/maps/place/XW3M%2BMP/@31.9541875,35.9321238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9541875!4d35.9343125",
+      "https://www.google.com/maps/place/XW2Q%2BMH/@31.9516875,35.9367488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9516875!4d35.9389375",
+      "https://www.google.com/maps/place/XW2Q%2BMP/@31.9516875,35.9371238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9516875!4d35.9393125",
+      "https://www.google.com/maps/place/WQ93%2BR8/@31.9195625,35.7511238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.9195625!4d35.7533125",
+      "https://www.google.com/maps/place/VRJV%2BX9/@31.8824375,35.8412488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.8824375!4d35.8434375",
+      "https://www.google.com/maps/place/Iraq+Al+Amir+Women's+Association/@31.9189182,35.7531601,17z/data=!3m1!4b1!4m5!3m4!1s0x151ca527112c7e73:0xb61be209704be575!8m2!3d31.9189137!4d35.7553488",
+      "https://www.google.com/maps/place/Jasmine+house+art+%26+food/@31.9574471,35.9220525,17z/data=!3m1!4b1!4m5!3m4!1s0x151b5f8f02d61459:0xd4f51c9864bb566!8m2!3d31.9574471!4d35.9242412",
+      "https://www.google.com/maps/place/Ezwetti+Initiative/@31.9528089,35.9296029,17z/data=!3m1!4b1!4m5!3m4!1s0x151b5f9756c1d7e1:0x21f17bf2ed8c841a!8m2!3d31.9528089!4d35.9317916",
+      "https://www.google.com/maps/place/The+Royal+Society+For+The+Conservation+of+Nature/@32.0273331,35.8601354,17z/data=!3m1!4b1!4m5!3m4!1s0x151c9f735e35fb1b:0x5a930fcf1952825b!8m2!3d32.0273331!4d35.8623241"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.9543125,
+        "longitude": 35.9354375
+      },
+      {
+        "latitude": 31.9458125,
+        "longitude": 35.9271875
+      },
+      {
+        "latitude": 31.9496875,
+        "longitude": 35.9303125
+      },
+      {
+        "latitude": 31.9541875,
+        "longitude": 35.9301875
+      },
+      {
+        "latitude": 31.9690625,
+        "longitude": 35.9690625
+      },
+      {
+        "latitude": 31.9504375,
+        "longitude": 35.9360625
+      },
+      {
+        "latitude": 31.9514375,
+        "longitude": 35.9299375
+      },
+      {
+        "latitude": 31.9533125,
+        "longitude": 35.9283125
+      },
+      {
+        "latitude": 31.9856875,
+        "longitude": 35.8229375
+      },
+      {
+        "latitude": 31.9488125,
+        "longitude": 35.9313125
+      },
+      {
+        "latitude": 31.9496875,
+        "longitude": 35.9346875
+      },
+      {
+        "latitude": 31.9611875,
+        "longitude": 35.9129375
+      },
+      {
+        "latitude": 31.9565625,
+        "longitude": 35.9266875
+      },
+      {
+        "latitude": 31.9529375,
+        "longitude": 35.9149375
+      },
+      {
+        "latitude": 31.9579375,
+        "longitude": 35.9153125
+      },
+      {
+        "latitude": 31.9504375,
+        "longitude": 35.9238125
+      },
+      {
+        "latitude": 31.9493125,
+        "longitude": 35.9301875
+      },
+      {
+        "latitude": 31.9526875,
+        "longitude": 35.9318125
+      },
+      {
+        "latitude": 31.9523125,
+        "longitude": 35.9319375
+      },
+      {
+        "latitude": 31.9519375,
+        "longitude": 35.9333125
+      },
+      {
+        "latitude": 31.9519375,
+        "longitude": 35.9333125
+      },
+      {
+        "latitude": 31.9499375,
+        "longitude": 35.9348125
+      },
+      {
+        "latitude": 31.9443125,
+        "longitude": 35.9211875
+      },
+      {
+        "latitude": 31.9508125,
+        "longitude": 35.9211875
+      },
+      {
+        "latitude": 31.9828125,
+        "longitude": 35.8263125
+      },
+      {
+        "latitude": 31.9846875,
+        "longitude": 35.8254375
+      },
+      {
+        "latitude": 31.9541875,
+        "longitude": 35.9343125
+      },
+      {
+        "latitude": 31.9516875,
+        "longitude": 35.9389375
+      },
+      {
+        "latitude": 31.9516875,
+        "longitude": 35.9393125
+      },
+      {
+        "latitude": 31.9195625,
+        "longitude": 35.7533125
+      },
+      {
+        "latitude": 31.8824375,
+        "longitude": 35.8434375
+      },
+      {
+        "latitude": 31.9189137,
+        "longitude": 35.7553488
+      },
+      {
+        "latitude": 31.9574471,
+        "longitude": 35.9242412
+      },
+      {
+        "latitude": 31.9528089,
+        "longitude": 35.9317916
+      },
+      {
+        "latitude": 32.0273331,
+        "longitude": 35.8623241
+      }
+    ],
+    "textFile": "sources/9e3b2b6417f6.json"
+  },
+  {
+    "id": "1567338379c6",
+    "url": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+    "finalUrl": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+    "retrievedAt": "2026-10-21T17:44:18.668Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "1a852832c947bdb2800cc3c6cf14bffcdbad01c729db3113c44616f040c903d7",
+    "title": "History and Culture",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/1567338379c6.json"
+  },
+  {
+    "id": "42cc9ebba6b2",
+    "url": "https://international.visitjordan.com/wheretogo/karak/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/karak/",
+    "retrievedAt": "2026-10-21T17:44:19.491Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "ab76513c31badfddd95d31afa4a8939d39c7f0dc539798094d725e8f5b9400ee",
+    "title": "Karak, Jordan | Crusader Castle & Historic Town",
+    "mapLinks": [
+      "https://www.google.com/maps/place/5PJ2%2B9M/@31.1809375,35.6994988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.1809375!4d35.7016875",
+      "https://www.google.com/maps/place/5PJ2%2BVX/@31.1821875,35.7002488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.1821875!4d35.7024375",
+      "https://www.google.com/maps/place/3M7X%2B8X/@31.0633125,35.6977488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.0633125!4d35.6999375",
+      "https://www.google.com/maps/place/5PQ2%2BH6/@31.1889375,35.6983738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.1889375!4d35.7005625"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.1809375,
+        "longitude": 35.7016875
+      },
+      {
+        "latitude": 31.1821875,
+        "longitude": 35.7024375
+      },
+      {
+        "latitude": 31.1809375,
+        "longitude": 35.7016875
+      },
+      {
+        "latitude": 31.0633125,
+        "longitude": 35.6999375
+      },
+      {
+        "latitude": 31.1889375,
+        "longitude": 35.7005625
+      }
+    ],
+    "textFile": "sources/42cc9ebba6b2.json"
+  },
+  {
+    "id": "2167a83fce6e",
+    "url": "https://international.visitjordan.com/wheretogo/madaba/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/madaba/",
+    "retrievedAt": "2026-10-21T17:44:19.557Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "b65ccd2b81ba191c9cf0773b4c29f95df4930077e243b17ccc06a53959df694f",
+    "title": "Madaba Jordan 2026 – Mosaics, St. George Church & Ma'in Springs",
+    "mapLinks": [
+      "https://www.google.com/maps/place/QP9G%2B84/@31.7683125,35.7231238,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7683125!4d35.7253125",
+      "https://www.google.com/maps/place/QP8R%2BWV/@31.7673125,35.7399988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7673125!4d35.7421875",
+      "https://www.google.com/maps/place/PQ8W%2BHF/@31.7160625,35.7932488,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d31.7164375!4d35.7961875",
+      "https://www.google.com/maps/place/PQ8W%2BC7/@31.7160625,35.7934988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7160625!4d35.7956875",
+      "https://www.google.com/maps/place/PQ8W%2BC5/@31.7160625,35.7932488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7160625!4d35.7954375",
+      "https://www.google.com/maps/place/PQ8W%2BHF/@31.7164375,35.7939988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.7164375!4d35.7961875",
+      "https://www.google.com/maps/place/GW29%2BGM/@31.5013125,35.9169988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.5013125!4d35.9191875",
+      "https://www.google.com/maps/place/JJ56%2BQ5/@31.6094375,35.6082488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d31.6094375!4d35.6104375"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.7683125,
+        "longitude": 35.7253125
+      },
+      {
+        "latitude": 31.7673125,
+        "longitude": 35.7421875
+      },
+      {
+        "latitude": 31.7164375,
+        "longitude": 35.7961875
+      },
+      {
+        "latitude": 31.7160625,
+        "longitude": 35.7956875
+      },
+      {
+        "latitude": 31.7160625,
+        "longitude": 35.7954375
+      },
+      {
+        "latitude": 31.7164375,
+        "longitude": 35.7961875
+      },
+      {
+        "latitude": 31.5013125,
+        "longitude": 35.9191875
+      },
+      {
+        "latitude": 31.6094375,
+        "longitude": 35.6104375
+      },
+      {
+        "latitude": 31.7683125,
+        "longitude": 35.7253125
+      },
+      {
+        "latitude": 31.5013125,
+        "longitude": 35.9191875
+      },
+      {
+        "latitude": 31.7164375,
+        "longitude": 35.7961875
+      },
+      {
+        "latitude": 31.7164375,
+        "longitude": 35.7961875
+      }
+    ],
+    "textFile": "sources/2167a83fce6e.json"
+  },
+  {
+    "id": "d206f03db967",
+    "url": "https://whc.unesco.org/en/list/1446/",
+    "finalUrl": "https://whc.unesco.org/en/list/1446/",
+    "retrievedAt": "2026-10-21T17:44:19.568Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "4a871a0042464bbc0764c7361c0bad68ebe7ed6e4b76ca7500f33c5aab6905bb",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/d206f03db967.json"
+  },
+  {
+    "id": "8e11bd311f2a",
+    "url": "https://whc.unesco.org/en/list/327",
+    "finalUrl": "https://whc.unesco.org/en/list/327",
+    "retrievedAt": "2026-10-21T17:44:20.121Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "08d02c91c458e1418dcd56f768e98f7d0cfe970cefd6a63dfff7533bff560244",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/8e11bd311f2a.json"
+  },
+  {
+    "id": "b9490a1d8276",
+    "url": "https://whc.unesco.org/en/list/1093/",
+    "finalUrl": "https://whc.unesco.org/en/list/1093/",
+    "retrievedAt": "2026-10-21T17:44:20.133Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "fab20943b554b26dfd77d01a8b868424ffb17dbc4bb73b0166925dba3d33d4da",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/b9490a1d8276.json"
+  },
+  {
+    "id": "f469329fd191",
+    "url": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+    "ok": false,
+    "retrievedAt": "2026-10-21T17:44:44.656Z",
+    "error": "The operation was aborted due to timeout",
+    "textFile": "sources/f469329fd191.json"
+  },
+  {
+    "id": "1fdbeca62d81",
+    "url": "https://www.rscn.org.jo/history?lang=en",
+    "finalUrl": "https://www.rscn.org.jo/history?lang=en",
+    "retrievedAt": "2026-10-21T17:44:45.896Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "b5c2a0f6f28b95c82fc603a20d2ec876698959d5d80784e7628d66dd32a303b2",
+    "title": "History | RSCN",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/1fdbeca62d81.json"
+  },
+  {
+    "id": "3a5941128fde",
+    "url": "https://edutravel.visitjordan.com/en",
+    "finalUrl": "https://edutravel.visitjordan.com/en",
+    "retrievedAt": "2026-10-21T17:44:45.937Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "6d57cf30a3919b5e2d27eceb51b8887d5623fdea010f05c5b5895716d9ffbf5f",
+    "title": "Educational Travel",
+    "mapLinks": [
+      "https://goo.gl/maps/xRMbt417v3dTkaBEA",
+      "https://maps.app.goo.gl/AiDbH36TEsZecmuDA",
+      "https://goo.gl/maps/9mnwgSMhRSm5Jj4y9",
+      "https://maps.app.goo.gl/bHJJ8n6wMtP6Q4Xr9",
+      "https://goo.gl/maps/aivC9fn7DngYD6v2A",
+      "https://goo.gl/maps/Qj7gkM5j7hJBoSwW7",
+      "https://maps.app.goo.gl/tpAXtatos8FafM7Q9",
+      "https://goo.gl/maps/G78KNEmPkpw9JrRD8",
+      "https://goo.gl/maps/R7UpbmetYVKB4Ta19",
+      "https://goo.gl/maps/9yHvtBpcnZ9k24do6",
+      "https://maps.app.goo.gl/P5DFQqEkodZzo2697",
+      "https://goo.gl/maps/djmgiGMFvSznw9YZ6",
+      "https://maps.app.goo.gl/xxpLbCNcvkw6FKVX7",
+      "https://goo.gl/maps/Angtigt4KrkjxeNPA",
+      "https://maps.app.goo.gl/xD8BfzcLbGJ5P9PV8",
+      "https://maps.app.goo.gl/aJcyGEGSADhuYMQz6",
+      "https://goo.gl/maps/bMg5hfr4SMEYc5HF9",
+      "https://maps.app.goo.gl/p4VGMVNJEvGfV4W97",
+      "https://goo.gl/maps/kz9cLeMBD52AJ1m6A",
+      "https://goo.gl/maps/NHRxexaNmyCQueh96",
+      "https://goo.gl/maps/72NgrBLZmL4ADwV8A",
+      "https://www.google.com/maps/place/31%C2%B011'42.7%22N+35%C2%B043'56.1%22E/&#64;31.1951981,35.7296601,17z/data=!3m1!4b1!4m4!3m3!8m2!3d31.1951981!4d35.732235?hl=en&entry=tt",
+      "https://www.google.com/maps/place/31%C2%B011'42.7%22N+35%C2%B043'56.1%22E/&#64;31.1951981,35.7296601,17z/data=!3m1!4b1!4m4!3m3!8m2!3d31.1951981!4d35.732235?hl=en&entry=ttu",
+      "https://www.google.com/maps/place/31%C2%B023'05.3%22N+35%C2%B045'08.4%22E/&#64;31.3847917,35.7497701,17z/data=!3m1!4b1!4m4!3m3!8m2!3d31.3847917!4d35.752345?hl=en&entry=ttu",
+      "https://goo.gl/maps/BrzCmxX75MXaLjBu8",
+      "https://goo.gl/maps/WNhhAV7dn5ev5V9B6",
+      "https://goo.gl/maps/fHcuk3YHVXHyAr1E7",
+      "https://maps.app.goo.gl/HSicDnhjfrpnn7z36",
+      "https://goo.gl/maps/HzVtxqQSvE7Y9FbM9",
+      "https://maps.app.goo.gl/iEqourBUxBAEoAwz7",
+      "https://maps.app.goo.gl/Yy2Aw6gCjYUSMyAa6",
+      "https://maps.app.goo.gl/ge1kbZyUv86crcYE7",
+      "https://maps.app.goo.gl/kkHXdpS4wca4nDP56",
+      "https://maps.app.goo.gl/z9v5thseWfy22xvG7",
+      "https://maps.app.goo.gl/rxw8uCMzKMSqLXU9A",
+      "https://maps.app.goo.gl/CnZPr6YQfDdB4TWY6",
+      "https://maps.app.goo.gl/1s1jUhL9Y9frEGKm6",
+      "https://maps.app.goo.gl/uB3Jo1Gk2nLMBwvZ9",
+      "https://maps.app.goo.gl/NPKTMQHDTnz4rWCBA"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.1951981,
+        "longitude": 35.732235
+      },
+      {
+        "latitude": 31.1951981,
+        "longitude": 35.732235
+      },
+      {
+        "latitude": 31.3847917,
+        "longitude": 35.752345
+      }
+    ],
+    "textFile": "sources/3a5941128fde.json"
+  },
+  {
+    "id": "64db2b95f047",
+    "url": "https://www.rscn.org.jo/reserve/list?lang=en",
+    "finalUrl": "https://www.rscn.org.jo/reserve/list?lang=en",
+    "retrievedAt": "2026-10-21T17:44:45.949Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "2b0202d52985e4c140d682fbf778bde10e99e1a44719d0e237efb43d3e611d87",
+    "title": "Reserve List | RSCN",
+    "mapLinks": [
+      "https://goo.gl/maps/VjCqN7mdGnvcASYV8",
+      "https://goo.gl/maps/tt7s7tPaRVH7dY7Z9",
+      "https://www.google.com/maps/place/Shaumari+Wildlife+Reserve/@31.7448469,36.7797029,17z/data=!3m1!4b1!4m5!3m4!1s0x151ae73d85479d73:0x62da93d4f0cd05ac!8m2!3d31.7448424!4d36.7818916",
+      "https://goo.gl/maps/s9qmG6QEesQRmFC57",
+      "https://goo.gl/maps/woH4pBSACrsU2yZs6",
+      "https://goo.gl/maps/nycnw1DEDx8FhACL8",
+      "https://goo.gl/maps/ajomxeUnTufGp4Vt6",
+      "https://maps.app.goo.gl/aWWDrGWftLhEhJzH6",
+      "https://www.google.com/maps?q=32.660370,35.686489",
+      "https://goo.gl/maps/D1e2jyNARnwp9Nyu9"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.7448424,
+        "longitude": 36.7818916
+      },
+      {
+        "latitude": 32.66037,
+        "longitude": 35.686489
+      }
+    ],
+    "textFile": "sources/64db2b95f047.json"
+  },
+  {
+    "id": "4394f19298c1",
+    "url": "https://whc.unesco.org/en/list/1721",
+    "finalUrl": "https://whc.unesco.org/en/list/1721",
+    "retrievedAt": "2026-10-21T17:44:46.060Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "524b0ff5be44485e7a11844f8ddaa266bf0b1ef8bed1871cebc39ad38fcd2d73",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/4394f19298c1.json"
+  },
+  {
+    "id": "d3a60542b85f",
+    "url": "https://international.visitjordan.com/wheretogo/pella/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/pella/",
+    "retrievedAt": "2026-10-21T17:44:46.443Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "1c2c0ce6feb50597ac78917aa2aa78613b24abb5bfc1d84fdef04dbca3f11fba",
+    "title": "Pella, Jordan | Ancient Ruins & Archaeological Wonder",
+    "mapLinks": [
+      "https://maps.google.com/maps?daddr=31.91459227567505,35.92262276530835&ll="
+    ],
+    "coordinateCandidates": [],
+    "textFile": "sources/d3a60542b85f.json"
+  },
+  {
+    "id": "a23311a79bde",
+    "url": "https://visitpetra.jo/en/Location/137",
+    "finalUrl": "https://visitpetra.jo/en/Location/137",
+    "retrievedAt": "2026-10-21T17:44:47.156Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "4225fd7df4534d61b494cddb48d6eab18cf6d9ab90971ec3859f07a1a3984626",
+    "title": "Siq Al-Barid, Bayda",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/a23311a79bde.json"
+  },
+  {
+    "id": "3474394bd7fa",
+    "url": "https://whc.unesco.org/en/list/1742",
+    "finalUrl": "https://whc.unesco.org/en/list/1742",
+    "retrievedAt": "2026-10-21T17:44:47.219Z",
+    "status": 403,
+    "ok": false,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "0d94288971e0b8762f2f3c3597d394e9f1dd7c5f72f3b6b0523b1a207cfcf66d",
+    "title": "Just a moment...",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/3474394bd7fa.json"
+  },
+  {
+    "id": "d98fa9e27480",
+    "url": "https://international.visitjordan.com/wheretogo/wadi-rum/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/wadi-rum/",
+    "retrievedAt": "2026-10-21T17:44:47.447Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "57ef5fb39ab8fc2d741e9ddb1802f2a967b2ce56ffdd02ef6cacaff67f471df8",
+    "title": "Wadi Rum Jordan 2026 – Stargazing, 4X4 Tours & Bedouin Life",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/d98fa9e27480.json"
+  },
+  {
+    "id": "22b8682f6e8b",
+    "url": "https://international.visitjordan.com/wheretogo/zarqa/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/zarqa/",
+    "retrievedAt": "2026-10-21T17:44:47.467Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "db6e36ec0fbd06fb2e23d46c96a1361f99801816ba428e9eabde7d9ccb7e89c8",
+    "title": "Zarqa, Jordan | Nature Reserves & Historic Sites",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/22b8682f6e8b.json"
+  },
+  {
+    "id": "d452edf4705d",
+    "url": "https://international.visitjordan.com/wheretogo/petra/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/petra/",
+    "retrievedAt": "2026-10-21T17:44:47.607Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "67b833438004490eee23e2e08a7d21754e54d44fc5f62acc213e6c78a76c621e",
+    "title": "Petra, Jordan | Trails, Petra by Night & UNESCO Wonder",
+    "mapLinks": [
+      "https://www.google.com/maps/place/Petra+Museum/@30.3253523,35.4658245,17z/data=!3m1!4b1!4m5!3m4!1s0x15016ecffadcd57b:0xa50dcd2616de3670!8m2!3d30.3253523!4d35.4680132",
+      "https://www.google.com/maps/place/8FF9%2BP5/@30.3243125,35.4657488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d30.3243125!4d35.4679375",
+      "https://www.google.com/maps/place/8FF9%2BP5/@30.3243125,35.4679375,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d30.3243125!4d35.4679375"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 30.3253523,
+        "longitude": 35.4680132
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      },
+      {
+        "latitude": 30.3243125,
+        "longitude": 35.4679375
+      }
+    ],
+    "textFile": "sources/d452edf4705d.json"
+  },
+  {
+    "id": "0c7679ee6d0c",
+    "url": "https://international.visitjordan.com/wheretogo/aqaba/",
+    "finalUrl": "https://international.visitjordan.com/wheretogo/aqaba/",
+    "retrievedAt": "2026-10-21T17:44:47.974Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "877c98f2347e958f35d2963ff1bd5e5574e47635e51ac217a1a869891202c0f1",
+    "title": "Aqaba, Jordan | Beaches, Diving & Red Sea Escape",
+    "mapLinks": [
+      "https://www.google.com/maps/place/G2G2%2BXX/@29.5274375,35.0002488,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.5274375!4d35.0024375",
+      "https://www.google.com/maps/place/HXGP%2B57/@29.5754375,34.9834988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.5754375!4d34.9856875",
+      "https://www.google.com/maps/place/FX5G%2B9M/@29.4584375,34.9744988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.4584375!4d34.9766875",
+      "https://www.google.com/maps/place/CXJF%2BPM/@29.4318125,34.9719988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.4318125!4d34.9741875",
+      "https://www.google.com/maps/place/CXJF%2BJM/@29.4315625,34.9719988,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.4315625!4d34.9741875",
+      "https://www.google.com/maps/place/GXMX%2BFJ/@29.5336875,34.9968738,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d29.5336875!4d34.9990625"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 29.5274375,
+        "longitude": 35.0024375
+      },
+      {
+        "latitude": 29.5754375,
+        "longitude": 34.9856875
+      },
+      {
+        "latitude": 29.4584375,
+        "longitude": 34.9766875
+      },
+      {
+        "latitude": 29.4318125,
+        "longitude": 34.9741875
+      },
+      {
+        "latitude": 29.4315625,
+        "longitude": 34.9741875
+      },
+      {
+        "latitude": 29.5336875,
+        "longitude": 34.9990625
+      },
+      {
+        "latitude": 29.5336875,
+        "longitude": 34.9990625
+      }
+    ],
+    "textFile": "sources/0c7679ee6d0c.json"
+  },
+  {
+    "id": "af9627cc7d22",
+    "url": "https://jordanpass.jo/Contents/Jordan_Attractions.aspx",
+    "finalUrl": "https://jordanpass.jo/Contents/Jordan_Attractions.aspx",
+    "retrievedAt": "2026-10-21T17:44:48.362Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=utf-8",
+    "sha256": "3162ee60fd7a02b86b9643a70a63234c88dc85e1ad246eab2157956b6af79185",
+    "title": "Included Attractions",
+    "mapLinks": [
+      "https://www.google.com/maps/place/Petra/@30.3284544,35.4093433,14z/data=!4m9!1m2!2m1!1sPetra!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!15sCgVQZXRyYVoHIgVwZXRyYZIBDWhpc3RvcmljX3NpdGWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkhjSEZpUz",
+      "https://www.google.com/maps/place/Jerash/@32.2700251,35.8244374,12z/data=!3m1!4b1!4m5!3m4!1s0x151c802ff49ac08d:0x876c24b1cbded302!8m2!3d32.2746515!4d35.8960765",
+      "https://www.google.com/maps/@31.9542175,35.9343396,3a,75y,176.36h,71.73t/data=!3m7!1e1!3m5!1sumG7ZGP_esgAAAQu3_QoWw!2e0!3e2!7i13312!8i6656",
+      "https://www.google.com/maps/@32.3255189,35.7278972,3a,75y,244.48h,101.62t/data=!3m6!1e1!3m4!1svbLt4fhK7y7zBgNkdKImJg!2e0!7i13312!8i6656",
+      "https://www.google.com/maps/place/Umm+Qais/@32.6543478,35.6521731,14z/data=!3m1!4b1!4m5!3m4!1s0x151c6d07287b7199:0x96d0d420e01bf0b1!8m2!3d32.6543534!4d35.6880516",
+      "https://www.google.com/maps/place/Al-Azraq+Castle/@31.8801682,36.8251972,17z/data=!4m5!3m4!1s0x151af1ab069f5563:0x947b26748bbe1c97!8m2!3d31.8801682!4d36.8273859",
+      "https://www.google.com/maps/@31.8132736,36.6021403,3a,75y,22.19h,77.04t/data=!3m7!1e1!3m5!1sDjHkoHY4F38AAAQu3-8PCA!2e0!3e2!7i13312!8i6656",
+      "https://www.google.com/maps/@31.1801233,35.700713,2a,75y,87.83h,100.27t/data=!3m6!1e1!3m4!1s68pjRP_CeI1fBwWSlrvWzQ!2e0!7i13312!8i6656",
+      "https://www.google.com/maps/@32.0929012,36.3280433,2a,75y,325.88h,90t/data=!3m7!1e1!3m5!1s55B23SABCbYAAAQu3_SkQw!2e0!3e2!7i13312!8i6656",
+      "https://www.google.com/maps/place/Umm+ar-Rasas/@31.5007693,35.91083,16z/data=!3m1!4b1!4m5!3m4!1s0x1504a7fb3c90f9cd:0x1c63b3dadc48e8e1!8m2!3d31.5002268!4d35.9155217",
+      "https://www.google.com/maps/@32.6543184,35.6779954,3a,75y,268.68h,78.17t/data=!3m7!1e1!3m5!1skH55rSfa1OMAAAQu3_OBHg!2e0!3e2!7i13312!8i6656",
+      "https://www.google.com/maps/place/Umm+el-Jimal/@32.3319501,36.3520571,15z/data=!4m5!3m4!1s0x151b9f31cc3b3ca7:0xa7cf53f45248e5!8m2!3d32.3318746!4d36.3652653",
+      "https://www.google.com/maps/@30.5315246,35.5606026,3a,75y,28.46h,77.25t/data=!3m7!1e1!3m5!1skj-mKNesKAgAAAQfr8V5cQ!2e0!3e2!7i13312!8i6656",
+      "https://www.google.com/maps/place/Jordanian+Museum+of+Popular+Traditions/@31.951878,35.9374035,17z/data=!3m1!4b1!4m5!3m4!1s0x151b5fbd02e873ef:0x2e7a312db04156a0!8m2!3d31.951878!4d35.9395922",
+      "https://www.google.com/maps/place/Aqaba+Museum/@29.5215737,34.9969616,17z/data=!3m1!4b1!4m5!3m4!1s0x1500704ee861c1fd:0x80ccf2700d503587!8m2!3d29.5215738!4d35.0014463",
+      "https://www.google.com/maps/@31.7285988,36.4629227,3a,75y,345.72h,101.67t/data=!3m6!1e1!3m4!1spgIyAW6f-ywVP4fyQO6VhQ!2e0!7i13312!8i6656",
+      "https://www.google.com/maps/place/Roman+Theater/@31.9528864,35.9365037,17z/data=!4m9!1m2!2m1!1sRoman+Theatre!3m5!1s0x151ca07139c70a21:0xc5b2f8903093b109!8m2!3d31.9515797!4d35.9393536!15sCg1Sb21hbiBUaGVhdHJlWg8iDXJvbWFuIHRoZWF0cmWSARNoaXN0b3JpY2FsX2xhbmRtYX",
+      "https://www.google.com/maps/place/Museum+at+the+Lowest+Place+on+Earth/@31.0504342,35.5001035,17z/data=!3m1!4b1!4m5!3m4!1s0x1503a3dfd560d137:0x109965fa72666bbe!8m2!3d31.0504342!4d35.5022922",
+      "https://www.google.com/maps/place/Aqaba+Fortress/@29.5213004,34.9998469,17z/data=!3m1!4b1!4m5!3m4!1s0x15007112b6ff3b31:0x567d96567da954a3!8m2!3d29.5212447!4d35.0020314"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 30.3284544,
+        "longitude": 35.4443622
+      },
+      {
+        "latitude": 30.3284544,
+        "longitude": 35.4443622
+      },
+      {
+        "latitude": 32.2746515,
+        "longitude": 35.8960765
+      },
+      {
+        "latitude": 32.2746515,
+        "longitude": 35.8960765
+      },
+      {
+        "latitude": 32.6543534,
+        "longitude": 35.6880516
+      },
+      {
+        "latitude": 32.6543534,
+        "longitude": 35.6880516
+      },
+      {
+        "latitude": 31.8801682,
+        "longitude": 36.8273859
+      },
+      {
+        "latitude": 31.8801682,
+        "longitude": 36.8273859
+      },
+      {
+        "latitude": 31.5002268,
+        "longitude": 35.9155217
+      },
+      {
+        "latitude": 31.5002268,
+        "longitude": 35.9155217
+      },
+      {
+        "latitude": 32.3318746,
+        "longitude": 36.3652653
+      },
+      {
+        "latitude": 32.3318746,
+        "longitude": 36.3652653
+      },
+      {
+        "latitude": 31.951878,
+        "longitude": 35.9395922
+      },
+      {
+        "latitude": 31.951878,
+        "longitude": 35.9395922
+      },
+      {
+        "latitude": 29.5215738,
+        "longitude": 35.0014463
+      },
+      {
+        "latitude": 29.5215738,
+        "longitude": 35.0014463
+      },
+      {
+        "latitude": 31.9515797,
+        "longitude": 35.9393536
+      },
+      {
+        "latitude": 31.9515797,
+        "longitude": 35.9393536
+      },
+      {
+        "latitude": 31.0504342,
+        "longitude": 35.5022922
+      },
+      {
+        "latitude": 31.0504342,
+        "longitude": 35.5022922
+      },
+      {
+        "latitude": 29.5212447,
+        "longitude": 35.0020314
+      },
+      {
+        "latitude": 29.5212447,
+        "longitude": 35.0020314
+      }
+    ],
+    "textFile": "sources/af9627cc7d22.json"
+  },
+  {
+    "id": "7f2a7820e4a4",
+    "url": "https://www.rscn.org.jo/protectedArea?lang=en",
+    "finalUrl": "https://www.rscn.org.jo/protectedArea?lang=en",
+    "retrievedAt": "2026-10-21T17:44:48.802Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "0e227a43dab3af7e909049c9d96334d0bcced7c658a3f841c296b833cb998912",
+    "title": "Protected Areas | RSCN",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/7f2a7820e4a4.json"
+  },
+  {
+    "id": "31423922d07a",
+    "url": "https://www.ummeljimal.org/",
+    "finalUrl": "https://www.ummeljimal.org/",
+    "retrievedAt": "2026-10-21T17:44:49.425Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html",
+    "sha256": "d37b6cd2a4a1ccd4c87e877cfcc6169659479f347c5b3ca090379a26eef6e1a6",
+    "title": "The Umm el-Jimal Project: Archaeological Research, Cultural Heritage Preservation, and Community Development in Jordan",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/31423922d07a.json"
+  },
+  {
+    "id": "b1645e25280c",
+    "url": "https://www.baptismsite.com/",
+    "finalUrl": "https://baptismsite.com/",
+    "retrievedAt": "2026-10-21T17:44:49.823Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "a1038fdeda9db1fa03e6de16efcf38858f74a1edf8a4428625809f1dfe8864e8",
+    "title": "Baptism Site of Jesus Christ",
+    "mapLinks": [],
+    "coordinateCandidates": [],
+    "textFile": "sources/b1645e25280c.json"
+  },
+  {
+    "id": "e3187480ea2c",
+    "url": "https://www.custodia.org/en/sanctuaries/mount-nebo",
+    "finalUrl": "https://www.custodia.org/en/sanctuaries/mount-nebo/",
+    "retrievedAt": "2026-10-21T17:45:13.569Z",
+    "status": 200,
+    "ok": true,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "58fd29c07427cfc63817528f7fb1965037c3df7bc4dad8f4a692bae60ae8f5ef",
+    "title": "Mount Nebo - Custodia di Terra Santa",
+    "mapLinks": [
+      "https://maps.google.com/maps?q=31.768088000000,35.725703000000&t=m&z=15&output=embed&iwloc=near'"
+    ],
+    "coordinateCandidates": [
+      {
+        "latitude": 31.768088,
+        "longitude": 35.725703
+      }
+    ],
+    "textFile": "sources/e3187480ea2c.json"
+  }
+]

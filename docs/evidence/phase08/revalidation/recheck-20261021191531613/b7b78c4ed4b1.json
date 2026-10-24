@@ -1,0 +1,13 @@
+{
+  "url": "https://www.rscn.org.jo/public/uploaded_files/reservation/Shaumari%20Wildlife%20Reserve%20Trails%202026.pdf",
+  "checkedAt": "2026-10-21T19:17:13.842Z",
+  "status": 200,
+  "ok": true,
+  "sha256": "d9f60ddb5e3568db1182ccf275bfb6a0c360e53271640851a46db130f458d5b7",
+  "contentType": "application/pdf",
+  "text": null,
+  "method": "Origin PDF retrieved; semantic inspection must be recorded separately",
+  "unchangedInspectedText": false,
+  "previousTextSha256": null,
+  "evidenceFile": "docs/evidence/phase08/revalidation/recheck-20261021191531613/b7b78c4ed4b1.json"
+}

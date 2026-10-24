@@ -1,0 +1,51 @@
+{
+  "requestedAt": "2026-10-21T19:17:52.362Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Azraq+Wetland+Reserve+36.jpg%7CShaumari+Wildlife+Reserve+43.jpg%7CShaumari+Wildlife+Reserve+55.jpg%7CPella%2C+Jordan+%2833383216993%29.jpg%7CUmm+al-Jamal+10.jpg%7CUmm+al-Jamal+05.jpg%7CUmm+el-Jimal.jpg%7CColumned+Chamber+Siq+al-Barid+Jordan1502.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 0,
+          "title": "Azraq Wetland Reserve 36.jpg",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Shaumari Wildlife Reserve 43.jpg",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Shaumari Wildlife Reserve 55.jpg",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Pella, Jordan (33383216993).jpg",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Umm al-Jamal 10.jpg",
+          "missing": ""
+        },
+        "-6": {
+          "ns": 0,
+          "title": "Umm al-Jamal 05.jpg",
+          "missing": ""
+        },
+        "-7": {
+          "ns": 0,
+          "title": "Umm el-Jimal.jpg",
+          "missing": ""
+        },
+        "-8": {
+          "ns": 0,
+          "title": "Columned Chamber Siq al-Barid Jordan1502.jpg",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

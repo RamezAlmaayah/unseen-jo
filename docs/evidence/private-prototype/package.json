@@ -1,0 +1,2821 @@
+{
+  "projectRef": "dkhwwvoplhfjccvjegty",
+  "version": 1,
+  "designation": "private_prototype",
+  "places": [
+    {
+      "id": "6f3ca842-ebdf-42a3-a590-987ae577e759",
+      "sourceVersion": "2026-10-19T18:16:26.541095+00:00",
+      "slug": "ajloun-forest",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "ajloun-forest",
+        "english": {
+          "name": "Ajloun Forest Reserve",
+          "slug": "ajloun-forest",
+          "description": "Ajloun Forest Reserve offers a woodland visit in the northern Jordanian highlands. Evergreen oak and other Mediterranean trees shelter wildlife, while walking routes introduce the reserve's landscape and nearby rural communities. RSCN manages the reserve, and UNESCO's biosphere programme records the wider Ajloun designation in 2025.\n\nWalk beneath evergreen oak trees and pause at forest viewpoints. Bring drinking water and shoes with good grip; keep to marked paths.",
+          "city": "Ajloun",
+          "region": "Ajloun",
+          "address": "Ajloun, Ajloun, Jordan. Geographic arrival reference near Ajloun Forest Reserve.",
+          "latitude": 32.3835625,
+          "longitude": 35.7604375,
+          "price_min_jod": 3,
+          "price_max_jod": 8,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 240,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or prearranged taxi to the reserve",
+          "activities": "Walking; photography; exploring Ajloun Forest Reserve",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Walk beneath evergreen oak trees and pause at forest viewpoints. Bring drinking water and shoes with good grip; keep to marked paths.\nAdmission: Jordanians 3 JOD; international visitors 8 JOD; children 2 JOD.\nDay budget: 15–28 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near the arrival area.\nAccess and difficulty: Natural trails with inclines; choose a short route. Moderate trail walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Pack water and a light picnic.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Explore the surrounding locality after your visit."
+        },
+        "arabic": {
+          "name": "محمية غابات عجلون",
+          "description": "تتيح محمية غابات عجلون زيارة بيئة حرجية في مرتفعات شمال الأردن. تؤوي أشجار السنديان دائمة الخضرة وغيرها من أشجار حوض المتوسط الحياة البرية، وتعرّف مسارات المشي الزوار بطبيعة المحمية والمجتمعات الريفية المجاورة. تدير الجمعية الملكية لحماية الطبيعة المحمية، ويسجل برنامج اليونسكو للمحيط الحيوي إدراج نطاق عجلون الأوسع عام ٢٠٢٥.\n\nامشِ بين أشجار البلوط واسترح عند الإطلالات الحرجية. احمل مياه الشرب وانتعل حذاءً ثابتاً والتزم بالمسارات المحددة.",
+          "city": "عجلون",
+          "region": "عجلون",
+          "address": "عجلون، محافظة عجلون، الأردن. نقطة وصول جغرافية إرشادية قرب محمية غابات عجلون.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة مرتبة مسبقاً إلى المحمية",
+          "activities": "المشي؛ التصوير؛ استكشاف محمية غابات عجلون",
+          "visitor_information": "امشِ بين أشجار البلوط واسترح عند الإطلالات الحرجية. احمل مياه الشرب وانتعل حذاءً ثابتاً والتزم بالمسارات المحددة.\nرسوم الدخول: للأردنيين 3 د.أ.؛ للزوار الدوليين 8 د.أ.؛ للأطفال 2 د.أ.\nميزانية اليوم: 15–28 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب منطقة الوصول.\nالوصول والصعوبة: مسارات طبيعية مائلة؛ اختر مساراً قصيراً. مشي على مسارات متوسطة الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء ووجبة خفيفة للنزهة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: استكشف المنطقة المحيطة بعد الزيارة.",
+          "visitor_guidance": "امشِ بين أشجار البلوط واسترح عند الإطلالات الحرجية. احمل مياه الشرب وانتعل حذاءً ثابتاً والتزم بالمسارات المحددة."
+        },
+        "planning": {
+          "residentAdmission": 3,
+          "internationalAdmission": 8,
+          "childAdmission": 2,
+          "budgetMin": 15,
+          "budgetMax": 28,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "forest",
+          "governorate": {
+            "en": "Ajloun",
+            "ar": "عجلون"
+          },
+          "accessibility": {
+            "en": "Natural trails with inclines; choose a short route",
+            "ar": "مسارات طبيعية مائلة؛ اختر مساراً قصيراً"
+          },
+          "difficulty": {
+            "en": "Moderate trail walking",
+            "ar": "مشي على مسارات متوسطة الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor parking near the arrival area",
+            "ar": "مواقف للزوار قرب منطقة الوصول"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Explore the surrounding locality after your visit",
+            "ar": "استكشف المنطقة المحيطة بعد الزيارة"
+          },
+          "jordanianAdmission": 3,
+          "travelMinutes": 70,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/ajloun/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "189dc346-58af-42b5-b2da-c862c95f0fca",
+      "sourceVersion": "2026-10-19T18:16:55.637497+00:00",
+      "slug": "salt-historic",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "salt-historic",
+        "english": {
+          "name": "As-Salt Historic Centre",
+          "slug": "salt-historic",
+          "description": "As-Salt's historic centre brings together yellow-limestone buildings, connected stairways, narrow lanes and public spaces on steep hills. Its late-Ottoman growth as a trading town shaped an architecture and urban culture recognised by UNESCO when the property was inscribed in 2021. The listing highlights both the built environment and traditions of hospitality and cooperation among Muslim and Christian communities.\n\nExplore the yellow-stone streets, shopfronts and hillside stairs. Leave space for residents and ask permission before photographing people.",
+          "city": "As-Salt",
+          "region": "Balqa",
+          "address": "As-Salt, Balqa, Jordan. Geographic arrival reference near As-Salt Historic Centre.",
+          "latitude": 32.0426111111,
+          "longitude": 35.7283055556,
+          "price_min_jod": 0,
+          "price_max_jod": 0,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 240,
+          "opening_hours": "09:00–18:00 · daily",
+          "best_time_to_visit": "March–May; October–November",
+          "transportation_notes": "Taxi or car; walk between central sights",
+          "activities": "Walking; photography; exploring As-Salt Historic Centre",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Explore the yellow-stone streets, shopfronts and hillside stairs. Leave space for Jordanians and ask permission before photographing people.\nAdmission: residents 0 JOD; international visitors 0 JOD; children 0 JOD.\nDay budget: 8–18 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Public parking nearby; allow a short walk.\nAccess and difficulty: Paved sections with stairs and slopes. Easy to moderate.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Cafés and shops in the surrounding streets.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 09:00–18:00. Seasonal planning: March–May; October–November. Best time of day: late afternoon.\nNearby suggestions: Baptism Site (Al-Maghtas)."
+        },
+        "arabic": {
+          "name": "وسط السلط التاريخي",
+          "description": "يجمع وسط السلط التاريخي مباني الحجر الجيري الأصفر والسلالم المترابطة والأزقة الضيقة والفضاءات العامة على تلال شديدة الانحدار. وقد شكّل نمو المدينة التجاري في أواخر العهد العثماني عمارتها وثقافتها الحضرية، اللتين اعترفت بهما اليونسكو عند إدراج الموقع عام ٢٠٢١. ويبرز الإدراج البيئة المبنية وتقاليد الضيافة والتعاون بين المجتمعين المسلم والمسيحي.\n\nتجوّل في الشوارع ذات الحجر الأصفر وبين المحلات وأدراج التلال. احترم حركة السكان واستأذن قبل تصوير الأشخاص.",
+          "city": "السلط",
+          "region": "البلقاء",
+          "address": "السلط، محافظة البلقاء، الأردن. نقطة وصول جغرافية إرشادية قرب وسط السلط التاريخي.",
+          "opening_hours": "09:00–18:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أجرة أو سيارة؛ المشي بين المعالم المركزية",
+          "activities": "المشي؛ التصوير؛ استكشاف وسط السلط التاريخي",
+          "visitor_information": "تجوّل في الشوارع ذات الحجر الأصفر وبين المحلات وأدراج التلال. احترم حركة السكان واستأذن قبل تصوير الأشخاص.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 0 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 8–18 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف عامة قريبة؛ احسب مسافة مشي قصيرة.\nالوصول والصعوبة: أجزاء مرصوفة تتخللها أدراج ومنحدرات. سهل إلى متوسط.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ ومحلات في الشوارع المحيطة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 09:00–18:00. التخطيط الموسمي: آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني. أفضل وقت خلال اليوم: آخر النهار.\nاقتراحات قريبة: موقع المغطس — بيت عنيا عبر الأردن.",
+          "visitor_guidance": "تجوّل في الشوارع ذات الحجر الأصفر وبين المحلات وأدراج التلال. احترم حركة السكان واستأذن قبل تصوير الأشخاص."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 0,
+          "childAdmission": 0,
+          "budgetMin": 8,
+          "budgetMax": 18,
+          "transportModes": [
+            "car",
+            "walking",
+            "public"
+          ],
+          "intensity": "urban",
+          "governorate": {
+            "en": "Balqa",
+            "ar": "البلقاء"
+          },
+          "accessibility": {
+            "en": "Paved sections with stairs and slopes",
+            "ar": "أجزاء مرصوفة تتخللها أدراج ومنحدرات"
+          },
+          "difficulty": {
+            "en": "Easy to moderate",
+            "ar": "سهل إلى متوسط"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Public parking nearby; allow a short walk",
+            "ar": "مواقف عامة قريبة؛ احسب مسافة مشي قصيرة"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Baptism Site (Al-Maghtas)",
+            "ar": "موقع المغطس — بيت عنيا عبر الأردن"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 30,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/689/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "0a905153-1e27-44b0-a2d8-3f9b8cf6b089",
+      "sourceVersion": "2026-10-19T19:24:18.983976+00:00",
+      "slug": "wadi-mujib",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "wadi-mujib",
+        "english": {
+          "name": "Mujib Biosphere Reserve",
+          "slug": "wadi-mujib",
+          "description": "Mujib Biosphere Reserve protects a striking transition between the Dead Sea shore and the surrounding mountain country. Its valleys, cliffs and river habitats support a varied natural landscape. A visit to the reserve is not one interchangeable activity: water routes and dry-land hikes have different seasons, requirements and booking arrangements.\n\nThe wet canyon experience is physically demanding. Follow the operator’s age, swimming, equipment and closure rules; never enter when flooding is possible.",
+          "city": "Wadi Mujib",
+          "region": "Madaba",
+          "address": "Wadi Mujib, Madaba, Jordan. Geographic arrival reference near Mujib Biosphere Reserve.",
+          "latitude": 31.4670625,
+          "longitude": 35.5731875,
+          "price_min_jod": 16,
+          "price_max_jod": 23,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 240,
+          "opening_hours": "08:00–15:00 · daily",
+          "best_time_to_visit": "May–September, subject to safe water levels",
+          "transportation_notes": "Car or arranged transfer to the adventure base",
+          "activities": "Walking; photography; exploring Mujib Biosphere Reserve",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends"
+          ],
+          "visitor_information": "The wet canyon experience is physically demanding. Follow the operator’s age, swimming, equipment and closure rules; never enter when flooding is possible.\nAdmission: Jordanians 16 JOD; international visitors 23 JOD; children 16 JOD.\nDay budget: 30–50 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking at the activity arrival area.\nAccess and difficulty: Wet, slippery terrain; not a step-free activity. Strenuous water activity.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Bring water and a meal for after the activity.\nBooking: Arrange a place with the operator before departure. Group guidance: Adults meeting the operator’s safety and age requirements.\nSchedule: daily, including Friday and Saturday; 08:00–15:00. Seasonal planning: May–September, subject to safe water levels. Best time of day: early morning.\nNearby suggestions: St. George’s Church (Madaba Map); Mount Nebo."
+        },
+        "arabic": {
+          "name": "محمية الموجب للمحيط الحيوي",
+          "description": "تحمي محمية الموجب للمحيط الحيوي انتقالًا لافتًا بين شاطئ البحر الميت والمرتفعات المحيطة. وتشكّل أوديتها وجروفها وموائلها النهرية مشهدًا طبيعيًا متنوعًا. ليست زيارة المحمية نشاطًا واحدًا متشابهًا؛ فالمسارات المائية والمشي على اليابسة تختلف في المواسم والمتطلبات وترتيبات الحجز.\n\nتتطلب تجربة الوادي المائي جهداً بدنياً. التزم بشروط المشغّل للعمر والسباحة والمعدات والإغلاق، ولا تدخل عند احتمال السيول.",
+          "city": "وادي الموجب",
+          "region": "مادبا",
+          "address": "وادي الموجب، محافظة مادبا، الأردن. نقطة وصول جغرافية إرشادية قرب محمية الموجب للمحيط الحيوي.",
+          "opening_hours": "08:00–15:00 · يومياً",
+          "best_time_to_visit": "أيار إلى أيلول، بحسب سلامة منسوب المياه",
+          "transportation_notes": "سيارة أو نقل مرتب مسبقاً إلى نقطة بدء النشاط",
+          "activities": "المشي؛ التصوير؛ استكشاف محمية الموجب للمحيط الحيوي",
+          "visitor_information": "تتطلب تجربة الوادي المائي جهداً بدنياً. التزم بشروط المشغّل للعمر والسباحة والمعدات والإغلاق، ولا تدخل عند احتمال السيول.\nرسوم الدخول: للأردنيين 16 د.أ.؛ للزوار الدوليين 23 د.أ.؛ للأطفال 16 د.أ.\nميزانية اليوم: 30–50 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار في منطقة الوصول للنشاط.\nالوصول والصعوبة: تضاريس مائية زلقة؛ النشاط غير ملائم للوصول دون عوائق. نشاط مائي شاق.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء ووجبة لما بعد النشاط.\nالحجز: رتّب مشاركتك مع المشغّل قبل الانطلاق. إرشادات المجموعة: للبالغين المستوفين لشروط المشغّل المتعلقة بالسلامة والعمر.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–15:00. التخطيط الموسمي: أيار إلى أيلول، بحسب سلامة منسوب المياه. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: كنيسة القديس جاورجيوس (خارطة مادبا)؛ جبل نيبو.",
+          "visitor_guidance": "تتطلب تجربة الوادي المائي جهداً بدنياً. التزم بشروط المشغّل للعمر والسباحة والمعدات والإغلاق، ولا تدخل عند احتمال السيول."
+        },
+        "planning": {
+          "residentAdmission": 16,
+          "internationalAdmission": 23,
+          "childAdmission": 16,
+          "budgetMin": 30,
+          "budgetMax": 50,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "canyon",
+          "governorate": {
+            "en": "Madaba",
+            "ar": "مادبا"
+          },
+          "accessibility": {
+            "en": "Wet, slippery terrain; not a step-free activity",
+            "ar": "تضاريس مائية زلقة؛ النشاط غير ملائم للوصول دون عوائق"
+          },
+          "difficulty": {
+            "en": "Strenuous water activity",
+            "ar": "نشاط مائي شاق"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Visitor parking at the activity arrival area",
+            "ar": "مواقف للزوار في منطقة الوصول للنشاط"
+          },
+          "booking": {
+            "en": "Arrange a place with the operator before departure",
+            "ar": "رتّب مشاركتك مع المشغّل قبل الانطلاق"
+          },
+          "family": {
+            "en": "Adults meeting the operator’s safety and age requirements",
+            "ar": "للبالغين المستوفين لشروط المشغّل المتعلقة بالسلامة والعمر"
+          },
+          "nearby": {
+            "en": "St. George’s Church (Madaba Map); Mount Nebo",
+            "ar": "كنيسة القديس جاورجيوس (خارطة مادبا)؛ جبل نيبو"
+          },
+          "jordanianAdmission": 16,
+          "travelMinutes": 90,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/wadi-mujib/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "a6b63635-d609-411d-86e2-ccd2ec0bd6af",
+      "sourceVersion": "2026-10-19T18:16:39.768052+00:00",
+      "slug": "dana-reserve",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "dana-reserve",
+        "english": {
+          "name": "Dana Biosphere Reserve",
+          "slug": "dana-reserve",
+          "description": "Dana Biosphere Reserve spans mountain slopes and deep valleys towards Wadi Araba, bringing together markedly different habitats in a compact landscape. Managed by RSCN, it combines biodiversity conservation with nature tourism and local livelihoods. Dana village offers a cultural introduction through its older buildings, terraced gardens and craft activity, while the reserve's walking routes reach very different terrain.\n\nEnjoy village views and a selected reserve trail rather than attempting every route. Carry water, sun protection and a warm layer for changing mountain weather.",
+          "city": "Dana",
+          "region": "Tafilah",
+          "address": "Dana, Tafilah, Jordan. Geographic arrival reference near Dana Biosphere Reserve.",
+          "latitude": 30.6743125,
+          "longitude": 35.6083125,
+          "price_min_jod": 5,
+          "price_max_jod": 10,
+          "duration_min_minutes": 180,
+          "duration_max_minutes": 360,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi; continue on foot inside the site",
+          "activities": "Walking; photography; exploring Dana Biosphere Reserve",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Enjoy village views and a selected reserve trail rather than attempting every route. Carry water, sun protection and a warm layer for changing mountain weather.\nAdmission: Jordanians 5 JOD; international visitors 10 JOD; children 3 JOD.\nDay budget: 18–38 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near the arrival reference.\nAccess and difficulty: Long walks, slopes and steps. Moderate to strenuous.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Carry water, snacks and a refillable bottle.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Explore the surrounding locality after your visit."
+        },
+        "arabic": {
+          "name": "محمية ضانا للمحيط الحيوي",
+          "description": "تمتد محمية ضانا للمحيط الحيوي عبر منحدرات جبلية وأودية عميقة باتجاه وادي عربة، وتجمع موائل متباينة بوضوح ضمن مشهد متقارب. تديرها الجمعية الملكية لحماية الطبيعة وتربط صون التنوع الحيوي بالسياحة الطبيعية وسبل العيش المحلية. وتتيح قرية ضانا مدخلًا ثقافيًا من خلال مبانيها القديمة وحدائقها المدرجة وأنشطتها الحرفية، بينما تصل مسارات المحمية إلى تضاريس مختلفة جدًا.\n\nاستمتع بإطلالات القرية ومسار مناسب في المحمية بدلاً من محاولة اجتياز جميع المسارات. احمل الماء وواقي الشمس وقطعة دافئة لتقلّبات طقس الجبال.",
+          "city": "ضانا",
+          "region": "الطفيلة",
+          "address": "ضانا، محافظة الطفيلة، الأردن. نقطة وصول جغرافية إرشادية قرب محمية ضانا للمحيط الحيوي.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم المشي داخل الموقع",
+          "activities": "المشي؛ التصوير؛ استكشاف محمية ضانا للمحيط الحيوي",
+          "visitor_information": "استمتع بإطلالات القرية ومسار مناسب في المحمية بدلاً من محاولة اجتياز جميع المسارات. احمل الماء وواقي الشمس وقطعة دافئة لتقلّبات طقس الجبال.\nرسوم الدخول: للأردنيين 5 د.أ.؛ للزوار الدوليين 10 د.أ.؛ للأطفال 3 د.أ.\nميزانية اليوم: 18–38 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب نقطة الوصول الإرشادية.\nالوصول والصعوبة: مشي طويل ومنحدرات وأدراج. متوسط إلى شاق.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء والوجبات الخفيفة وزجاجة قابلة للتعبئة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: استكشف المنطقة المحيطة بعد الزيارة.",
+          "visitor_guidance": "استمتع بإطلالات القرية ومسار مناسب في المحمية بدلاً من محاولة اجتياز جميع المسارات. احمل الماء وواقي الشمس وقطعة دافئة لتقلّبات طقس الجبال."
+        },
+        "planning": {
+          "residentAdmission": 5,
+          "internationalAdmission": 10,
+          "childAdmission": 3,
+          "budgetMin": 18,
+          "budgetMax": 38,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "mountain",
+          "governorate": {
+            "en": "Tafilah",
+            "ar": "الطفيلة"
+          },
+          "accessibility": {
+            "en": "Long walks, slopes and steps",
+            "ar": "مشي طويل ومنحدرات وأدراج"
+          },
+          "difficulty": {
+            "en": "Moderate to strenuous",
+            "ar": "متوسط إلى شاق"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Visitor parking near the arrival reference",
+            "ar": "مواقف للزوار قرب نقطة الوصول الإرشادية"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Explore the surrounding locality after your visit",
+            "ar": "استكشف المنطقة المحيطة بعد الزيارة"
+          },
+          "jordanianAdmission": 5,
+          "travelMinutes": 205,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/dana-feynan/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "4ec8a105-00a5-4f4b-b410-dbf864343826",
+      "sourceVersion": "2026-10-19T18:16:45.896524+00:00",
+      "slug": "iraq-al-amir",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "iraq-al-amir",
+        "english": {
+          "name": "Iraq Al-Amir",
+          "slug": "iraq-al-amir",
+          "description": "Iraq Al-Amir offers a heritage visit southwest of Amman, where olive-growing countryside, hillside caves and ancient stone architecture form a different setting from the city centre. The Jordan Tourism Board identifies nearby Qasr El-Abd as a rare surviving example of pre-Roman architecture in Jordan, dating to the second century BCE. Its substantial masonry makes it a focus for visitors interested in the region's archaeological landscape.\n\nCombine Qasr Al-Abd with the surrounding village landscape. Stay clear of fragile masonry and keep entrances and farm access routes unobstructed.",
+          "city": "Iraq Al-Amir",
+          "region": "Amman",
+          "address": "Iraq Al-Amir, Amman, Jordan. Geographic arrival reference near Iraq Al-Amir.",
+          "latitude": 31.9195625,
+          "longitude": 35.7533125,
+          "price_min_jod": 0,
+          "price_max_jod": 1,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 120,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; October–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "Walking; photography; exploring Iraq Al-Amir",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Combine Qasr Al-Abd with the surrounding village landscape. Stay clear of fragile masonry and keep entrances and farm access routes unobstructed.\nAdmission: Jordanians 0 JOD; international visitors 1 JOD; children 0 JOD.\nDay budget: 7–16 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; October–November. Best time of day: early morning.\nNearby suggestions: Amman Citadel; Amman Roman Theatre."
+        },
+        "arabic": {
+          "name": "عراق الأمير",
+          "description": "تتيح عراق الأمير زيارة تراثية جنوب غرب عمّان، حيث تشكل الأراضي المزروعة بالزيتون وكهوف السفوح والعمارة الحجرية القديمة بيئة مختلفة عن وسط المدينة. وتعرّف هيئة تنشيط السياحة قصر العبد القريب بوصفه مثالًا نادرًا باقيًا للعمارة السابقة للعصر الروماني في الأردن، يعود إلى القرن الثاني قبل الميلاد. وتجعله كتله الحجرية الضخمة محورًا للزوار المهتمين بالمشهد الأثري للمنطقة.\n\nاجمع بين زيارة قصر العبد ومشاهدة المشهد الريفي المحيط. ابتعد عن الحجارة الهشة ولا تعق حركة المداخل والطرق الزراعية.",
+          "city": "عراق الأمير",
+          "region": "عمّان",
+          "address": "عراق الأمير، محافظة عمّان، الأردن. نقطة وصول جغرافية إرشادية قرب عراق الأمير.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "المشي؛ التصوير؛ استكشاف عراق الأمير",
+          "visitor_information": "اجمع بين زيارة قصر العبد ومشاهدة المشهد الريفي المحيط. ابتعد عن الحجارة الهشة ولا تعق حركة المداخل والطرق الزراعية.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 1 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 7–16 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: جبل القلعة؛ المدرج الروماني في عمّان.",
+          "visitor_guidance": "اجمع بين زيارة قصر العبد ومشاهدة المشهد الريفي المحيط. ابتعد عن الحجارة الهشة ولا تعق حركة المداخل والطرق الزراعية."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 1,
+          "childAdmission": 0,
+          "budgetMin": 7,
+          "budgetMax": 16,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Amman",
+            "ar": "عمّان"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Amman Citadel; Amman Roman Theatre",
+            "ar": "جبل القلعة؛ المدرج الروماني في عمّان"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 20,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/amman/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "066dbed9-ca25-421e-8187-00fbc78fcda3",
+      "sourceVersion": "2026-10-19T18:17:00.619931+00:00",
+      "slug": "umm-qais",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "umm-qais",
+        "english": {
+          "name": "Umm Qais",
+          "slug": "umm-qais",
+          "description": "At Umm Qais, the remains of ancient Gadara occupy a hilltop above the Jordan Valley. A colonnaded street, theatre remains and dark basalt architecture give visitors an introduction to a city associated with the Decapolis. The Ottoman-era village occupies part of the ancient site, adding another layer to the landscape.\n\nFollow the basalt streets and stop at the panoramic terrace. Uneven stones and exposed viewpoints require care, especially with young children.",
+          "city": "Umm Qais",
+          "region": "Irbid",
+          "address": "Umm Qais, Irbid, Jordan. Geographic arrival reference near Umm Qais.",
+          "latitude": 32.6556875,
+          "longitude": 35.6780625,
+          "price_min_jod": 1,
+          "price_max_jod": 5,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 210,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "Walking; photography; exploring Umm Qais",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Follow the basalt streets and stop at the panoramic terrace. Uneven stones and exposed viewpoints require care, especially with young children.\nAdmission: Jordanians 1 JOD; international visitors 5 JOD; children 1 JOD.\nDay budget: 12–25 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Pella (Tabaqat Fahl)."
+        },
+        "arabic": {
+          "name": "أم قيس",
+          "description": "في أم قيس، تتربع بقايا جدارا القديمة على قمة تطل على وادي الأردن. وتعرّف الشوارع ذات الأعمدة وبقايا المسارح والعمارة البازلتية الداكنة الزوار بمدينة مرتبطة بالديكابوليس. وتشغل القرية التي تعود إلى العهد العثماني جزءًا من الموقع القديم، مضيفة طبقة أخرى إلى المشهد.\n\nاتبع الشوارع البازلتية وتوقّف عند الإطلالة الواسعة. انتبه للحجارة غير المستوية والمناطق المكشوفة، خصوصاً برفقة الأطفال.",
+          "city": "أم قيس",
+          "region": "إربد",
+          "address": "أم قيس، محافظة إربد، الأردن. نقطة وصول جغرافية إرشادية قرب أم قيس.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "المشي؛ التصوير؛ استكشاف أم قيس",
+          "visitor_information": "اتبع الشوارع البازلتية وتوقّف عند الإطلالة الواسعة. انتبه للحجارة غير المستوية والمناطق المكشوفة، خصوصاً برفقة الأطفال.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 5 د.أ.؛ للأطفال 1 د.أ.\nميزانية اليوم: 12–25 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: طبقة فحل (بيلا).",
+          "visitor_guidance": "اتبع الشوارع البازلتية وتوقّف عند الإطلالة الواسعة. انتبه للحجارة غير المستوية والمناطق المكشوفة، خصوصاً برفقة الأطفال."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 5,
+          "childAdmission": 1,
+          "budgetMin": 12,
+          "budgetMax": 25,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Irbid",
+            "ar": "إربد"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Pella (Tabaqat Fahl)",
+            "ar": "طبقة فحل (بيلا)"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 115,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/umm-qais/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "7f3b73ce-008d-4bfa-a75d-68ed3a135392",
+      "sourceVersion": "2026-10-21T18:45:53.071783+00:00",
+      "slug": "petra",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "petra",
+        "english": {
+          "name": "Petra",
+          "slug": "petra",
+          "description": "Petra brings together Nabataean engineering, carved sandstone façades and the remains of an ancient caravan city. The Siq leads towards the Treasury, while tombs, streets and the Monastery reveal a much larger landscape than a single monument. Its water-management works help explain how settlement flourished in this setting.\n\nStart early for the Siq and Treasury, then choose further monuments according to your fitness. Carry water; steps, long distances and heat make pacing important.",
+          "city": "Wadi Musa",
+          "region": "Ma’an",
+          "address": "Wadi Musa, Ma’an, Jordan. Geographic arrival reference near Petra.",
+          "latitude": 30.3243125,
+          "longitude": 35.4679375,
+          "price_min_jod": 1,
+          "price_max_jod": 50,
+          "duration_min_minutes": 240,
+          "duration_max_minutes": 480,
+          "opening_hours": "06:30–17:00 · daily",
+          "best_time_to_visit": "March–April; October–November",
+          "transportation_notes": "Car or taxi; continue on foot inside the site",
+          "activities": "Walk the Siq and main archaeological trail\nObserve the Treasury and rock-cut tombs\nConsider the Monastery only with sufficient time and suitable access",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Start early for the Siq and Treasury, then choose further monuments according to your fitness. Carry water; steps, long distances and heat make pacing important.\nAdmission: Jordanians 1 JOD; international visitors 50 JOD; children 0 JOD.\nDay budget: 25–85 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near the arrival reference.\nAccess and difficulty: Long walks, slopes and steps. Moderate to strenuous.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Carry water, snacks and a refillable bottle.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 06:30–17:00. Seasonal planning: March–April; October–November. Best time of day: early morning.\nNearby suggestions: Shobak Castle; Little Petra (Siq Al-Barid)."
+        },
+        "arabic": {
+          "name": "البترا",
+          "description": "تجمع البترا بين براعة الأنباط في إدارة المياه والواجهات المنحوتة في الحجر الرملي وبقايا مدينة ازدهرت على طرق القوافل. يقود السيق إلى الخزنة، ثم تكشف المدافن والشوارع والدير عن موقع أوسع بكثير من معلم واحد. وتساعد منشآت المياه على فهم استقرار السكان في هذه البيئة.\n\nابدأ باكراً بالسيق والخزنة، ثم اختر المعالم الأبعد بحسب لياقتك. احمل الماء ووزّع جهدك مع كثرة الدرج والمسافات الطويلة والحرارة.",
+          "city": "وادي موسى",
+          "region": "معان",
+          "address": "وادي موسى، محافظة معان، الأردن. نقطة وصول جغرافية إرشادية قرب البترا.",
+          "opening_hours": "06:30–17:00 · يومياً",
+          "best_time_to_visit": "آذار ونيسان؛ تشرين الأول وتشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم المشي داخل الموقع",
+          "activities": "المشي في السيق والمسار الأثري الرئيسي\nتأمل الخزنة والمدافن المنحوتة\nاختيار مسار الدير عند توفر الوقت والقدرة وإمكانية الوصول",
+          "visitor_information": "ابدأ باكراً بالسيق والخزنة، ثم اختر المعالم الأبعد بحسب لياقتك. احمل الماء ووزّع جهدك مع كثرة الدرج والمسافات الطويلة والحرارة.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 50 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 25–85 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب نقطة الوصول الإرشادية.\nالوصول والصعوبة: مشي طويل ومنحدرات وأدراج. متوسط إلى شاق.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء والوجبات الخفيفة وزجاجة قابلة للتعبئة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 06:30–17:00. التخطيط الموسمي: آذار ونيسان؛ تشرين الأول وتشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: قلعة الشوبك؛ البترا الصغيرة (سيق البارد).",
+          "visitor_guidance": "ابدأ باكراً بالسيق والخزنة، ثم اختر المعالم الأبعد بحسب لياقتك. احمل الماء ووزّع جهدك مع كثرة الدرج والمسافات الطويلة والحرارة."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 50,
+          "childAdmission": 0,
+          "budgetMin": 25,
+          "budgetMax": 85,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "mountain",
+          "governorate": {
+            "en": "Ma’an",
+            "ar": "معان"
+          },
+          "accessibility": {
+            "en": "Long walks, slopes and steps",
+            "ar": "مشي طويل ومنحدرات وأدراج"
+          },
+          "difficulty": {
+            "en": "Moderate to strenuous",
+            "ar": "متوسط إلى شاق"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Visitor parking near the arrival reference",
+            "ar": "مواقف للزوار قرب نقطة الوصول الإرشادية"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Shobak Castle; Little Petra (Siq Al-Barid)",
+            "ar": "قلعة الشوبك؛ البترا الصغيرة (سيق البارد)"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 260,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/326/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "d278185d-b952-406d-8371-5569816e30e6",
+      "sourceVersion": "2026-10-21T18:46:22.545957+00:00",
+      "slug": "wadi-rum",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "wadi-rum",
+        "english": {
+          "name": "Wadi Rum Protected Area",
+          "slug": "wadi-rum",
+          "description": "Wadi Rum is a protected desert landscape where sandstone cliffs and natural arches stand alongside traces of long human occupation. Inscriptions and archaeological remains give cultural depth to the scenery; UNESCO recognises the area for both its natural and cultural value.\n\nArrange desert excursions through an authorized local operator. Pack water and sun protection, stay with your guide and respect rock inscriptions and sensitive desert habitats.",
+          "city": "Wadi Rum Village",
+          "region": "Aqaba",
+          "address": "Wadi Rum Village, Aqaba, Jordan. Geographic arrival reference near Wadi Rum Protected Area.",
+          "latitude": 29.6397222222222,
+          "longitude": 35.4338888888889,
+          "price_min_jod": 1,
+          "price_max_jod": 5,
+          "duration_min_minutes": 240,
+          "duration_max_minutes": 480,
+          "opening_hours": "08:00–18:00 · daily",
+          "best_time_to_visit": "March–April; October–November",
+          "transportation_notes": "Car to reception; guided local transport beyond",
+          "activities": "Guided landscape interpretation\nDesert vehicle outing with a licensed operator\nLearn about inscriptions and local cultural heritage",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Arrange desert excursions through an authorized local operator. Pack water and sun protection, stay with your guide and respect rock inscriptions and sensitive desert habitats.\nAdmission: Jordanians 1 JOD; international visitors 5 JOD; children 0 JOD.\nDay budget: 35–75 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Park at the visitor arrival area.\nAccess and difficulty: Sand and rock surfaces; arrange assistance in advance. Moderate; varies by selected activity.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Carry water; arrange meals with your operator.\nBooking: Arrange a place with the operator before departure. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–18:00. Seasonal planning: March–April; October–November. Best time of day: early morning.\nNearby suggestions: Aqaba Marine Reserve."
+        },
+        "arabic": {
+          "name": "محمية وادي رم",
+          "description": "وادي رم مشهد صحراوي محمي تتجاور فيه جروف الحجر الرملي والأقواس الطبيعية مع شواهد استيطان بشري طويل. وتضيف النقوش والبقايا الأثرية بعداً ثقافياً إلى جمال المكان، الذي تعترف اليونسكو بقيمته الطبيعية والثقافية معاً.\n\nرتّب الجولات الصحراوية مع مشغّل محلي مرخّص. احمل الماء ووسائل الوقاية من الشمس وابقَ مع الدليل واحترم النقوش والموائل الصحراوية الحساسة.",
+          "city": "قرية وادي رم",
+          "region": "العقبة",
+          "address": "قرية وادي رم، محافظة العقبة، الأردن. نقطة وصول جغرافية إرشادية قرب محمية وادي رم.",
+          "opening_hours": "08:00–18:00 · يومياً",
+          "best_time_to_visit": "آذار ونيسان؛ تشرين الأول وتشرين الثاني",
+          "transportation_notes": "سيارة إلى الاستقبال؛ ثم نقل محلي بإرشاد",
+          "activities": "التعرف إلى التضاريس مع مرشد\nجولة صحراوية بمركبة مع جهة مرخصة\nالتعرف إلى النقوش والتراث الثقافي المحلي",
+          "visitor_information": "رتّب الجولات الصحراوية مع مشغّل محلي مرخّص. احمل الماء ووسائل الوقاية من الشمس وابقَ مع الدليل واحترم النقوش والموائل الصحراوية الحساسة.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 5 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 35–75 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: اركن في منطقة وصول الزوار.\nالوصول والصعوبة: أسطح رملية وصخرية؛ رتّب المساعدة مسبقاً. متوسط؛ يختلف بحسب النشاط المختار.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء ورتّب الوجبات مع المشغّل.\nالحجز: رتّب مشاركتك مع المشغّل قبل الانطلاق. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–18:00. التخطيط الموسمي: آذار ونيسان؛ تشرين الأول وتشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: محمية العقبة البحرية.",
+          "visitor_guidance": "رتّب الجولات الصحراوية مع مشغّل محلي مرخّص. احمل الماء ووسائل الوقاية من الشمس وابقَ مع الدليل واحترم النقوش والموائل الصحراوية الحساسة."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 5,
+          "childAdmission": 0,
+          "budgetMin": 35,
+          "budgetMax": 75,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "desert",
+          "governorate": {
+            "en": "Aqaba",
+            "ar": "العقبة"
+          },
+          "accessibility": {
+            "en": "Sand and rock surfaces; arrange assistance in advance",
+            "ar": "أسطح رملية وصخرية؛ رتّب المساعدة مسبقاً"
+          },
+          "difficulty": {
+            "en": "Moderate; varies by selected activity",
+            "ar": "متوسط؛ يختلف بحسب النشاط المختار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Park at the visitor arrival area",
+            "ar": "اركن في منطقة وصول الزوار"
+          },
+          "booking": {
+            "en": "Arrange a place with the operator before departure",
+            "ar": "رتّب مشاركتك مع المشغّل قبل الانطلاق"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Aqaba Marine Reserve",
+            "ar": "محمية العقبة البحرية"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 365,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/1377/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "3498d3c9-a7ed-41fb-99e2-0296e4664fc4",
+      "sourceVersion": "2026-10-21T18:46:46.405003+00:00",
+      "slug": "jerash-archaeological-city",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "jerash-archaeological-city",
+        "english": {
+          "name": "Jerash Archaeological City",
+          "slug": "jerash-archaeological-city",
+          "description": "Jerash offers a broad archaeological walk through the streets and public spaces of an ancient city. The Oval Plaza, colonnades, theatres and temples help visitors understand how monumental buildings related to everyday urban life. Hadrian’s Arch forms another distinctive part of the archaeological landscape.\n\nExplore the Oval Plaza, colonnaded street and theatres at a comfortable pace. Wear shoes suitable for stone paving and allow shade breaks in warm weather.",
+          "city": "Jerash",
+          "region": "Jerash",
+          "address": "Jerash, Jerash, Jordan. Geographic arrival reference near Jerash Archaeological City.",
+          "latitude": 32.2759375,
+          "longitude": 35.8914375,
+          "price_min_jod": 1,
+          "price_max_jod": 10,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 240,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "Walk the Oval Plaza and colonnaded streets\nExplore accessible theatres and temple precincts\nObserve Hadrian’s Arch",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Explore the Oval Plaza, colonnaded street and theatres at a comfortable pace. Wear shoes suitable for stone paving and allow shade breaks in warm weather.\nAdmission: Jordanians 1 JOD; international visitors 10 JOD; children 0 JOD.\nDay budget: 15–30 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Explore the surrounding locality after your visit."
+        },
+        "arabic": {
+          "name": "مدينة جرش الأثرية",
+          "description": "تتيح جرش جولة أثرية واسعة في شوارع مدينة قديمة وساحاتها العامة. وتساعد الساحة البيضاوية والأعمدة والمسارح والمعابد على فهم علاقة المباني الكبيرة بالحياة اليومية في المدينة، فيما يشكل قوس هادريان معلماً مميزاً في المشهد الأثري.\n\nاستكشف الساحة البيضوية وشارع الأعمدة والمسارح بوتيرة مريحة. انتعل حذاءً يناسب الرصف الحجري وخذ فترات استراحة في الظل عند الحر.",
+          "city": "جرش",
+          "region": "جرش",
+          "address": "جرش، محافظة جرش، الأردن. نقطة وصول جغرافية إرشادية قرب مدينة جرش الأثرية.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "التجول في الساحة البيضاوية والشوارع المعمدة\nاستكشاف المسارح وساحات المعابد المتاحة\nتأمل قوس هادريان",
+          "visitor_information": "استكشف الساحة البيضوية وشارع الأعمدة والمسارح بوتيرة مريحة. انتعل حذاءً يناسب الرصف الحجري وخذ فترات استراحة في الظل عند الحر.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 10 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 15–30 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: استكشف المنطقة المحيطة بعد الزيارة.",
+          "visitor_guidance": "استكشف الساحة البيضوية وشارع الأعمدة والمسارح بوتيرة مريحة. انتعل حذاءً يناسب الرصف الحجري وخذ فترات استراحة في الظل عند الحر."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 10,
+          "childAdmission": 0,
+          "budgetMin": 15,
+          "budgetMax": 30,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Jerash",
+            "ar": "جرش"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Explore the surrounding locality after your visit",
+            "ar": "استكشف المنطقة المحيطة بعد الزيارة"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 50,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/jerash/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "af3f7f7c-eba4-455b-b334-5009734da5b1",
+      "sourceVersion": "2026-10-21T18:47:23.48107+00:00",
+      "slug": "amman-citadel",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "amman-citadel",
+        "english": {
+          "name": "Amman Citadel",
+          "slug": "amman-citadel",
+          "description": "Amman Citadel occupies a hill above the capital’s historic centre. Remains from different periods bring the city’s layered history into view, with the Temple of Hercules and the Umayyad Palace among its principal landmarks. Looking out over downtown helps connect the archaeological site with the living city below.\n\nPair the hilltop ruins with the city panorama and archaeological exhibits. Watch footing around ruins and use designated paths instead of climbing on remains.",
+          "city": "Jabal Al-Qal’a, Amman",
+          "region": "Amman",
+          "address": "Jabal Al-Qal’a, Amman, Amman, Jordan. Geographic arrival reference near Amman Citadel.",
+          "latitude": 31.9543125,
+          "longitude": 35.9354375,
+          "price_min_jod": 0.25,
+          "price_max_jod": 3,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 120,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Taxi or car; walk between central sights",
+          "activities": "Explore the Temple of Hercules remains\nObserve the Umayyad Palace complex\nEnjoy permitted viewpoints over central Amman",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Pair the hilltop ruins with the city panorama and archaeological exhibits. Watch footing around ruins and use designated paths instead of climbing on remains.\nAdmission: Jordanians 0.25 JOD; international visitors 3 JOD; children 0 JOD.\nDay budget: 8–18 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Public parking nearby; allow a short walk.\nAccess and difficulty: Paved sections with stairs and slopes. Easy to moderate.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Cafés and shops in the surrounding streets.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: late afternoon.\nNearby suggestions: Iraq Al-Amir; Amman Roman Theatre."
+        },
+        "arabic": {
+          "name": "جبل القلعة",
+          "description": "يقع جبل القلعة على مرتفع فوق وسط عمّان التاريخي، وتكشف آثاره المتنوعة مراحل متعاقبة من تاريخ المدينة. ومن أبرز معالمه معبد هرقل والقصر الأموي، فيما تساعد الإطلالة على وسط البلد على ربط الموقع الأثري بالمدينة الحية أسفله.\n\nاجمع بين الآثار على قمة التل وإطلالات المدينة والمعروضات الأثرية. انتبه لخطواتك واستخدم الممرات بدلاً من تسلّق البقايا الأثرية.",
+          "city": "جبل القلعة، عمّان",
+          "region": "عمّان",
+          "address": "جبل القلعة، عمّان، محافظة عمّان، الأردن. نقطة وصول جغرافية إرشادية قرب جبل القلعة.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أجرة أو سيارة؛ المشي بين المعالم المركزية",
+          "activities": "استكشاف بقايا معبد هرقل\nتأمل مجمع القصر الأموي\nمشاهدة وسط عمّان من نقاط الإطلالة المسموحة",
+          "visitor_information": "اجمع بين الآثار على قمة التل وإطلالات المدينة والمعروضات الأثرية. انتبه لخطواتك واستخدم الممرات بدلاً من تسلّق البقايا الأثرية.\nرسوم الدخول: للأردنيين 0.25 د.أ.؛ للزوار الدوليين 3 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 8–18 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف عامة قريبة؛ احسب مسافة مشي قصيرة.\nالوصول والصعوبة: أجزاء مرصوفة تتخللها أدراج ومنحدرات. سهل إلى متوسط.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ ومحلات في الشوارع المحيطة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: آخر النهار.\nاقتراحات قريبة: عراق الأمير؛ المدرج الروماني في عمّان.",
+          "visitor_guidance": "اجمع بين الآثار على قمة التل وإطلالات المدينة والمعروضات الأثرية. انتبه لخطواتك واستخدم الممرات بدلاً من تسلّق البقايا الأثرية."
+        },
+        "planning": {
+          "residentAdmission": 0.25,
+          "internationalAdmission": 3,
+          "childAdmission": 0,
+          "budgetMin": 8,
+          "budgetMax": 18,
+          "transportModes": [
+            "car",
+            "walking",
+            "public"
+          ],
+          "intensity": "urban",
+          "governorate": {
+            "en": "Amman",
+            "ar": "عمّان"
+          },
+          "accessibility": {
+            "en": "Paved sections with stairs and slopes",
+            "ar": "أجزاء مرصوفة تتخللها أدراج ومنحدرات"
+          },
+          "difficulty": {
+            "en": "Easy to moderate",
+            "ar": "سهل إلى متوسط"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Public parking nearby; allow a short walk",
+            "ar": "مواقف عامة قريبة؛ احسب مسافة مشي قصيرة"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Iraq Al-Amir; Amman Roman Theatre",
+            "ar": "عراق الأمير؛ المدرج الروماني في عمّان"
+          },
+          "jordanianAdmission": 0.25,
+          "travelMinutes": 15,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://edutravel.visitjordan.com/ms/page/81/History-and-Culture",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "d2eb511f-3678-4276-9ed7-0ac5d0eac6e8",
+      "sourceVersion": "2026-10-21T18:47:40.977004+00:00",
+      "slug": "amman-roman-theatre",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "amman-roman-theatre",
+        "english": {
+          "name": "Amman Roman Theatre",
+          "slug": "amman-roman-theatre",
+          "description": "The Roman Theatre is one of downtown Amman’s most recognisable monuments. Its stone seating climbs into the hillside, illustrating the scale of public entertainment in the Roman city. The theatre dates to the second century CE and was designed for thousands of spectators.\n\nView the theatre from the plaza before choosing whether to climb the seating. The steep steps need care; downtown cafés make a useful break afterwards.",
+          "city": "Downtown Amman",
+          "region": "Amman",
+          "address": "Downtown Amman, Amman, Jordan. Geographic arrival reference near Amman Roman Theatre.",
+          "latitude": 31.9516875,
+          "longitude": 35.9393125,
+          "price_min_jod": 0.25,
+          "price_max_jod": 2,
+          "duration_min_minutes": 45,
+          "duration_max_minutes": 90,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Taxi or car; walk between central sights",
+          "activities": "Observe the Roman theatre’s architecture\nExplore downtown surroundings\nVisit nearby heritage museums when access is confirmed",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "View the theatre from the plaza before choosing whether to climb the seating. The steep steps need care; downtown cafés make a useful break afterwards.\nAdmission: Jordanians 0.25 JOD; international visitors 2 JOD; children 0 JOD.\nDay budget: 6–15 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Public parking nearby; allow a short walk.\nAccess and difficulty: Paved sections with stairs and slopes. Easy to moderate.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Cafés and shops in the surrounding streets.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: late afternoon.\nNearby suggestions: Iraq Al-Amir; Amman Citadel."
+        },
+        "arabic": {
+          "name": "المدرج الروماني في عمّان",
+          "description": "يعد المدرج الروماني من أبرز معالم وسط عمّان، وتتدرج مقاعده الحجرية على سفح الجبل لتوضح حجم فضاءات العروض العامة في المدينة الرومانية. ويعود المدرج إلى القرن الثاني الميلادي، وقد صُمم لاستقبال آلاف المتفرجين.\n\nشاهد المدرّج من الساحة قبل أن تقرر صعود المقاعد. يحتاج الدرج الشديد الانحدار إلى الحذر، ويمكن الاستراحة لاحقاً في مقاهي وسط البلد.",
+          "city": "وسط البلد، عمّان",
+          "region": "عمّان",
+          "address": "وسط البلد، عمّان، محافظة عمّان، الأردن. نقطة وصول جغرافية إرشادية قرب المدرج الروماني في عمّان.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أجرة أو سيارة؛ المشي بين المعالم المركزية",
+          "activities": "تأمل عمارة المدرج الروماني\nالتجول في محيط وسط البلد\nزيارة المتاحف التراثية المجاورة عند تأكيد إتاحتها",
+          "visitor_information": "شاهد المدرّج من الساحة قبل أن تقرر صعود المقاعد. يحتاج الدرج الشديد الانحدار إلى الحذر، ويمكن الاستراحة لاحقاً في مقاهي وسط البلد.\nرسوم الدخول: للأردنيين 0.25 د.أ.؛ للزوار الدوليين 2 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 6–15 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف عامة قريبة؛ احسب مسافة مشي قصيرة.\nالوصول والصعوبة: أجزاء مرصوفة تتخللها أدراج ومنحدرات. سهل إلى متوسط.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ ومحلات في الشوارع المحيطة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: آخر النهار.\nاقتراحات قريبة: عراق الأمير؛ جبل القلعة.",
+          "visitor_guidance": "شاهد المدرّج من الساحة قبل أن تقرر صعود المقاعد. يحتاج الدرج الشديد الانحدار إلى الحذر، ويمكن الاستراحة لاحقاً في مقاهي وسط البلد."
+        },
+        "planning": {
+          "residentAdmission": 0.25,
+          "internationalAdmission": 2,
+          "childAdmission": 0,
+          "budgetMin": 6,
+          "budgetMax": 15,
+          "transportModes": [
+            "car",
+            "walking",
+            "public"
+          ],
+          "intensity": "urban",
+          "governorate": {
+            "en": "Amman",
+            "ar": "عمّان"
+          },
+          "accessibility": {
+            "en": "Paved sections with stairs and slopes",
+            "ar": "أجزاء مرصوفة تتخللها أدراج ومنحدرات"
+          },
+          "difficulty": {
+            "en": "Easy to moderate",
+            "ar": "سهل إلى متوسط"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Public parking nearby; allow a short walk",
+            "ar": "مواقف عامة قريبة؛ احسب مسافة مشي قصيرة"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Iraq Al-Amir; Amman Citadel",
+            "ar": "عراق الأمير؛ جبل القلعة"
+          },
+          "jordanianAdmission": 0.25,
+          "travelMinutes": 15,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/amman/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "c8e5e14c-b6fd-42f0-bb82-58e8365cc321",
+      "sourceVersion": "2026-10-21T18:47:59.392182+00:00",
+      "slug": "madaba-st-georges-church",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "madaba-st-georges-church",
+        "english": {
+          "name": "St. George’s Church (Madaba Map)",
+          "slug": "madaba-st-georges-church",
+          "description": "St. George’s Greek Orthodox Church preserves surviving sections of the Madaba Map, a sixth-century mosaic depicting places in the region. Its small stones turn geography into an intricate work of art, making the church a distinctive introduction to Madaba’s mosaic heritage.\n\nTake time to view the mosaic map while respecting the church as a place of worship. Follow staff instructions and avoid flash photography where requested.",
+          "city": "Madaba",
+          "region": "Madaba",
+          "address": "Madaba, Madaba, Jordan. Geographic arrival reference near St. George’s Church (Madaba Map).",
+          "latitude": 31.71765,
+          "longitude": 35.7942,
+          "price_min_jod": 1,
+          "price_max_jod": 1,
+          "duration_min_minutes": 30,
+          "duration_max_minutes": 60,
+          "opening_hours": "08:30–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi; short walk from the drop-off",
+          "activities": "Observe the surviving Madaba mosaic map\nLearn about mosaic imagery and regional geography",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Take time to view the mosaic map while respecting the church as a place of worship. Follow staff instructions and avoid flash photography where requested.\nAdmission: Jordanians 1 JOD; international visitors 1 JOD; children 0 JOD.\nDay budget: 6–14 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor or town parking near the site.\nAccess and difficulty: Short indoor and outdoor routes; some thresholds. Easy walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Nearby cafés; no food in worship or mosaic areas.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:30–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Mujib Biosphere Reserve; Mount Nebo."
+        },
+        "arabic": {
+          "name": "كنيسة القديس جاورجيوس (خارطة مادبا)",
+          "description": "تحتضن كنيسة القديس جاورجيوس للروم الأرثوذكس أجزاء باقية من خارطة مادبا الفسيفسائية التي تعود إلى القرن السادس الميلادي وتصور مواقع في المنطقة. وتحول الحجارة الصغيرة الجغرافيا إلى عمل فني دقيق، لتقدم الكنيسة مدخلاً مميزاً إلى تراث الفسيفساء في مادبا.\n\nخصّص وقتاً لتأمّل الخريطة الفسيفسائية مع احترام الكنيسة مكاناً للعبادة. اتبع تعليمات العاملين وتجنّب التصوير بالفلاش حيث يُطلب ذلك.",
+          "city": "مادبا",
+          "region": "مادبا",
+          "address": "مادبا، محافظة مادبا، الأردن. نقطة وصول جغرافية إرشادية قرب كنيسة القديس جاورجيوس (خارطة مادبا).",
+          "opening_hours": "08:30–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم مشي قصير من نقطة النزول",
+          "activities": "تأمل الأجزاء الباقية من خارطة مادبا\nالتعرف إلى الصور الفسيفسائية وجغرافيا المنطقة",
+          "visitor_information": "خصّص وقتاً لتأمّل الخريطة الفسيفسائية مع احترام الكنيسة مكاناً للعبادة. اتبع تعليمات العاملين وتجنّب التصوير بالفلاش حيث يُطلب ذلك.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 1 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 6–14 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار أو في البلدة قرب الموقع.\nالوصول والصعوبة: مسارات قصيرة داخلية وخارجية مع بعض العتبات. مشي سهل.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ قريبة؛ لا طعام في مناطق العبادة أو الفسيفساء.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:30–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: محمية الموجب للمحيط الحيوي؛ جبل نيبو.",
+          "visitor_guidance": "خصّص وقتاً لتأمّل الخريطة الفسيفسائية مع احترام الكنيسة مكاناً للعبادة. اتبع تعليمات العاملين وتجنّب التصوير بالفلاش حيث يُطلب ذلك."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 1,
+          "childAdmission": 0,
+          "budgetMin": 6,
+          "budgetMax": 14,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "church",
+          "governorate": {
+            "en": "Madaba",
+            "ar": "مادبا"
+          },
+          "accessibility": {
+            "en": "Short indoor and outdoor routes; some thresholds",
+            "ar": "مسارات قصيرة داخلية وخارجية مع بعض العتبات"
+          },
+          "difficulty": {
+            "en": "Easy walking",
+            "ar": "مشي سهل"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor or town parking near the site",
+            "ar": "مواقف للزوار أو في البلدة قرب الموقع"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Mujib Biosphere Reserve; Mount Nebo",
+            "ar": "محمية الموجب للمحيط الحيوي؛ جبل نيبو"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 40,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/madaba/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "73ed5471-2ea1-44b8-82df-44c55a62296d",
+      "sourceVersion": "2026-10-21T18:48:01.264408+00:00",
+      "slug": "mount-nebo",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "mount-nebo",
+        "english": {
+          "name": "Mount Nebo",
+          "slug": "mount-nebo",
+          "description": "Mount Nebo is a hilltop pilgrimage and archaeological destination associated with the biblical tradition of Moses. The memorial church and its mosaics offer a way to explore the site’s religious and artistic heritage, while the outlook connects it to the Jordan Valley landscape.\n\nVisit the memorial church and mosaics, then enjoy the overlook when visibility permits. Keep a light layer for wind and show consideration for worshippers.",
+          "city": "Mount Nebo, near Madaba",
+          "region": "Madaba",
+          "address": "Mount Nebo, near Madaba, Madaba, Jordan. Geographic arrival reference near Mount Nebo.",
+          "latitude": 31.768088,
+          "longitude": 35.725703,
+          "price_min_jod": 1,
+          "price_max_jod": 3,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 90,
+          "opening_hours": "08:00–16:30 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi; short walk from the drop-off",
+          "activities": "Visit the Moses memorial church and mosaics when open\nObserve the Jordan Valley from permitted viewpoints",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Visit the memorial church and mosaics, then enjoy the overlook when visibility permits. Keep a light layer for wind and show consideration for worshippers.\nAdmission: Jordanians 1 JOD; international visitors 3 JOD; children 1 JOD.\nDay budget: 8–18 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor or town parking near the site.\nAccess and difficulty: Short indoor and outdoor routes; some thresholds. Easy walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Nearby cafés; no food in worship or mosaic areas.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–16:30. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Mujib Biosphere Reserve; St. George’s Church (Madaba Map)."
+        },
+        "arabic": {
+          "name": "جبل نيبو",
+          "description": "جبل نيبو مقصد ديني وأثري يرتبط بالتقليد الكتابي للنبي موسى. وتتيح الكنيسة التذكارية وفسيفساؤها التعرف إلى التراث الديني والفني للموقع، فيما تربط الإطلالة المكان بمشهد غور الأردن.\n\nزر الكنيسة التذكارية والفسيفساء ثم استمتع بالإطلالة حين تسمح الرؤية. احمل قطعة خفيفة للرياح وراعِ المصلّين.",
+          "city": "جبل نيبو قرب مادبا",
+          "region": "مادبا",
+          "address": "جبل نيبو قرب مادبا، محافظة مادبا، الأردن. نقطة وصول جغرافية إرشادية قرب جبل نيبو.",
+          "opening_hours": "08:00–16:30 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم مشي قصير من نقطة النزول",
+          "activities": "زيارة كنيسة موسى التذكارية والفسيفساء عند فتحها\nمشاهدة غور الأردن من نقاط الإطلالة المسموحة",
+          "visitor_information": "زر الكنيسة التذكارية والفسيفساء ثم استمتع بالإطلالة حين تسمح الرؤية. احمل قطعة خفيفة للرياح وراعِ المصلّين.\nرسوم الدخول: للأردنيين 1 د.أ.؛ للزوار الدوليين 3 د.أ.؛ للأطفال 1 د.أ.\nميزانية اليوم: 8–18 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار أو في البلدة قرب الموقع.\nالوصول والصعوبة: مسارات قصيرة داخلية وخارجية مع بعض العتبات. مشي سهل.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ قريبة؛ لا طعام في مناطق العبادة أو الفسيفساء.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–16:30. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: محمية الموجب للمحيط الحيوي؛ كنيسة القديس جاورجيوس (خارطة مادبا).",
+          "visitor_guidance": "زر الكنيسة التذكارية والفسيفساء ثم استمتع بالإطلالة حين تسمح الرؤية. احمل قطعة خفيفة للرياح وراعِ المصلّين."
+        },
+        "planning": {
+          "residentAdmission": 1,
+          "internationalAdmission": 3,
+          "childAdmission": 1,
+          "budgetMin": 8,
+          "budgetMax": 18,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "church",
+          "governorate": {
+            "en": "Madaba",
+            "ar": "مادبا"
+          },
+          "accessibility": {
+            "en": "Short indoor and outdoor routes; some thresholds",
+            "ar": "مسارات قصيرة داخلية وخارجية مع بعض العتبات"
+          },
+          "difficulty": {
+            "en": "Easy walking",
+            "ar": "مشي سهل"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor or town parking near the site",
+            "ar": "مواقف للزوار أو في البلدة قرب الموقع"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Mujib Biosphere Reserve; St. George’s Church (Madaba Map)",
+            "ar": "محمية الموجب للمحيط الحيوي؛ كنيسة القديس جاورجيوس (خارطة مادبا)"
+          },
+          "jordanianAdmission": 1,
+          "travelMinutes": 40,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/madaba/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "240eb332-8372-4da5-a08e-8e7fb05bf75c",
+      "sourceVersion": "2026-10-21T18:48:16.732492+00:00",
+      "slug": "al-maghtas-baptism-site",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "al-maghtas-baptism-site",
+        "english": {
+          "name": "Baptism Site (Al-Maghtas)",
+          "slug": "al-maghtas-baptism-site",
+          "description": "Al-Maghtas, also known as Bethany Beyond the Jordan, is a Christian pilgrimage and archaeological site on the Jordan River’s eastern bank. Churches, baptismal remains and other structures preserve the religious history of a landscape associated in Christian tradition with the baptism of Jesus.\n\nPlan a guided visit and remain within the designated visitor route. Carry water and respect the sacred setting, river boundaries and all site instructions.",
+          "city": "Bethany Beyond the Jordan",
+          "region": "Balqa",
+          "address": "Bethany Beyond the Jordan, Balqa, Jordan. Geographic arrival reference near Baptism Site (Al-Maghtas).",
+          "latitude": 31.8372222222222,
+          "longitude": 35.5527777777778,
+          "price_min_jod": 3,
+          "price_max_jod": 12,
+          "duration_min_minutes": 90,
+          "duration_max_minutes": 150,
+          "opening_hours": "08:30–16:00 · daily",
+          "best_time_to_visit": "October–April",
+          "transportation_notes": "Prearranged car or operator transfer",
+          "activities": "Follow the designated visitor or pilgrimage route\nObserve archaeological churches and baptismal remains",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Plan a guided visit and remain within the designated visitor route. Carry water and respect the sacred setting, river boundaries and all site instructions.\nAdmission: Jordanians 3 JOD; international visitors 12 JOD; children 3 JOD.\nDay budget: 18–32 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near reception.\nAccess and difficulty: Guided route; discuss mobility needs before booking. Easy to moderate, depending on route.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Carry water; arrange refreshments before the tour.\nBooking: Arrange a place with the operator before departure. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:30–16:00. Seasonal planning: October–April. Best time of day: early morning.\nNearby suggestions: As-Salt Historic Centre."
+        },
+        "arabic": {
+          "name": "موقع المغطس — بيت عنيا عبر الأردن",
+          "description": "المغطس، أو بيت عنيا عبر الأردن، موقع حج مسيحي وأثري على الضفة الشرقية لنهر الأردن. وتحفظ الكنائس وبقايا منشآت المعمودية وغيرها تاريخاً دينياً لمشهد يرتبط في التقليد المسيحي بمعمودية السيد المسيح.\n\nخطّط لزيارة إرشادية والتزم بالمسار المخصص للزوار. احمل الماء واحترم قدسية المكان وحدود النهر وجميع تعليمات الموقع.",
+          "city": "المغطس، نهر الأردن",
+          "region": "البلقاء",
+          "address": "المغطس، نهر الأردن، محافظة البلقاء، الأردن. نقطة وصول جغرافية إرشادية قرب موقع المغطس — بيت عنيا عبر الأردن.",
+          "opening_hours": "08:30–16:00 · يومياً",
+          "best_time_to_visit": "تشرين الأول إلى نيسان",
+          "transportation_notes": "سيارة مرتبة مسبقاً أو نقل مع المشغّل",
+          "activities": "اتباع مسار الزوار أو الحج المعتمد\nتأمل الكنائس الأثرية وبقايا منشآت المعمودية",
+          "visitor_information": "خطّط لزيارة إرشادية والتزم بالمسار المخصص للزوار. احمل الماء واحترم قدسية المكان وحدود النهر وجميع تعليمات الموقع.\nرسوم الدخول: للأردنيين 3 د.أ.؛ للزوار الدوليين 12 د.أ.؛ للأطفال 3 د.أ.\nميزانية اليوم: 18–32 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب الاستقبال.\nالوصول والصعوبة: مسار إرشادي؛ ناقش احتياجات الحركة قبل الحجز. سهل إلى متوسط بحسب المسار.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء ورتّب المرطبات قبل الجولة.\nالحجز: رتّب مشاركتك مع المشغّل قبل الانطلاق. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:30–16:00. التخطيط الموسمي: تشرين الأول إلى نيسان. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: وسط السلط التاريخي.",
+          "visitor_guidance": "خطّط لزيارة إرشادية والتزم بالمسار المخصص للزوار. احمل الماء واحترم قدسية المكان وحدود النهر وجميع تعليمات الموقع."
+        },
+        "planning": {
+          "residentAdmission": 3,
+          "internationalAdmission": 12,
+          "childAdmission": 3,
+          "budgetMin": 18,
+          "budgetMax": 32,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "guided",
+          "governorate": {
+            "en": "Balqa",
+            "ar": "البلقاء"
+          },
+          "accessibility": {
+            "en": "Guided route; discuss mobility needs before booking",
+            "ar": "مسار إرشادي؛ ناقش احتياجات الحركة قبل الحجز"
+          },
+          "difficulty": {
+            "en": "Easy to moderate, depending on route",
+            "ar": "سهل إلى متوسط بحسب المسار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor parking near reception",
+            "ar": "مواقف للزوار قرب الاستقبال"
+          },
+          "booking": {
+            "en": "Arrange a place with the operator before departure",
+            "ar": "رتّب مشاركتك مع المشغّل قبل الانطلاق"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "As-Salt Historic Centre",
+            "ar": "وسط السلط التاريخي"
+          },
+          "jordanianAdmission": 3,
+          "travelMinutes": 50,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/1446/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "9f3588e1-5674-4bc9-b799-d89b8526b722",
+      "sourceVersion": "2026-10-21T18:48:46.016221+00:00",
+      "slug": "karak-castle",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "karak-castle",
+        "english": {
+          "name": "Karak Castle",
+          "slug": "karak-castle",
+          "description": "Karak Castle dominates the old town from a commanding hilltop position. Its vaulted halls, stone passages and defensive spaces invite visitors to consider how medieval fortifications were built into the landscape. The surrounding views help explain the importance of the site’s location.\n\nExplore the fortifications, vaulted passages and town views. Take care on dark steps and low doorways, and keep children away from unprotected edges.",
+          "city": "Al-Karak",
+          "region": "Karak",
+          "address": "Al-Karak, Karak, Jordan. Geographic arrival reference near Karak Castle.",
+          "latitude": 31.1809375,
+          "longitude": 35.7016875,
+          "price_min_jod": 0.25,
+          "price_max_jod": 2,
+          "duration_min_minutes": 90,
+          "duration_max_minutes": 150,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi; walk uphill to the castle",
+          "activities": "Explore open vaulted halls and passages\nObserve fortifications and surrounding views",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Explore the fortifications, vaulted passages and town views. Take care on dark steps and low doorways, and keep children away from unprotected edges.\nAdmission: Jordanians 0.25 JOD; international visitors 2 JOD; children 0 JOD.\nDay budget: 9–20 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Town or visitor parking below the monument.\nAccess and difficulty: Stairs, narrow passages and uneven paving. Moderate, with steep steps.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Cafés in town; carry drinking water.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Explore the surrounding locality after your visit."
+        },
+        "arabic": {
+          "name": "قلعة الكرك",
+          "description": "تهيمن قلعة الكرك على البلدة القديمة من موقع مرتفع. وتدعو قاعاتها المقببة وممراتها الحجرية وفضاءاتها الدفاعية إلى تأمل كيفية توظيف التضاريس في بناء التحصينات خلال العصور الوسطى. وتوضح الإطلالات المحيطة أهمية اختيار موقعها.\n\nاستكشف التحصينات والممرات المعقودة وإطلالات المدينة. انتبه للدرج المعتم والأبواب المنخفضة وأبعد الأطفال عن الحواف غير المحمية.",
+          "city": "الكرك",
+          "region": "الكرك",
+          "address": "الكرك، محافظة الكرك، الأردن. نقطة وصول جغرافية إرشادية قرب قلعة الكرك.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم المشي صعوداً إلى القلعة",
+          "activities": "استكشاف القاعات المقببة والممرات المفتوحة\nتأمل التحصينات والإطلالات المحيطة",
+          "visitor_information": "استكشف التحصينات والممرات المعقودة وإطلالات المدينة. انتبه للدرج المعتم والأبواب المنخفضة وأبعد الأطفال عن الحواف غير المحمية.\nرسوم الدخول: للأردنيين 0.25 د.أ.؛ للزوار الدوليين 2 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 9–20 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف البلدة أو الزوار أسفل المعلم.\nالوصول والصعوبة: أدراج وممرات ضيقة ورصف غير مستوٍ. متوسط مع درج شديد الانحدار.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ في البلدة؛ احمل مياه الشرب.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: استكشف المنطقة المحيطة بعد الزيارة.",
+          "visitor_guidance": "استكشف التحصينات والممرات المعقودة وإطلالات المدينة. انتبه للدرج المعتم والأبواب المنخفضة وأبعد الأطفال عن الحواف غير المحمية."
+        },
+        "planning": {
+          "residentAdmission": 0.25,
+          "internationalAdmission": 2,
+          "childAdmission": 0,
+          "budgetMin": 9,
+          "budgetMax": 20,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "castle",
+          "governorate": {
+            "en": "Karak",
+            "ar": "الكرك"
+          },
+          "accessibility": {
+            "en": "Stairs, narrow passages and uneven paving",
+            "ar": "أدراج وممرات ضيقة ورصف غير مستوٍ"
+          },
+          "difficulty": {
+            "en": "Moderate, with steep steps",
+            "ar": "متوسط مع درج شديد الانحدار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Town or visitor parking below the monument",
+            "ar": "مواقف البلدة أو الزوار أسفل المعلم"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Explore the surrounding locality after your visit",
+            "ar": "استكشف المنطقة المحيطة بعد الزيارة"
+          },
+          "jordanianAdmission": 0.25,
+          "travelMinutes": 125,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/karak/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "27ef186e-0a77-45e2-a917-d6693b20af62",
+      "sourceVersion": "2026-10-21T18:49:07.543597+00:00",
+      "slug": "shobak-castle",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "shobak-castle",
+        "english": {
+          "name": "Shobak Castle",
+          "slug": "shobak-castle",
+          "description": "Shobak Castle, historically known as Montreal or Mont Royal, occupies a hilltop in southern Jordan. Founded in the medieval period, it preserves defensive walls and architectural remains that reward careful observation. Its exposed setting makes the surrounding landscape part of the experience.\n\nWalk around the hilltop castle and its rural setting. Expect exposed wind and uneven ground; do not enter closed underground sections.",
+          "city": "Shobak",
+          "region": "Ma’an",
+          "address": "Shobak, Ma’an, Jordan. Geographic arrival reference near Shobak Castle.",
+          "latitude": 30.531389,
+          "longitude": 35.560833,
+          "price_min_jod": 0.25,
+          "price_max_jod": 1,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 120,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "April–May; September–October",
+          "transportation_notes": "Car or taxi; walk uphill to the castle",
+          "activities": "Explore open castle remains\nPhotograph the hilltop landscape from permitted paths",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Walk around the hilltop castle and its rural setting. Expect exposed wind and uneven ground; do not enter closed underground sections.\nAdmission: Jordanians 0.25 JOD; international visitors 1 JOD; children 0 JOD.\nDay budget: 8–18 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Town or visitor parking below the monument.\nAccess and difficulty: Stairs, narrow passages and uneven paving. Moderate, with steep steps.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Cafés in town; carry drinking water.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: April–May; September–October. Best time of day: early morning.\nNearby suggestions: Petra; Little Petra (Siq Al-Barid)."
+        },
+        "arabic": {
+          "name": "قلعة الشوبك",
+          "description": "تقع قلعة الشوبك، المعروفة تاريخياً باسم مونتريال أو مونت رويال، على مرتفع في جنوب الأردن. ويرجع تأسيسها إلى العصور الوسطى، وتحتفظ بجدران دفاعية وبقايا معمارية تستحق التأمل. ويجعل موقعها المكشوف المشهد المحيط جزءاً من تجربة الزيارة.\n\nتجوّل حول القلعة المرتفعة ومشهدها الريفي. توقّع الرياح والأرض غير المستوية ولا تدخل الأقسام المغلقة تحت الأرض.",
+          "city": "الشوبك",
+          "region": "معان",
+          "address": "الشوبك، محافظة معان، الأردن. نقطة وصول جغرافية إرشادية قرب قلعة الشوبك.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "نيسان وأيار؛ أيلول وتشرين الأول",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم المشي صعوداً إلى القلعة",
+          "activities": "استكشاف بقايا القلعة المفتوحة\nتصوير المشهد من المسارات المسموحة",
+          "visitor_information": "تجوّل حول القلعة المرتفعة ومشهدها الريفي. توقّع الرياح والأرض غير المستوية ولا تدخل الأقسام المغلقة تحت الأرض.\nرسوم الدخول: للأردنيين 0.25 د.أ.؛ للزوار الدوليين 1 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 8–18 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف البلدة أو الزوار أسفل المعلم.\nالوصول والصعوبة: أدراج وممرات ضيقة ورصف غير مستوٍ. متوسط مع درج شديد الانحدار.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: مقاهٍ في البلدة؛ احمل مياه الشرب.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: نيسان وأيار؛ أيلول وتشرين الأول. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: البترا؛ البترا الصغيرة (سيق البارد).",
+          "visitor_guidance": "تجوّل حول القلعة المرتفعة ومشهدها الريفي. توقّع الرياح والأرض غير المستوية ولا تدخل الأقسام المغلقة تحت الأرض."
+        },
+        "planning": {
+          "residentAdmission": 0.25,
+          "internationalAdmission": 1,
+          "childAdmission": 0,
+          "budgetMin": 8,
+          "budgetMax": 18,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "castle",
+          "governorate": {
+            "en": "Ma’an",
+            "ar": "معان"
+          },
+          "accessibility": {
+            "en": "Stairs, narrow passages and uneven paving",
+            "ar": "أدراج وممرات ضيقة ورصف غير مستوٍ"
+          },
+          "difficulty": {
+            "en": "Moderate, with steep steps",
+            "ar": "متوسط مع درج شديد الانحدار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Town or visitor parking below the monument",
+            "ar": "مواقف البلدة أو الزوار أسفل المعلم"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Petra; Little Petra (Siq Al-Barid)",
+            "ar": "البترا؛ البترا الصغيرة (سيق البارد)"
+          },
+          "jordanianAdmission": 0.25,
+          "travelMinutes": 225,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/uploads/documents/JordanMPG_LR.pdf",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "c6112825-e51c-49ee-b1eb-aa3202e85cd7",
+      "sourceVersion": "2026-10-21T18:49:27.300161+00:00",
+      "slug": "quseir-amra",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "quseir-amra",
+        "english": {
+          "name": "Quseir Amra",
+          "slug": "quseir-amra",
+          "description": "Quseir Amra is an Umayyad desert complex whose reception hall and bath preserve remarkable figurative wall paintings. The building offers an intimate encounter with early Islamic architecture and artistic life, and is recognised as a UNESCO World Heritage property.\n\nFocus on the bathhouse architecture and surviving wall paintings. Avoid touching decorated surfaces and follow conservation and photography instructions.",
+          "city": "Eastern Badia",
+          "region": "Zarqa",
+          "address": "Eastern Badia, Zarqa, Jordan. Geographic arrival reference near Quseir Amra.",
+          "latitude": 31.8018055555556,
+          "longitude": 36.5873055555556,
+          "price_min_jod": 0.25,
+          "price_max_jod": 3,
+          "duration_min_minutes": 45,
+          "duration_max_minutes": 90,
+          "opening_hours": "08:00–16:00 · daily",
+          "best_time_to_visit": "October–April",
+          "transportation_notes": "Car to reception; guided local transport beyond",
+          "activities": "Observe Umayyad architecture\nView conserved murals where access permits",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Focus on the bathhouse architecture and surviving wall paintings. Avoid touching decorated surfaces and follow conservation and photography instructions.\nAdmission: Jordanians 0.25 JOD; international visitors 3 JOD; children 0 JOD.\nDay budget: 10–22 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Park at the visitor arrival area.\nAccess and difficulty: Sand and rock surfaces; arrange assistance in advance. Moderate; varies by selected activity.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Carry water; arrange meals with your operator.\nBooking: Arrange a place with the operator before departure. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–16:00. Seasonal planning: October–April. Best time of day: early morning.\nNearby suggestions: Azraq Wetland Reserve; Shaumari Wildlife Reserve."
+        },
+        "arabic": {
+          "name": "قصير عمرة",
+          "description": "قصير عمرة مجمع أموي صحراوي تحتفظ قاعة استقباله وحمّامه برسوم جدارية تصويرية مميزة. ويتيح المبنى التعرف عن قرب إلى العمارة والحياة الفنية في العصر الإسلامي المبكر، وهو مدرج على قائمة التراث العالمي لليونسكو.\n\nتأمّل عمارة الحمّام والرسوم الجدارية الباقية. لا تلمس الأسطح المزخرفة والتزم بتعليمات الحفظ والتصوير.",
+          "city": "البادية الشرقية",
+          "region": "الزرقاء",
+          "address": "البادية الشرقية، محافظة الزرقاء، الأردن. نقطة وصول جغرافية إرشادية قرب قصير عمرة.",
+          "opening_hours": "08:00–16:00 · يومياً",
+          "best_time_to_visit": "تشرين الأول إلى نيسان",
+          "transportation_notes": "سيارة إلى الاستقبال؛ ثم نقل محلي بإرشاد",
+          "activities": "تأمل العمارة الأموية\nمشاهدة الرسوم المصانة حيث يسمح بالدخول",
+          "visitor_information": "تأمّل عمارة الحمّام والرسوم الجدارية الباقية. لا تلمس الأسطح المزخرفة والتزم بتعليمات الحفظ والتصوير.\nرسوم الدخول: للأردنيين 0.25 د.أ.؛ للزوار الدوليين 3 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 10–22 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: اركن في منطقة وصول الزوار.\nالوصول والصعوبة: أسطح رملية وصخرية؛ رتّب المساعدة مسبقاً. متوسط؛ يختلف بحسب النشاط المختار.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء ورتّب الوجبات مع المشغّل.\nالحجز: رتّب مشاركتك مع المشغّل قبل الانطلاق. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–16:00. التخطيط الموسمي: تشرين الأول إلى نيسان. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: محمية الأزرق المائية؛ محمية الشومري للأحياء البرية.",
+          "visitor_guidance": "تأمّل عمارة الحمّام والرسوم الجدارية الباقية. لا تلمس الأسطح المزخرفة والتزم بتعليمات الحفظ والتصوير."
+        },
+        "planning": {
+          "residentAdmission": 0.25,
+          "internationalAdmission": 3,
+          "childAdmission": 0,
+          "budgetMin": 10,
+          "budgetMax": 22,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "desert",
+          "governorate": {
+            "en": "Zarqa",
+            "ar": "الزرقاء"
+          },
+          "accessibility": {
+            "en": "Sand and rock surfaces; arrange assistance in advance",
+            "ar": "أسطح رملية وصخرية؛ رتّب المساعدة مسبقاً"
+          },
+          "difficulty": {
+            "en": "Moderate; varies by selected activity",
+            "ar": "متوسط؛ يختلف بحسب النشاط المختار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Park at the visitor arrival area",
+            "ar": "اركن في منطقة وصول الزوار"
+          },
+          "booking": {
+            "en": "Arrange a place with the operator before departure",
+            "ar": "رتّب مشاركتك مع المشغّل قبل الانطلاق"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Azraq Wetland Reserve; Shaumari Wildlife Reserve",
+            "ar": "محمية الأزرق المائية؛ محمية الشومري للأحياء البرية"
+          },
+          "jordanianAdmission": 0.25,
+          "travelMinutes": 95,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/327",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "8babd902-5fd7-4398-bc3e-eca4374deafe",
+      "sourceVersion": "2026-10-21T18:50:03.357258+00:00",
+      "slug": "um-er-rasas",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "um-er-rasas",
+        "english": {
+          "name": "Um er-Rasas (Kastrom Mefa’a)",
+          "slug": "um-er-rasas",
+          "description": "Um er-Rasas preserves an archaeological landscape shaped by Roman, Byzantine and early Islamic occupation. The mosaics of St Stephen’s Church are a principal highlight, while church remains and the distinctive stylite towers reveal different aspects of religious life. UNESCO recognises the site’s exceptional heritage.\n\nView the mosaics and the archaeological landscape from permitted walkways. Use sun protection and avoid walking on exposed or protected mosaic surfaces.",
+          "city": "Umm Ar-Rasas, Al-Jizah",
+          "region": "Amman",
+          "address": "Umm Ar-Rasas, Al-Jizah, Amman, Jordan. Geographic arrival reference near Um er-Rasas (Kastrom Mefa’a).",
+          "latitude": 31.5013125,
+          "longitude": 35.9191875,
+          "price_min_jod": 0,
+          "price_max_jod": 3,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 120,
+          "opening_hours": "08:00–16:00 · daily",
+          "best_time_to_visit": "March–May; October–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "View protected mosaics when open\nInterpret church remains and the stylite-tower landscape",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "View the mosaics and the archaeological landscape from permitted walkways. Use sun protection and avoid walking on exposed or protected mosaic surfaces.\nAdmission: Jordanians 0 JOD; international visitors 3 JOD; children 0 JOD.\nDay budget: 10–23 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–16:00. Seasonal planning: March–May; October–November. Best time of day: early morning.\nNearby suggestions: Iraq Al-Amir; Amman Citadel."
+        },
+        "arabic": {
+          "name": "أم الرصاص",
+          "description": "تحفظ أم الرصاص مشهداً أثرياً تشكل خلال العصور الرومانية والبيزنطية والإسلامية المبكرة. وتعد فسيفساء كنيسة القديس إسطفانوس من أبرز معالمها، فيما تكشف بقايا الكنائس وأبراج الرهبان النسّاك جوانب مختلفة من الحياة الدينية. وتعترف اليونسكو بقيمتها التراثية الاستثنائية.\n\nشاهد الفسيفساء والمشهد الأثري من الممرات المسموحة. استخدم الوقاية من الشمس ولا تمشِ على أسطح الفسيفساء المكشوفة أو المحمية.",
+          "city": "أم الرصاص، الجيزة",
+          "region": "عمّان",
+          "address": "أم الرصاص، الجيزة، محافظة عمّان، الأردن. نقطة وصول جغرافية إرشادية قرب أم الرصاص.",
+          "opening_hours": "08:00–16:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "مشاهدة الفسيفساء المحمية عند فتحها\nالتعرف إلى بقايا الكنائس ومشهد أبراج النسّاك",
+          "visitor_information": "شاهد الفسيفساء والمشهد الأثري من الممرات المسموحة. استخدم الوقاية من الشمس ولا تمشِ على أسطح الفسيفساء المكشوفة أو المحمية.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 3 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 10–23 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–16:00. التخطيط الموسمي: آذار إلى أيار؛ تشرين الأول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: عراق الأمير؛ جبل القلعة.",
+          "visitor_guidance": "شاهد الفسيفساء والمشهد الأثري من الممرات المسموحة. استخدم الوقاية من الشمس ولا تمشِ على أسطح الفسيفساء المكشوفة أو المحمية."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 3,
+          "childAdmission": 0,
+          "budgetMin": 10,
+          "budgetMax": 23,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Amman",
+            "ar": "عمّان"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Iraq Al-Amir; Amman Citadel",
+            "ar": "عراق الأمير؛ جبل القلعة"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 70,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/1093/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "9a54d97a-6906-40fa-9c89-bc0bf9656c3f",
+      "sourceVersion": "2026-10-21T18:50:32.848251+00:00",
+      "slug": "azraq-wetland-reserve",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "azraq-wetland-reserve",
+        "english": {
+          "name": "Azraq Wetland Reserve",
+          "slug": "azraq-wetland-reserve",
+          "description": "Azraq Wetland Reserve protects an oasis ecosystem in Jordan’s eastern desert. Established by RSCN in 1978, it is an important place to understand wetland conservation and the movements of migratory birds. Water, vegetation and desert surroundings create a landscape unlike the country’s highland reserves.\n\nMove quietly along the wetland route and pause at observation points. Wildlife sightings vary; binoculars and patience help without disturbing birds.",
+          "city": "Azraq",
+          "region": "Zarqa",
+          "address": "Azraq, Zarqa, Jordan. Geographic arrival reference near Azraq Wetland Reserve.",
+          "latitude": 31.833909,
+          "longitude": 36.820555,
+          "price_min_jod": 2,
+          "price_max_jod": 8,
+          "duration_min_minutes": 90,
+          "duration_max_minutes": 150,
+          "opening_hours": "09:00–16:00 · daily",
+          "best_time_to_visit": "October–April; early morning",
+          "transportation_notes": "Car or taxi to the visitor centre",
+          "activities": "Observe wetland habitat and migratory birds\nWalk approved open paths\nLearn about oasis conservation",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Move quietly along the wetland route and pause at observation points. Wildlife sightings vary; binoculars and patience help without disturbing birds.\nAdmission: Jordanians 2 JOD; international visitors 8 JOD; children 2 JOD.\nDay budget: 15–30 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor-centre parking.\nAccess and difficulty: Boardwalk and natural sections; check route condition. Easy to moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water and use food stops in Azraq.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 09:00–16:00. Seasonal planning: October–April; early morning. Best time of day: early morning.\nNearby suggestions: Quseir Amra; Shaumari Wildlife Reserve."
+        },
+        "arabic": {
+          "name": "محمية الأزرق المائية",
+          "description": "تحمي محمية الأزرق المائية نظام واحة رطبة في البادية الشرقية الأردنية. وقد أنشأتها الجمعية الملكية لحماية الطبيعة عام 1978، وهي مكان مهم لفهم حماية الأراضي الرطبة وحركة الطيور المهاجرة. وتمنح المياه والنباتات وسط الصحراء مشهداً يختلف عن محميات المرتفعات.\n\nسر بهدوء على مسار الأراضي الرطبة وتوقّف عند نقاط المراقبة. تختلف مشاهدات الحياة البرية، ويساعد المنظار والصبر من دون إزعاج الطيور.",
+          "city": "الأزرق",
+          "region": "الزرقاء",
+          "address": "الأزرق، محافظة الزرقاء، الأردن. نقطة وصول جغرافية إرشادية قرب محمية الأزرق المائية.",
+          "opening_hours": "09:00–16:00 · يومياً",
+          "best_time_to_visit": "تشرين الأول إلى نيسان؛ الصباح الباكر",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى مركز الزوار",
+          "activities": "مراقبة موائل الأراضي الرطبة والطيور المهاجرة\nالمشي على المسارات المعتمدة المفتوحة\nالتعرف إلى حماية الواحة",
+          "visitor_information": "سر بهدوء على مسار الأراضي الرطبة وتوقّف عند نقاط المراقبة. تختلف مشاهدات الحياة البرية، ويساعد المنظار والصبر من دون إزعاج الطيور.\nرسوم الدخول: للأردنيين 2 د.أ.؛ للزوار الدوليين 8 د.أ.؛ للأطفال 2 د.أ.\nميزانية اليوم: 15–30 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مركز الزوار.\nالوصول والصعوبة: ممرات خشبية وأجزاء طبيعية؛ تحقّق من حالة المسار. مشي سهل إلى متوسط.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء واستفد من خيارات الطعام في الأزرق.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 09:00–16:00. التخطيط الموسمي: تشرين الأول إلى نيسان؛ الصباح الباكر. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: قصير عمرة؛ محمية الشومري للأحياء البرية.",
+          "visitor_guidance": "سر بهدوء على مسار الأراضي الرطبة وتوقّف عند نقاط المراقبة. تختلف مشاهدات الحياة البرية، ويساعد المنظار والصبر من دون إزعاج الطيور."
+        },
+        "planning": {
+          "residentAdmission": 2,
+          "internationalAdmission": 8,
+          "childAdmission": 2,
+          "budgetMin": 15,
+          "budgetMax": 30,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "wetland",
+          "governorate": {
+            "en": "Zarqa",
+            "ar": "الزرقاء"
+          },
+          "accessibility": {
+            "en": "Boardwalk and natural sections; check route condition",
+            "ar": "ممرات خشبية وأجزاء طبيعية؛ تحقّق من حالة المسار"
+          },
+          "difficulty": {
+            "en": "Easy to moderate walking",
+            "ar": "مشي سهل إلى متوسط"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor-centre parking",
+            "ar": "مواقف مركز الزوار"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Quseir Amra; Shaumari Wildlife Reserve",
+            "ar": "قصير عمرة؛ محمية الشومري للأحياء البرية"
+          },
+          "jordanianAdmission": 2,
+          "travelMinutes": 120,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "3f2ee950-ff23-4bd7-9078-4e51a3b4b57b",
+      "sourceVersion": "2026-10-21T18:50:44.343039+00:00",
+      "slug": "shaumari-wildlife-reserve",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "shaumari-wildlife-reserve",
+        "english": {
+          "name": "Shaumari Wildlife Reserve",
+          "slug": "shaumari-wildlife-reserve",
+          "description": "Shaumari Wildlife Reserve is closely associated with Jordan’s efforts to conserve threatened desert wildlife, including the Arabian oryx. RSCN began establishing the reserve in 1975, creating a protected setting for conservation and breeding programmes.\n\nArrange the reserve experience in advance and follow your guide around managed wildlife areas. Never feed animals or leave the approved visitor route.",
+          "city": "Shaumari, near Azraq",
+          "region": "Zarqa",
+          "address": "Shaumari, near Azraq, Zarqa, Jordan. Geographic arrival reference near Shaumari Wildlife Reserve.",
+          "latitude": 31.7448424,
+          "longitude": 36.7818916,
+          "price_min_jod": 8,
+          "price_max_jod": 18,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 180,
+          "opening_hours": "09:00–16:00 · daily",
+          "best_time_to_visit": "October–April",
+          "transportation_notes": "Prearranged car or operator transfer",
+          "activities": "Join an available official guided wildlife activity\nLearn about Arabian oryx conservation",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Arrange the reserve experience in advance and follow your guide around managed wildlife areas. Never feed animals or leave the approved visitor route.\nAdmission: Jordanians 8 JOD; international visitors 18 JOD; children 6 JOD.\nDay budget: 25–45 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near reception.\nAccess and difficulty: Guided route; discuss mobility needs before booking. Easy to moderate, depending on route.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Carry water; arrange refreshments before the tour.\nBooking: Arrange a place with the operator before departure. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 09:00–16:00. Seasonal planning: October–April. Best time of day: early morning.\nNearby suggestions: Quseir Amra; Azraq Wetland Reserve."
+        },
+        "arabic": {
+          "name": "محمية الشومري للأحياء البرية",
+          "description": "ترتبط محمية الشومري للأحياء البرية بجهود الأردن لحماية الأنواع الصحراوية المهددة، ومنها المها العربي. وبدأت الجمعية الملكية لحماية الطبيعة إنشاء المحمية عام 1975، لتوفر بيئة محمية لبرامج الحماية والإكثار.\n\nرتّب تجربة المحمية مسبقاً واتبع الدليل في مناطق إدارة الحياة البرية. لا تطعم الحيوانات ولا تغادر مسار الزوار المسموح.",
+          "city": "الشومري قرب الأزرق",
+          "region": "الزرقاء",
+          "address": "الشومري قرب الأزرق، محافظة الزرقاء، الأردن. نقطة وصول جغرافية إرشادية قرب محمية الشومري للأحياء البرية.",
+          "opening_hours": "09:00–16:00 · يومياً",
+          "best_time_to_visit": "تشرين الأول إلى نيسان",
+          "transportation_notes": "سيارة مرتبة مسبقاً أو نقل مع المشغّل",
+          "activities": "المشاركة في نشاط رسمي متاح لمشاهدة الحياة البرية بإرشاد\nالتعرف إلى حماية المها العربي",
+          "visitor_information": "رتّب تجربة المحمية مسبقاً واتبع الدليل في مناطق إدارة الحياة البرية. لا تطعم الحيوانات ولا تغادر مسار الزوار المسموح.\nرسوم الدخول: للأردنيين 8 د.أ.؛ للزوار الدوليين 18 د.أ.؛ للأطفال 6 د.أ.\nميزانية اليوم: 25–45 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب الاستقبال.\nالوصول والصعوبة: مسار إرشادي؛ ناقش احتياجات الحركة قبل الحجز. سهل إلى متوسط بحسب المسار.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء ورتّب المرطبات قبل الجولة.\nالحجز: رتّب مشاركتك مع المشغّل قبل الانطلاق. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 09:00–16:00. التخطيط الموسمي: تشرين الأول إلى نيسان. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: قصير عمرة؛ محمية الأزرق المائية.",
+          "visitor_guidance": "رتّب تجربة المحمية مسبقاً واتبع الدليل في مناطق إدارة الحياة البرية. لا تطعم الحيوانات ولا تغادر مسار الزوار المسموح."
+        },
+        "planning": {
+          "residentAdmission": 8,
+          "internationalAdmission": 18,
+          "childAdmission": 6,
+          "budgetMin": 25,
+          "budgetMax": 45,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "guided",
+          "governorate": {
+            "en": "Zarqa",
+            "ar": "الزرقاء"
+          },
+          "accessibility": {
+            "en": "Guided route; discuss mobility needs before booking",
+            "ar": "مسار إرشادي؛ ناقش احتياجات الحركة قبل الحجز"
+          },
+          "difficulty": {
+            "en": "Easy to moderate, depending on route",
+            "ar": "سهل إلى متوسط بحسب المسار"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Visitor parking near reception",
+            "ar": "مواقف للزوار قرب الاستقبال"
+          },
+          "booking": {
+            "en": "Arrange a place with the operator before departure",
+            "ar": "رتّب مشاركتك مع المشغّل قبل الانطلاق"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Quseir Amra; Azraq Wetland Reserve",
+            "ar": "قصير عمرة؛ محمية الأزرق المائية"
+          },
+          "jordanianAdmission": 8,
+          "travelMinutes": 120,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://www.rscn.org.jo/reserve/list?lang=en",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "16997697-cb9e-4126-b359-b83f1bde762c",
+      "sourceVersion": "2026-10-21T18:50:45.904957+00:00",
+      "slug": "pella-tabaqat-fahl",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "pella-tabaqat-fahl",
+        "english": {
+          "name": "Pella (Tabaqat Fahl)",
+          "slug": "pella-tabaqat-fahl",
+          "description": "Pella, at Tabaqat Fahl in northern Jordan, is an archaeological landscape overlooking the Jordan Valley. Its layers of settlement include classical buildings, churches and early Islamic remains, offering a different experience from a single, fully reconstructed monument.\n\nExplore the archaeological terraces and valley setting with sturdy footwear. Protect yourself from sun and remain clear of excavations and unstable edges.",
+          "city": "Tabaqat Fahl",
+          "region": "Irbid",
+          "address": "Tabaqat Fahl, Irbid, Jordan. Geographic arrival reference near Pella (Tabaqat Fahl).",
+          "latitude": 32.449809,
+          "longitude": 35.613423,
+          "price_min_jod": 0,
+          "price_max_jod": 2,
+          "duration_min_minutes": 90,
+          "duration_max_minutes": 150,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "February–April; October–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "Observe archaeological layers and church remains\nPhotograph the Jordan Valley setting from permitted routes",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Explore the archaeological terraces and valley setting with sturdy footwear. Protect yourself from sun and remain clear of excavations and unstable edges.\nAdmission: Jordanians 0 JOD; international visitors 2 JOD; children 0 JOD.\nDay budget: 8–19 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: February–April; October–November. Best time of day: early morning.\nNearby suggestions: Umm Qais."
+        },
+        "arabic": {
+          "name": "طبقة فحل (بيلا)",
+          "description": "طبقة فحل، المعروفة أيضاً باسم بيلا، مشهد أثري في شمال الأردن يطل على وادي الأردن. وتضم طبقاته الاستيطانية مباني كلاسيكية وكنائس وآثاراً إسلامية مبكرة، لتقدم تجربة تختلف عن زيارة معلم واحد أعيد بناؤه بالكامل.\n\nاستكشف المصاطب الأثرية ومشهد الوادي بحذاء ثابت. احمِ نفسك من الشمس وابتعد عن الحفريات والحواف غير المستقرة.",
+          "city": "طبقة فحل",
+          "region": "إربد",
+          "address": "طبقة فحل، محافظة إربد، الأردن. نقطة وصول جغرافية إرشادية قرب طبقة فحل (بيلا).",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "شباط إلى نيسان؛ تشرين الأول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "تأمل الطبقات الأثرية وبقايا الكنائس\nتصوير مشهد وادي الأردن من المسارات المسموحة",
+          "visitor_information": "استكشف المصاطب الأثرية ومشهد الوادي بحذاء ثابت. احمِ نفسك من الشمس وابتعد عن الحفريات والحواف غير المستقرة.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 2 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 8–19 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: شباط إلى نيسان؛ تشرين الأول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: أم قيس.",
+          "visitor_guidance": "استكشف المصاطب الأثرية ومشهد الوادي بحذاء ثابت. احمِ نفسك من الشمس وابتعد عن الحفريات والحواف غير المستقرة."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 2,
+          "childAdmission": 0,
+          "budgetMin": 8,
+          "budgetMax": 19,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Irbid",
+            "ar": "إربد"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Umm Qais",
+            "ar": "أم قيس"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 85,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://international.visitjordan.com/wheretogo/pella/",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "15e5f707-72e2-49a7-a908-07c1bbe703c8",
+      "sourceVersion": "2026-10-21T18:50:47.448166+00:00",
+      "slug": "umm-al-jimal",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "umm-al-jimal",
+        "english": {
+          "name": "Umm Al-Jimāl",
+          "slug": "umm-al-jimal",
+          "description": "Umm Al-Jimal’s dark basalt buildings preserve the character of a rural settlement that developed during the Byzantine and early Islamic periods. Houses, courtyards and religious structures illustrate local building traditions, while water-collection works reveal how the community adapted to its setting. The property entered the UNESCO World Heritage List in 2024.\n\nFollow the basalt-built streets, courtyards and church remains. Keep to accessible routes and avoid climbing roofs or fragile ancient walls.",
+          "city": "Umm Al-Jimal",
+          "region": "Mafraq",
+          "address": "Umm Al-Jimal, Mafraq, Jordan. Geographic arrival reference near Umm Al-Jimāl.",
+          "latitude": 32.3269444444445,
+          "longitude": 36.37,
+          "price_min_jod": 0.5,
+          "price_max_jod": 2,
+          "duration_min_minutes": 90,
+          "duration_max_minutes": 180,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi to the archaeological site",
+          "activities": "Observe basalt architecture and courtyards\nLearn about historic water collection\nVisit House 119 only when open",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Follow the basalt-built streets, courtyards and church remains. Keep to accessible routes and avoid climbing roofs or fragile ancient walls.\nAdmission: Jordanians 0.5 JOD; international visitors 2 JOD; children 0 JOD.\nDay budget: 9–20 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Designated roadside or visitor parking.\nAccess and difficulty: Uneven stone paths; step-free access is limited. Moderate walking.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; local food stops outside the ruins.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Explore the surrounding locality after your visit."
+        },
+        "arabic": {
+          "name": "أم الجمال",
+          "description": "تحفظ مباني أم الجمال البازلتية الداكنة طابع مستوطنة ريفية تطورت في العصرين البيزنطي والإسلامي المبكر. وتوضح البيوت والأفنية والمباني الدينية تقاليد البناء المحلية، فيما تكشف منشآت جمع المياه تكيف المجتمع مع بيئته. وأدرج الموقع على قائمة التراث العالمي عام 2024.\n\nاتبع الشوارع والساحات وبقايا الكنائس المبنية بالبازلت. التزم بالمسارات المتاحة ولا تتسلّق الأسقف أو الجدران الأثرية الهشة.",
+          "city": "أم الجمال",
+          "region": "المفرق",
+          "address": "أم الجمال، محافظة المفرق، الأردن. نقطة وصول جغرافية إرشادية قرب أم الجمال.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى الموقع الأثري",
+          "activities": "تأمل العمارة البازلتية والأفنية\nالتعرف إلى جمع المياه تاريخياً\nزيارة البيت 119 عند فتحه فقط",
+          "visitor_information": "اتبع الشوارع والساحات وبقايا الكنائس المبنية بالبازلت. التزم بالمسارات المتاحة ولا تتسلّق الأسقف أو الجدران الأثرية الهشة.\nرسوم الدخول: للأردنيين 0.5 د.أ.؛ للزوار الدوليين 2 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 9–20 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف مخصصة للزوار أو بجانب الطريق.\nالوصول والصعوبة: ممرات حجرية غير مستوية؛ الوصول دون درج محدود. مشي متوسط الصعوبة.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ تتوفر خيارات طعام محلية خارج الآثار.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: استكشف المنطقة المحيطة بعد الزيارة.",
+          "visitor_guidance": "اتبع الشوارع والساحات وبقايا الكنائس المبنية بالبازلت. التزم بالمسارات المتاحة ولا تتسلّق الأسقف أو الجدران الأثرية الهشة."
+        },
+        "planning": {
+          "residentAdmission": 0.5,
+          "internationalAdmission": 2,
+          "childAdmission": 0,
+          "budgetMin": 9,
+          "budgetMax": 20,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "heritage",
+          "governorate": {
+            "en": "Mafraq",
+            "ar": "المفرق"
+          },
+          "accessibility": {
+            "en": "Uneven stone paths; step-free access is limited",
+            "ar": "ممرات حجرية غير مستوية؛ الوصول دون درج محدود"
+          },
+          "difficulty": {
+            "en": "Moderate walking",
+            "ar": "مشي متوسط الصعوبة"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Designated roadside or visitor parking",
+            "ar": "مواقف مخصصة للزوار أو بجانب الطريق"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Explore the surrounding locality after your visit",
+            "ar": "استكشف المنطقة المحيطة بعد الزيارة"
+          },
+          "jordanianAdmission": 0.5,
+          "travelMinutes": 85,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/1721",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "16ebeb33-af96-4da0-854e-b5bea53eebb5",
+      "sourceVersion": "2026-10-21T18:50:49.465394+00:00",
+      "slug": "little-petra-siq-al-barid",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "little-petra-siq-al-barid",
+        "english": {
+          "name": "Little Petra (Siq Al-Barid)",
+          "slug": "little-petra-siq-al-barid",
+          "description": "Little Petra, or Siq Al-Barid, lies in Petra’s northern surroundings and is associated with Nabataean caravan activity. A smaller rock cleft leads among carved façades, dining halls and water-storage works, showing how travellers were accommodated outside the main city.\n\nExplore the narrow sandstone corridor and rock-cut façades. Wear shoes with grip and respect protected paintings and any restricted chambers.",
+          "city": "Al-Bayda",
+          "region": "Ma’an",
+          "address": "Al-Bayda, Ma’an, Jordan. Geographic arrival reference near Little Petra (Siq Al-Barid).",
+          "latitude": 30.37527847,
+          "longitude": 35.45138931,
+          "price_min_jod": 0,
+          "price_max_jod": 5,
+          "duration_min_minutes": 60,
+          "duration_max_minutes": 120,
+          "opening_hours": "06:30–17:00 · daily",
+          "best_time_to_visit": "March–April; October–November",
+          "transportation_notes": "Car or taxi; continue on foot inside the site",
+          "activities": "Explore open rock-cut façades and dining halls\nObserve Nabataean water-storage features",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Explore the narrow sandstone corridor and rock-cut façades. Wear shoes with grip and respect protected paintings and any restricted chambers.\nAdmission: Jordanians 0 JOD; international visitors 5 JOD; children 0 JOD.\nDay budget: 10–25 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Visitor parking near the arrival reference.\nAccess and difficulty: Long walks, slopes and steps. Moderate to strenuous.\nFacilities: Reception area and restrooms at the arrival base; limited facilities on trails. Food and drink: Carry water, snacks and a refillable bottle.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 06:30–17:00. Seasonal planning: March–April; October–November. Best time of day: early morning.\nNearby suggestions: Petra; Shobak Castle."
+        },
+        "arabic": {
+          "name": "البترا الصغيرة (سيق البارد)",
+          "description": "تقع البترا الصغيرة، أو سيق البارد، في محيط البترا الشمالي وترتبط بنشاط القوافل النبطية. ويقود ممر صخري أصغر بين واجهات منحوتة وقاعات طعام ومنشآت لتخزين المياه، توضح كيفية استقبال المسافرين خارج المدينة الرئيسية.\n\nاستكشف الممر الرملي الضيق والواجهات المنحوتة في الصخر. انتعل حذاءً ثابتاً واحترم الرسوم المحمية وأي حجرات مقيّدة الدخول.",
+          "city": "البيضا",
+          "region": "معان",
+          "address": "البيضا، محافظة معان، الأردن. نقطة وصول جغرافية إرشادية قرب البترا الصغيرة (سيق البارد).",
+          "opening_hours": "06:30–17:00 · يومياً",
+          "best_time_to_visit": "آذار ونيسان؛ تشرين الأول وتشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة؛ ثم المشي داخل الموقع",
+          "activities": "استكشاف الواجهات وقاعات الطعام المفتوحة\nتأمل منشآت تخزين المياه النبطية",
+          "visitor_information": "استكشف الممر الرملي الضيق والواجهات المنحوتة في الصخر. انتعل حذاءً ثابتاً واحترم الرسوم المحمية وأي حجرات مقيّدة الدخول.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 5 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 10–25 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف للزوار قرب نقطة الوصول الإرشادية.\nالوصول والصعوبة: مشي طويل ومنحدرات وأدراج. متوسط إلى شاق.\nالمرافق: منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات. الطعام والشراب: احمل الماء والوجبات الخفيفة وزجاجة قابلة للتعبئة.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 06:30–17:00. التخطيط الموسمي: آذار ونيسان؛ تشرين الأول وتشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: البترا؛ قلعة الشوبك.",
+          "visitor_guidance": "استكشف الممر الرملي الضيق والواجهات المنحوتة في الصخر. انتعل حذاءً ثابتاً واحترم الرسوم المحمية وأي حجرات مقيّدة الدخول."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 5,
+          "childAdmission": 0,
+          "budgetMin": 10,
+          "budgetMax": 25,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "mountain",
+          "governorate": {
+            "en": "Ma’an",
+            "ar": "معان"
+          },
+          "accessibility": {
+            "en": "Long walks, slopes and steps",
+            "ar": "مشي طويل ومنحدرات وأدراج"
+          },
+          "difficulty": {
+            "en": "Moderate to strenuous",
+            "ar": "متوسط إلى شاق"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Reception area and restrooms at the arrival base; limited facilities on trails",
+            "ar": "منطقة استقبال ودورات مياه عند نقطة البدء؛ مرافق محدودة على المسارات"
+          },
+          "parking": {
+            "en": "Visitor parking near the arrival reference",
+            "ar": "مواقف للزوار قرب نقطة الوصول الإرشادية"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Petra; Shobak Castle",
+            "ar": "البترا؛ قلعة الشوبك"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 255,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://visitpetra.jo/en/Location/137",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    },
+    {
+      "id": "242a298c-250a-4ac3-b3eb-fa4ce4fe47f7",
+      "sourceVersion": "2026-10-21T18:50:51.002576+00:00",
+      "slug": "aqaba-marine-reserve",
+      "payload": {
+        "version": 1,
+        "designation": "private_prototype",
+        "slug": "aqaba-marine-reserve",
+        "english": {
+          "name": "Aqaba Marine Reserve",
+          "slug": "aqaba-marine-reserve",
+          "description": "Aqaba Marine Reserve protects a Red Sea landscape of coral reefs, seagrass and deeper reef habitats. UNESCO inscribed the property in 2026, recognising its ecological importance. It is a managed conservation area, not a single beach with one universal visitor entrance.\n\nEnjoy the coast and arrange any water activity with a licensed operator. Never stand on coral, collect marine life or enter restricted zones; observe lifeguard and weather guidance.",
+          "city": "Aqaba South Coast",
+          "region": "Aqaba",
+          "address": "Aqaba South Coast, Aqaba, Jordan. Geographic arrival reference near Aqaba Marine Reserve.",
+          "latitude": 29.4297222222222,
+          "longitude": 34.9755555555556,
+          "price_min_jod": 0,
+          "price_max_jod": 0,
+          "duration_min_minutes": 120,
+          "duration_max_minutes": 240,
+          "opening_hours": "08:00–17:00 · daily",
+          "best_time_to_visit": "March–May; September–November",
+          "transportation_notes": "Car or taxi to the south-coast visitor area",
+          "activities": "Learn about coral and seagrass conservation\nConsider permitted snorkelling or diving only after access is confirmed",
+          "suitable_groups": [
+            "solo",
+            "couple",
+            "friends",
+            "family"
+          ],
+          "visitor_information": "Enjoy the coast and arrange any water activity with a licensed operator. Never stand on coral, collect marine life or enter restricted zones; observe lifeguard and weather guidance.\nAdmission: Jordanians 0 JOD; international visitors 0 JOD; children 0 JOD.\nDay budget: 20–45 JOD per person, including admission and a simple meal; intercity transport and optional guided activities are separate.\nArrival: use the map reference for the locality; it is not a surveyed entrance. Parking: Beach-area parking in this prototype scenario.\nAccess and difficulty: Beach sand and uneven shore; assisted water access needed. Easy coast walk; water activities vary.\nFacilities: Arrival information, rest area and nearby visitor services. Food and drink: Bring water; beach-area refreshments in the scenario.\nBooking: Plan an independent visit; arrange group assistance in advance. Group guidance: Families and friends; supervise children and adapt the route.\nSchedule: daily, including Friday and Saturday; 08:00–17:00. Seasonal planning: March–May; September–November. Best time of day: early morning.\nNearby suggestions: Wadi Rum Protected Area."
+        },
+        "arabic": {
+          "name": "محمية العقبة البحرية",
+          "description": "تحمي محمية العقبة البحرية مشهداً من الشعاب المرجانية ومروج الأعشاب البحرية وموائل شعابية أعمق في البحر الأحمر. وقد أدرجتها اليونسكو عام 2026 تقديراً لأهميتها البيئية. وهي منطقة حفظ منظمة، وليست شاطئاً واحداً له مدخل موحد لجميع الزوار.\n\nاستمتع بالساحل ورتّب الأنشطة المائية مع مشغّل مرخّص. لا تقف على المرجان ولا تجمع الكائنات البحرية أو تدخل المناطق المحظورة، والتزم بإرشادات الإنقاذ والطقس.",
+          "city": "الساحل الجنوبي للعقبة",
+          "region": "العقبة",
+          "address": "الساحل الجنوبي للعقبة، محافظة العقبة، الأردن. نقطة وصول جغرافية إرشادية قرب محمية العقبة البحرية.",
+          "opening_hours": "08:00–17:00 · يومياً",
+          "best_time_to_visit": "آذار إلى أيار؛ أيلول إلى تشرين الثاني",
+          "transportation_notes": "سيارة أو سيارة أجرة إلى منطقة الزوار على الساحل الجنوبي",
+          "activities": "التعرف إلى حماية المرجان والأعشاب البحرية\nاختيار السباحة بقناع الغطس أو الغوص بعد تأكيد السماح بالدخول فقط",
+          "visitor_information": "استمتع بالساحل ورتّب الأنشطة المائية مع مشغّل مرخّص. لا تقف على المرجان ولا تجمع الكائنات البحرية أو تدخل المناطق المحظورة، والتزم بإرشادات الإنقاذ والطقس.\nرسوم الدخول: للأردنيين 0 د.أ.؛ للزوار الدوليين 0 د.أ.؛ للأطفال 0 د.أ.\nميزانية اليوم: 20–45 د.أ. للشخص وتشمل الدخول ووجبة بسيطة؛ لا تشمل النقل بين المدن والأنشطة الإرشادية الإضافية.\nالوصول: استخدم نقطة الخريطة للاستدلال على المنطقة؛ فهي ليست مدخلاً ممسوحاً. المواقف: مواقف منطقة الشاطئ في هذا السيناريو التجريبي.\nالوصول والصعوبة: رمال شاطئية وساحل غير مستوٍ؛ دخول الماء يتطلب ترتيبات مساعدة. مشي ساحلي سهل؛ تختلف صعوبة الأنشطة المائية.\nالمرافق: معلومات عند الوصول واستراحة وخدمات قريبة للزوار. الطعام والشراب: احمل الماء؛ مرطبات في منطقة الشاطئ ضمن السيناريو.\nالحجز: خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً. إرشادات المجموعة: للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة.\nالجدول: يومياً، بما في ذلك الجمعة والسبت؛ 08:00–17:00. التخطيط الموسمي: آذار إلى أيار؛ أيلول إلى تشرين الثاني. أفضل وقت خلال اليوم: الصباح الباكر.\nاقتراحات قريبة: محمية وادي رم.",
+          "visitor_guidance": "استمتع بالساحل ورتّب الأنشطة المائية مع مشغّل مرخّص. لا تقف على المرجان ولا تجمع الكائنات البحرية أو تدخل المناطق المحظورة، والتزم بإرشادات الإنقاذ والطقس."
+        },
+        "planning": {
+          "residentAdmission": 0,
+          "internationalAdmission": 0,
+          "childAdmission": 0,
+          "budgetMin": 20,
+          "budgetMax": 45,
+          "transportModes": [
+            "car"
+          ],
+          "intensity": "marine",
+          "governorate": {
+            "en": "Aqaba",
+            "ar": "العقبة"
+          },
+          "accessibility": {
+            "en": "Beach sand and uneven shore; assisted water access needed",
+            "ar": "رمال شاطئية وساحل غير مستوٍ؛ دخول الماء يتطلب ترتيبات مساعدة"
+          },
+          "difficulty": {
+            "en": "Easy coast walk; water activities vary",
+            "ar": "مشي ساحلي سهل؛ تختلف صعوبة الأنشطة المائية"
+          },
+          "admissionBasis": "synthetic visitor tiers; not an official tariff",
+          "budgetBasis": "prototype local day spend; excludes intercity transport",
+          "coordinateKind": "approximate_center",
+          "entranceIsVerified": false,
+          "facilities": {
+            "en": "Arrival information, rest area and nearby visitor services",
+            "ar": "معلومات عند الوصول واستراحة وخدمات قريبة للزوار"
+          },
+          "parking": {
+            "en": "Beach-area parking in this prototype scenario",
+            "ar": "مواقف منطقة الشاطئ في هذا السيناريو التجريبي"
+          },
+          "booking": {
+            "en": "Plan an independent visit; arrange group assistance in advance",
+            "ar": "خطّط لزيارة مستقلة ورتّب مساعدة المجموعات مسبقاً"
+          },
+          "family": {
+            "en": "Families and friends; supervise children and adapt the route",
+            "ar": "للعائلات والأصدقاء؛ راقب الأطفال وعدّل المسار بحسب الحاجة"
+          },
+          "nearby": {
+            "en": "Wadi Rum Protected Area",
+            "ar": "محمية وادي رم"
+          },
+          "jordanianAdmission": 0,
+          "travelMinutes": 410,
+          "travelBasis": "Synthetic approximate driving scenario from Amman; not measured road travel or live routing"
+        },
+        "syntheticFields": [
+          "city",
+          "region",
+          "address",
+          "price_min_jod",
+          "price_max_jod",
+          "duration_min_minutes",
+          "duration_max_minutes",
+          "opening_hours",
+          "best_time_to_visit",
+          "transportation_notes",
+          "visitor_information",
+          "suitable_groups",
+          "planning",
+          "description.editorialVisitorGuidance"
+        ],
+        "retainedSourceUrl": "https://whc.unesco.org/en/list/1742",
+        "sourceDescriptionPreserved": true,
+        "media": []
+      }
+    }
+  ],
+  "sha256": "965c87f906990d3e8c95d59f785f1bb71617e2d7d1361a9ffe4fc97eec9250f5"
+}

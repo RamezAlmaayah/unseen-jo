@@ -1,0 +1,51 @@
+{
+  "requestedAt": "2026-10-21T19:17:51.145Z",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=Al-Khazneh+2%2C+Petra%2C+Jordan.jpg%7CAl+Khazneh+02.jpg%7CJordan%2C+Wadi+Rum+Desert%2C+Infinite+Spaces.jpg%7CJordan%2C+Wadi+Rum+Desert%2C+Khor+al+Ajram+2.jpg%7CJerash+Oval+Plaza+003.JPG%7CJerash+Oval+Plaza+020.jpg%7CTemple+of+Hercules+-+Amman+citadel.jpg%7CRoman+theater+of+Amman+01.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1&rvprop=ids%7Ccontent&rvslots=main",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 0,
+          "title": "Al-Khazneh 2, Petra, Jordan.jpg",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Al Khazneh 02.jpg",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Jordan, Wadi Rum Desert, Infinite Spaces.jpg",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Jordan, Wadi Rum Desert, Khor al Ajram 2.jpg",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Jerash Oval Plaza 003.JPG",
+          "missing": ""
+        },
+        "-6": {
+          "ns": 0,
+          "title": "Jerash Oval Plaza 020.jpg",
+          "missing": ""
+        },
+        "-7": {
+          "ns": 0,
+          "title": "Temple of Hercules - Amman citadel.jpg",
+          "missing": ""
+        },
+        "-8": {
+          "ns": 0,
+          "title": "Roman theater of Amman 01.jpg",
+          "missing": ""
+        }
+      }
+    }
+  }
+}

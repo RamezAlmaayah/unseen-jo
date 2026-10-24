@@ -1,0 +1,40 @@
+{
+  "localUrl": "/docs/evidence/private-prototype/aqaba-illustration.png",
+  "bytes": 153248,
+  "sha256": "f5903d546a9a1dbfa4ab069503967ac6cfd28d944211206c9139105b27e598af",
+  "width": 2400,
+  "height": 1440,
+  "kind": "original_prototype_illustration",
+  "author": "Unseen Jo prototype artwork",
+  "rights": "Original repo-authored vector illustration rendered to PNG; no third-party imagery. Not a photograph or verified beach/entrance depiction.",
+  "renditions": [
+    {
+      "width": 320,
+      "height": 192,
+      "path": "docs/evidence/private-prototype/aqaba-illustration-320.webp",
+      "bytes": 6494,
+      "sha256": "197ff4f440eb67b140cf1ecbf5b60a6f8be21cc0b3e6417a46527c53ef796ac8"
+    },
+    {
+      "width": 640,
+      "height": 384,
+      "path": "docs/evidence/private-prototype/aqaba-illustration-640.webp",
+      "bytes": 15486,
+      "sha256": "5ae5c728febd3ecab37da44a180d53de7f536cf52e842a8991a33522b94fbcf0"
+    },
+    {
+      "width": 1280,
+      "height": 768,
+      "path": "docs/evidence/private-prototype/aqaba-illustration-1280.webp",
+      "bytes": 38770,
+      "sha256": "9e321240a1008e47398042bf3b13ea6f5ef208fe5a45d862fade4be03c112bc6"
+    },
+    {
+      "width": 2400,
+      "height": 1440,
+      "path": "docs/evidence/private-prototype/aqaba-illustration-2400.webp",
+      "bytes": 78194,
+      "sha256": "bafff8978708a8cf2f5c3674afc48277c0c47547ad5857c30fa3f2687b5b74c0"
+    }
+  ]
+}

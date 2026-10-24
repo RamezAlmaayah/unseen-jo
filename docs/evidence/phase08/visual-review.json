@@ -1,0 +1,214 @@
+{
+  "method": "Assistant visual inspection of downloaded original photographs, cross-checked with the Commons file metadata and destination identity. Not a personal administrator approval.",
+  "checkedOn": "2026-10-21",
+  "photos": {
+    "petra-1": {
+      "status": "visually checked",
+      "altEn": "Upper façade of the Treasury carved in sandstone at Petra.",
+      "altAr": "الجزء العلوي من واجهة الخزنة المنحوتة في الحجر الرملي في البترا.",
+      "note": "Recognisable Treasury upper façade; close architectural view, not the entire monument or an entrance photo. No visible watermark."
+    },
+    "petra-2": {
+      "status": "visually checked",
+      "altEn": "Carved pediment and columns on the upper right of Petra’s Treasury.",
+      "altAr": "واجهة مثلثة وأعمدة منحوتة في الجانب العلوي الأيمن من خزنة البترا.",
+      "note": "Architectural detail matches file caption and the Treasury; distinct original from cover, no visible watermark."
+    },
+    "wadi-rum-1": {
+      "status": "visually checked",
+      "altEn": "Broad desert plain and sandstone mountains in Wadi Rum.",
+      "altAr": "سهل صحراوي وجبال من الحجر الرملي في وادي رم.",
+      "note": "Recognisable sandstone desert landscape, matches Commons caption; no visible watermark."
+    },
+    "wadi-rum-2": {
+      "status": "visually checked",
+      "altEn": "A shaded rocky valley between sandstone cliffs in Wadi Rum.",
+      "altAr": "وادٍ صخري مظلل بين جروف الحجر الرملي في وادي رم.",
+      "note": "Distinct canyon landscape; source identifies Khor al Ajram, not a generic unrelated desert."
+    },
+    "jerash-archaeological-city-1": {
+      "status": "visually checked",
+      "altEn": "The Oval Plaza and its columns in ancient Jerash.",
+      "altAr": "الساحة البيضاوية وأعمدتها في مدينة جرش الأثرية.",
+      "note": "Recognisable Oval Plaza and curved colonnade, no visible watermark."
+    },
+    "jerash-archaeological-city-2": {
+      "status": "visually checked",
+      "altEn": "Ancient columns and ruins in Jerash.",
+      "altAr": "أعمدة وأطلال أثرية في جرش.",
+      "note": "Colonnaded archaeological area consistent with file identity; distinct view."
+    },
+    "amman-citadel-1": {
+      "status": "visually checked",
+      "altEn": "Columns of the Temple of Hercules at Amman Citadel.",
+      "altAr": "أعمدة معبد هرقل في جبل القلعة بعمّان.",
+      "note": "Recognisable Hercules temple columns and architrave, no visible watermark."
+    },
+    "amman-roman-theatre-1": {
+      "status": "visually checked",
+      "altEn": "Amman Roman Theatre and the surrounding city viewed from above.",
+      "altAr": "المدرج الروماني في عمّان والمدينة المحيطة به من الأعلى.",
+      "note": "Theatre seating and stage visible from Citadel side; no entrance claim."
+    },
+    "amman-roman-theatre-2": {
+      "status": "visually checked",
+      "altEn": "The seating and stage of Amman Roman Theatre.",
+      "altAr": "المقاعد والمسرح في المدرج الروماني بعمّان.",
+      "note": "Frontal theatre view, recognisable subject, distinct photograph."
+    },
+    "mount-nebo-1": {
+      "status": "visually checked",
+      "altEn": "Carved architectural fragments displayed at Mount Nebo.",
+      "altAr": "قطع معمارية منحوتة معروضة في جبل نيبو.",
+      "note": "Interior display, not a church facade or original floor mosaic. Commons location supports attribution; gallery only pending stronger cover.",
+      "galleryOnly": true
+    },
+    "al-maghtas-baptism-site-1": {
+      "status": "visually checked",
+      "altEn": "Archaeological baptism pools and protective shelters at Al-Maghtas.",
+      "altAr": "أحواض معمودية أثرية ومظلات حماية في موقع المغطس.",
+      "note": "Pool/shelter arrangement matches east-bank archaeological site and file caption, no modern church claim."
+    },
+    "madaba-st-georges-church-1": {
+      "status": "identity qualification required",
+      "note": "The photograph shows a wall-mounted map display or reproduction, not the surviving original mosaic floor. Excluded from import until its exact exhibit identity and suitable caption are established."
+    },
+    "al-maghtas-baptism-site-2": {
+      "status": "visually checked",
+      "altEn": "A modern church and bell tower at the Baptism Site.",
+      "altAr": "كنيسة حديثة وبرج أجراس في موقع المغطس.",
+      "note": "Modern commemorative church, not the ancient baptism pools; source context matches the site."
+    },
+    "karak-castle-1": {
+      "status": "visually checked",
+      "altEn": "Karak Castle above the hillside and surrounding town.",
+      "altAr": "قلعة الكرك فوق السفح والمدينة المحيطة بها.",
+      "note": "Recognisable long fortress above town; wide view matches source identity."
+    },
+    "karak-castle-2": {
+      "status": "visually checked",
+      "altEn": "Stone towers and defensive walls of Karak Castle.",
+      "altAr": "أبراج حجرية وأسوار دفاعية في قلعة الكرك.",
+      "note": "Distinct fortress exterior, matches caption, no visible watermark."
+    },
+    "shobak-castle-1": {
+      "status": "visually checked",
+      "altEn": "Stone arches and ruins inside Shobak Castle.",
+      "altAr": "أقواس وأطلال حجرية داخل قلعة الشوبك.",
+      "note": "Castle interior ruins match the Montreal Castle source; no visitor entrance claim."
+    },
+    "shobak-castle-2": {
+      "status": "visually checked",
+      "altEn": "Stone walls and vaulted remains at Shobak Castle.",
+      "altAr": "جدران حجرية وبقايا مقببة في قلعة الشوبك.",
+      "note": "Distinct interior ruins consistent with source, no visible watermark."
+    },
+    "quseir-amra-1": {
+      "status": "visually checked",
+      "altEn": "A painted vaulted interior at Quseir Amra.",
+      "altAr": "داخل مقبب مزين بالرسوم في قصير عمرة.",
+      "note": "Interior wall paintings match source context; bright skylight glare reduces cover suitability, gallery only.",
+      "galleryOnly": true
+    },
+    "quseir-amra-2": {
+      "status": "visually checked",
+      "altEn": "Wall and vault paintings inside Quseir Amra.",
+      "altAr": "رسوم جدارية ورسوم على القبو داخل قصير عمرة.",
+      "note": "Recognisable decorated vault, detailed view suitable as interior cover; no exterior architecture implied.",
+      "cover": true
+    },
+    "um-er-rasas-1": {
+      "status": "visually checked",
+      "altEn": "Arches and stone ruins at Um er-Rasas.",
+      "altAr": "أقواس وأطلال حجرية في أم الرصاص.",
+      "note": "Archaeological ruins match individual file caption; not a mosaic-floor photograph."
+    },
+    "um-er-rasas-2": {
+      "status": "visually checked",
+      "altEn": "Stone building remains at Um er-Rasas.",
+      "altAr": "بقايا مبانٍ حجرية في أم الرصاص.",
+      "note": "Distinct wider ruins view, agrees with file-level identity."
+    },
+    "azraq-wetland-reserve-1": {
+      "status": "visually checked",
+      "altEn": "Water, reeds and birds at Azraq Wetland Reserve.",
+      "altAr": "مياه وقصب وطيور في محمية الأزرق المائية.",
+      "note": "Wetland pool scene supports file location; no wildlife-sighting guarantee or claim about current water levels."
+    },
+    "madaba-st-georges-church-2": {
+      "status": "visually checked",
+      "altEn": "A surviving section of the Madaba mosaic map in St George’s Church.",
+      "altAr": "جزء باقٍ من خارطة مادبا الفسيفسائية في كنيسة القديس جاورجيوس.",
+      "note": "Original mosaic tesserae and map inscription visible; unlike the excluded reproduction display.",
+      "cover": true
+    },
+    "mount-nebo-2": {
+      "status": "visually checked",
+      "altEn": "The worship area inside the Memorial Church of Moses at Mount Nebo.",
+      "altAr": "موضع الصلاة داخل كنيسة النبي موسى التذكارية في جبل نيبو.",
+      "note": "Church interior, altar, benches and stonework visible; caption supports Mount Nebo identity. Visitors are incidental to the architectural view.",
+      "cover": true
+    },
+    "azraq-wetland-reserve-2": {
+      "status": "visually checked",
+      "altEn": "Birds on a wetland pool at Azraq Wetland Reserve.",
+      "altAr": "طيور على بركة مائية في محمية الأزرق.",
+      "note": "Distinct wetland view; bird species and present-day water levels are not inferred."
+    },
+    "shaumari-wildlife-reserve-1": {
+      "status": "visually checked",
+      "altEn": "An Arabian oryx in a managed enclosure at Shaumari Wildlife Reserve.",
+      "altAr": "مها عربي في حظيرة مدارة داخل محمية الشومري للأحياء البرية.",
+      "note": "White oryx in reserve enclosure matches source caption; not a claim of wild unrestricted access or guaranteed sightings."
+    },
+    "shaumari-wildlife-reserve-2": {
+      "status": "visually checked",
+      "altEn": "A bird in an enclosure at Shaumari Wildlife Reserve.",
+      "altAr": "طائر داخل حظيرة في محمية الشومري للأحياء البرية.",
+      "note": "Visible enclosure and bird; species not independently established, so generic accurate caption retained."
+    },
+    "pella-tabaqat-fahl-1": {
+      "status": "visually checked",
+      "altEn": "Excavated stone remains and the surrounding settlement at Pella.",
+      "altAr": "بقايا حجرية أثرية والعمران المحيط بطبقة فحل.",
+      "note": "Archaeological area matches file-level Pella location; no exact gate or particular monument asserted."
+    },
+    "umm-al-jimal-1": {
+      "status": "underlying display rights unresolved",
+      "altEn": "A historical interpretation display at Umm Al-Jimal.",
+      "altAr": "عرض تفسيري تاريخي في أم الجمال.",
+      "note": "Indoor timeline display, not the basalt ruins. Gallery only. The photograph is predominantly a modern interpretation panel with third-party text/photos; reuse evidence for that underlying material is not established. Excluded from the upload/approval package.",
+      "galleryOnly": true
+    },
+    "umm-al-jimal-2": {
+      "status": "underlying display rights unresolved",
+      "altEn": "An interpretation panel about Umm Al-Jimal and empire.",
+      "altAr": "لوحة تفسيرية عن أم الجمال والإمبراطوريات.",
+      "note": "Photograph of a museum-style panel, not site architecture; gallery only. The photograph is predominantly a modern interpretation panel with third-party text/photos; reuse evidence for that underlying material is not established. Excluded from the upload/approval package.",
+      "galleryOnly": true
+    },
+    "little-petra-siq-al-barid-1": {
+      "status": "visually checked",
+      "altEn": "A rock-cut columned chamber at Little Petra.",
+      "altAr": "حجرة ذات أعمدة منحوتة في الصخر في البترا الصغيرة.",
+      "note": "Recognisable Siq Al-Barid columned chamber matches individual source caption."
+    },
+    "little-petra-siq-al-barid-2": {
+      "status": "visually checked",
+      "altEn": "Rock-cut rooms along the canyon at Little Petra.",
+      "altAr": "حجرات منحوتة في الصخر على امتداد الممر في البترا الصغيرة.",
+      "note": "Distinct canyon and carved-room view, agrees with source identity."
+    },
+    "aqaba-marine-reserve-1": {
+      "status": "identity qualification required",
+      "note": "A south-coast beach and jetty are visible. Commons names Aqaba Marine Park, but the exact beach and its relationship to current reserve boundaries are not independently resolved; exclude rather than imply a verified legal arrival point."
+    },
+    "umm-al-jimal-3": {
+      "status": "visually checked",
+      "altEn": "Basalt arches and stone ruins of the West Church at Umm Al-Jimal.",
+      "altAr": "أقواس بازلتية وأطلال حجرية للكنيسة الغربية في أم الجمال.",
+      "note": "Original photograph directly viewed: recognisable basalt arches and ruins match Bashar Tabbah’s West Church file, licensed CC BY-SA 4.0 with public VRT permission record. No watermark.",
+      "cover": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1440" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+ <title id="title">Aqaba coast — original prototype illustration</title><desc id="desc">Stylized Red Sea water, mountains and coral motifs. Original vector artwork, not a destination photograph or an exact beach depiction.</desc>
+ <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e5f4ed"/><stop offset="1" stop-color="#f4d58d"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#49a99d"/><stop offset="1" stop-color="#164f3f"/></linearGradient></defs>
+ <path fill="url(#sky)" d="M0 0h1200v720H0z"/><circle cx="906" cy="159" r="63" fill="#f4d58d"/>
+ <path fill="#d6a382" d="M0 319 127 203 236 278 355 170 491 296 618 242 742 317 934 207 1200 328v120H0z"/>
+ <path fill="#bc8269" opacity=".8" d="M0 351 169 273 337 334 492 265 667 347 825 284 1004 346 1200 294v160H0z"/>
+ <path fill="url(#water)" d="M0 369q230-29 470 0t730 0v351H0z"/>
+ <path fill="#f0d4a6" d="M0 424q146 67 293 174t907 82v40H0z"/>
+ <g fill="none" stroke="#b7e0d5" stroke-width="4" opacity=".7"><path d="M72 405q60-16 120 0m140-2q80-20 160 0m132-3q90-20 170 0m130-1q90-20 170 0"/><path d="M276 452q88-18 160 0m200-5q70-15 150 0m150 14q90-15 160 0"/><path d="M450 513q80-15 160 0m180 24q90-15 190 0"/></g>
+ <g fill="none" stroke="#d66a4a" stroke-width="12" stroke-linecap="round"><path d="M1077 623v-85m0 39-30-22m30 1 31-26m-31 64 40-20"/><path d="M1008 640v-47m0 25-24-15m24-2 23-17"/></g>
+ <g fill="#164f3f"><path d="M750 481q25-23 49 0-24 23-49 0l-17 13v-26z"/><path d="M884 579q18-17 36 0-18 17-36 0l-13 10v-20z"/></g>
+ <rect x="48" y="44" width="473" height="74" rx="18" fill="#164f3f"/><text x="74" y="74" font-family="Arial,sans-serif" font-size="15" fill="#b7e0d5">UNSEEN JO · PRIVATE PROTOTYPE</text><text x="74" y="100" font-family="Arial,sans-serif" font-size="20" fill="white">Aqaba coast · original illustration</text>
+ <text x="48" y="681" font-family="Arial,sans-serif" font-size="17" fill="#164f3f">Illustration, not a photograph or an exact visitor entrance</text>
+</svg>
